@@ -35810,3 +35810,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@veeweyde.be — general mailbox verified on the official site https://www.veeweyde.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_veeweyde_srpa_vaph_matrix_9900_5_27m_9901_793k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3297/; rq_3297=done; spawn **rq_3298**; ticks=3297.
 - Next: **rq_3298 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3298 — 2026-10-13T05:06:28Z — rq_3298 leftover dual Vlaams Architectuurinstituut (VAi) Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.991 / 94.992 (974 legal persons not yet in the repo) and NACE 94.999 / 88.109 (776) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first: **Vlaams Architectuurinstituut (VAi)** → KBO 0476.914.455 had 0 prior entity rows.
+- KBO: Actief since 21 maart 2002; VZW; zetel Jan Van Rijswijcklaan 155 2018 Antwerpen; 1 VE; 0 prior entity rows for 0476.914.455
+- Found: official NBB VKT-VZW native PDF **2026-00068437** (50074 B / 13p; AV 16-03-2026; neergelegd 31/03/2026; MD5 a7b35dbb33e1946864dcec7bc9d32729). VKT-VZW 9900 **EUR2227681** (+4.44%); 62 **EUR1818949**; 9901 **EUR359366** (was 564213); 9904 296228; equity 2056747; cash 1896892; FTE 24,6 (was 20,4).
+- FOI address: info@vai.be — general mailbox verified on the official site https://www.vai.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_vlaams_architectuurinstituut_vaph_matrix_9900_2_23m_9901_359k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3298/; rq_3298=done; spawn **rq_3299**; ticks=3298.
+- Next: **rq_3299 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
