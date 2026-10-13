@@ -37830,3 +37830,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@digitalcity.brussels — general mailbox verified on the official site https://digitalcity.brussels/fr/a-propos (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_digitalcity_auderghem_vaph_matrix_9900_1_06m_9901_154k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3499/; rq_3499=done; spawn **rq_3500**; ticks=3499.
 - Next: **rq_3500 leftover dual** — Batch done (3496-3505); code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the new-family scan keys for code 733 filers (remaining 82.300 / 93.29x pages and the 20 NACE-BEL 2025 replacement codes still scanning), then further code 9900 leftovers from the cached NBB pool, largest first..
+
+
+## Tick 3500 — 2026-10-13T11:55:49Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3087** of 3142 rows; inventory budgets 63417 · commitments 7142 · leaderboard 9260 · entities 3160 · sources 10359.
+- Top10: **stable** (3491-3499 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3491-3499: Heidehuis · Centre de psycho-oncologie · Vlaams Huis voor Amateurkunsten in Brussel (Zinnema) · Passages AMO · Education-Environnement · Service Marchois d’Aide aux Justiciables (SMAJ) · Crisishulp aan Huis West-Vlaanderen · CRIBW · Digitalcity.brussels.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3500 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3500 run locally as fallback.
+- Next: **rq_3500** — code 9900 (NOT subsidy amounts): Centrum Agrarische Geschiedenis (EUR1.04m), Technicity.brussels (EUR1.04m), Woodwize (EUR1.03m), Le Forum - Bruxelles contre les inégalités (EUR1.01m), Wijkhuis Chambéry (EUR0.997m); mailboxes verified on official sites, after the dedup check. Scans continue: old codes 77/440 pages, NACE-BEL 2025 codes 33/400 pages.
