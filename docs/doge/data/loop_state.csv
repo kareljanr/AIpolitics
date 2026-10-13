@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T22:28:04Z,rq_3816,3816,no,tick3816 leftover dual VELO Leuven 0453.069.875 Strong PDF 2026-00239823 9900 3.63m / 9901 loss 23k; next rq_3817 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T22:28:13Z,rq_3817,3817,no,tick3817 leftover dual Peeping Tom Brussel 0473.380.883 Strong PDF 2026-00120180 9900 1.33m / 9901 134k; next rq_3818 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

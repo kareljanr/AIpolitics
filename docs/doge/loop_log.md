@@ -41000,3 +41000,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@velo.be — general mailbox verified on the official site https://www.velo.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_velo_leuven_vaph_matrix_9900_3_63m_9901_loss_23k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3816/; rq_3816=done; spawn **rq_3817**; ticks=3816.
 - Next: **rq_3817 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3817 — 2026-10-13T22:28:13Z — rq_3817 leftover dual Peeping Tom Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Peeping Tom** → KBO 0473.380.883 had 0 prior entity rows.
+- KBO: Actief since 1 oktober 2000; VZW; zetel Gabrielle Petitstraat 4 bus 9 1080 Sint-Jans-Molenbeek; 1 VE; 0 prior entity rows for 0473.380.883
+- Found: official NBB VKT-VZW native PDF **2026-00120180** (51224 B / 14p; AV 11-05-2026; neergelegd 26/05/2026; MD5 86b69634edbd0c418a392cea2ded9643). VKT-VZW 9900 **EUR1325803** (+23.99%); 62 **EUR1161434**; 9901 **EUR134118** (was 28744); 9904 121473; equity 293053; cash 205163; FTE 13,4 (was 15,4).
+- FOI address: info@peepingtom.be — general mailbox verified on the official site https://www.peepingtom.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_peeping_tom_brussel_vaph_matrix_9900_1_33m_9901_134k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3817/; rq_3817=done; spawn **rq_3818**; ticks=3817.
+- Next: **rq_3818 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
