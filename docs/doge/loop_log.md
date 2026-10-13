@@ -34502,3 +34502,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: funoc@funoc.be — general mailbox verified on official legal-notice page https://funoc.be/?page_id=224 (page gives BCE 0417777515 and CISP agrément 084).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_charleroi); FOI **gap_funoc_vaph_matrix_733_11_52m_9901_loss_28k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3166/; rq_3166=done; spawn **rq_3167**; ticks=3166.
 - Next: **rq_3167 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3167 — 2026-10-13T00:37:04Z — rq_3167 leftover dual Institut Médico-Pédagogique La Providence (Etalle) Etalle YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon/Brussels training, literacy and disability-service non-profits plus remaining university colleges (CISP/OISP training centres, Lire et Ecrire network, AVIQ medico-pedagogical institutes, Flemish hogescholen VZW); fresh KBO name searches (legal form ASBL/VZW; words such as Université/Universiteit, Hogeschool, Enseignement spécialisé/Buitengewoon onderwijs, Médico-pédagogique, CISP, Lire et Ecrire, Mission régionale, Centre de formation), filings ranked by NBB code 733 subsidies (full model) or code 9900 gross margin (abbreviated model), largest first; every candidate passed the name/alias/KBO/website dedup check: **Institut Médico-Pédagogique La Providence (Etalle)** → KBO 0417.427.721 had 0 prior entity rows.
+- KBO: Actief since 27 juni 1977; VZW; zetel Rue des Ecoles 103 6740 Etalle; 2 VE; 0 prior entity rows for 0417.427.721
+- Found: official NBB VKT-VZW native PDF **2026-00519001** (314068 B / 20p; AV 09-06-2026; neergelegd 22/09/2026; MD5 16e1ba02e62c995e0d89f90783046473). VKT-VZW 9900 **EUR6213346** (+10.65%); 62 **EUR4709419**; 9901 **EUR1225477** (was 659196); 9904 1257232; equity 6026780; cash 3800685; FTE 68,9 (was 68,6).
+- FOI address: secretariat@implaprovidence.be — secretariat mailbox verified on official site https://www.implaprovidence.be/index.php (page shows the BCE number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_imp_la_providence_etalle_vaph_matrix_9900_6_21m_9901_1225k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3167/; rq_3167=done; spawn **rq_3168**; ticks=3167.
+- Next: **rq_3168 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
