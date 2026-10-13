@@ -38890,3 +38890,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@havenwereld.be — general mailbox verified on the official site https://www.havenwereld.be/contact/ (terms page lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_havenwereld_antwerpen_vaph_matrix_9900_0_11m_9901_loss_87k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3605/; rq_3605=done; spawn **rq_3606**; ticks=3605.
 - Next: **rq_3606 leftover dual** — Batch done (3596-3605); one code 733 filer (Gandae) then code 9900 leftovers (Médiathèque Nouvelle still unreachable). Next (old-code and NACE-BEL 2025 scans complete, all keys triaged; EPHEC-Galilée not used: no general mailbox on its own site), then further code 9900 leftovers from the rebuilt pool, largest first..
+
+
+## Tick 3606 — 2026-10-13T15:45:03Z — rq_3606 leftover dual COTA - Collectif d'Echanges pour la Technologie Appropriée Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **COTA - Collectif d'Echanges pour la Technologie Appropriée** → KBO 0420.280.412 had 0 prior entity rows.
+- KBO: Actief since 7 februari 1980; VZW; zetel Omwentelingsstraat 7 1000 Brussel; 1 VE; 0 prior entity rows for 0420.280.412
+- Found: official NBB VOL-VZW native PDF **2026-00215527** (215168 B / 27p; AV 11-06-2026; neergelegd 29/06/2026; MD5 23c61bd5ff71e2c62f9789d6051dbc38). VOL-VZW 733 **EUR202642** (+2.11%); 62 **EUR514073**; 9901 **EUR-73434** (was 61773); 9904 -72542; equity 334259; cash 342554; FTE 7,6 (was 7,5).
+- FOI address: info@cota.be — general mailbox verified on the official site https://www.cota.be/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cota_bruxelles_vaph_matrix_733_0_20m_9901_loss_73k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3606/; rq_3606=done; spawn **rq_3607**; ticks=3606.
+- Next: **rq_3607 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
