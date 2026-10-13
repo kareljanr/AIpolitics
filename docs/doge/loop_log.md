@@ -39910,3 +39910,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sporty.be — general mailbox verified on the official site https://sporty.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_sporty_creactief_leuven_vaph_matrix_9900_1_08m_9901_loss_19k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3707/; rq_3707=done; spawn **rq_3708**; ticks=3707.
 - Next: **rq_3708 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3708 — 2026-10-13T17:16:15Z — rq_3708 leftover dual Les Bruyères Verviers YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Les Bruyères** → KBO 0409.419.083 had 0 prior entity rows.
+- KBO: Actief since 31 januari 1963; VZW; zetel Rue de Bruxelles 21 4800 Verviers; 1 VE; 0 prior entity rows for 0409.419.083
+- Found: official NBB VKT-VZW native PDF **2026-00187811** (47708 B / 13p; AV 11-06-2026; neergelegd 23/06/2026; MD5 7e96ff31fac492e7f187182b33b40e92). VKT-VZW 9900 **EUR1056219** (+11.46%); 62 **EUR1030258**; 9901 **EUR19829** (was -3235); 9904 20042; equity 132227; cash 303200; FTE 12,9 (was 13,1).
+- FOI address: info@lesbruyeres.eu — general mailbox verified on the official site https://lesbruyeres.eu/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_les_bruyeres_verviers_vaph_matrix_9900_1_06m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3708/; rq_3708=done; spawn **rq_3709**; ticks=3708.
+- Next: **rq_3709 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
