@@ -38100,3 +38100,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: coordination@solidaritesplurielles.be — role (coordination) mailbox verified on the official site https://solidaritesplurielles.be/association/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_solidarites_plurielles_couvin_vaph_matrix_9900_0_79m_9901_119k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3526/; rq_3526=done; spawn **rq_3527**; ticks=3526.
 - Next: **rq_3527 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3527 — 2026-10-13T12:19:56Z — rq_3527 leftover dual AMO Color'Ados Braine-l'Alleud YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **AMO Color'Ados** → KBO 0421.286.143 had 0 prior entity rows.
+- KBO: Actief since 19 november 1980; VZW; zetel Rue du Petit Jean 24 1420 Braine-l'Alleud; 1 VE; 0 prior entity rows for 0421.286.143
+- Found: official NBB VKT-VZW native PDF **2026-00241090** (46916 B / 11p; AV 16-06-2026; neergelegd 02/07/2026; MD5 bceb0f183acb061e3feb4dc8a652d26e). VKT-VZW 9900 **EUR761123** (+2.80%); 62 **EUR734367**; 9901 **EUR-3737** (was 19203); 9904 -3270; equity 75155; cash 179770; FTE 8,6 (was 8,9).
+- FOI address: info@colorados.be — general mailbox verified on the official site https://colorados.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_amo_colorados_braine_vaph_matrix_9900_0_76m_9901_loss_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3527/; rq_3527=done; spawn **rq_3528**; ticks=3527.
+- Next: **rq_3528 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
