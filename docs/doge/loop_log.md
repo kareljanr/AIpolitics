@@ -36510,3 +36510,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: infoRMA@mil.be — general mailbox verified on the official site https://rma.ac.be/fr/Contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent mod_defensie); FOI **gap_ecole_royale_militaire_vaph_matrix_733_9_76m_9901_loss_1131k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3367/; rq_3367=done; spawn **rq_3368**; ticks=3367.
 - Next: **rq_3368 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3368 — 2026-10-13T07:30:13Z — rq_3368 leftover dual Terre asbl Herstal YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Terre asbl** → KBO 0407.214.809 had 0 prior entity rows.
+- KBO: Actief since 25 april 1963; VZW; zetel Rue de Milmort 690 4040 Herstal; 32 VE; 0 prior entity rows for 0407.214.809
+- Found: official NBB VOL-VZW native PDF **2026-00416625** (111428 B / 41p; AV 30-06-2026; neergelegd 24/08/2026; MD5 f15e6c02b68d0469b861926173204890). VOL-VZW 733 **EUR3179619** (+19.57%); 62 **EUR9949428**; 9901 **EUR-2697170** (was -843636); 9904 -2841356; equity 693405; cash 622422; FTE 244,1 (was 249,8).
+- FOI address: collecte.textile@terre.be — role mailbox verified on the official site https://www.terre.be/faq/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_herstal); FOI **gap_terre_herstal_vaph_matrix_733_3_18m_9901_loss_2697k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3368/; rq_3368=done; spawn **rq_3369**; ticks=3368.
+- Next: **rq_3369 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
