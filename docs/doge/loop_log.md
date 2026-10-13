@@ -37430,3 +37430,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@liguesep.be — general mailbox verified on the official site https://www.liguesep.be/index.php/nous-contacter-general/siege-social (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_ligue_sep_naninne_vaph_matrix_9900_2_02m_9901_loss_305k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3459/; rq_3459=done; spawn **rq_3460**; ticks=3459.
 - Next: **rq_3460 leftover dual** — Batch done; code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: Article 23, Phénix, RaCYNes, Bednet, Ulysse (code 9900), and triage of the fresh 22-family scan for code 733 filers as pages finish..
+
+
+## Tick 3460 — 2026-10-13T11:09:30Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3051** of 3106 rows; inventory budgets 63129 · commitments 7106 · leaderboard 9224 · entities 3124 · sources 10251.
+- Top10: **stable** (3451-3459 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3451-3459: Centre culturel de Dinant · Crechendo · FMJ · Convivence - Samenleven · Atelier Graphoui · Praxis · MireWapi · Vis à Vis · Ligue SEP.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3460 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3460 run locally as fallback.
+- Next: **rq_3460** — code 9900 (NOT subsidy amounts): Article 23 (EUR1.97m), Phénix (EUR1.92m), RaCYNes (EUR1.81m), Bednet (EUR1.81m), Ulysse (EUR1.75m); mailboxes verified on official sites, after the dedup check. Fresh scan of 22 new NACE families still running (63 of 440 pages done; no code 733 rows yet).

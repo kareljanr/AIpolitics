@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3460** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3450; 3451-3459 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3451-3459 residual dual L5 (not near-complete of 348bn):** Centre culturel de Dinant · Crechendo · FMJ · Convivence - Samenleven · Atelier Graphoui · Praxis · MireWapi · Vis à Vis · Ligue SEP (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3051** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3106** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3451-3459** Centre culturel de Dinant · Crechendo · FMJ · Convivence - Samenleven · Atelier Graphoui · Praxis · MireWapi · Vis à Vis · Ligue SEP.
+
+### Inventory (tick 3460)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 63129 |
+| commitments.csv | 7106 |
+| leaderboard.csv | 9224 |
+| entities.csv | 3124 |
+| sources.csv | 10251 |
+| FOI ready | 3051 |
+| FOI total rows | 3106 |
+| research_queue open | rq_3460 (carried; next: Article 23, Phénix, RaCYNes, Bednet, Ulysse (code 9900 leftovers; fresh scan of 22 new NACE families 63 of 440 pages finished, no code 733 rows yet); largest first) |
+
+### What improved since tick 3450
+
+- **New source (tick3451-3459):** Centre culturel de Dinant · Crechendo · FMJ · Convivence - Samenleven · Atelier Graphoui · Praxis · MireWapi · Vis à Vis · Ligue SEP. All nine are code 9900 leftovers (NOT subsidy amounts), largest first within each group; the code 733 pool from all earlier scans is used up (Médiathèque Nouvelle retried, site still unreachable). Scan status: the fresh scan of 22 not-yet-scanned NACE families (85.4x, 85.5x, 85.6, 90.0x, 91.0x, 93.29x, 86.909, 82.300, 74.909) is still running; at tick 3460, 63 of its 440 pages had finished (85.51x, 85.53x, 93.29x and 82.300). Triage of the newly finished pages is still running and has found no code 733 rows so far. EU-level and international bodies and duplicates excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3460 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3450** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
