@@ -36030,3 +36030,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@viaverda.be — general mailbox verified on the official site https://www.viaverda.be/ contact page (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_destelbergen); FOI **gap_viaverda_destelbergen_vaph_matrix_9900_8_23m_9901_282k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3319/; rq_3319=done; spawn **rq_3320**; ticks=3319.
 - Next: **rq_3320 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3320 — 2026-10-13T05:46:19Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2925** of 2980 rows; inventory budgets 62097 · commitments 6980 · leaderboard 9098 · entities 2998 · sources 9873.
+- Top10: **stable** (3271-3279 added 8 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3311-3319: SOS Enfants Liège · Jeunesses Scientifiques de Belgique · Linx+ · Familles d’Accueil Verviers · Opération Faim et Froid · Centre d’Enseignement Saint-Laurent · Materia Nova · pcfruit · Viaverda.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3320 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3320 run locally as fallback.
+- Next: **rq_3320** — NACE 72.10x / 85.59x scans (code 9900, NOT subsidy amounts): FIX (EUR4.83m), Becetel (EUR2.04m), De Rode Antraciet (EUR1.96m), Centre de Michamps (EUR1.36m), Centre Vidéo de Bruxelles (EUR1.24m); mailboxes verified on official sites, after the dedup check.
