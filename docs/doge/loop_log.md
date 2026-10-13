@@ -40420,3 +40420,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@accueiletfamilles.be — general mailbox verified on the official site https://www.accueiletfamilles.be/nous-contacter/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_accueil_et_familles_saint_gilles_vaph_matrix_9900_0_51m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3758/; rq_3758=done; spawn **rq_3759**; ticks=3758.
 - Next: **rq_3759 leftover dual** — Batch done (3752-3758); code 9900 rows from bounded KBO scan nscan14 leftovers, largest first; no code 733 filer found; Médiathèque Nouvelle still unreachable. Next: bounded scan nscan15..
+
+
+## Tick 3759 — 2026-10-13T19:25:19Z — rq_3759 leftover dual Werk in Tremelo Tremelo YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Werk in Tremelo** → KBO 0460.423.762 had 0 prior entity rows.
+- KBO: Actief since 9 december 1996; VZW; zetel Baalsebaan 86 3120 Tremelo; 2 VE; 0 prior entity rows for 0460.423.762
+- Found: official NBB VKT-VZW native PDF **2026-00067962** (55792 B / 17p; AV 04-03-2026; neergelegd 31/03/2026; MD5 19c45a051abe48f3c88f79c37cb5695f). VKT-VZW 9900 **EUR1234115** (-1.40%); 62 **EUR1226310**; 9901 **EUR-21451** (was -16); 9904 -19654; equity 699954; cash 187722; FTE 31,8 (was 36,5).
+- FOI address: info@wit-tremelo.be — general mailbox verified on the official site https://wit-tremelo.be/contact.html (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_werk_in_tremelo_vaph_matrix_9900_1_23m_9901_loss_21k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3759/; rq_3759=done; spawn **rq_3760**; ticks=3759.
+- Next: **rq_3760 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
