@@ -34864,3 +34864,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: bruxelles@lire-et-ecrire.be — regional office mailbox of Lire et Ecrire Bruxelles verified on the official network contact page https://lire-et-ecrire.be/Nous-contacter-1299.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_lee_bruxelles_vaph_matrix_733_7_74m_9901_49k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3202/; rq_3202=done; spawn **rq_3203**; ticks=3202.
 - Next: **rq_3203 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3203 — 2026-10-13T01:35:35Z — rq_3203 leftover dual Collège Saint-Michel (Gosselies) Charleroi (Gosselies) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies and literacy ASBLs (ASBL) whose general/role mailbox is listed on the SeGEC school directory or an official site, matched to the KBO; largest code 733 first: **Collège Saint-Michel (Gosselies)** → KBO 0449.420.992 had 0 prior entity rows.
+- KBO: Actief since 14 december 1992; VZW; zetel Faubourg de Charleroi 15 6041 Charleroi; 1 VE; 0 prior entity rows for 0449.420.992
+- Found: official NBB VOL-VZW native PDF **2026-00145069** (2351644 B / 40p; AV 21-05-2026; neergelegd 05/06/2026; MD5 d6185d46510e0a6355d0582983657665). VOL-VZW 733 **EUR6198449** (+1.39%); 62 **EUR6460507**; 9901 **EUR137044** (was 205900); 9904 158185; equity 4022749; cash 144753; FTE 6,7 (was 6,2).
+- FOI address: csmg@csmg.be — general/role mailbox of the school of the same name run by this organising body, listed on the SeGEC school directory page https://enseignement.catholique.be/etablissements/college-saint-michel/ which names this ASBL as pouvoir organisateur (opened 13 Oct 2026).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_charleroi); FOI **gap_college_saint_michel_gosselies_vaph_matrix_733_6_20m_9901_137k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3203/; rq_3203=done; spawn **rq_3204**; ticks=3203.
+- Next: **rq_3204 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
