@@ -39090,3 +39090,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariaat@makeawish.be — secretariat (role) mailbox verified on the official site https://www.makeawish.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_make_a_wish_vlaanderen_mechelen_vaph_matrix_9900_0_80m_9901_538k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3625/; rq_3625=done; spawn **rq_3626**; ticks=3625.
 - Next: **rq_3626 leftover dual** — Batch done (3616-3625); code 9900 rows from the new bounded KBO scan (no further usable code 733 filer) (NACE-BEL 2025 codes 85510, 85520, 88992, 93199, 94920, 94991, 94999) (Médiathèque Nouvelle still unreachable). Next (old-code and NACE-BEL 2025 scans complete, all keys triaged; EPHEC-Galilée not used: no general mailbox on its own site), then further code 9900 leftovers from the rebuilt pool, largest first..
+
+
+## Tick 3626 — 2026-10-13T15:56:12Z — rq_3626 leftover dual Stichting tegen Kanker / Fondation contre le Cancer Schaarbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Stichting tegen Kanker / Fondation contre le Cancer** → KBO 0873.268.432 had 0 prior entity rows.
+- KBO: Actief since 1 april 2005; VZW; zetel Leuvensesteenweg 479 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0873.268.432
+- Found: official NBB VOL-VZW native PDF **2026-00081652** (426877 B / 53p; AV 26-03-2026; neergelegd 13/04/2026; MD5 6a842ca4e39fad1306c12da651205ff7). VOL-VZW 733 **EUR1253366** (-11.10%); 62 **EUR9406098**; 9901 **EUR10988875** (was 9312443); 9904 22369991; equity 225077709; cash 2402848; FTE 87,1 (was 84).
+- FOI address: brussel@kanker.be — regional office (role) mailbox verified on the official site https://www.kanker.be/contact (Brussels office mailbox; the site lists the KBO number and the Leuvensesteenweg seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_stichting_tegen_kanker_schaarbeek_vaph_matrix_733_1_25m_9901_10989k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3626/; rq_3626=done; spawn **rq_3627**; ticks=3626.
+- Next: **rq_3627 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
