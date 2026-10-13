@@ -38070,3 +38070,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: hallo@deruimtevaart.be — general mailbox verified on the official site https://www.deruimtevaart.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_de_ruimtevaart_leuven_vaph_matrix_9900_0_79m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3523/; rq_3523=done; spawn **rq_3524**; ticks=3523.
 - Next: **rq_3524 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3524 — 2026-10-13T12:15:07Z — rq_3524 leftover dual Centre de Santé du Miroir Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre de Santé du Miroir** → KBO 0447.112.194 had 0 prior entity rows.
+- KBO: Actief since 5 december 1991; VZW; zetel Spiegelstraat 67 1000 Brussel; 1 VE; 0 prior entity rows for 0447.112.194
+- Found: official NBB VKT-VZW native PDF **2026-00270582** (40519 B / 10p; AV 24-06-2026; neergelegd 03/07/2026; MD5 ce0663cac0effab064daf78bddf01917). VKT-VZW 9900 **EUR791146** (+6.23%); 62 **EUR829333**; 9901 **EUR-63572** (was -46088); 9904 -52525; equity 1383983; cash 1383602; FTE 10,2 (was 9,6).
+- FOI address: equipe@centresantemiroir.be — general (team) mailbox verified on the official site https://www.centresantemiroir.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_centre_sante_miroir_bruxelles_vaph_matrix_9900_0_79m_9901_loss_64k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3524/; rq_3524=done; spawn **rq_3525**; ticks=3524.
+- Next: **rq_3525 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

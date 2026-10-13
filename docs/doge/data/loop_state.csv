@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T12:14:59Z,rq_3523,3523,no,tick3523 leftover dual De RuimteVaart Leuven 0460.009.038 Strong PDF 2026-00090357 9900 0.79m / 9901 8k; next rq_3524 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T12:15:07Z,rq_3524,3524,no,tick3524 leftover dual Centre de Santé du Miroir Bruxelles 0447.112.194 Strong PDF 2026-00270582 9900 0.79m / 9901 loss 64k; next rq_3525 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
