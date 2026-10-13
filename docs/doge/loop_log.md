@@ -36240,3 +36240,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3340 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3340 run locally as fallback.
 - Next: **rq_3340** — NACE 87.xxx scan (code 9900, NOT subsidy amounts): Sainte Adeline (EUR6.26m), Notre Abri (EUR5.70m), Amarrage (EUR5.25m), Home Saint-François Baelen (EUR4.98m), PSC Elsene (EUR4.45m); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3341 — 2026-10-13T06:17:59Z — rq_3340 leftover dual Sainte Adeline (Pouponnière Sainte-Adeline) Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **Sainte Adeline (Pouponnière Sainte-Adeline)** → KBO 0415.061.713 had 0 prior entity rows.
+- KBO: Actief since 16 januari 1975; VZW; zetel Rue Albert-de-Cuyck 25/27 4000 Liège; 1 VE; 0 prior entity rows for 0415.061.713
+- Found: official NBB VKT-VZW native PDF **2026-00338537** (52279 B / 14p; AV 23-06-2026; neergelegd 20/07/2026; MD5 5cbc97cdb9e4c428238ba92135549ff3). VKT-VZW 9900 **EUR6262268** (+9.90%); 62 **EUR6062561**; 9901 **EUR-6311** (was 26369); 9904 16098; equity 2040729; cash 630566; FTE 82,4 (was 77,7).
+- FOI address: sainte.adeline@skynet.be — general mailbox verified on the official site https://www.sainte-adeline.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_sainte_adeline_liege_vaph_matrix_9900_6_26m_9901_loss_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3341/; rq_3340=done; spawn **rq_3342**; ticks=3341.
+- Next: **rq_3342 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
