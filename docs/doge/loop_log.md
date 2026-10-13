@@ -35660,3 +35660,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@allocandy.be — secretariat mailbox verified on the official site https://www.allocandy.be/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_charleroi); FOI **gap_allo_candy_charleroi_vaph_matrix_9900_2_30m_9901_182k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3282/; rq_3282=done; spawn **rq_3283**; ticks=3282.
 - Next: **rq_3283 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3283 — 2026-10-13T04:46:30Z — rq_3283 leftover dual Musée de la Photographie - Centre d'art contemporain (Charleroi) Charleroi (Mont-sur-Marchienne) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used over Walloon, Brussels and Flemish postcodes: NACE 90.311 (arts venues) and 88.102 (635 legal persons not yet in the repo), NACE 90.111 and 91.210 (2,445), NACE 93.110 and 85.520 (4,272; mostly companies and small clubs, no code 733 row); code 733 rows first, then code 9900, largest first: **Musée de la Photographie - Centre d'art contemporain (Charleroi)** → KBO 0427.796.427 had 0 prior entity rows.
+- KBO: Actief since 1 september 1984; VZW; zetel Avenue Paul Pastur 11 6032 Charleroi; 1 VE; 0 prior entity rows for 0427.796.427
+- Found: official NBB VKT-VZW native PDF **2026-00117086** (504963 B / 26p; AV 04-05-2026; neergelegd 20/05/2026; MD5 2ea6a4cfc3362cfd5bd8a5fed1f1e19e). VKT-VZW 9900 **EUR1808336** (-1.09%); 62 **EUR1808314**; 9901 **EUR-75185** (was 17833); 9904 -70648; equity 563421; cash 43814; FTE 34 (was 34).
+- FOI address: mpc.info@museephoto.be — general mailbox verified on the official site https://www.museephoto.be/fr/informations-pratiques/Contact-fr.html.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_charleroi); FOI **gap_musee_photographie_charleroi_vaph_matrix_9900_1_81m_9901_loss_75k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3283/; rq_3283=done; spawn **rq_3284**; ticks=3283.
+- Next: **rq_3284 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
