@@ -39470,3 +39470,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@dierenasielgenk.be — general mailbox verified on the official site https://dierenasielgenk.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_dierenasiel_genk_vaph_matrix_9900_0_56m_9901_loss_33k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3663/; rq_3663=done; spawn **rq_3664**; ticks=3663.
 - Next: **rq_3664 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3664 — 2026-10-13T16:23:57Z — rq_3664 leftover dual Citadelle Tournai YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Citadelle** → KBO 0448.570.461 had 0 prior entity rows.
+- KBO: Actief since 12 november 1992; VZW; zetel Avenue Leray(TOU) 1 7500 Tournai; 1 VE; 0 prior entity rows for 0448.570.461
+- Found: official NBB MIC-VZW native PDF **2026-00235561** (43420 B / 11p; AV 02-06-2026; neergelegd 28/06/2026; MD5 905108359d2c2a51beb9550e77a1aec7). MIC-VZW 9900 **EUR542567** (+9.54%); 62 **EUR481186**; 9901 **EUR53191** (was -736); 9904 7935; equity 43901; cash 142808; FTE n/a.
+- FOI address: info@citadelle-asbl.org — general mailbox verified on the official site https://citadelle-asbl.org/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_citadelle_tournai_vaph_matrix_9900_0_54m_9901_53k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3664/; rq_3664=done; spawn **rq_3665**; ticks=3664.
+- Next: **rq_3665 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
