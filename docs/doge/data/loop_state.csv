@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T08:03:20Z,rq_3376,3376,no,tick3376 leftover dual Herita Antwerpen 0454.452.225 Strong PDF 2026-00108101 733 6.19m / 9901 197k; next rq_3377 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T08:03:34Z,rq_3377,3377,no,tick3377 leftover dual Maison médicale Santé Plurielle Saint-Gilles 0448.433.572 Strong PDF 2026-00103836 9900 1.72m / 9901 157k; next rq_3378 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

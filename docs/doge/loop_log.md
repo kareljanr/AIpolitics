@@ -36600,3 +36600,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@herita.be — general mailbox verified on the official site https://www.herita.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_herita_antwerpen_vaph_matrix_733_6_19m_9901_197k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3376/; rq_3376=done; spawn **rq_3377**; ticks=3376.
 - Next: **rq_3377 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3377 — 2026-10-13T08:03:34Z — rq_3377 leftover dual Maison médicale Santé Plurielle Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Maison médicale Santé Plurielle** → KBO 0448.433.572 had 0 prior entity rows.
+- KBO: Actief since 24 juli 1992; VZW; zetel Overwinningsstraat 110 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0448.433.572
+- Found: official NBB VKT-VZW native PDF **2026-00103836** (52301 B / 15p; AV 19-03-2026; neergelegd 06/05/2026; MD5 3c3fe89d6b0fa004d5abc7411ceeaa98). VKT-VZW 9900 **EUR1719092** (+4.03%); 62 **EUR1513144**; 9901 **EUR156525** (was 253671); 9904 155122; equity 1856617; cash 1344499; FTE 19 (was 16,2).
+- FOI address: mmsp@mmsp.be — general mailbox verified on the official site https://mmsp.be/privacy-policy/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_mm_sante_plurielle_vaph_matrix_9900_1_72m_9901_157k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3377/; rq_3377=done; spawn **rq_3378**; ticks=3377.
+- Next: **rq_3378 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
