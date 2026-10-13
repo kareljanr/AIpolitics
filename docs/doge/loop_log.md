@@ -40340,3 +40340,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3750 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3750 run locally as fallback.
 - Next: **rq_3750** — code 9900 (NOT subsidy amounts): CEMO (EUR1.01m, micro); mailbox verified on the official site, after the dedup check. Source: bounded KBO scan nscan14.
+
+
+## Tick 3751 — 2026-10-13T19:19:30Z — rq_3750 leftover dual CEMO - Centre d'Education en Milieu Ouvert Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **CEMO - Centre d'Education en Milieu Ouvert** → KBO 0443.101.542 had 0 prior entity rows.
+- KBO: Actief since 26 april 1990; VZW; zetel Parmastraat 86 1060 Sint-Gillis (bij-Brussel); 8 VE; 0 prior entity rows for 0443.101.542
+- Found: official NBB MIC-VZW native PDF **2026-00529063** (47099 B / 11p; AV 26-05-2026; neergelegd 29/09/2026; MD5 4066817fb5ff40fd4440b90f2c6eaa6e). MIC-VZW 9900 **EUR1013136** (+24.47%); 62 **EUR967956**; 9901 **EUR8707** (was 26032); 9904 11486; equity 398693; cash 447815; FTE n/a.
+- FOI address: cemo@cemoasbl.be — general mailbox verified on the official site https://www.cemoasbl.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cemo_saint_gilles_vaph_matrix_9900_1_01m_9901_9k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3751/; rq_3750=done; spawn **rq_3752**; ticks=3751.
+- Next: **rq_3752 leftover dual** — Batch done (3742-3751); code 9900 rows from bounded KBO scan nscan14 (88999/85520/88101/87101 on Brussels, Limburg and Luxembourg postcodes), largest first; no code 733 filer found; Médiathèque Nouvelle still unreachable. Next: a new bounded scan..
