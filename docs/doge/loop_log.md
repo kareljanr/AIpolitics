@@ -38290,3 +38290,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@samarcande.be — general mailbox verified on the official site https://samarcande.be/spip.php?article36 (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_samarcande_etterbeek_vaph_matrix_9900_0_65m_9901_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3545/; rq_3545=done; spawn **rq_3546**; ticks=3545.
 - Next: **rq_3546 leftover dual** — Batch done (3536-3545); code 9900 leftovers (no code 733 rows found; Médiathèque Nouvelle still unreachable). Next: triage of new NACE-BEL 2025 scan keys for code 733 filers (old-code scan complete; NACE-BEL 2025 scan still running), then further code 9900 leftovers from the rebuilt pool, largest first..
+
+
+## Tick 3546 — 2026-10-13T12:41:36Z — rq_3546 leftover dual vzw ‘de Rand’ Wemmel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **vzw ‘de Rand’** → KBO 0459.646.871 had 0 prior entity rows.
+- KBO: Actief since 20 december 1996; VZW; zetel Kaasmarkt 75 1780 Wemmel; 7 VE; 0 prior entity rows for 0459.646.871
+- Found: official NBB VOL-VZW native PDF **2026-00226405** (1467580 B / 37p; AV 23-03-2026; neergelegd 26/06/2026; MD5 a3fadeebad63301f684e2db4ea883e55). VOL-VZW 733 **EUR10067592** (+1.70%); 62 **EUR6594536**; 9901 **EUR-212947** (was -733276); 9904 -39863; equity 8024853; cash 1754140; FTE 77 (was 78,4).
+- FOI address: info@derand.be — general mailbox verified on the official site https://www.derand.be/nl/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_de_rand_wemmel_vaph_matrix_733_10_07m_9901_loss_213k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3546/; rq_3546=done; spawn **rq_3547**; ticks=3546.
+- Next: **rq_3547 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
