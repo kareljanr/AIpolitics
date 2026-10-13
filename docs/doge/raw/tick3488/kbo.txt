@@ -1,0 +1,1 @@
+{"status": "Actief", "begin": "9 mei 1970", "rv": "Vereniging zonder winstoogmerk", "addr": "Rue Ernest-de-Bavière 6 4020 Liège", "ve": "6"}

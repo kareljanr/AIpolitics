@@ -37710,3 +37710,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@contrepied.be — general mailbox verified on the official site https://www.contrepied.be/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_contrepied_woluwe_vaph_matrix_9900_1_33m_9901_142k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3487/; rq_3487=done; spawn **rq_3488**; ticks=3487.
 - Next: **rq_3488 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3488 — 2026-10-13T11:44:15Z — rq_3488 leftover dual Centre liégeois d'Aide aux Jeunes (CLAJ) Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre liégeois d'Aide aux Jeunes (CLAJ)** → KBO 0409.138.080 had 0 prior entity rows.
+- KBO: Actief since 9 mei 1970; VZW; zetel Rue Ernest-de-Bavière 6 4020 Liège; 6 VE; 0 prior entity rows for 0409.138.080
+- Found: official NBB VKT-VZW native PDF **2026-00265242** (38101 B / 10p; AV 22-06-2026; neergelegd 06/07/2026; MD5 a80af1ad10feb027bd90d5c2788bf272). VKT-VZW 9900 **EUR1318713** (+15.49%); 62 **EUR1159397**; 9901 **EUR140689** (was -27718); 9904 137137; equity 247129; cash 292856; FTE 15,1 (was 15,3).
+- FOI address: info@claj.be — general mailbox verified on the official site https://www.claj.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_claj_liege_vaph_matrix_9900_1_32m_9901_141k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3488/; rq_3488=done; spawn **rq_3489**; ticks=3488.
+- Next: **rq_3489 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
