@@ -35464,3 +35464,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@calia-asbl.be — general mailbox verified on the official site https://www.calia-asbl.be/contactus (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_calia_liege_vaph_matrix_9900_2_62m_9901_loss_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3262/; rq_3262=done; spawn **rq_3263**; ticks=3262.
 - Next: **rq_3263 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3263 — 2026-10-13T03:29:54Z — rq_3263 leftover dual Réseau wallon de lutte contre la pauvreté (RWLP) Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used: NACE 88.999 over Walloon and Flemish postcodes (2,181 legal persons not yet in the repo, 773 with a 2025-12 filing), plus NACE 88.101 and 85.599 (partial); code 733 rows first, then code 9900, largest first: **Réseau wallon de lutte contre la pauvreté (RWLP)** → KBO 0480.013.804 had 0 prior entity rows.
+- KBO: Actief since 25 februari 2003; VZW; zetel Rue Marie Henriette 12 5000 Namur; 2 VE; 0 prior entity rows for 0480.013.804
+- Found: official NBB VKT-VZW native PDF **2026-00162024** (72785 B / 22p; AV 10-06-2026; neergelegd 11/06/2026; MD5 2ed105ea0d914830771c1ac1d8753555). VKT-VZW 9900 **EUR2441044** (+0.93%); 62 **EUR2382354**; 9901 **EUR25015** (was 26317); 9904 12197; equity 148687; cash 547001; FTE 35,7 (was 34,8).
+- FOI address: bureau@rwlp.be — general mailbox verified on the official site https://www.rwlp.be/index.php/contact (office mailbox).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_rwlp_namur_vaph_matrix_9900_2_44m_9901_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3263/; rq_3263=done; spawn **rq_3264**; ticks=3263.
+- Next: **rq_3264 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
