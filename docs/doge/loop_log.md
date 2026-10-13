@@ -35264,3 +35264,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@nekkersdal.be — general mailbox verified on the official site https://www.nekkersdal.be/en/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_gc_nekkersdal_vaph_matrix_9900_0_60m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3242/; rq_3242=done; spawn **rq_3243**; ticks=3242.
 - Next: **rq_3243 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3243 — 2026-10-13T02:34:19Z — rq_3243 leftover dual MET-X Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Largest recipients in the official City of Brussels 2025 subsidy inventory (opendata.brussels.be dataset subsides-ville-de-bruxelles-subsidies-stad-brussel-2025) not yet in the repo, cross-checked with the NBB filing: **MET-X** → KBO 0422.914.852 had 0 prior entity rows.
+- KBO: Actief since 29 november 1981; VZW; zetel De Lenglentierstraat 20 1000 Brussel; 1 VE; 0 prior entity rows for 0422.914.852
+- Found: official NBB MIC-VZW native PDF **2026-00174907** (45737 B / 11p; AV 27-04-2026; neergelegd 16/06/2026; MD5 ee9f4eeb50fe1441266fbccd9030077d). MIC-VZW 9900 **EUR724943** (-4.74%); 62 **EUR750491**; 9901 **EUR-34962** (was 75609); 9904 -35916; equity 114097; cash 52427; FTE n/a.
+- FOI address: metx@metx.be — general mailbox verified on the official site https://www.metx.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_metx_vaph_matrix_9900_0_72m_9901_loss_35k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3243/; rq_3243=done; spawn **rq_3244**; ticks=3243.
+- Next: **rq_3244 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
