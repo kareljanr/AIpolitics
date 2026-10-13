@@ -39410,3 +39410,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@inseraction.be — general mailbox verified on the official site https://inseraction.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_inseraction_saint_josse_vaph_matrix_9900_0_75m_9901_21k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3657/; rq_3657=done; spawn **rq_3658**; ticks=3657.
 - Next: **rq_3658 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3658 — 2026-10-13T16:22:50Z — rq_3658 leftover dual Transition Forest YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Transition** → KBO 0442.220.723 had 0 prior entity rows.
+- KBO: Actief since 29 november 1989; VZW; zetel Alsembergse Steenweg 303 1190 Vorst; 1 VE; 0 prior entity rows for 0442.220.723
+- Found: official NBB MIC-VZW native PDF **2026-00229347** (33563 B / 9p; AV 22-06-2026; neergelegd 29/06/2026; MD5 b3fec652771806b3a32ac0e3859aa4b8). MIC-VZW 9900 **EUR727755** (+13.20%); 62 **EUR701998**; 9901 **EUR-2914** (was 6661); 9904 12551; equity 411941; cash 176943; FTE n/a.
+- FOI address: transition@transitionasbl.be — general mailbox verified on the official site https://transitionasbl.be/pour-nous-contacter/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_transition_forest_vaph_matrix_9900_0_73m_9901_loss_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3658/; rq_3658=done; spawn **rq_3659**; ticks=3658.
+- Next: **rq_3659 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
