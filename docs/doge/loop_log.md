@@ -37920,3 +37920,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lhiving.be — general mailbox verified on the official site https://www.lhiving.be/nl/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_lhiving_sint_joost_vaph_matrix_9900_0_93m_9901_loss_43k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3508/; rq_3508=done; spawn **rq_3509**; ticks=3508.
 - Next: **rq_3509 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3509 — 2026-10-13T12:02:18Z — rq_3509 leftover dual Ateliers de la Rue Voot Woluwe-Saint-Lambert YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Ateliers de la Rue Voot** → KBO 0420.426.605 had 0 prior entity rows.
+- KBO: Actief since 31 december 1979; VZW; zetel Vootstraat 91 1200 Sint-Lambrechts-Woluwe; 1 VE; 0 prior entity rows for 0420.426.605
+- Found: official NBB VKT-VZW native PDF **2026-00447016** (39125 B / 9p; AV 22-04-2026; neergelegd 28/08/2026; MD5 4b6e0b9a7b449ae017fe1b39edf451a5). VKT-VZW 9900 **EUR928073** (-7.59%); 62 **EUR851237**; 9901 **EUR52051** (was 32438); 9904 53024; equity 388594; cash 78958; FTE 11,2 (was 13,8).
+- FOI address: info@voot.be — general (secretariat) mailbox verified on the official site https://voot.be/infos-contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ateliers_rue_voot_wsl_vaph_matrix_9900_0_93m_9901_52k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3509/; rq_3509=done; spawn **rq_3510**; ticks=3509.
+- Next: **rq_3510 leftover dual** — Batch done (3506-3515); code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the new-family scan keys for code 733 filers (remaining 82.300 / 93.29x pages and the 20 NACE-BEL 2025 replacement codes still scanning), then further code 9900 leftovers from the cached NBB pool, largest first..
