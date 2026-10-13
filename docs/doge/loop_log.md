@@ -35790,3 +35790,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@relie-f.be — general mailbox verified on the official site https://relie-f.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_relie_f_vaph_matrix_9900_1_77m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3295/; rq_3295=done; spawn **rq_3296**; ticks=3295.
 - Next: **rq_3296 leftover dual** — Batch done; skipped (5-min cap / mailbox rule / dedup): Sociaal Verwarmingsfonds (733 EUR9.46m; already in repo), BEUC (733 EUR4.58m; press mailbox only), Kazou (733 EUR2.42m; no mailbox on its site), énéo (KBO link to the site not verifiable), Archipel, Kankerregister (form only), KRAS (personal mailbox), Rebelle and S-Plus (sites unreachable), Jeunesses Musicales (site lists other KBO numbers), Alzheimer Liga Vlaanderen (site does not tie to the KBO), Roma Foundation (private), EU-level bodies. Next: remaining NACE 94.99x 9900 rows, then other unscanned codes/regions.
+
+
+## Tick 3296 — 2026-10-13T05:06:16Z — rq_3296 leftover dual Vétérinaires Sans Frontières Belgique Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.991 / 94.992 (974 legal persons not yet in the repo) and NACE 94.999 / 88.109 (776) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first: **Vétérinaires Sans Frontières Belgique** → KBO 0442.168.263 had 0 prior entity rows.
+- KBO: Actief since 22 februari 1990; VZW; zetel Liefdadigheidsstraat 22 1210 Sint-Joost-ten-Node; 1 VE; 0 prior entity rows for 0442.168.263
+- Found: official NBB VOL-VZW native PDF **2026-00312876** (1505033 B / 41p; AV 27-06-2026; neergelegd 16/07/2026; MD5 51047d1e26b59e45ba154b8e4f178698). VOL-VZW 733 **EUR9337774** (-15.95%); 62 **EUR3172353**; 9901 **EUR-166983** (was -248478); 9904 -204505; equity 448198; cash 1927016; FTE 14,3 (was 16,7).
+- FOI address: info@vsf-belgium.org — general mailbox verified on the official site https://vsf-belgium.org/contact/ (which lists the KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_veterinaires_sans_frontieres_belgique_vaph_matrix_733_9_34m_9901_loss_167k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3296/; rq_3296=done; spawn **rq_3297**; ticks=3296.
+- Next: **rq_3297 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
