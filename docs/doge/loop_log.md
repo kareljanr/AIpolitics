@@ -37670,3 +37670,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mentorescale.be — general mailbox verified on the official site https://www.mentorescale.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_mentor_escale_ixelles_vaph_matrix_9900_1_41m_9901_63k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3483/; rq_3483=done; spawn **rq_3484**; ticks=3483.
 - Next: **rq_3484 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3484 — 2026-10-13T11:35:08Z — rq_3484 leftover dual Vlaamse Parkinson Liga Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Vlaamse Parkinson Liga** → KBO 0879.275.504 had 0 prior entity rows.
+- KBO: Actief since 13 januari 2006; VZW; zetel Diestsevest 33 bus 302 3000 Leuven; 1 VE; 0 prior entity rows for 0879.275.504
+- Found: official NBB VKT-VZW native PDF **2026-00262466** (44008 B / 12p; AV 04-04-2026; neergelegd 07/07/2026; MD5 eb32db62e44bec647e11f28bad7d7a55). VKT-VZW 9900 **EUR1398926** (-19.78%); 62 **EUR921156**; 9901 **EUR317298** (was 762941); 9904 328066; equity 3918622; cash 447749; FTE 9,9 (was 9,9).
+- FOI address: contact@parkinsonliga.be — general mailbox verified on the official site https://www.parkinsonliga.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_vlaamse_parkinson_liga_leuven_vaph_matrix_9900_1_40m_9901_317k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3484/; rq_3484=done; spawn **rq_3485**; ticks=3484.
+- Next: **rq_3485 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
