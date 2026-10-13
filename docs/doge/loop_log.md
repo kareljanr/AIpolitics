@@ -36760,3 +36760,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: levieuxmoulin@levm.be — general mailbox verified on the official site https://le-vieux-moulin.be/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_le_vieux_moulin_fauvillers_vaph_matrix_9900_1_63m_9901_107k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3392/; rq_3392=done; spawn **rq_3393**; ticks=3392.
 - Next: **rq_3393 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3393 — 2026-10-13T08:23:34Z — rq_3393 leftover dual Woonzorgcentrum Benaja Vleteren (Oostvleteren) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Woonzorgcentrum Benaja** → KBO 0431.261.604 had 0 prior entity rows.
+- KBO: Actief since 26 oktober 1985; VZW; zetel Hendrik Deberghstraat(Oost) 37A 8640 Vleteren; 1 VE; 0 prior entity rows for 0431.261.604
+- Found: official NBB VKT-VZW native PDF **2026-00539624** (2048120 B / 15p; AV 30-06-2026; neergelegd 24/09/2026; MD5 09a24066d0baab5d736708603029b932). VKT-VZW 9900 **EUR1620201** (+3.18%); 62 **EUR1666066**; 9901 **EUR-245518** (was -247855); 9904 -249872; equity -23687; cash 85770; FTE 20 (was 20,5).
+- FOI address: info@benaja.be — general mailbox verified on the official site https://benaja.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_wzc_benaja_vleteren_vaph_matrix_9900_1_62m_9901_loss_246k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3393/; rq_3393=done; spawn **rq_3394**; ticks=3393.
+- Next: **rq_3394 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
