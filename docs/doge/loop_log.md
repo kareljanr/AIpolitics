@@ -34904,3 +34904,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@feux-follets.be — general mailbox verified on the official site https://www.feux-follets.be/professionnel.htm.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_feux_follets_fleurus_vaph_matrix_9900_4_45m_9901_110k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3206/; rq_3206=done; spawn **rq_3207**; ticks=3206.
 - Next: **rq_3207 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3207 — 2026-10-13T01:43:53Z — rq_3207 leftover dual Service de Santé mentale et Centre de rééducation ambulatoire de Verviers Verviers YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Mental-health, youth-care and social-economy non-profits (Walloon/Brussels services de santé mentale and habitations protégées, Flemish jeugdhulp / sociale werkplaats VZWs) from a fresh KBO name search; code 733 rows first (none qualified), then largest code 9900: **Service de Santé mentale et Centre de rééducation ambulatoire de Verviers** → KBO 0410.666.425 had 0 prior entity rows.
+- KBO: Actief since 11 april 1968; VZW; zetel Rue de Dinant 18/2 4800 Verviers; 4 VE; 0 prior entity rows for 0410.666.425
+- Found: official NBB VKT-VZW native PDF **2026-00194769** (59887 B / 18p; AV 18-05-2026; neergelegd 17/06/2026; MD5 a816db26b5395635a65f3568912bed5b). VKT-VZW 9900 **EUR2686431** (+5.63%); 62 **EUR2573857**; 9901 **EUR11123** (was 21163); 9904 6082; equity 637345; cash 483904; FTE 30,6 (was 32).
+- FOI address: info@ssmverviers.be — general mailbox verified on the official site https://www.ssmverviers.be/contacts.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_verviers); FOI **gap_ssm_verviers_vaph_matrix_9900_2_69m_9901_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3207/; rq_3207=done; spawn **rq_3208**; ticks=3207.
+- Next: **rq_3208 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
