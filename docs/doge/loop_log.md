@@ -34924,3 +34924,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@hplerelais.be — general mailbox verified on the official site https://hplerelais.be/mentions-legales/ (which names this ASBL and its KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_tournai); FOI **gap_hp_le_relais_tournai_vaph_matrix_9900_2_52m_9901_239k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3208/; rq_3208=done; spawn **rq_3209**; ticks=3208.
 - Next: **rq_3209 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3209 — 2026-10-13T01:44:57Z — rq_3209 leftover dual Begeleidingscentrum Stappen (Gent) Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Mental-health, youth-care and social-economy non-profits (Walloon/Brussels services de santé mentale and habitations protégées, Flemish jeugdhulp / sociale werkplaats VZWs) from a fresh KBO name search; code 733 rows first (none qualified), then largest code 9900: **Begeleidingscentrum Stappen (Gent)** → KBO 0432.366.711 had 0 prior entity rows.
+- KBO: Actief since 6 oktober 1986; VZW; zetel Westveldstraat 1 9040 Gent; 1 VE; 0 prior entity rows for 0432.366.711
+- Found: official NBB VKT-VZW native PDF **2026-00216491** (50515 B / 13p; AV 25-06-2026; neergelegd 29/06/2026; MD5 53a7f40964d47db17723991a9345c124). VKT-VZW 9900 **EUR2477280** (+4.43%); 62 **EUR2361450**; 9901 **EUR-14197** (was 44250); 9904 -13161; equity 1066372; cash 316570; FTE 30,8 (was 31,9).
+- FOI address: info@stappenvzw.be — general mailbox verified on the official site https://stappenvzw.be/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_gent); FOI **gap_stappen_gent_vaph_matrix_9900_2_48m_9901_loss_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3209/; rq_3209=done; spawn **rq_3210**; ticks=3209.
+- Next: **rq_3210 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
