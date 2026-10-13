@@ -39220,3 +39220,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@banlieues.be — general mailbox verified on the official site https://www.banlieues.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_banlieues_ixelles_vaph_matrix_9900_0_59m_9901_loss_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3638/; rq_3638=done; spawn **rq_3639**; ticks=3638.
 - Next: **rq_3639 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3639 — 2026-10-13T16:03:09Z — rq_3639 leftover dual De Maakbare Mens Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **De Maakbare Mens** → KBO 0456.539.606 had 0 prior entity rows.
+- KBO: Actief since 4 oktober 1995; VZW; zetel Breughelstraat 31 2018 Antwerpen; 1 VE; 0 prior entity rows for 0456.539.606
+- Found: official NBB MIC-VZW native PDF **2026-00063927** (41137 B / 10p; AV 19-03-2026; neergelegd 27/03/2026; MD5 c1e05ec97140c4410340b7584b6c97ee). MIC-VZW 9900 **EUR584604** (+7.34%); 62 **EUR564165**; 9901 **EUR14141** (was -51722); 9904 16955; equity 327322; cash 340906; FTE n/a.
+- FOI address: info@demaakbaremens.org — general mailbox verified on the official site https://www.demaakbaremens.org/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_de_maakbare_mens_antwerpen_vaph_matrix_9900_0_58m_9901_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3639/; rq_3639=done; spawn **rq_3640**; ticks=3639.
+- Next: **rq_3640 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
