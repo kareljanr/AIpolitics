@@ -38700,3 +38700,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@roosendael.be — general mailbox verified on the official site https://www.roosendael.be/contact (site gives Rozendaal 5; KBO registered seat Rozendaal z/n).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_roosendael_sint_katelijne_waver_vaph_matrix_9900_0_40m_9901_loss_102k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3586/; rq_3586=done; spawn **rq_3587**; ticks=3586.
 - Next: **rq_3587 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3587 — 2026-10-13T15:23:56Z — rq_3587 leftover dual Hannibalvakanties Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Hannibalvakanties** → KBO 0415.580.959 had 0 prior entity rows.
+- KBO: Actief since 19 november 1975; VZW; zetel Arthur Goemaerelei 66 2018 Antwerpen; 4 VE; 0 prior entity rows for 0415.580.959
+- Found: official NBB VKT-VZW native PDF **2026-00104914** (51126 B / 14p; AV 24-03-2026; neergelegd 07/05/2026; MD5 605f5b2450e8bf34b57bdaca83e83bae). VKT-VZW 9900 **EUR386305** (+2.83%); 62 **EUR338831**; 9901 **EUR17856** (was 47090); 9904 15035; equity 19157; cash 13347; FTE 4,6 (was 4,5).
+- FOI address: info@hannibalvakanties.be — general mailbox verified on the official site https://hannibalvakanties.be/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_hannibalvakanties_antwerpen_vaph_matrix_9900_0_39m_9901_18k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3587/; rq_3587=done; spawn **rq_3588**; ticks=3587.
+- Next: **rq_3588 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
