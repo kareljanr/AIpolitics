@@ -39210,3 +39210,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lechoix.be — general mailbox verified on the official site https://www.lechoix.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_le_choix_namur_vaph_matrix_9900_0_60m_9901_loss_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3637/; rq_3637=done; spawn **rq_3638**; ticks=3637.
 - Next: **rq_3638 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3638 — 2026-10-13T16:03:01Z — rq_3638 leftover dual Banlieues Ixelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Banlieues** → KBO 0473.791.847 had 0 prior entity rows.
+- KBO: Actief since 10 november 2000; VZW; zetel Waterloose Steenweg 412 bus C 1050 Elsene; 1 VE; 0 prior entity rows for 0473.791.847
+- Found: official NBB VKT-VZW native PDF **2026-00393224** (59511 B / 19p; AV 23-06-2026; neergelegd 10/08/2026; MD5 740236fa27842773502550e89476537a). VKT-VZW 9900 **EUR590892** (-1.19%); 62 **EUR597450**; 9901 **EUR-10325** (was 16526); 9904 -465; equity 190786; cash 58620; FTE 10,3 (was 10,3).
+- FOI address: info@banlieues.be — general mailbox verified on the official site https://www.banlieues.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_banlieues_ixelles_vaph_matrix_9900_0_59m_9901_loss_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3638/; rq_3638=done; spawn **rq_3639**; ticks=3638.
+- Next: **rq_3639 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
