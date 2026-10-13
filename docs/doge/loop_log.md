@@ -37080,3 +37080,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: administration@compagnonsbatisseurs.be — administration role mailbox verified on the official site https://www.compagnonsbatisseurs.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_compagnons_batisseurs_marche_vaph_matrix_9900_0_99m_9901_40k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3424/; rq_3424=done; spawn **rq_3425**; ticks=3424.
 - Next: **rq_3425 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3425 — 2026-10-13T09:29:42Z — rq_3425 leftover dual Dranoeter Heuvelland (Dranouter) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Dranoeter** → KBO 0423.490.518 had 0 prior entity rows.
+- KBO: Actief since 5 december 1981; VZW; zetel Dikkebusstraat(Dran) 234 8951 Heuvelland; 1 VE; 0 prior entity rows for 0423.490.518
+- Found: official NBB VKT-VZW native PDF **2026-00185992** (55511 B / 16p; AV 19-06-2026; neergelegd 23/06/2026; MD5 edd84ed463ebc4d60d6ba8db51ffd33a). VKT-VZW 9900 **EUR681099** (+26.98%); 62 **EUR436126**; 9901 **EUR11618** (was -182321); 9904 -329877; equity 552196; cash 297727; FTE 6,8 (was 6,1).
+- FOI address: info@dranoeter.be — general mailbox verified on the official site https://www.dranoeter.be/contact (KBO number on https://www.dranoeter.be/de-vzw).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_dranoeter_heuvelland_vaph_matrix_9900_0_68m_9901_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3425/; rq_3425=done; spawn **rq_3426**; ticks=3425.
+- Next: **rq_3426 leftover dual** — Batch done; the finished scan pages gave no further usable code 733 rows (Vlaamse Jeugdherbergen code 733 line blank), so all nine are code 9900 leftovers. Next: Médiathèque Nouvelle (code 733, site still unreachable), the still-running 88.91x / 94.xxx / 55.20x / 52.2x / 59.1x / 58.1x scan pages, then SONEFA / Crèches de Schaerbeek (code 733, no own-site mailbox yet)..
