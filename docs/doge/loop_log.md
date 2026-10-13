@@ -39380,3 +39380,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@marmots.be — general mailbox verified on the official site https://www.marmots.be/contactus (the site lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_les_marmots_liege_vaph_matrix_9900_1_01m_9901_loss_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3654/; rq_3654=done; spawn **rq_3655**; ticks=3654.
 - Next: **rq_3655 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3655 — 2026-10-13T16:20:34Z — rq_3655 leftover dual Dynamo AMO Forest YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Dynamo AMO** → KBO 0430.942.492 had 0 prior entity rows.
+- KBO: Actief since 13 mei 1985; VZW; zetel Victor Rousseaulaan 300 1190 Vorst; 2 VE; 0 prior entity rows for 0430.942.492
+- Found: official NBB VKT-VZW native PDF **2026-00344097** (43766 B / 12p; AV 02-06-2026; neergelegd 24/07/2026; MD5 b5740b73e2c265cd39645bb77a5747d8). VKT-VZW 9900 **EUR844632** (+3.43%); 62 **EUR833156**; 9901 **EUR-875** (was -13168); 9904 -639; equity 178888; cash 66337; FTE 10,5 (was 10,8).
+- FOI address: info@dynamoamo.be — general mailbox verified on the official site https://www.dynamoamo.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_dynamo_amo_forest_vaph_matrix_9900_0_84m_9901_loss_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3655/; rq_3655=done; spawn **rq_3656**; ticks=3655.
+- Next: **rq_3656 leftover dual** — Batch done (3646-3655); code 9900 rows from a new bounded KBO scan (NACE-BEL 2025 codes 72200, 85600, 93110 on the earlier 23 postcodes; 87909, 88101, 88991, 88999, 94999 on 15 new postcodes), largest first; no usable code 733 amount found (Médiathèque Nouvelle still unreachable). Next: further code 9900 rows from that scan, largest first..
