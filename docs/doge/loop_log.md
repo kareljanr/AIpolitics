@@ -36730,3 +36730,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: administration@residencerolland.be — administration mailbox verified on the official site https://residence-emilerolland.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_residence_emile_rolland_mons_vaph_matrix_9900_1_92m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3389/; rq_3389=done; spawn **rq_3390**; ticks=3389.
 - Next: **rq_3390 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3390 — 2026-10-13T08:23:07Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2988** of 3043 rows; inventory budgets 62620 · commitments 7043 · leaderboard 9161 · entities 3061 · sources 10062.
+- Top10: **stable** (3381-3389 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3381-3389: Fleur Service social · Cluster TWEED · SSMG · Chudoscnik Sunergia · PIBO · Les Sentiers · Le Chanmurly · Dreiland-Jugendhilfe · Résidence Emile Rolland.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3390 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3390 run locally as fallback.
+- Next: **rq_3390** — code 9900 (NOT subsidy amounts): Cerfs-Volants (EUR1.87m), Le Vieux Moulin (EUR1.63m), WZC Benaja (EUR1.62m), Vent Debout (EUR1.60m), de Vlinderkens (EUR1.57m); mailboxes verified on official sites, after the dedup check.
