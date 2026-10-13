@@ -40540,3 +40540,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3770 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3770 run locally as fallback.
 - Next: **rq_3770** — no candidate queued: nscan16-18 exhausted; run a new bounded KBO scan (new codes or regions) and verify mailboxes on each body’s own page, after the dedup check.
+
+
+## Tick 3771 — 2026-10-13T21:00:49Z — rq_3770 leftover dual Capital (youth hub) Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Capital (youth hub)** → KBO 0748.738.743 had 0 prior entity rows.
+- KBO: Actief since 19 juni 2020; VZW; zetel Antwerpselaan 40 1000 Brussel; 1 VE; 0 prior entity rows for 0748.738.743
+- Found: official NBB MIC-VZW native PDF **2026-00338809** (46975 B / 11p; AV 02-06-2026; neergelegd 27/07/2026; MD5 d8b679d329c73e6ba859577532ca0220). MIC-VZW 9900 **EUR501978** (+37.27%); 62 **EUR301172**; 9901 **EUR158576** (was 72205); 9904 158340; equity 739427; cash 524000; FTE n/a.
+- FOI address: info@capitalbelgium.be — general mailbox verified on the official site https://www.capitalbelgium.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_capital_brussel_vaph_matrix_9900_0_50m_9901_159k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3771/; rq_3770=done; spawn **rq_3772**; ticks=3771.
+- Next: **rq_3772 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
