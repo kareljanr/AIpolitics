@@ -38260,3 +38260,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@villabasta.be — general mailbox verified on the official site https://villabasta.be/contacteer-ons/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_villa_basta_hasselt_vaph_matrix_9900_0_65m_9901_34k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3542/; rq_3542=done; spawn **rq_3543**; ticks=3542.
 - Next: **rq_3543 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3543 — 2026-10-13T12:36:34Z — rq_3543 leftover dual Gekkoo Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Gekkoo** → KBO 0406.695.957 had 0 prior entity rows.
+- KBO: Actief since 26 juni 1969; VZW; zetel Limburgstraat 49-53 2020 Antwerpen; 1 VE; 0 prior entity rows for 0406.695.957
+- Found: official NBB VKT-VZW native PDF **2026-00072828** (53858 B / 16p; AV 24-03-2026; neergelegd 02/04/2026; MD5 1434d1a86387fcc9eb6408f33591b290). VKT-VZW 9900 **EUR653500** (-55.50%); 62 **EUR880556**; 9901 **EUR-340170** (was 521252); 9904 -341900; equity 3947240; cash 150033; FTE 15,8 (was 14,4).
+- FOI address: info@gekkoo.be — general mailbox verified on the official site https://gekkoo.be/gekkoo/contact (privacy statement on the site lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_gekkoo_antwerpen_vaph_matrix_9900_0_65m_9901_loss_340k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3543/; rq_3543=done; spawn **rq_3544**; ticks=3543.
+- Next: **rq_3544 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
