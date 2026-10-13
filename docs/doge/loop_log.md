@@ -35720,3 +35720,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat-national@viefeminine.be — national secretariat mailbox verified on the official site https://www.viefeminine.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_vie_feminine_vaph_matrix_9900_4_79m_9901_148k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3288/; rq_3288=done; spawn **rq_3289**; ticks=3288.
 - Next: **rq_3289 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3289 — 2026-10-13T04:58:01Z — rq_3289 leftover dual Ocarina Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scan NACE 94.991 / 94.992 (other membership organisations) over Walloon, Brussels and Flemish postcodes (974 legal persons not yet in the repo); code 733 rows first, then code 9900, largest first: **Ocarina** → KBO 0411.971.074 had 0 prior entity rows.
+- KBO: Actief since 3 november 1971; VZW; zetel Anspachlaan 111 1000 Brussel; 15 VE; 0 prior entity rows for 0411.971.074
+- Found: official NBB VKT-VZW native PDF **2026-00216802** (117730 B / 23p; AV 24-06-2026; neergelegd 26/06/2026; MD5 f227aad3358a06097d5f877a656d8115). VKT-VZW 9900 **EUR4305835** (+8.27%); 62 **EUR4218848**; 9901 **EUR27745** (was -78503); 9904 60944; equity 1407251; cash 1094900; FTE 58,7 (was 59,7).
+- FOI address: info@ocarina.be — general mailbox verified on the official site https://www.ocarina.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ocarina_jeunesse_vaph_matrix_9900_4_31m_9901_28k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3289/; rq_3289=done; spawn **rq_3290**; ticks=3289.
+- Next: **rq_3290 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
