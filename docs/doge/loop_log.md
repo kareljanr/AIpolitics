@@ -39560,3 +39560,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@dierenasielsinttruiden.be — general mailbox verified on the official site https://dierenasielsinttruiden.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_dierenvrienden_sint_truiden_vaph_matrix_9900_1_06m_9901_318k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3672/; rq_3672=done; spawn **rq_3673**; ticks=3672.
 - Next: **rq_3673 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3673 — 2026-10-13T16:34:57Z — rq_3673 leftover dual Multijobs Neder-Over-Heembeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Multijobs** → KBO 0872.884.390 had 0 prior entity rows.
+- KBO: Actief since 1 maart 2005; VZW; zetel Beizegemstraat 125 bus 2 1120 Brussel; 1 VE; 0 prior entity rows for 0872.884.390
+- Found: official NBB VKT-VZW native PDF **2026-00136660** (53415 B / 14p; AV 27-05-2026; neergelegd 04/06/2026; MD5 7577b4027c244f47e12113189624b900). VKT-VZW 9900 **EUR1049562** (+27.87%); 62 **EUR785064**; 9901 **EUR217336** (was 52771); 9904 217810; equity 703421; cash 491453; FTE 13,2.
+- FOI address: info@multijobs.be — general mailbox verified on the official site https://multijobs.be/nl/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_multijobs_neder_over_heembeek_vaph_matrix_9900_1_05m_9901_217k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3673/; rq_3673=done; spawn **rq_3674**; ticks=3673.
+- Next: **rq_3674 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
