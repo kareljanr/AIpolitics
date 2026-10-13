@@ -39540,3 +39540,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3670 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3670 run locally as fallback.
 - Next: **rq_3670** — code 9900 (NOT subsidy amounts): Form’Anim (EUR1.18m), Dierenvrienden Sint-Truiden (EUR1.06m), Multijobs (EUR1.05m), Dynam’Autes (EUR0.32m, micro), Interm’Aide (EUR0.31m, micro); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scans nscan5/nscan4.
+
+
+## Tick 3671 — 2026-10-13T16:34:39Z — rq_3670 leftover dual Form'Anim Seraing YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Form'Anim** → KBO 0460.322.804 had 0 prior entity rows.
+- KBO: Actief since 22 februari 1997; VZW; zetel Rue du Papillon 45 4100 Seraing; 3 VE; 0 prior entity rows for 0460.322.804
+- Found: official NBB VKT-VZW native PDF **2026-00164235** (40526 B / 10p; AV 12-06-2026; neergelegd 16/06/2026; MD5 8cc1ecb1a078b31d5701d30446b7b241). VKT-VZW 9900 **EUR1182746** (+6.63%); 62 **EUR1101772**; 9901 **EUR-5107** (was -6481); 9904 2445; equity 209282; cash 159517; FTE 19,8 (was 17,3).
+- FOI address: info@formanim.be — general mailbox verified on the official site https://www.formanim.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_formanim_seraing_vaph_matrix_9900_1_18m_9901_loss_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3671/; rq_3670=done; spawn **rq_3672**; ticks=3671.
+- Next: **rq_3672 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
