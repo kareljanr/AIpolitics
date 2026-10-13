@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T15:15:42Z,rq_3577,3577,no,tick3577 leftover dual RéCI-Bruxelles Schaerbeek 0455.030.166 Strong PDF 2026-00312406 9900 0.47m / 9901 loss 10k; next rq_3578 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T15:15:51Z,rq_3578,3578,no,tick3578 leftover dual Theater FroeFroe Antwerpen 0424.808.431 Strong PDF 2026-00140133 9900 0.47m / 9901 loss 49k; next rq_3579 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
