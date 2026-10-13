@@ -36830,3 +36830,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lesourire.be — general mailbox verified on the official site https://lesourire.be/index.php/le-service-2/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_le_sourire_tournai_vaph_matrix_9900_6_22m_9901_198k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3399/; rq_3399=done; spawn **rq_3400**; ticks=3399.
 - Next: **rq_3400 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3400 — 2026-10-13T08:50:31Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2997** of 3052 rows; inventory budgets 62693 · commitments 7052 · leaderboard 9170 · entities 3070 · sources 10089.
+- Top10: **stable** (3391-3399 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3391-3399: Cerfs-Volants · Le Vieux Moulin · WZC Benaja · Vent Debout · de Vlinderkens · Crescendo Samen Groeien · Mentes · Archipel · Le Sourire.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3400 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3400 run locally as fallback.
+- Next: **rq_3400** — code 9900 (NOT subsidy amounts): CAPE (EUR4.56m), La Babillarde (EUR3.55m), CEMôme (EUR3.25m), Jeunesses Musicales (EUR2.21m), Scouts et Guides Pluralistes (EUR1.90m); mailboxes verified on official sites, after the dedup check.

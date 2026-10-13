@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3400** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3390; 3391-3399 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3391-3399 residual dual L5 (not near-complete of 348bn):** Cerfs-Volants · Le Vieux Moulin · WZC Benaja · Vent Debout · de Vlinderkens · Crescendo Samen Groeien · Mentes · Archipel · Le Sourire (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2997** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3052** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3391-3399** Cerfs-Volants · Le Vieux Moulin · WZC Benaja · Vent Debout · de Vlinderkens · Crescendo Samen Groeien · Mentes · Archipel · Le Sourire.
+
+### Inventory (tick 3400)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 62693 |
+| commitments.csv | 7052 |
+| leaderboard.csv | 9170 |
+| entities.csv | 3070 |
+| sources.csv | 10089 |
+| FOI ready | 2997 |
+| FOI total rows | 3052 |
+| research_queue open | rq_3400 (carried; next: CAPE, La Babillarde, CEMôme, Jeunesses Musicales, Scouts et Guides Pluralistes (code 9900 leftovers of the new 88.91x / 94.xxx scans); largest first) |
+
+### What improved since tick 3390
+
+- **New source (tick3391-3399):** Cerfs-Volants · Le Vieux Moulin · WZC Benaja · Vent Debout · de Vlinderkens · Crescendo Samen Groeien · Mentes · Archipel · Le Sourire. 3391-3395 are 9900 care leftovers; 3396-3399 come from new NACE scans (88.91x childcare, 85.31x school organisers, 94.xxx, 55.20x, 52.2x, 59.1x, 58.1x): 3396 is a code 733 filer, 3397-3399 are 9900 leftovers, largest first. EU-level bodies and duplicates excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3400 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3390** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
