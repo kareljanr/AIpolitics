@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3270** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3260; 3261-3269 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3261-3269 residual dual L5 (not near-complete of 348bn):** CRIPEL · CALIA · RWLP · CRIC Charleroi · Canopea · CRPE Verviers · De Molenketjes · CPEN Nivelles · Les Trois Portes Namur (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2881** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2936** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3261-3269** CRIPEL · CALIA · RWLP · CRIC Charleroi · Canopea · CRPE Verviers · De Molenketjes · CPEN Nivelles · Les Trois Portes Namur.
+
+### Inventory (tick 3270)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 61738 |
+| commitments.csv | 6936 |
+| leaderboard.csv | 9054 |
+| entities.csv | 2954 |
+| sources.csv | 9741 |
+| FOI ready | 2881 |
+| FOI total rows | 2936 |
+| research_queue open | rq_3270 (carried; next: La Maison de Musti, Crèche Petit à Petit Huy, SDPA Madeleine Melot Namur, Cunina, Régie des Quartiers de Liège (NACE 88.911/88.991 scan, code 9900); largest first) |
+
+### What improved since tick 3260
+
+- **New source (tick3261-3269):** CRIPEL · CALIA · RWLP · CRIC Charleroi · Canopea · CRPE Verviers · De Molenketjes · CPEN Nivelles · Les Trois Portes Namur. 3261-3265 finished the NACE 88.999 Walloon 9900 rows. 3266+ adds a new activity-code scan: NACE 88.911 / 88.991 (childcare and day-care without accommodation) over Walloon, Brussels and Flemish postcodes (912 legal persons not yet in the repo, 418 triaged); code 733 rows checked first, but none passed the mailbox rule (Crèches de Schaerbeek, Association Notre-Dame Namur, Lutgardis Elsene, Sint-Karel skipped), so code 9900 rows, largest first.
+- **FOI addresses:** general mailboxes verified on each body's own official site (one gmail.com address shown on an official site is disclosed as such). Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3270 ran on the local fallback runner; GitHub Actions status not re-checked (GitHub CLI on the box not signed in). Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3260** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

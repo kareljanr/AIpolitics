@@ -35534,3 +35534,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@troisportes.be — general mailbox verified on the official site https://www.troisportes.be/contact/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_les_trois_portes_namur_vaph_matrix_9900_4_85m_9901_106k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3269/; rq_3269=done; spawn **rq_3270**; ticks=3269.
 - Next: **rq_3270 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3270 — 2026-10-13T04:05:45Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2881** of 2936 rows; inventory budgets 61738 · commitments 6936 · leaderboard 9054 · entities 2954 · sources 9741.
+- Top10: **stable** (3261-3269 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3261-3269: CRIPEL · CALIA · RWLP · CRIC Charleroi · Canopea · CRPE Verviers · De Molenketjes · CPEN Nivelles · Les Trois Portes Namur.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3270 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3270 run locally as fallback.
+- Next: **rq_3270** — NACE 88.911/88.991 scan (code 9900, NOT subsidy amounts): La Maison de Musti (EUR3.49m), Crèche Petit à Petit Huy (EUR3.12m), SDPA Madeleine Melot Namur (EUR2.82m), Cunina (EUR2.17m), Régie des Quartiers de Liège (EUR2.09m); mailboxes verified on official pages, after the dedup check.
