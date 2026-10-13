@@ -36090,3 +36090,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cvb.be — general mailbox verified on the official site https://www.cvb.be/ (official site of this ASBL).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_centre_video_bruxelles_vaph_matrix_9900_1_24m_9901_loss_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3325/; rq_3325=done; spawn **rq_3326**; ticks=3325.
 - Next: **rq_3326 leftover dual** — Batch done; next: further unscanned codes (86/87 care, 84.xxx para-public, 90.xxx Flanders, German-speaking Community), code 733 rows first, then largest first. Skipped (5-min cap / mailbox rule): CRIBC and Praktijkpunt Landbouw (their sites show another KBO number), CER Groupe (group page with several KBO numbers), Certech (no mailbox), Ecole royale militaire (no general mailbox), CRM (site unreachable)..
+
+
+## Tick 3326 — 2026-10-13T06:07:09Z — rq_3326 leftover dual Accueil & Solidarité (ACSOL) Namur (Cognelée) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **Accueil & Solidarité (ACSOL)** → KBO 0890.259.070 had 0 prior entity rows.
+- KBO: Actief since 21 juni 2007; VZW; zetel Chaussée de Louvain(CG) 1081 5022 Namur; 11 VE; 0 prior entity rows for 0890.259.070
+- Found: official NBB VOL-VZW native PDF **2026-00251024** (563148 B / 47p; AV 04-06-2026; neergelegd 02/07/2026; MD5 d80c56078679793aae02927989bd36a3). VOL-VZW 733 **EUR15754996** (+11.68%); 62 **EUR39258059**; 9901 **EUR524921** (was 1688711); 9904 937595; equity 48617125; cash 4672760; FTE 589,2 (was 568,7).
+- FOI address: secretariat@acsol.be — general mailbox verified on the official site https://www.pepupsrl.be/contact/ (the ACSOL site, which lists the KBO number and the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_acsol_namur_vaph_matrix_733_15_75m_9901_525k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3326/; rq_3326=done; spawn **rq_3327**; ticks=3326.
+- Next: **rq_3327 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
