@@ -37400,3 +37400,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: liege@asblpraxis.be — seat-office role mailbox verified on the official site https://www.asblpraxis.be/contact/praxis-liege-siege-social (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_praxis_liege_vaph_matrix_9900_2_32m_9901_13k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3456/; rq_3456=done; spawn **rq_3457**; ticks=3456.
 - Next: **rq_3457 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3457 — 2026-10-13T11:06:23Z — rq_3457 leftover dual Mission régionale pour l'Emploi de Wallonie picarde (MireWapi) Tournai YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Mission régionale pour l'Emploi de Wallonie picarde (MireWapi)** → KBO 0456.107.163 had 0 prior entity rows.
+- KBO: Actief since 12 oktober 1995; VZW; zetel Rue des Puits l'Eau (TOU) 2 bus F 7500 Tournai; 1 VE; 0 prior entity rows for 0456.107.163
+- Found: official NBB VKT-VZW native PDF **2026-00136836** (68579 B / 18p; AV 18-05-2026; neergelegd 03/06/2026; MD5 11d44d8aaa421f63db34e2ecf8af9ba0). VKT-VZW 9900 **EUR2149684** (-1.69%); 62 **EUR2108712**; 9901 **EUR16919** (was 2337); 9904 20687; equity 227107; cash 613348; FTE 32,4 (was 31,4).
+- FOI address: info@mirewapi.be — general mailbox verified on the official site https://mirewapi.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_mirewapi_tournai_vaph_matrix_9900_2_15m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3457/; rq_3457=done; spawn **rq_3458**; ticks=3457.
+- Next: **rq_3458 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
