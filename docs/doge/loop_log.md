@@ -40710,3 +40710,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@uilenspel.be — general mailbox verified on the official site https://www.uilenspel.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_uilenspel_gent_vaph_matrix_9900_0_80m_9901_16k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3787/; rq_3787=done; spawn **rq_3788**; ticks=3787.
 - Next: **rq_3788 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3788 — 2026-10-13T22:00:14Z — rq_3788 leftover dual Gents MilieuFront Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Gents MilieuFront** → KBO 0416.645.979 had 0 prior entity rows.
+- KBO: Actief since 16 september 1976; VZW; zetel Dampoortstraat 81 9000 Gent; 1 VE; 0 prior entity rows for 0416.645.979
+- Found: official NBB MIC-VZW native PDF **2026-00110424** (38267 B / 9p; AV 13-03-2026; neergelegd 13/05/2026; MD5 e15ef11b09334dcc678e89c9e16e3deb). MIC-VZW 9900 **EUR682971** (+10.30%); 62 **EUR668882**; 9901 **EUR4231** (was 3157); 9904 12078; equity 1137826; cash 649013; FTE n/a.
+- FOI address: info@gentsmilieufront.be — general mailbox verified on the official site https://www.gentsmilieufront.be/bezwaren-en-adviezen/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_gents_milieufront_vaph_matrix_9900_0_68m_9901_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3788/; rq_3788=done; spawn **rq_3789**; ticks=3788.
+- Next: **rq_3789 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T22:00:05Z,rq_3787,3787,no,tick3787 leftover dual Uilenspel Gent 0808.284.568 Strong PDF 2026-00180946 9900 0.80m / 9901 16k; next rq_3788 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T22:00:14Z,rq_3788,3788,no,tick3788 leftover dual Gents MilieuFront Gent 0416.645.979 Strong PDF 2026-00110424 9900 0.68m / 9901 4k; next rq_3789 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
