@@ -38790,3 +38790,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@jeunesetnature.be — general mailbox verified on the official site https://www.jeunesetnature.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_jeunes_et_nature_saint_servais_vaph_matrix_9900_0_28m_9901_35k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3595/; rq_3595=done; spawn **rq_3596**; ticks=3595.
 - Next: **rq_3596 leftover dual** — Batch done (3586-3595); code 9900 leftovers (no new code 733 filer: Marienheim Raeren already in the data) (Médiathèque Nouvelle still unreachable). Next (old-code and NACE-BEL 2025 scans complete, all keys triaged; EPHEC-Galilée not used: no general mailbox on its own site), then further code 9900 leftovers from the rebuilt pool, largest first..
+
+
+## Tick 3596 — 2026-10-13T15:31:55Z — rq_3596 leftover dual Gandae - Welzijn & Werk op Maat Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Gandae - Welzijn & Werk op Maat** → KBO 0406.711.201 had 0 prior entity rows.
+- KBO: Actief since 23 september 1965; VZW; zetel Gaardeniersweg 2 9000 Gent; 3 VE; 0 prior entity rows for 0406.711.201
+- Found: official NBB VOL-VZW native PDF **2026-00439019** (1291987 B / 49p; AV 01-06-2026; neergelegd 27/08/2026; MD5 56b7600e0da3ca16cc4bdfdd9a01c19a). VOL-VZW 733 **EUR126244** (+0.47%); 62 **EUR16177804**; 9901 **EUR657684** (was 988279); 9904 568649; equity 35679674; cash 3668513; FTE 403,6 (was 400,8).
+- FOI address: info@gandae.be — general mailbox verified on the official site https://www.gandae.be/contact (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_gandae_gent_vaph_matrix_733_0_13m_9901_658k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3596/; rq_3596=done; spawn **rq_3597**; ticks=3596.
+- Next: **rq_3597 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
