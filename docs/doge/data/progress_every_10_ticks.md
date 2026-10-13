@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3510** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3500; 3501-3509 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3501-3509 residual dual L5 (not near-complete of 348bn):** Centrum Agrarische Geschiedenis · Technicity.brussels · Woodwize · Le Forum - Bruxelles contre les inégalités · Wijkhuis Chambéry · Compagnons Dépanneurs · Ergasia · Lhiving · Ateliers de la Rue Voot (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3096** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3151** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3501-3509** Centrum Agrarische Geschiedenis · Technicity.brussels · Woodwize · Le Forum - Bruxelles contre les inégalités · Wijkhuis Chambéry · Compagnons Dépanneurs · Ergasia · Lhiving · Ateliers de la Rue Voot.
+
+### Inventory (tick 3510)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 63489 |
+| commitments.csv | 7151 |
+| leaderboard.csv | 9269 |
+| entities.csv | 3169 |
+| sources.csv | 10386 |
+| FOI ready | 3096 |
+| FOI total rows | 3151 |
+| research_queue open | rq_3510 (carried; next: AMO Jeun’Est, Inter-Actions, Jeunes Schaerbeekois au Travail, SOS Enfants Namur, Maison Médicale Horizons (code 9900 leftovers; old-code scan: all 85 runnable pages finished or re-running (77 with results, 4 empty re-runs done, 4 re-running), 355 pages replaced by the NACE-BEL 2025 scan; 2025 scan 60 of 400 pages finished; triage 1120 of 3493 keys + all 148 new keys, no code 733 rows yet); largest first) |
+
+### What improved since tick 3500
+
+- **New source (tick3501-3509):** Centrum Agrarische Geschiedenis · Technicity.brussels · Woodwize · Le Forum - Bruxelles contre les inégalités · Wijkhuis Chambéry · Compagnons Dépanneurs · Ergasia · Lhiving · Ateliers de la Rue Voot. All nine are code 9900 leftovers (NOT subsidy amounts), largest first; the code 733 pool from all earlier scans is used up (Médiathèque Nouvelle retried, site still unreachable). Scan status at tick 3510: the old-code scan was found idle (no jobs running). Its 85 runnable pages (82.300, 93.291, 93.299) are all finished: 77 returned results and 8 finished empty; those 8 were restarted with 4 jobs in parallel, 4 have finished again with no results and 4 are still running. The other 355 pages (17 NACE codes that return HTTP 404 on KBO) are covered by the NACE-BEL 2025 replacement scan: 60 of 400 pages finished, 12 jobs in parallel. Triage: 1120 of 3493 earlier keys and all 148 new non-profit keys from the 2025-code pages checked (7 with a 2025 filing); no code 733 rows found so far. EU-level and international bodies, umbrella bodies, bodies without an own-domain general mailbox, address mismatches and duplicates excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3510 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3500** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
