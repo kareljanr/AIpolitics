@@ -39510,3 +39510,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: citeservices@cswd.be — general mailbox verified on the official site https://cswd.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cite_services_woluwe_saint_pierre_vaph_matrix_9900_1_53m_9901_380k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3667/; rq_3667=done; spawn **rq_3668**; ticks=3667.
 - Next: **rq_3668 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3668 — 2026-10-13T16:33:55Z — rq_3668 leftover dual Wallopoly Jambes YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Wallopoly** → KBO 0809.158.162 had 0 prior entity rows.
+- KBO: Actief since 16 januari 2009; VZW; zetel Rue de l'Aurore(JB) 98 5100 Namur; 1 VE; 0 prior entity rows for 0809.158.162
+- Found: official NBB VKT-VZW native PDF **2026-00249076** (45324 B / 11p; AV 18-06-2026; neergelegd 02/07/2026; MD5 f00485594d45fbb7844d85d07923a87b). VKT-VZW 9900 **EUR1347371** (-16.50%); 62 **EUR1339909**; 9901 **EUR5204** (was 10695); 9904 5129; equity 55802; cash 191023; FTE 23,5 (was 20,2).
+- FOI address: info@wallopoly.be — general mailbox verified on the official site https://wallopoly.be/nous-contacter/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_wallopoly_jambes_vaph_matrix_9900_1_35m_9901_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3668/; rq_3668=done; spawn **rq_3669**; ticks=3668.
+- Next: **rq_3669 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
