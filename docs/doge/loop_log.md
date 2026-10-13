@@ -39880,3 +39880,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: diass@wvcb.be — service mailbox verified on the official site https://www.wvcb.be/praktisch (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_wvcb_roeselare_vaph_matrix_9900_0_58m_9901_loss_28k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3704/; rq_3704=done; spawn **rq_3705**; ticks=3704.
 - Next: **rq_3705 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3705 — 2026-10-13T17:09:13Z — rq_3705 leftover dual Mondiale Werken Regio Lier Lier YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Mondiale Werken Regio Lier** → KBO 0649.920.091 had 0 prior entity rows.
+- KBO: Actief since 7 maart 2016; VZW; zetel Antwerpsesteenweg 65 2500 Lier; 1 VE; 0 prior entity rows for 0649.920.091
+- Found: official NBB MIC-VZW native PDF **2026-00158779** (173737 B / 11p; AV 01-06-2026; neergelegd 12/06/2026; MD5 c33083e987fd4cbd3dc5b7f23dc354f0). MIC-VZW 9900 **EUR392194** (+23.04%); 62 **EUR365381**; 9901 **EUR19916** (was 22422); 9904 19723; equity 207900; cash 130920; FTE n/a.
+- FOI address: info@mondialewerken.be — general mailbox verified on the official site https://mondialewerken.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_mondiale_werken_lier_vaph_matrix_9900_0_39m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3705/; rq_3705=done; spawn **rq_3706**; ticks=3705.
+- Next: **rq_3706 leftover dual** — Batch done (3696-3705); code 9900 rows from bounded KBO scan nscan7, largest first; no qualifying code 733 filer (Médiathèque Nouvelle still unreachable). Next: remaining nscan7 rows or a new bounded scan..
