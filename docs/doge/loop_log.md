@@ -36340,3 +36340,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3350 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3350 run locally as fallback.
 - Next: **rq_3350** — code 9900 (NOT subsidy amounts): IMP Le Relais (EUR2.98m), La Maison de nos Enfants (EUR2.80m), La Pommeraie (EUR2.67m), Huize Vogelzang (EUR2.54m), PHA Antwerpen (EUR1.84m); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3351 — 2026-10-13T06:35:29Z — rq_3350 leftover dual Institut Médico-Pédagogique Le Relais Herve YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **Institut Médico-Pédagogique Le Relais** → KBO 0416.332.611 had 0 prior entity rows.
+- KBO: Actief since 1 juli 1976; VZW; zetel Place du Marché 17 4651 Herve; 1 VE; 0 prior entity rows for 0416.332.611
+- Found: official NBB VKT-VZW native PDF **2026-00195756** (709276 B / 26p; AV 17-06-2026; neergelegd 25/06/2026; MD5 4f141b9b0e0e5485e57382248f5dd8f9). VKT-VZW 9900 **EUR2982537** (+3.59%); 62 **EUR3035728**; 9901 **EUR-102586** (was 140020); 9904 -96632; equity 1469435; cash 52231; FTE 42 (was 44,2).
+- FOI address: info@implerelais.be — general mailbox verified on the official site https://www.implerelais.be/ (official site of this ASBL).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_imp_le_relais_herve_vaph_matrix_9900_2_98m_9901_loss_103k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3351/; rq_3350=done; spawn **rq_3352**; ticks=3351.
+- Next: **rq_3352 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
