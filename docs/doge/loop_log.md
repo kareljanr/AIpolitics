@@ -38470,3 +38470,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cfbi.be — general mailbox verified on the official site https://www.cfbi.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cfbi_saint_gilles_vaph_matrix_9900_0_58m_9901_loss_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3563/; rq_3563=done; spawn **rq_3564**; ticks=3563.
 - Next: **rq_3564 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3564 — 2026-10-13T14:15:49Z — rq_3564 leftover dual La Trace Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **La Trace** → KBO 0458.520.780 had 0 prior entity rows.
+- KBO: Actief since 22 mei 1996; VZW; zetel Andennestraat 79 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0458.520.780
+- Found: official NBB VKT-VZW native PDF **2026-00207303** (51723 B / 14p; AV 09-06-2026; neergelegd 27/06/2026; MD5 3ac219dc567f2a94b2a25bbb5d358b9f). VKT-VZW 9900 **EUR577767** (+8.63%); 62 **EUR573795**; 9901 **EUR1093** (was 2179); 9904 1304; equity 83947; cash 67419; FTE 8,5 (was 7,9).
+- FOI address: info@latrace.be — general mailbox verified on the official site https://www.latrace.be/infos-pratiques (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_la_trace_saint_gilles_vaph_matrix_9900_0_58m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3564/; rq_3564=done; spawn **rq_3565**; ticks=3564.
+- Next: **rq_3565 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
