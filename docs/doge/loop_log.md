@@ -38170,3 +38170,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mediaraven.be — general mailbox verified on the official site https://mediaraven.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_mediaraven_gent_vaph_matrix_9900_0_70m_9901_46k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3533/; rq_3533=done; spawn **rq_3534**; ticks=3533.
 - Next: **rq_3534 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3534 — 2026-10-13T12:23:41Z — rq_3534 leftover dual Association pour le Droit des Etrangers (ADDE) Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Association pour le Droit des Etrangers (ADDE)** → KBO 0416.932.823 had 0 prior entity rows.
+- KBO: Actief since 10 maart 1977; VZW; zetel Kogelstraat 22 1000 Brussel; 1 VE; 0 prior entity rows for 0416.932.823
+- Found: official NBB VKT-VZW native PDF **2026-00211955** (47405 B / 12p; AV 20-05-2026; neergelegd 29/06/2026; MD5 6266cc3c0e187dcafc567331b7618b80). VKT-VZW 9900 **EUR684409** (+6.23%); 62 **EUR664926**; 9901 **EUR16679** (was 5317); 9904 15391; equity 236265; cash 116497; FTE 10 (was 10,1).
+- FOI address: info@adde.be — general mailbox verified on the official site https://www.adde.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_adde_bruxelles_vaph_matrix_9900_0_68m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3534/; rq_3534=done; spawn **rq_3535**; ticks=3534.
+- Next: **rq_3535 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
