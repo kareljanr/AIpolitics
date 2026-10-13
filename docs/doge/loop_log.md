@@ -38240,3 +38240,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3540 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3540 run locally as fallback.
 - Next: **rq_3540** — code 9900 (NOT subsidy amounts): Kinderhuis Kakelbont (EUR0.662m), Villa Basta (EUR0.654m), Gekkoo (EUR0.654m), AMO Plan J (EUR0.651m), Samarcande AMO (EUR0.647m); mailboxes verified on official sites, after the dedup check. Scans: old codes complete; NACE-BEL 2025 codes 150/400 pages; triage of all scan keys complete so far, no code 733 rows.
+
+
+## Tick 3541 — 2026-10-13T12:36:16Z — rq_3540 leftover dual Kinderhuis Kakelbont Herent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Kinderhuis Kakelbont** → KBO 0438.812.162 had 0 prior entity rows.
+- KBO: Actief since 19 januari 1989; VZW; zetel Overstraat 65 3020 Herent; 1 VE; 0 prior entity rows for 0438.812.162
+- Found: official NBB VKT-VZW native PDF **2026-00232768** (55953 B / 16p; AV 03-06-2026; neergelegd 25/06/2026; MD5 16fb76d490dd6f046c916504131a8e43). VKT-VZW 9900 **EUR662113** (+18.26%); 62 **EUR506776**; 9901 **EUR85391** (was -1362); 9904 83774; equity 1213812; cash 322536; FTE 8,3 (was 7,4).
+- FOI address: info@kinderhuiskakelbont.be — general mailbox verified on the official site https://www.kinderhuiskakelbont.be/praktisch (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_kakelbont_herent_vaph_matrix_9900_0_66m_9901_85k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3541/; rq_3540=done; spawn **rq_3542**; ticks=3541.
+- Next: **rq_3542 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
