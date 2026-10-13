@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3850** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3840; 3841-3849 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3841-3849 residual dual L5 (not near-complete of 348bn):** Leuven-Hageland Mobiel · De Zwerver · Tutti Fratelli · Kom op tegen Kanker · TarTarT (Theater aan Zee) · De Transformisten · Growfunding · Globelink · Open Plaats (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3397** drafts ready | Human send only; answered **11**; partial **29**; total FOI rows **3457** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3841-3849** Leuven-Hageland Mobiel · De Zwerver · Tutti Fratelli · Kom op tegen Kanker · TarTarT (Theater aan Zee) · De Transformisten · Growfunding · Globelink · Open Plaats.
+
+### Inventory (tick 3850)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 65948 |
+| commitments.csv | 7457 |
+| leaderboard.csv | 9575 |
+| entities.csv | 3475 |
+| sources.csv | 11304 |
+| FOI ready | 3397 |
+| FOI total rows | 3457 |
+| research_queue open | rq_3850 (carried; next: none queued (check remaining Flemish Subsidieregister candidates)) |
+
+### What improved since tick 3840
+
+- **New source (tick3841-3849):** Leuven-Hageland Mobiel · De Zwerver · Tutti Fratelli · Kom op tegen Kanker · TarTarT (Theater aan Zee) · De Transformisten · Growfunding · Globelink · Open Plaats. All from the Flemish Subsidieregister 2025_V01 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets; file kept outside the repo, register amount and largest verstrekker cited per row), non-profit filers only. Amounts from NBB 2025 filings: code 733 for full-model filers, otherwise code 9900 (NOT a subsidy amount). Mailboxes fetched directly from each body’s own site; KBO address checked with kb.py. Rejected: Masereelfonds, JNM, Humanistische Jongeren, ORBIT, Welzijnsschakels (national bodies with local branches: umbrella rule), S-Sport (mutualite-linked), Nationaal Park Bosland (intermunicipal), Heemschut (municipal agency), Travi and plastIQ (sector funds), Wotepa (mailbox domain differs from site), 't Wanneke and Handicar Zoersel (ISP mailboxes), Martha!tentatief and MiramirO (address mismatch), de Shelter (religious), ProVeg (international), others without a general mailbox on their own site. Correction: De Zwerver (tick3842) FOI set to not_ready (mailbox domain differs from site; seat not shown as its address).
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3850 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked 2026-10-13: no new DOGE tick commits (radar only). Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3840** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

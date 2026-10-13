@@ -41330,3 +41330,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@openplaats.be — general mailbox verified on the official site https://openplaats.be/info-en-openingsuren (same address and KBO number as the registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_open_plaats_gent_vaph_matrix_9900_1_40m_9901_37k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3849/; rq_3849=done; spawn **rq_3850**; ticks=3849.
 - Next: **rq_3850 leftover dual** — Partial batch (3846-3849); recipients from the Flemish Subsidieregister 2025_V01 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets; file kept outside the repo), non-profit filers not yet in the data (dedup by KBO and name), ranked by toegekend; amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest verstrekker cited per row. Correction in this commit: the tick3824 Kannet+ FOI row is set to not_ready (umbrella rule; Kannet+ is a Flanders-wide network with regional branches and duplicates entity vzw_kannet_antwerpen from tick2606); row kept. Skipped: AFS (international), Journalismfund Europe and ISF International Daycare (international), Verso (federation), DC-pwa (public), Compagnie Cecilia, Zomer van Antwerpen, Eastman and Cachet (no reachable own site or no general mailbox), Eos Wetenschap (no address on own site). Next: remaining Subsidieregister candidates (/workspace/subreg/cands.tsv)..
+
+
+## Tick 3850 — 2026-10-13T22:55:34Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3397** of 3457 rows; inventory budgets 65948 · commitments 7457 · leaderboard 9575 · entities 3475 · sources 11304.
+- Top10: **stable** (3841-3849 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3841-3849: Leuven-Hageland Mobiel · De Zwerver · Tutti Fratelli · Kom op tegen Kanker · TarTarT (Theater aan Zee) · De Transformisten · Growfunding · Globelink · Open Plaats.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3850 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3850 run locally as fallback.
+- Next: **rq_3850** — no candidate queued: continue the Flemish Subsidieregister candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
