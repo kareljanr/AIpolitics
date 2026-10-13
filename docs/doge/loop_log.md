@@ -38870,3 +38870,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@avanco.eu — general mailbox verified on the official site https://www.avanco.eu/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_avanco_adventure_aalbeke_vaph_matrix_9900_0_14m_9901_loss_58k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3603/; rq_3603=done; spawn **rq_3604**; ticks=3603.
 - Next: **rq_3604 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3604 — 2026-10-13T15:34:28Z — rq_3604 leftover dual Maison Arc-en-Ciel de Namur Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Maison Arc-en-Ciel de Namur** → KBO 0897.929.295 had 0 prior entity rows.
+- KBO: Actief since 15 mei 2008; VZW; zetel Rue Eugène Hambursin 13 5000 Namur; 1 VE; 0 prior entity rows for 0897.929.295
+- Found: official NBB VKT-VZW native PDF **2026-00188443** (48421 B / 13p; AV 22-06-2026; neergelegd 23/06/2026; MD5 6ac216437b79e1fc87eee7b2d9b567af). VKT-VZW 9900 **EUR129103** (-7.29%); 62 **EUR126937**; 9901 **EUR1151** (was 7733); 9904 1151; equity 29810; cash 16809; FTE 2,7 (was 2,6).
+- FOI address: info@macnamur.be — general mailbox verified on the official site https://macnamur.be/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_maison_arc_en_ciel_namur_vaph_matrix_9900_0_13m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3604/; rq_3604=done; spawn **rq_3605**; ticks=3604.
+- Next: **rq_3605 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
