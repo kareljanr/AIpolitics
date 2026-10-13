@@ -1,0 +1,2057 @@
+2026-00295617      0429794726   2025   EUR   26.0.15     m04-f      15/07/2026   39                            VKT-VZW 1
+
+
+
+
+                           JAARREKENING EN ANDERE OVEREENKOMSTIG
+                             HET WETBOEK VAN VENNOOTSCHAPPEN EN
+                           VERENIGINGEN NEER TE LEGGEN DOCUMENTEN
+
+
+
+IDENTIFICATIEGEGEVENS (op datum van de neerlegging)
+
+Naam :               De RegenbOog
+Rechtsvorm :         Vereniging zonder winstoogmerk
+Adres :     Lucien Londotstraat                                            Nr : 3B                   Bus :
+Postnummer : 3600                  Gemeente :     Genk
+Land :    België
+Rechtspersonenregister (RPR) - Ondernemingsrechtbank van           Antwerpen, afdeling Tongeren
+Internetadres :    www.deregenboog.be
+E-mailadres :      johan@deregenboog.be
+
+
+
+                                                                 Ondernemingsnummer                0429.794.726
+
+
+
+Datum van de neerlegging van het recentste stuk dat de datum van bekendmaking van de
+                                                                                                         28-05-2025
+oprichtingsakte en van de akte tot statutenwijziging vermeldt
+
+
+
+JAARREKENING in            EURO         goedgekeurd door de algemene vergadering van              16-06-2026
+
+
+    met betrekking tot het boekjaar dat de periode dekt van           01-01-2025      tot         31-12-2025
+
+
+                                        Vorig boekjaar van            01-01-2024      tot         31-12-2024
+
+
+De bedragen van het vorige boekjaar zijn identiek met die welke eerder openbaar werden gemaakt.
+
+
+
+Nummers van de secties van het standaardmodel die niet werden neergelegd omdat ze niet dienstig zijn :
+
+ VKT-VZW 6.1.1, VKT-VZW 6.1.3, VKT-VZW 6.2, VKT-VZW 6.5, VKT-VZW 6.6, VKT-VZW 8
+
+
+
+
+                                                                                                                Page 1 of 39
+N°       0429794726                                                                                            VKT-VZW 2
+
+
+                                LIJST VAN DE BESTUURDERS EN COMMISSARISSEN
+
+
+
+
+LIJST VAN DE BESTUURDERS EN COMMISSARISSEN
+
+VOLLEDIGE LIJST met naam, voornamen, beroep, woonplaats (adres, nummer, postnummer en gemeente) en functie in de vereniging
+of stichting
+
+
+
+Szeles Andy
+gepensioneerde
+Anjerstraat 9
+3600 Genk
+BELGIË
+
+
+Van Deynse Bieke
+sociaal cultureel werker
+Meerhoutstraat 15
+2430 Vorst (Kempen)
+BELGIË
+
+
+Coenen Eddy
+gepensioneerde
+Kneuterweg 15
+3520 Zonhoven
+BELGIË
+
+
+Van Damme Elke
+directeur
+Sint Remigiusstraat 25
+3740 Bilzen-Hoeselt
+BELGIË
+
+
+Knoops Honoré
+gepensioneerde
+Wolfsstraat 5
+3660 Opglabbeek
+BELGIË
+
+
+Vaes Jens
+ambtenaar
+Laerstraat 47
+3511 Kuringen
+BELGIË
+
+
+Vanroye Johan
+gepensioneerde
+Reyndersstraat 35
+3660 Opglabbeek
+BELGIË
+
+
+Smolders Mieke
+ambtenaar
+Guido Gezellestraat 83
+3582 Koersel
+BELGIË
+
+
+
+
+                                                                                                                 Page 2 of 39
+N°      0429794726                                                                              VKT-VZW 3.1
+
+
+                                              JAARREKENING
+
+
+
+BALANS NA WINSTVERDELING
+
+                                                      Toel.     Codes   Boekjaar             Vorig boekjaar
+
+ ACTIVA
+                                                               20
+ OPRICHTINGSKOSTEN
+ VASTE ACTIVA                                                  21/28               440.101               500.953
+                                                       6.1.1   21
+ Immateriële vaste activa
+
+ Materiële vaste activa                                6.1.2   22/27               440.101               500.953
+     Terreinen en gebouwen                                     22                  357.419              381.954
+     Installaties, machines en uitrusting                      23                   79.643              112.590
+     Meubilair en rollend materieel                            24                    3.039                    6.409
+     Leasing en soortgelijke rechten                           25
+
+     Overige materiële vaste activa                            26
+
+     Activa in aanbouw en vooruitbetalingen                    27
+
+                                                       6.1.3   28
+ Financiële vaste activa
+
+ VLOTTENDE ACTIVA                                              29/58               312.701               236.685
+
+ Vorderingen op meer dan één jaar                              29                  124.085               101.258
+     Handelsvorderingen                                        290                  42.867                16.946
+     Overige vorderingen                                       291                  81.218                84.312
+                                                               3
+ Voorraden en bestellingen in uitvoering
+     Voorraden                                                 30/36
+
+     Bestellingen in uitvoering                                37
+
+                                                               40/41
+ Vorderingen op ten hoogste één jaar
+     Handelsvorderingen                                        40
+
+     Overige vorderingen                                       41
+
+                                                               50/53
+ Geldbeleggingen
+
+ Liquide middelen                                              54/58               188.616               135.427
+                                                               490/1
+ Overlopende rekeningen
+
+ TOTAAL VAN DE ACTIVA                                          20/58               752.802               737.638
+
+
+
+
+                                                                                                      Page 3 of 39
+N°      0429794726                                                                                                          VKT-VZW 3.2
+
+                                                                                 Toel.     Codes   Boekjaar              Vorig boekjaar
+
+ PASSIVA
+ EIGEN VERMOGEN                                                                           10/15                522.723               546.171
+
+ Fondsen van de vereniging of stichting                                             6.2   10                   111.148               111.148
+                                                                                          12
+ Herwaarderingsmeerwaarden
+                                                                                    6.2   13
+ Bestemde fondsen en andere reserves
+
+ Overgedragen winst (verlies)                                          (+)/(-)            14                    18.206
+
+ Kapitaalsubsidies                                                                        15                   393.369               435.023
+                                                                                    6.2   16
+ VOORZIENINGEN EN UITGESTELDE BELASTINGEN
+                                                                                          160/5
+ Voorzieningen voor risico's en kosten
+     Pensioenen en soortgelijke verplichtingen                                            160
+
+     Belastingen                                                                          161
+
+     Grote herstellings- en onderhoudswerken                                              162
+
+     Milieuverplichtingen                                                                 163
+
+     Overige risico's en kosten                                                           164/5
+
+ Voorzieningen voor terug te betalen subsidies en legaten en                              167
+ voor schenkingen met terugnemingsrecht
+                                                                                          168
+ Uitgestelde belastingen
+
+ SCHULDEN                                                                                 17/49                230.078               191.468
+
+ Schulden op meer dan één jaar                                                      6.3   17                   148.080                    76.225
+     Financiële schulden                                                                  170/4                70.500                 70.500
+       Kredietinstellingen, leasingschulden en soortgelijke schulden                      172/3
+
+       Overige leningen                                                                   174/0               70.500                70.500
+     Handelsschulden                                                                      175                  77.580                     5.725
+     Vooruitbetalingen op bestellingen                                                    176
+
+     Overige schulden                                                                     178/9
+
+ Schulden op ten hoogste één jaar                                                   6.3   42/48                 81.998               115.242
+     Schulden op meer dan één jaar die binnen het jaar vervallen                          42
+
+     Financiële schulden                                                                  43                                          72.913
+       Kredietinstellingen                                                                430/8
+
+       Overige leningen                                                                   439                                       72.913
+     Handelsschulden                                                                      44
+
+       Leveranciers                                                                       440/4
+
+       Te betalen wissels                                                                 441
+
+     Vooruitbetalingen op bestellingen                                                    46
+
+     Schulden met betrekking tot belastingen, bezoldigingen en                            45                   81.998                 42.329
+     sociale lasten
+       Belastingen                                                                        450/3
+
+       Bezoldigingen en sociale lasten                                                    454/9               81.998                42.329
+     Overige schulden                                                                     48
+
+                                                                                          492/3
+ Overlopende rekeningen
+
+ TOTAAL VAN DE PASSIVA                                                                    10/49                752.802               737.638
+
+
+
+
+                                                                                                                                  Page 4 of 39
+N°      0429794726                                                                                                          VKT-VZW 4
+
+
+RESULTATENREKENING
+
+                                                                              Toel.     Codes   Boekjaar              Vorig boekjaar
+
+ Bedrijfsopbrengsten en bedrijfskosten
+     Brutomarge                                                     (+)/(-)            9900          1.019.182                 1.038.279
+       Waarvan: niet-recurrente bedrijfsopbrengsten                                    76A                 15.674                10.062
+       Omzet                                                                           70             115.791                  117.067
+       Lidgeld, schenkingen, legaten en subsidies                                      73           1.071.740                1.064.739
+       Handelsgoederen, grond- en hulpstoffen, diensten en                             60/61          185.716                  155.424
+       diverse goederen
+     Bezoldigingen, sociale lasten en pensioenen                    (+)/(-)            62                  928.646               922.259
+     Afschrijvingen en waardeverminderingen op oprichtingskosten,                      630                  68.036                 64.183
+     op immateriële en materiële vaste activa
+     Waardeverminderingen op voorraden, op bestellingen in
+     uitvoering en op handelsvorderingen: toevoegingen              (+)/(-)            631/4
+     (terugnemingen)
+     Voorzieningen voor risico's en kosten: toevoegingen            (+)/(-)            635/9
+     (bestedingen en terugnemingen)
+     Andere bedrijfskosten                                                             640/8                 1.222                      541
+     Als herstructureringskosten geactiveerde bedrijfskosten            (-)            649
+
+     Niet-recurrente bedrijfskosten                                                    66A                   2.932                 24.982
+
+ Bedrijfswinst (Bedrijfsverlies)                                    (+)/(-)            9901                  18.346                    26.313
+
+ Financiële opbrengsten                                                          6.4   75/76B                  155                       134
+     Recurrente financiële opbrengsten                                                 75                     155                       134
+     Niet-recurrente financiële opbrengsten                                            76B
+
+ Financiële kosten                                                               6.4   65/66B                  295                       437
+     Recurrente financiële kosten                                                      65                     295                       437
+     Niet-recurrente financiële kosten                                                 66B
+
+ Winst (Verlies) van het boekjaar vóór belasting                    (+)/(-)            9903                  18.206                    26.010
+                                                                                       780
+ Onttrekking aan de uitgestelde belastingen
+                                                                                       680
+ Overboeking naar de uitgestelde belastingen
+                                                                    (+)/(-)            67/77
+ Belastingen op het resultaat
+
+ Winst (Verlies) van het boekjaar                                   (+)/(-)            9904                  18.206                    26.010
+                                                                                       789
+ Onttrekking aan de belastingvrije reserves
+                                                                                       689
+ Overboeking naar de belastingvrije reserves
+
+ Te bestemmen winst (verlies) van het boekjaar                      (+)/(-)            9905                  18.206                    26.010
+
+
+
+
+                                                                                                                               Page 5 of 39
+N°      0429794726                                                                                              VKT-VZW 5
+
+
+RESULTAATVERWERKING
+
+                                                                               Codes   Boekjaar            Vorig boekjaar
+
+ Te bestemmen winst (verlies)                                       (+)/(-)   9906                18.206                    26.010
+     Te bestemmen winst (verlies) van het boekjaar                  (+)/(-)   (9905)              18.206               26.010
+     Overgedragen winst (verlies) van het vorige boekjaar           (+)/(-)   14P
+
+ Onttrekking aan het eigen vermogen: fondsen, bestemde fondsen en             791
+ andere reserves
+                                                                              691
+ Toevoeging aan de bestemde fondsen en andere reserves
+
+ Over te dragen winst (verlies)                                     (+)/(-)   (14)                18.206
+
+
+
+
+                                                                                                                    Page 6 of 39
+N°      0429794726                                                                                             VKT-VZW 6.1.2
+
+
+TOELICHTING
+
+STAAT VAN DE VASTE ACTIVA
+
+                                                                                 Codes    Boekjaar             Vorig boekjaar
+
+ MATERIËLE VASTE ACTIVA
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8199P     XXXXXXXXXX                     1.140.062
+
+ Mutaties tijdens het boekjaar
+     Aanschaffingen, met inbegrip van de geproduceerde vaste activa             8169                  7.184
+     Overdrachten en buitengebruikstellingen                                    8179
+
+     Overboekingen van een post naar een andere                       (+)/(-)   8189
+
+ Aanschaffingswaarde per einde van het boekjaar                                 8199            1.147.245
+
+ Meerwaarden per einde van het boekjaar                                         8259P     XXXXXXXXXX                            60.852
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                                    8219
+
+     Verworven van derden                                                       8229
+
+     Afgeboekt                                                                  8239
+
+     Overgeboekt van een post naar een andere                         (+)/(-)   8249
+
+ Meerwaarden per einde van het boekjaar                                         8259                  60.852
+
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar              8329P     XXXXXXXXXX                       699.961
+
+ Mutaties tijdens het boekjaar
+     Geboekt                                                                    8279                 68.036
+     Teruggenomen                                                               8289
+
+     Verworven van derden                                                       8299
+
+     Afgeboekt na overdrachten en buitengebruikstellingen                       8309
+
+     Overgeboekt van een post naar een andere                         (+)/(-)   8319
+
+ Afschrijvingen en waardeverminderingen per einde van het boekjaar              8329                 767.997
+
+ NETTOBOEKWAARDE PER EINDE VAN HET BOEKJAAR                                     (22/27)              440.101
+
+ WAARVAN
+     In volle eigendom van de vereniging of stichting                           8349
+
+
+
+
+                                                                                                                        Page 7 of 39
+N°      0429794726                                                                                                VKT-VZW 6.3
+
+
+STAAT VAN DE SCHULDEN
+
+                                                                                                          Codes   Boekjaar
+
+ UITSPLITSING VAN DE SCHULDEN MET EEN OORSPRONKELIJKE LOOPTIJD VAN MEER DAN ÉÉN
+ JAAR, NAARGELANG HUN RESTERENDE LOOPTIJD
+                                                                                                         (42)
+ Totaal der schulden op meer dan één jaar die binnen het jaar vervallen
+
+ Totaal der schulden met een resterende looptijd van meer dan één jaar doch hoogstens 5 jaar             8912                77.580
+
+ Totaal der schulden met een resterende looptijd van meer dan 5 jaar                                     8913                70.500
+
+ GEWAARBORGDE SCHULDEN (BEGREPEN IN DE POSTEN 17 EN 42/48 VAN DE PASSIVA)
+ Door Belgische overheidsinstellingen gewaarborgde schulden
+     Financiële schulden                                                                                 8921
+
+       Kredietinstellingen, leasingschulden en soortgelijke schulden                                     891
+
+       Overige leningen                                                                                  901
+
+     Handelsschulden                                                                                     8981
+
+       Leveranciers                                                                                      8991
+
+       Te betalen wissels                                                                                9001
+
+     Vooruitbetalingen op bestellingen                                                                   9011
+
+     Schulden met betrekking tot bezoldigingen en sociale lasten                                         9021
+
+     Overige schulden                                                                                    9051
+
+                                                                                                         9061
+ Totaal van de door Belgische overheidsinstellingen gewaarborgde schulden
+
+ Schulden gewaarborgd door zakelijke zekerheden gesteld of onherroepelijk beloofd op activa van de
+ vereniging of stichting
+     Financiële schulden                                                                                 8922
+
+       Kredietinstellingen, leasingschulden en soortgelijke schulden                                     892
+
+       Overige leningen                                                                                  902
+
+     Handelsschulden                                                                                     8982
+
+       Leveranciers                                                                                      8992
+
+       Te betalen wissels                                                                                9002
+
+     Vooruitbetalingen op bestellingen                                                                   9012
+
+     Schulden met betrekking tot belastingen, bezoldigingen en sociale lasten                            9022
+
+       Belastingen                                                                                       9032
+
+       Bezoldigingen en sociale lasten                                                                   9042
+
+     Overige schulden                                                                                    9052
+
+ Totaal der schulden gewaarborgd door zakelijke zekerheden gesteld of onherroepelijk beloofd op activa   9062
+ van de vereniging of stichting
+
+
+
+
+                                                                                                                        Page 8 of 39
+N°      0429794726                                                                                           VKT-VZW 6.4
+
+
+RESULTATEN
+
+                                                                              Codes   Boekjaar             Vorig boekjaar
+
+ PERSONEEL
+ Werknemers waarvoor de vereniging of stichting een DIMONA-verklaring heeft
+ ingediend of die zijn ingeschreven in het algemeen personeelsregister
+     Gemiddeld personeelsbestand berekend in voltijdse equivalenten           9087                 16,7                      20,5
+
+ OPBRENGSTEN EN KOSTEN VAN UITZONDERLIJKE OMVANG OF
+ UITZONDERLIJKE MATE VAN VOORKOMEN
+ Niet-recurrente opbrengsten                                                  76                 15.674                     10.062
+     Niet-recurrente bedrijfsopbrengsten                                      (76A)              15.674                10.062
+     Niet-recurrente financiële opbrengsten                                   (76B)
+
+ Niet-recurrente kosten                                                       66                   2.932                    24.982
+     Niet-recurrente bedrijfskosten                                           (66A)               2.932                24.982
+     Niet-recurrente financiële kosten                                        (66B)
+
+ FINANCIËLE RESULTATEN
+                                                                              6502
+ Geactiveerde interesten
+
+
+
+
+                                                                                                                    Page 9 of 39
+N°        0429794726                                                                                                                                     VKT-VZW 6.7
+
+
+SOCIALE BALANS
+
+
+
+
+Nummers van de paritaire comités die voor de vereniging of stichting bevoegd zijn:
+
+
+
+
+WERKNEMERS WAARVOOR DE VERENIGING OF STICHTING EEN DIMONA-VERKLARING HEEFT INGEDIEND OF DIE ZIJN
+INGESCHREVEN IN HET ALGEMEEN PERSONEELSREGISTER
+
+
+
+
+                                                                                                                     3. Totaal (T) of totaal in 3P. Totaal (T) of totaal in
+                                                                1. Voltijds                2. Deeltijds               voltijdse equivalenten     voltijdse equivalenten
+                                              Codes                                                                            (VTE)                      (VTE)
+Tijdens het boekjaar en het vorige                              (boekjaar)                  (boekjaar)
+boekjaar                                                                                                                    (boekjaar)               (vorig boekjaar)
+Gemiddeld aantal werknemers                   100                                11,3                          9,2                         16,7                         20,5
+Aantal daadwerkelijk gepresteerde uren        101                              16.226                       6.882                        23.108                     25.774
+Personeelskosten                              102                             595.932                     295.902                       891.834                    922.259
+
+
+
+
+                                                                                                                                                  3. Totaal in voltijdse
+                                                                      Codes             1. Voltijds                      2. Deeltijds
+Op de afsluitingsdatum van het boekjaar                                                                                                               equivalenten
+Aantal werknemers                                                    105                                  10                                7                              14
+
+Volgens de aard van de arbeidsovereenkomst
+     Overeenkomst voor een onbepaalde tijd                           110                                   9                                6                           12,5
+     Overeenkomst voor een bepaalde tijd                             111                                   1                                1                            1,5
+     Overeenkomst voor een duidelijk omschreven werk                 112                                   0                                0                              0
+     Vervangingsovereenkomst                                         113                                   0                                0                              0
+
+Volgens het geslacht en het studieniveau
+     Mannen                                                          120                                   1                                0                              1
+          lager onderwijs                                            1200                                  0                                0                              0
+          secundair onderwijs                                        1201                                  0                                0                              0
+          hoger niet-universitair onderwijs                          1202                                  1                                0                              1
+          universitair onderwijs                                     1203                                  0                                0                              0
+     Vrouwen                                                         121                                   9                                7                              13
+          lager onderwijs                                            1210                                  0                                0                              0
+          secundair onderwijs                                        1211                                  4                                3                            5,6
+          hoger niet-universitair onderwijs                          1212                                  3                                4                            5,4
+          universitair onderwijs                                     1213                                  2                                0                              2
+
+Volgens de beroepscategorie
+     Directiepersoneel                                               130                                   0                                0                              0
+     Bedienden                                                       134                                  10                                7                              14
+     Arbeiders                                                       132                                   0                                0                              0
+     Andere                                                          133                                   0                                0                              0
+
+
+
+
+                                                                                                                                                             Page 10 of 39
+N°        0429794726                                                                                                                              VKT-VZW 6.7
+
+
+TABEL VAN HET PERSONEELSVERLOOP TIJDENS HET BOEKJAAR
+
+
+
+
+                                                                                                                                           3. Totaal in voltijdse
+                                                                             Codes    1. Voltijds                  2. Deeltijds
+INGETREDEN                                                                                                                                     equivalenten
+Aantal werknemers waarvoor de vereniging of stichting tijdens het
+boekjaar een DIMONA-verklaring heeft ingediend of die tijdens het
+boekjaar werden ingeschreven in het algemeen personeelsregister              205                    178                               12                      182,5
+
+UITGETREDEN
+Aantal werknemers met een in de DIMONA-verklaring aangegeven of
+een in het algemeen personeelsregister opgetekende datum waarop
+hun overeenkomst tijdens het boekjaar een einde nam                          305                    185                               12                      189,2
+
+
+
+
+INLICHTINGEN OVER DE OPLEIDINGEN VOOR DE WERKNEMERS TIJDENS HET BOEKJAAR
+
+
+
+
+                                                                                     Codes                Mannen              Codes              Vrouwen
+
+Totaal van de formele voortgezette beroepsopleidingsinitiatieven ten laste
+van de werkgever
+     Aantal betrokken werknemers                                                     5801                                     5811
+     Aantal gevolgde opleidingsuren                                                  5802                                     5812
+     Nettokosten voor de vereniging of stichting                                     5803                                     5813
+          waarvan brutokosten rechtstreeks verbonden met de opleiding                58031                                    58131
+          waarvan betaalde bijdragen en stortingen aan collectieve fondsen           58032                                    58132
+          waarvan ontvangen tegemoetkomingen (in mindering)                          58033                                    58133
+
+Totaal van de minder formele en informele voortgezette
+beroepsopleidingsinitiatieven ten laste van de werkgever
+     Aantal betrokken werknemers                                                     5821                                     5831
+     Aantal gevolgde opleidingsuren                                                  5822                                     5832
+     Nettokosten voor de vereniging of stichting                                     5823                                     5833
+
+Totaal van de initiële beroepsopleidingsinitiatieven ten laste van de
+werkgever
+     Aantal betrokken werknemers                                                     5841                                     5851
+     Aantal gevolgde opleidingsuren                                                  5842                                     5852
+     Nettokosten voor de vereniging of stichting                                     5843                                     5853
+
+
+
+
+                                                                                                                                                      Page 11 of 39
+N°      0429794726                                  VKT-VZW 6.8
+
+
+WAARDERINGSREGELS
+
+
+
+
+     Terreinen en gebouwen = afschrijving 30 jaar
+     Installaties en uitrusting = 5 jaar
+     Rollend materiaal = 5 jaar
+     Meubilair = 10 jaar
+
+
+
+
+                                                      Page 12 of 39
+N°   0429794726                                                    VKT-VZW 7
+
+
+                      ANDERE OVEREENKOMSTIG HET WETBOEK VAN
+                  VENNOOTSCHAPPEN EN VERENIGINGEN NEER TE LEGGEN
+                                   DOCUMENTEN
+
+
+
+JAARVERSLAG
+
+
+
+
+                                                                   Page 13 of 39
+Jaarverslag 2025
+
+                   Page 14 of 39
+    Voorwoord
+De regenbOog vzw is in 2025 verder gegroeid, zowel in haar werking als in haar interne organisatie.
+Het was een jaar waarin we belangrijke beleidsmatige mijlpalen bereikten en onze positie als
+bovenlokale speler in het jeugdwerk en de vrijetijdszorg verder versterkten.
+
+Een eerste grote realisatie was de afronding en definitieve erkenning van onze twee
+VAPH-pilootprojecten Rechtstreeks Toegankelijke Hulp (RTH): Speelplezier voor elk kind (outreach
+met open invulling) en Maatwerk en verbinding in de kijker (open functie)
+
+Door deze erkenning beschikt de regenbOog voortaan over 142 bijkomende RTH-punten, wat ons
+totaal op 375 RTH-punten per jaar brengt. Dit is een structurele versterking: twee extra collega’s
+kunnen blijven, met een grote impact op het vrijetijdsaanbod en op onze brugfunctie, outreach en
+ondersteuning van reguliere partners.
+
+Daarnaast hebben we hard gewerkt aan het indienen van het beleidsplan bovenlokaal jeugdwerk
+2027–2031, waarmee we de koers voor de komende vijf jaar mee bepalen. Dit plan werd positief
+onthaald en resulteerde in een bijkomende financiering van 52.000 euro per jaar. Hierdoor kunnen
+we onze bovenlokale rol verder versterken en nieuwe initiatieven ontwikkelen.
+
+Onze brugfunctie en outreach worden zo een vaste pijler van onze werking, mede dankzij de
+erkenning van het VAPH-pilootproject en de verhoogde subsidie voor bovenlokaal jeugdwerk.
+
+In het kader van onze erkenning voor het jeugdwerk moesten we een fusie doorvoeren tussen
+Vrijwilligerswerk de regenbOog en de regenbOog vzw. De vrijwilligers moesten officieel deel
+uitmaken van dezelfde organisatie, omdat een subsidie voor vrijwilligerswerk niet gecombineerd mag
+worden met een subsidie voor jeugdwerk. Er is veel werk gekropen in het in orde brengen van deze
+fusie, in samenwerking met de notaris, de boekhouder en de bedrijfsrevisor.
+
+In verschillende steden en gemeenten voerden we gesprekken over de evaluatie van de
+speelpleinwerkingen en vroegen we een verhoging van de financiële middelen aan voor jobstudenten
+en vrijwilligers. Deze gesprekken leidden tot een verhoging van de lokale subsidies, wat het
+basisaanbod versterkt. In 2025 zijn we om organisatorische redenen gestopt met de
+speelpleinwerking in Lommel. De speelpleinwerking in Sint-Truiden ging om dezelfde reden voor de
+laatste keer door tijdens de paas- en kerstvakantie.
+
+Ook intern zetten we belangrijke stappen: we bereidden een reorganisatie van de
+organisatiestructuur voor en werkten verder aan de optimalisatie en digitalisering van administratie
+en boekhouding.
+
+In 2025 bereikte de regenbOog vzw in totaal 480 personen met een beperking. Dit betekent een lichte
+stijging ten opzichte van 2024 (+5 deelnemers). Enerzijds was er een daling door de stopzetting van
+de speelpleinwerking in Lommel. Anderzijds hebben we dankzij structurele samenwerkingen met
+partners zoals G-voetbal, TKT theater en Theater Uniek meer kinderen kunnen bereiken.
+
+In 2025 bestond het team uit: Yota, Nienke, Anneleen, Nadia, Francesca, Guler, Robine, Ireen,
+Karolien D., Tine, An, Emmely, Chloë, Claudia, Leander, Myrthe, Laura, Fatima en Maythe.
+
+We ontvangen middelen van lokale besturen, het bovenlokaal jeugdwerk en het VAPH. Onze
+activiteiten worden in cofinanciering georganiseerd. Het vrijetijdsaanbod voor deelnemers ouder dan
+                                                                                                  1
+
+
+
+                                                                                                       Page 15 of 39
+30 jaar wordt specifiek gefinancierd door het VAPH. Dankzij correcte registratie blijven de
+subsidiebronnen gescheiden en vermijden we dubbele financiering.
+
+De regenbOog vzw heeft een aanbod in Genk, Hasselt, Sint-Truiden, Bilzen, Beringen en Bocholt.
+
+    Missie, visie en kernwaarden
+In het kader van het beleidsplan bovenlokaal jeugdwerk 2027-2031 hebben we, in samenwerking met
+het team, het bestuur en verschillende stakeholders, de missie en visie van de regenbOog herwerkt.
+Daarbij legden we extra nadruk op samenwerking, co-creatie en inclusie. Voor het bovenlokaal
+jeugdwerk moesten we ook de waarden gelijke kansen en integriteit uitwerken, omdat deze
+belangrijk zijn voor een kwaliteitsvolle en toegankelijke werking. Binnen het VAPH-kader is het
+daarnaast essentieel dat we een duidelijke visie hebben op het omgaan met grensoverschrijdend
+gedrag, en die hebben we opgenomen in ons integriteitsbeleid.
+
+    • Missie
+Bij de regenbOog vzw creëren we unieke vrijetijdskansen voor kinderen, jongeren en volwassenen
+met een beperking. In een warme en toegankelijke omgeving staan plezier, creativiteit en
+verbondenheid centraal. Onze kracht ligt in laagdrempeligheid, flexibiliteit en een vraaggestuurde
+aanpak.
+
+Samen met deelnemers, ouders, vrijwilligers en partners ontwikkelen we activiteiten op maat die hun
+talenten versterken. Door samenwerking met jeugdwerk, welzijn, sport, cultuur, onderwijs,
+opgroeien en toerisme vergroten we participatiekansen. We brengen onze expertise in bij andere
+organisaties om inclusie te versterken.
+
+We dragen bij aan een duurzaam vrijetijdsaanbod en bouwen samen aan een samenleving waarin
+vrije tijd open en inclusief is: een hefboom voor gelijke kansen én kwaliteit van leven.
+
+    • Visie
+Bij de regenbOog vzw geloven we dat vrije tijd een basisrecht is: een bron van groei, ontspanning en
+verbinding. “KLEUR JE EIGEN TIJD” nodigt kinderen, jongeren en volwassenen met een beperking uit
+om hun talenten te ontdekken, nieuwe vriendschappen te sluiten en hun vrije tijd écht zelf vorm te
+geven.
+
+We creëren een warme, toegankelijke en stimulerende omgeving waarin iedereen zich welkom en
+erkend voelt. Activiteiten staan voor ontmoeting, creativiteit en plezier, en geven deelnemers ruimte
+om op hun eigen tempo te ontdekken wat ze graag doen. Deelnemers zijn regisseur van hun eigen
+vrije tijd, terwijl wij faciliteren, begeleiden en mogelijkheden creëren. Hierbij werken we steeds
+vraaggestuurd en participatief, zodat elke deelnemer actief kan meebeslissen over de invulling van
+zijn of haar vrije tijd.
+
+Onze kracht ligt in samenwerken: we bouwen bruggen tussen jeugdwerk, welzijn, onderwijs, sport,
+cultuur, opgroeien, toerisme en andere partners. Door kennis en middelen te bundelen, maken we
+vrijetijdskansen toegankelijk en inclusief. Als bovenlokaal jeugdwerk en vergunde zorgaanbieder
+versterken we basisvoorzieningen én ondersteunen we andere organisaties om hun aanbod open te
+stellen voor mensen met een beperking.
+
+                                                                                                   2
+
+
+
+                                                                                                        Page 16 of 39
+We vervullen een brugfunctie door participatie en verbindingen te versterken en nemen een
+signaalfunctie op door drempels voor gelijke kansen aan te kaarten en onze doelgroep een stem te
+geven. Het VN-verdrag inzake de rechten van personen met een handicap vormt ons fundament.
+Autonomie en levenskwaliteit zijn centrale aandachtspunten en we streven naar een duurzaam en
+toekomstgericht vrijetijdsaanbod. Onze ambitie is dat iedere persoon met een beperking een
+volwaardig leven kan leiden in een open, toegankelijke samenleving, waarin vrije tijd een opstap is
+naar gelijke kansen en brede participatie.
+
+    • Gelijke kansen
+De regenbOog vzw streeft naar een inclusieve organisatie waarin iedereen zich welkom voelt en
+gelijke kansen krijgt, ongeacht persoonlijke kenmerken of achtergrond. Dit beleid vloeit voort uit ons
+integriteitsbeleid, waarin respect, gelijkwaardigheid, veiligheid en waardigheid centraal staan.
+
+We zorgen ervoor dat alle deelnemers, medewerkers, vrijwilligers en jobstudenten gelijke toegang
+hebben tot onze activiteiten, ondersteuning en informatie. We signaleren en verwijderen actief
+drempels die deelname kunnen belemmeren, en maken zowel onze infrastructuur als onze
+communicatie zo toegankelijk mogelijk.
+
+Gelijke kansen komen tot uiting in:
+
+    •   een respectvolle, inclusieve communicatie en omgang;
+    •   activiteiten en infrastructuur die worden afgestemd op individuele noden;
+    •   vorming en sensibilisering van medewerkers, vrijwilligers en jobstudenten;
+    •   een preventieve aanpak tegen grensoverschrijdend gedrag en discriminatie;
+    •   een duidelijke meld- en opvolgprocedure via de Aanspreekpersoon Integriteit (API),
+        vertrouwenspersoon en preventieadviseur.
+
+We trekken dit beleid door naar onze partners en organisaties waarmee we samenwerken, zodat
+onze waarden rond inclusie en gelijke kansen ook daar worden toegepast.
+
+    • Integriteit
+Integriteit staat centraal in de werking van de regenbOog vzw. We handelen met respect, eerlijkheid
+en zorgvuldigheid en creëren een veilige omgeving waarin grensoverschrijdend gedrag wordt
+voorkomen en, indien nodig, op een correcte manier wordt aangepakt.
+
+Ons integriteitsbeleid is opgebouwd volgens de beleidsdriehoek van Grenswijs (kwaliteit, preventie
+en reactie) en maakt gebruik van het ernstinschattend systeem. Het beleid omvat:
+
+    •   een positief en veilig klimaat met duidelijke afspraken over gewenst gedrag;
+    •   een preventieve houding, met aandacht voor zelfregulatie en co-regulatie;
+    •   een duidelijke structuur voor het omgaan met grensoverschrijdend gedrag;
+    •   procedures voor opvang, nazorg, herstel en opvolging van incidenten.
+
+Binnen de organisatie zijn een Aanspreekpunt Integriteit (API), een vertrouwenspersoon en een
+preventieadviseur actief betrokken bij het bewaken van een veilige omgeving.
+
+
+
+                                                                                                    3
+
+
+
+                                                                                                         Page 17 of 39
+Het integriteitsbeleid werd sinds 2021 stap voor stap ontwikkeld samen met het team, vrijwilligers
+en jobstudenten, met ondersteuning van ICOBA en Grenswijs. In 2025 vernieuwden we dit beleid en
+legden we de klemtonen voor de komende beleidsperiode vast. Het beleid wordt ook toegepast in
+onze samenwerking met externe partners en wordt door ICOBA gebruikt als inspirerend voorbeeld.
+
+    Organisatiestructuur
+    • Bestuurlijke en leidinggevende structuur
+De Statutaire Algemene Vergadering vormt het belangrijkste beslissingsorgaan van de regenbOog
+vzw. Zij duidt uit haar leden een bestuursorgaan aan, samengesteld uit stakeholders en
+vertegenwoordigers van de deelnemers. Het bestuursorgaan bepaalt de strategische koers en is
+verantwoordelijk voor het financiële en personeelsbeleid.
+
+Het directieteam, bestaande uit de directeur en de pedagoog, bepaalt de strategische richting van de
+organisatie en vormt de brug tussen het bestuur en het team. Zij sturen de organisatie operationeel
+aan en ontwikkelen, in overleg met het bestuursorgaan en het team, het beleid. Dit beleid wordt
+vertaald in concrete doelstellingen en acties.
+
+Het beleidsteam bestaat uit de directeur, de pedagoog en de administratief verantwoordelijke. Dit
+team bewaakt het beleidskader, zorgt voor een goede afstemming tussen de verschillende teams en
+ondersteunt de medewerkers in hun dagelijkse werking.
+
+    • Teamwerking en ondersteunende diensten
+De kern van de organisatie wordt gedragen door de sociaal-culturele medewerkers. Zij organiseren
+en begeleiden de activiteiten en onderhouden het directe contact met de deelnemers en hun
+netwerk.
+
+De ondersteunende diensten bestaan uit twee pijlers:
+
+    •   Inhoudelijke ondersteuning: pedagoog en inhoudelijk/coachend medewerker.
+    •   Organisatorische ondersteuning: administratief medewerker en poetsmedewerker,
+        aangevuld met externe ondersteuning van de personeelsdienst van Acerta en een
+        boekhouder.
+
+Daarnaast hebben de rolstoeldansgroepen, Kameleon, het theaterproject (i.s.m. TKT Genk) en het G-
+voetbalproject (i.s.m. KRC Genk) een eigen vrijwilligersvergadering. Kameleon, G-voetbal en het
+theaterproject worden ondersteund door een beroepskracht.
+
+RegenbOog maakt deel uit van de werkgeversorganisatie SOM, de netwerkorganisatie Troef (jeugd)
+en samenwerkingsverbanden zoals CAANO (VAPH) en Forum (intersectoraal).
+
+    • Werking in 2025: vlakke structuur met zelforganiserende teams
+In de dagelijkse werking hanteren we een vlakke structuur met korte communicatielijnen en
+verschillende zelforganiserende teams (team jongeren, team volwassenen, team kinderwerking,
+pedagogisch team, team outreach, personeelsteam, briefing).
+
+
+                                                                                                  4
+
+
+
+                                                                                                       Page 18 of 39
+De zelforganiserende teams zijn verantwoordelijk voor de uitwerking van dit kader en voor het
+realiseren van de missie van regenbOog, in nauwe contact met de deelnemers. De teamleden werken
+op gelijkwaardige basis en delen samen de verantwoordelijkheid voor de resultaten. Deze structuur
+vergroot de betrokkenheid, flexibiliteit en loyaliteit van de medewerkers. Bovendien heeft ze
+bijgedragen aan een bredere draagkracht voor onze missie en een duidelijkere communicatie binnen
+ons netwerk.
+
+De zes speelpleinwerkingen hebben elk hun eigen overleg met animatoren en jobstudenten. De
+pedagoog zorgt voor de afstemming tussen de speelpleinwerkingen, is betrokken bij de voorbereiding
+en evaluatie ervan, en volgt crisissituaties en moeilijke situaties op.
+
+    • Werking vanaf 2026: semi-vlakke structuur met coördinatoren,
+      projectleiders en eigenaarschap
+Vanaf 2026 evolueert regenbOog vzw naar een semi-vlakke structuur. De grote deelwerkingen –
+volwassenwerking, jongerenwerking, kinderwerking en outreach – krijgen elk een coördinator.
+
+De coördinator organiseert en structureert de werking binnen de deelwerking, bewaakt het
+kwaliteitskader, stimuleert innovatie, fungeert als vast aanspreekpunt voor externe partners en
+ondersteunt de sociaal-culturele medewerkers binnen de deelwerking.
+
+De zelforganiserende teams blijven bestaan, maar worden inhoudelijk en organisatorisch versterkt
+door de coördinatoren. Hierdoor ontstaat een duidelijkere taakverdeling, meer continuïteit en een
+efficiëntere terugkoppeling naar het directieteam.
+
+Naast de deelwerkingen worden grote projecten aangestuurd door een projectleider, zoals G-voetbal
+(i.s.m. KRC Genk), theater (i.s.m. TKT Genk) en LABIOMISTA (i.s.m. Covida en Studio Koen
+Vanmechelen). De projectleider coördineert en voert uit, bewaakt de kwaliteit, onderhoudt het
+netwerk met partners en zorgt voor afstemming met het directieteam.
+
+Daarnaast krijgen organisatiebrede thema’s zoals stagiaires, vrijwilligerswerking en sociale media een
+projecteigenaar. Ook elke speelpleinwerking heeft een projecteigenaar. De projecteigenaar is
+verantwoordelijk voor de uitvoering van het thema binnen het afgesproken kader en koppelt terug
+aan het directieteam.
+
+Er is regelmatig werkoverleg tussen de administratief verantwoordelijke en de directeur, en tussen
+de inhoudelijk medewerker en de directeur.
+
+Coaching, begeleiding en expertise
+De pedagoog behoudt de rol van coach op beleidsniveau en blijft beschikbaar voor begeleiding van
+de coördinatoren en het team. Hierdoor kan de pedagoog zich richten op beleidsontwikkeling,
+kwaliteitsbewaking en ondersteuning van de coördinatoren, terwijl de dagelijkse begeleiding van
+projecteigenaren door de coördinator gebeurt.
+
+Het directieteam voert individuele begeleidingsgesprekken met medewerkers, waarin feedback,
+talentontwikkeling en ambities centraal staan.
+
+RegenbOog vzw versterkt het team door externe vormgevers en expertise in te zetten, samen te
+werken met partners en actief kennis te delen binnen het netwerk. Zo worden begeleiders,
+
+                                                                                                    5
+
+
+
+                                                                                                         Page 19 of 39
+coördinatoren en projecteigenaren voortdurend ondersteund en kunnen zij hun competenties verder
+ontwikkelen.
+
+     Werkingsgebied
+De regenbOog vzw was in 2025 in volgende regio’s actief:
+
+                                 werking volwassenen, jongerenwerking Toekan, speelpleinwerking,
+                                 naschoolse kinderopvang, speelateliers, natuurbeleving Labiomista, G-
+ Regio Genk
+                                 voetbal ism KRC Genk, theater ism TKT Genk en de Academie voor muziek,
+                                 woord en dans Genk
+
+ Regio West-Limburg
+                                 speelpleinwerking, naschoolse opvang, speelateliers
+ (Beringen)
+
+ Regio Zuid-West Limburg
+                                 speelpleinwerking, jongerenwerking Toekan
+ (Sint-Truiden)
+
+ Regio Hasselt                   speelpleinwerking
+
+ Regio Zuid-Oost Limburg
+                                 speelpleinwerking
+ (Bilzen)
+
+ Regio Noord-Limburg (Bocholt)   Rolstoeldansen ‘Dancing on Wheels’
+
+
+
+     Cijfers
+    • Doelgroep
+Deze cijfers vertegenwoordigen het aantal personen dat we in 2025 structureel en meermaals
+hebben bereikt, zowel via ons eigen aanbod als via de activiteiten in samenwerking met partners.
+
+Tabel 1: Aantal bereikte unieke personen per leeftijdsgroep
+
+ Leeftijd                                                    Aantal unieke personen
+
+ 3 tem 12 jaar                                                                   221
+
+ 13 tem 18 jaar                                                                  105
+
+ 19 tem 30 jaar                                                                    84
+
+ Ouder dan 30 jaar                                                                 70
+
+ Totaal                                                                          480
+
+
+Tabel 2: Aantal bereikte unieke personen per type handicap
+
+ Aard van de handicap                                        Aantal unieke personen
+
+ Verstandelijk                                                                   156
+
+ Fysiek                                                                            18
+
+ Sensorieel                                                                            5
+
+
+                                                                                                   6
+
+
+
+                                                                                                       Page 20 of 39
+    Meervoudig                                                                        99
+
+    Autisme                                                                          158
+
+    ADHD                                                                               4
+
+    Psychisch                                                                         12
+
+    Emotioneel                                                                         5
+
+    Geen beperking                                                                    23
+
+    Totaal                                                                           480
+
+
+Tabel 3: Aantal deelnemers met een budget van het VAPH
+
+    Persoonsvolgend budget                                            Aantal personen die       Aantal punten PVB/
+                                               Aantal personen met
+                                                                       hun budget hebben         bedrag in euro voor
+                                                               IDO
+                                                                           ingezet in 2025                  PAB/PVB
+
+                                                                          cash      voucher
+
+    PVB                                                        14               5          9           35,67 punten
+
+    PAB                                                                                                 € 33.371,24
+                                                               73           26
+
+    Totaal                                                     87                          40
+
+
+       • Aanbod activiteiten en bereik
+Tabel 4: Overzicht deelnemers en deelnames aan dagdelen
+In totaal registreerden we in 2025 bij 480 deelnemers 14049 participaties aan de aangeboden
+dagdelen.
+
+    Soort activiteit                                 Aantal unieke deelnemers       Aantal deelnames aan dagdelen1
+
+    Boomhut Genk                                                          80                                    2207
+
+    Boomhut Beringen                                                      57                                    1805
+
+    Boomhut Bilzen                                                        50                                     949
+
+    Boomhut Hasselt                                                       24                                     504
+
+    Boomhut Sint-Truiden                                                  40                                     705
+
+    JW Toekan Genk (dag en avond)                                         16                                     692
+
+    JW Toekan Sint-Truiden                                                20                                     185
+
+    JW Toekan school / LBM                                                40                                    1538
+
+    JW VTZ / dans                                                          9                                     217
+
+    Volwassenen activiteiten /Labiomista                                  44                                    2490
+
+    Paardrijden                                                           23                                     549
+
+
+
+1
+    Dagdeel = een activiteit van 2u tot 3u30
+                                                                                                           7
+
+
+
+                                                                                                               Page 21 of 39
+ G-voetbal *                                                         35                       1072
+
+ Theater TKT Genk *                                                  38                       1080
+
+ Theater Uniek *                                                      4                          56
+
+ Totaal                                                             480                      14049
+*G-voetbal, Theater TKT Genk en Theater Uniek maken deel uit van ons structureel aanbod in
+samenwerking met partners en worden tijdens het schooljaar wekelijks georganiseerd.
+
+Tabel 5: Evolutie bereik ten aanzien van vorige jaren
+
+ Aantal unieke deelnemers                                                  Aantal
+
+ 2019                                                                         307
+
+ 2020 (coronajaar)                                                            288
+
+ 2021 (gedeeltelijk coronajaar)                                               346
+
+ 2022                                                                         395
+
+ 2023                                                                         482
+
+ 2024                                                                         475
+
+ 2025                                                                         480
+
+
+
+Tabel 6: Evolutie aantal deelnames ten aanzien van vorige jaren
+
+ Aantal deelnames                                                          Aantal
+
+ Deelnames in 2019                                                10.699 dagdelen
+
+ Deelnames in 2020 (coronajaar)                                    7.681 dagdelen
+
+ Deelnames in 2021 (gedeeltelijk coronajaar)                      10.395 dagdelen
+
+ Deelnames in 2022                                                11.858 dagdelen
+
+ Deelnames in 2023                                                14.047 dagdelen
+
+ Deelnames in 2024                                                14.350 dagdelen
+
+ Deelnames in 2025                                                14.049 dagdelen
+
+
+
+Tabel 7: Aantal georganiseerde activiteiten per soort
+
+ Soort activiteiten
+
+ Activiteiten in eigen aanbod                       Aantal activiteiten doorgegaan
+
+ Opvang Boomhut Beringen                                                      138
+
+ Opvang Boomhut Genk                                                          138
+
+ Speelatelier Boomhut Beringen                                                 36
+
+ Speelatelier Boomhut Genk                                                     37
+
+ Spw BH Beringen                                                               62
+
+
+                                                                                        8
+
+
+
+                                                                                             Page 22 of 39
+SPW BH Bilzen                                                          52
+
+Spw BH Genk                                                            92
+
+SPW BH Hasselt                                                         52
+
+Spw BH Sint-Truiden                                                    54
+
+JW Dansen                                                              30
+
+JW Kiosk Nomadland                                                     21
+
+JW Toekan Genk avond                                                   18
+
+JW Toekan Genk overdag                                                 62
+
+JW Toekan School                                                       56
+
+JW Toekan ST                                                           22
+
+VW Midweek                                                              9
+
+VW BIM                                                                 29
+
+VW Boccia                                                              30
+
+VW Crea                                                                62
+
+VW Instuif                                                             18
+
+VW Koken                                                               62
+
+VW Muziek                                                              30
+
+VW Rolstoeldansen                                                      23
+
+VW theater                                                             27
+
+VW daguitstap                                                          14
+
+VW Wandelen                                                            29
+
+VW Zwemmen                                                             29
+
+LABIOMISTA                                                            400
+
+Paardrijden                                                            74
+
+Totaal activiteiten in eigen beheer                                  1706
+
+
+
+Activiteiten in samenwerking met partners   Aantal activiteiten doorgegaan
+
+G-voetbal                                                              31
+
+TKT theater                                                            27
+
+Theater Uniek                                                           8
+
+Totaal activiteiten via outreach                                       66
+
+Algemeen totaal                                                      1772
+
+
+
+
+                                                                             9
+
+
+
+                                                                                 Page 23 of 39
+Tabel 8: Activiteiten in outreach
+
+ Activiteiten in outreach                    Mobiele outreach      Ambulante outreach
+                                             (sessie van 1 à 2u)     (sessie van 1 à 2u)
+
+ Adviesraad personen          met     een
+                                                              5
+ beperking Genk
+
+ Belevingsdag Beringen                                        4
+
+ Blenders-Felies-Cik                                          1                       2
+
+ Studiedag    Blenders,     Felies,   Cik,
+                                                              4
+ Uniform
+
+ BOA Bonobo Genk                                              2
+
+ BOA De Bengeltjes                                            6
+
+ BOA Domino Bilzen                                            4                       1
+
+ BOA Pardotje                                                57
+
+ BOA Tutti Frutti Sint-Truiden                                8
+
+ Bovenuit Maasmechelen                                       25
+
+ CIK Genk                                                     1
+
+ Colloquium jeugdhulp                                         4
+
+ De Appelboom                                                 2
+
+ G-hockey Genk                                                4
+
+ Gemeente Riemst jeugdwerk                                                            1
+
+ Gigos Zwartberg                                              3
+
+ Gigos-Pardotje                                               2
+
+ Grabbel Genk                                                12
+
+ Jeugddienst Genk                                             4                       1
+
+ Jeugdraad Bree                                               2
+
+ Jeugdwelzijn Genk                                            2
+
+ Jobstudenten Genk                                            1
+
+ Jobstudenten Beringen                                        1
+
+ Jobstudenten Bilzen                                          1
+
+ Jobstudenten Hasselt                                         1
+
+ Jobstudenten Sint-Truiden                                    1
+
+ Kdv Familia vzw                                              4                       1
+
+ Komaf                                                        2
+
+ Lerend netwerk BOA Peer, Beringen,
+                                                              4                       2
+ Heusen-Zolder
+
+ Lerend netwerk BOA GAOZ                                      6
+                                                                                     10
+
+
+
+                                                                                           Page 24 of 39
+ LOK Genk                                                              2
+
+ Speelpleinwerking Mushi Genk                                          4
+
+ Netwerk warme transitie Genk                                          2
+
+ QRIOS Hasselt                                                         6
+
+ SAAMO                                                                 4
+
+ Stad Beringen BOA                                                     2
+
+ Stad Genk BOA                                                         8
+
+ Stad Sint-Truiden BOA                                                 2
+
+ Stad Tongeren-Borgloon                                                2
+
+ Tkt Theater Genk                                                     30                                 28
+
+ Voetbal KRC Genk                                                     60
+
+ Werkgroep kinderopvang Limburg                                        2
+
+ Totaal                                                             297                                  36
+
+
+
+    • Vrijetijdstrajectbemiddeling
+Tabel 9: Aantal bereikte personen per fase van vrijetijdstrajectbemiddeling
+
+ Vrijetijdstrajectbemiddeling op maat voor personen   Aantal bereikte personen (indelen volgens bereikte
+ met een handicap                                     eindstadium)
+
+ Aanmeldingsfase                                      135 aanmeldingen geregistreerd
+
+ Geen traject                                         48 aanmeldingen hebben niet geleid tot een
+                                                      toeleiding of intake
+
+ intakes                                              65 intakes zijn doorgegaan
+
+ Toeleiding                                           55 toeleidingen hebben geleid tot activiteiten binnen
+                                                      de regenbOog en 1 toeleiding geweest externe
+                                                      organisatie.
+
+ Wachtlijst                                           10 deelnemers staan na een intake op de wachtlijst
+
+
+    • Vrijwilligers
+Tabel 10: Aantal vrijwilligers per leeftijd in 2025
+
+ Leeftijd                                                                               Aantal vrijwilligers
+
+ Jonger dan 18 jaar                                                                                        6
+
+ Tussen 18 jaar en 25 jaar                                                                               85
+
+ Tussen 26 jaar en 50 jaar                                                                               20
+
+ Tussen 51 jaar en 65 jaar                                                                               18
+
+ Ouder dan 65 jaar                                                                                       10
+
+ Totaal aantal vrijwilligers                                                                            139
+                                                                                                         11
+
+
+
+                                                                                                               Page 25 of 39
+   • Beroepskrachten
+Tabel 11: Evolutie beroepskrachten
+
+ Actieve beroepskrachten                                                                    Aantal
+
+ Beroepskrachten op 31/12/2022                                                                  14
+
+ Beroepskrachten op 31/12/2023                                                                  17
+
+ Beroepskrachten op 31/12/2024                                                                  17
+
+ Voltijdse equivalenten op 31/12/2022                                                         10,1
+
+ Voltijdse equivalenten op 31/12/2023                                                         12,1
+
+ Voltijds equivalenten op 31/12/2024                                                         11,52
+
+ Voltijds equivalenten op 31/12/2025                                                         11,98
+
+
+   • Jobstudenten tijdens de speelpleinwerkingen
+Tabel 12: aantal jobstudenten in 2025
+
+ Werking                                                                        Aantal jobstudenten
+
+ Boomhut Beringen                                                                               12
+
+ Boomhut Bilzen                                                                                 15
+
+ Boomhut Genk                                                                                   17
+
+ Boomhut Hasselt                                                                                 7
+
+ Boomhut Sint-Truiden                                                                           15
+
+ Totaal                                                                                         66
+
+
+
+
+    Doelgroep
+De werking van de regenbOog vzw bevindt zich op de snijlijn van vrije tijd en welzijn. Als vergunde
+zorgaanbieder en bovenlokaal jeugdwerk richten we ons op een brede doelgroep, met de focus op
+personen met een lichte tot matige ondersteuningsnood. Voor personen met een complexe
+meervoudige beperking werken we samen met gespecialiseerde voorzieningen.
+
+We richten ons daarbij vooral op personen die thuis wonen en gebruikmaken van RTH-ondersteuning.
+Het gaat om mensen die slechts af en toe begeleiding nodig hebben en voor wie een laagdrempelig
+vrijetijdsaanbod een belangrijk verschil maakt.
+
+Onze activiteiten vinden plaats overdag, ’s avonds, in weekends en tijdens vakanties. De vraag is
+groter dan ons aanbod, maar we kiezen ervoor om zoveel mogelijk mensen kansen tot participatie te
+geven. We besteden extra aandacht aan deelnemers uit kwetsbare gezinnen en houden het aanbod
+bewust laagdrempelig, met beperkte financiële bijdragen. Waar nodig ondersteunen we gezinnen bij
+aanvragen via Rap op Stap, het OCMW of mutualiteiten.
+
+
+
+
+                                                                                                12
+
+
+
+                                                                                                      Page 26 of 39
+De regenbOog fungeert ook als vangnet voor kinderen en jongeren met gedragsmoeilijkheden die
+moeilijk aansluiting vinden in het reguliere jeugdwerk. Een specifieke doelgroep zijn schoolverlaters
+uit het buitengewoon onderwijs die hun toekomst stap voor stap zelf willen vormgeven.
+
+We werken kleinschalig en preventief, met aandacht voor groepssamenstelling, intervisie en
+aangepaste activiteiten.
+
+In 2025 bereikten we rechtstreeks 438 kinderen, jongeren en volwassenen met een beperking. De
+groep tot 30 jaar omvat 389 deelnemers (89%). De meeste deelnemers nemen deel aan de
+BOOMHUT-werkingen en speelateliers (57% of 251 deelnemers). De jongerenwerkingen TOEKAN
+vertegenwoordigen 19% van de deelnemers onder 30 jaar (85 deelnemers), en 10 % neemt deel aan
+activiteiten voor volwassenen. 13% neemt deel aan workshops zoals G-voetbal of paardrijden.
+
+We bereiken deelnemers met uiteenlopende ondersteuningsnoden, vooral autisme (35%),
+verstandelijke beperking (33%) en meervoudige beperking (22%). We bereiken gezinnen uit alle
+socio-economische lagen, met een relatief groter aandeel kwetsbare gezinnen.
+
+In 2025 organiseerden we 14.049 dagdelen vrijetijdsbesteding. We werken met kleine, homogene
+groepen van gemiddeld 6 à 7 deelnemers, met aandacht voor ondersteuningsbehoefte, gezinssituatie
+en beschikbare begeleiding. Het aanbod wordt voorbereid en aangestuurd door ervaren
+beroepskrachten. Tijdens de speelpleinwerkingen is elke coördinator ook verantwoordelijk voor de
+begeleiding, de voorbereiding en evaluatie van de activiteiten samen met jobstudenten en
+vrijwilligers. De pedagoog volgt de deelnemers, bezetting en wachtlijsten op.
+
+De regenbOog blijft sterk bovenlokaal werken: deelnemers kwamen uit 10 eerstelijnszones en enkele
+Nederlandse grensgemeenten. De grootste groepen wonen in Genk (24%), Bilzen-Hoeselt (9,4%),
+Beringen (9,1%), Hasselt (7,3%) en Sint-Truiden (6,9%).
+
+    Werking en vrijetijdsaanbod
+De regenbOog vervult in Limburg al bijna 50 jaar een voortrekkersrol in het ontwikkelen van
+vrijetijdsactiviteiten voor kinderen, jongeren en volwassenen met een beperking. Vanuit het recht op
+vrije tijd bouwen we aan een duurzaam aanbod dat ontspanning, ontmoeting en persoonlijke
+ontwikkeling combineert. Onze werking is warm, laagdrempelig en professioneel, met ondersteuning
+op maat. Samen met partners uit cultuur, jeugdwerk, sport, welzijn, onderwijs en toerisme maken
+we vrije tijd toegankelijk voor iedereen.
+
+    • Unieke positie
+De regenbOog vzw neemt een bijzondere plaats in binnen het welzijns- en jeugdwerklandschap. Onze
+doelgroep bevindt zich tussen de vierde en vijfde concentrische cirkel van het VAPH: kinderen,
+jongeren en volwassenen met voornamelijk een lichte tot matige ondersteuningsnood, die nood
+hebben aan aangepaste begeleiding om volwaardig te kunnen deelnemen aan vrije tijd.
+
+Door zorg en jeugdwerk te combineren, creëren we een unieke werking waarin vrije tijd, ontmoeting
+en verbinding centraal staan. We bieden aanvullende ondersteuning die deelname mogelijk maakt
+voor een brede groep personen met een beperking. Voor deelnemers met een complexe
+meervoudige beperking werken we nauw samen met gespecialiseerde voorzieningen, zodat iedereen
+een passende plek vindt.
+                                                                                               13
+
+
+
+                                                                                                        Page 27 of 39
+Deze kruisbestuiving tussen zorg en jeugdwerk werkt inspirerend en vernieuwend. Ze versterkt zowel
+de kwaliteit van onze vrijetijdsactiviteiten als onze rol als bruggenbouwer tussen sectoren. Zo draagt
+de regenbOog bij aan een inclusieve samenleving waarin vrije tijd een recht én een hefboom voor
+ontwikkeling is.
+
+    • Activiteiten in eigen beheer
+Aanbod voor kinderen
+De Boomhut omvat naschoolse opvang, speelateliers op woensdagnamiddag in Genk en Beringen, en
+vijf speelpleinwerkingen in Hasselt, Beringen, Genk, Sint-Truiden en Bilzen.
+
+    •   In de zomervakantie organiseren we 125 speelpleindagen op vijf locaties.
+    •   Tijdens kerst-, paas-, krokus- en herfstvakantie voorzien we 30 speelpleindagen in Genk en
+        Beringen.
+
+In 2025 zijn we om organisatorische redenen gestopt met de speelpleinwerking in Lommel. Vanaf
+2026 stoppen we om dezelfde reden ook met de speelpleinwerking tijdens de paas- en kerstvakantie
+in Sint-Truiden.
+
+Aanbod voor jongeren
+Toekan omvat:
+
+    •   Dagactiviteiten voor schoolgaande en niet-schoolgaande jongeren op maandag.
+    •   Dagactiviteiten voor schoolverlaters op vrijdag.
+    •   Deelname aan activiteiten voor volwassenen, zoals muziekbeleving, sport, workshops.
+
+Zo creëren we een vlotte overgang naar het volwassenenaanbod en kunnen jongeren ook na hun
+30ste blijven deelnemen.
+
+Aanbod voor volwassenen
+Voor volwassenen organiseren we:
+
+    •   Dagactiviteiten op dinsdag en donderdag (zoals koken, crea, muziek, zwemmen, wandelen,
+        boccia).
+    •   Tweewekelijks avondactiviteiten (Kameleon).
+    •   Daguitstappen tijdens vakanties.
+    •   Een jaarlijkse midweek.
+
+    • Activiteiten in co-creatie met andere partners
+We werken structureel samen met o.a. De Hoefjeshut, KRC Genk, Thema Kamer Theater, Groep Intro,
+Covida, Studio Koen Vanmechelen, Nomadland, Academie Muziek-Woord-Dans Genk en Dancing on
+Wheels.
+
+Aanbod voor kinderen
+    •   Paardrijden in samenwerking met De Hoefjeshut (zaterdag).
+    •   G-voetbal in samenwerking met KRC Genk (zaterdag).
+    •   Theateractiviteiten in samenwerking met Thema Kamer Theater (TKT) Genk (zondag).
+                                                                                                   14
+
+
+
+                                                                                                         Page 28 of 39
+    •   Danslessen voor kinderen vanaf 10 jaar in samenwerking met externe lesgever
+        (woensdagavond).
+
+Aanbod voor jongeren
+    •   Toekan avondactiviteiten voor jongeren in Genk en Sint-Truiden in samenwerking met Groep
+        Intro (vrijdagavond, om de 2 weken).
+    •   Natuurbeleving in Labiomista in samenwerking met studio Koen Vanmechelen en Covida
+        (wekelijks).
+    •   Jongeren werken onder begeleiding mee aan de catering op Nomadland (zomervakantie).
+    •   Jongeren kunnen ook deelnemen aan dans (externe lesgever), paardrijden (Hoefjeshut),
+        theater (TKT Genk).
+
+Aanbod voor jongeren en volwassenen
+    •   Nieuw in 2025: Theater Uniek: theateraanbod in samenwerking met Academie Muziek,
+        Woord en Dans in Genk (donderdagvoormiddag, om de 2 weken).
+    •   Rolstoeldansen in Bocholt in samenwerking met Dancing on Wheels.
+    •   Rolstoeldansen in Genk in samenwerking met vrijwilligers en externe lesgevers.
+    •   Volwassenen kunnen ook deelnemen aan het theateraanbod van TKT Genk.
+
+    • Afstemming vraag en aanbod
+De regenbOog vzw vertrekt vanuit het zelfbeschikkingsrecht van personen met een beperking. Vrije
+tijd is voor ons een essentieel onderdeel van de kwaliteit van leven: het biedt ontspanning, versterkt
+sociale relaties, stimuleert talentontwikkeling en werkt preventief door welzijn te bevorderen en
+problemen vroegtijdig te signaleren. Vanuit deze overtuiging creëren we vrijetijdskansen op maat,
+met aandacht voor keuzevrijheid, toegankelijkheid en ondersteuning waar nodig. Om ons aanbod
+optimaal af te stemmen op de noden en wensen van deelnemers, hanteren we vier kernprincipes.
+
+Inclusie en gelijkwaardigheid
+We ondersteunen zowel specifieke als reguliere werkingen zodat deelnemers kunnen kiezen waar ze
+het best tot hun recht komen. Inclusie betekent voor ons niet dat iedereen altijd in een regulier
+aanbod moet passen, maar dat iedereen het recht heeft om te kiezen tussen verschillende
+kwaliteitsvolle opties. Daarom zetten we in op voldoende en gevarieerd aanbod. Via outreach en
+sensibilisering versterken we de kennis en vaardigheden van begeleiders en partners, zodat zij beter
+kunnen inspelen op de noden van kinderen en jongeren met een beperking. We zien elk kind en elke
+jongere als een volwaardige deelnemer, met gelijke kansen op deelname.
+
+Ondersteuning op maat
+Tijdens kennismakingsgesprekken brengen we de ondersteuningsnoden en voorkeuren in kaart. Met
+ons zorgbehoefte-instrument maken we voor elke werking een evenwichtige bezettingspuzzel, zodat
+iedereen gelijke kansen krijgt om deel te nemen. We creëren veilige, stimulerende omgevingen
+waarin deelnemers zich kunnen ontwikkelen op hun eigen tempo en succeservaringen kunnen
+opbouwen.
+
+Autonomie en keuzevrijheid
+
+                                                                                                   15
+
+
+
+                                                                                                         Page 29 of 39
+Met onze baseline “Kleur je eigen tijd” stimuleren we deelnemers om hun vrije tijd zelf vorm te geven.
+We vertrekken vanuit talenten, krachten en mogelijkheden en versterken de regie van elke persoon.
+De ondersteuning sluit aan bij wat iemand nodig heeft om volwaardig te kunnen deelnemen.
+
+Toegankelijkheid en diversiteit
+We houden ons aanbod bewust laagdrempelig, zowel praktisch als financieel. We verlagen drempels,
+zoeken samen met het netwerk naar oplossingen en maken aanpassingen waar nodig. Diversiteit
+wordt gezien als een meerwaarde: elke persoon, elk gezin en elke medewerker wordt gelijkwaardig
+behandeld, met optimale participatiekansen voor iedereen.
+
+     Brug- en signaalfunctie
+De regenbOog versterkt de participatiekansen van kinderen en jongeren met een beperking door
+bruggen te bouwen tussen sectoren en samen te werken met diverse partners in Limburg. We
+vertrekken vanuit het recht op vrije tijd voor elk kind en stimuleren deelname aan het reguliere
+vrijetijdsaanbod, in een zo gewoon mogelijke omgeving. Samen met kinderen, ouders, toeleiders en
+hulpverleners bekijken we welke vorm van opvang of vrijetijdsbesteding het best aansluit bij hun
+welbevinden, ondersteuningsbehoefte, talenten en de groepscontext. Zo creëren we voorwaarden
+voor zelfbeschikking, gelijkwaardigheid en inclusie, in lijn met artikel 30 van het VN-verdrag inzake de
+rechten van personen met een handicap.
+
+    • Samenwerking en signaalfunctie
+We werken nauw samen met de Centra Inclusieve Kinderopvang (CIK) Genk en Hasselt, scholen voor
+buitengewoon onderwijs, thuisbegeleidingsdiensten en andere deskundigen om expertise te delen
+en trajecten op elkaar af te stemmen. Via samenwerking met sociale diensten, OCJ’s,
+vluchtelingenorganisaties en andere partners zetten we in op gelijke kansen voor kinderen uit
+kwetsbare gezinnen.
+
+In onze signaalfunctie sensibiliseren we lokale besturen en organisaties rond inclusie, maken we
+knelpunten zichtbaar en stimuleren we acties die drempels voor personen met een beperking
+wegwerken. We versterken de positieve beeldvorming via onze website en sociale media. Op Vlaams
+niveau werken we binnen het netwerk Troef, waar we in een netwerk met andere
+jeugdwerkorganisaties inzetten op de brug- en signaalfunctie.
+
+    • Ondersteuning en coaching op de werkvloer
+We bieden vraaggestuurde en trajectmatige ondersteuning aan reguliere opvanginitiatieven,
+speelpleinwerkingen en jeugdorganisaties. Dit gebeurt via observaties, coaching op de werkvloer,
+deelname aan activiteiten en terugkoppeling in teamvergaderingen of individuele gesprekken. Zo
+helpen we medewerkers om inclusieve omgevingen te creëren en te versterken.
+
+In 2025 ondersteunden we onder meer: BOA Bonobo Genk, De Bengeltjes Beringen, Domino Bilzen,
+Pardotje Genk, Tutti Frutti Sint-Truiden, speelpleinwerking Bovenuit (Maasmechelen/
+Dilsen-Stokkem), vakantiewerking Bubbelpret (Sint-Truiden), Gigos Zwartberg, G-hockey Genk,
+Grabbel en Co Genk, speelpleinwerking Mushi en de huiswerkbegeleiding van Saamo.
+
+
+
+                                                                                                     16
+
+
+
+                                                                                                           Page 30 of 39
+    • Het organiseren van lerende netwerken
+De regenbOog ondersteunt twee lerende netwerken binnen de buitenschoolse opvang. Deze
+netwerken brengen opvanginitiatieven samen om ervaringen uit te wisselen rond inclusie, positief
+opvoeden, communicatie met ouders en het bespreken van casussen of uitdagende situaties. De
+bijeenkomsten vinden drie tot vier keer per jaar plaats en zijn steeds vraaggestuurd.
+
+Lerend netwerk regio Genk–As–Zutendaal: BOA De Apenstaart, KDV Familia vzw, Peter Pan (As),
+Pierewiet (Zutendaal) en CIK Genk.
+
+Lerend netwerk regio Peer–Heusden-Zolder–Beringen: BOA               Plons   (Peer),   ’t   Klimopke
+(Heusden-Zolder), De Bengeltjes (Beringen) en CIK Genk/Hasselt.
+
+    • Het geven van vormingen of workshops
+We bieden op maat gemaakte vormingen aan medewerkers en vrijwilligers van reguliere organisaties.
+Deze zijn interactief en praktijkgericht, met thema’s zoals omgaan met moeilijk verstaanbaar gedrag,
+inclusie in jeugdwerk en kinderopvang, communicatie met ouders en het gebruik van het inclusiespel
+of de inclusiekoffer. In 2025 gaven we 2 vormingen aan studenten orthopedagogie binnen Qrios en
+aan de stad Tongeren-Borgloon rond inclusief werken met jongeren.
+
+    • Centra inclusieve kinderopvang (CIK) Genk en Hasselt – outreach en
+      vorming
+We werken nauw samen met de CIK’s rond sensibilisering, toeleiding en ondersteuning van kinderen
+met een extra zorgbehoefte in reguliere opvanginitiatieven. Samen ontwikkelen en geven we
+vormingen, zoals Kennismaking inclusieve kinderopvang en Omgaan met moeilijk verstaanbaar
+gedrag. De regenbOog neemt actief deel aan de lerende netwerken die samen met het CIK worden
+georganiseerd.
+
+    Samenwerking rond aanbod, toeleiding en opvolging van
+    deelnemers
+    • Samenwerking met lokale besturen rond basisaanbod de Boomhut
+De regenbOog organiseert samen met lokale besturen (met hun financiële ondersteuning) het
+basisaanbod van de Boomhut (kinderopvang, speelatelier en speelpleinwerkingen). Zo krijgen
+kinderen en jongeren met een beperking toegang tot laagdrempelige vrijetijdsactiviteiten in hun
+eigen stad of gemeente.
+
+Structurele samenwerkingen
+   •   Genk (dienst jeugd, sport, kinderopvang)
+   •   Beringen (dienst welzijn)
+   •   Hasselt (jeugddienst)
+   •   Sint-Truiden (dienst jeugd, welzijn)
+   •   Bilzen-Hoeselt (dienst welzijn)
+
+
+
+                                                                                                 17
+
+
+
+                                                                                                       Page 31 of 39
+    • Samenwerking met partners in het creëren van een geïntegreerd aanbod
+De regenbOog ontwikkelt samen met partners een specifiek en inclusief vrijetijdsaanbod voor
+kinderen en jongeren met een beperking. Zo versterken we onze brugfunctie en vergroten we hun
+toegang tot diverse activiteiten.
+
+Structurele partners
+    •   Theater TKT Genk – wekelijkse lessen & jaarlijkse voorstelling
+    •   LABIOMISTA Genk – dagelijks natuurproject (Koen Vanmechelen)
+    •   Covida vzw – ondersteuning LABIOMISTA & vakantie-aanbod
+    •   Groep Intro – Toekan-activiteiten
+    •   KRC Genk – wekelijkse G-voetbaltrainingen
+    •   De Hoefjeshut Maaseik – paardgerichte activiteiten
+    •   Theater Uniek - Academie Muziek, Woord en Dans in Genk-2 maandelijkse theateractiviteiten
+
+    • Samenwerking met scholen en partners in het kader van toeleiding en
+      opvolging van deelnemers
+De regenbOog ondersteunt kinderen en jongeren met een beperking bij de toeleiding naar
+vrijetijdsactiviteiten, zowel binnen het eigen aanbod als bij externe organisaties. Dit gebeurt via een
+warme overdracht, onthaal, begeleiding en opvolging. Hiervoor werkt de regenbOog structureel
+samen met scholen voor buitengewoon onderwijs, thuisbegeleidingsdiensten en andere partners,
+zodat het aanbod aansluit bij de noden en interesses van de deelnemers en een vlotte doorstroming
+wordt ondersteund.
+
+Samenwerkingen
+    •   Groeicampus & BUSO De Wissel (Genk) – TOEKAN jongerenactiviteiten, kinderopvang,
+        speelatelier, speelpleinwerking, LABIOMISTA.
+    •   De Bloesem (Sint-Truiden) – speelpleinwerking.
+    •   De Brug, De Opaal & Vibo Sint-Barbara (Beringen) – speelatelier en speelpleinwerking.
+    •   Klavertje 3 en De Moppies (Bilzen) – speelpleinwerking.
+    •   De Berk & De Kids (Genk/Hasselt) – speelatelier en speelpleinwerking.
+    •   BUBAO De Dolfijn & BULO Sint-Martinus (Genk) – speelatelier en speelpleinwerking.
+    •   De Appelboom (Genk, kleuters met autisme) – speelatelier en speelpleinwerking (sinds 2010).
+    •   Thuisbegeleidingsdiensten – toeleiding en opvolging deelnemers.
+    •   LCO’s (lokaal cliëntenoverleg) – opvolging deelnemers.
+    •   Huizen van het Kind – toeleiding en opvolging deelnemers.
+    •   BOA De Bengeltjes (Beringen) – toeleiding en opvolging van deelnemers in het kader van
+        opvang, speelatelier en speelpleinwerking – regelmatig afstemmen en ondersteuning van het
+        team.
+    •   KDV Familia en CIK (Genk/Hasselt) – toeleiding en opvolging van deelnemers in het kader van
+        opvang, speelatelier en speelpleinwerking – regelmatig afstemming en ondersteuning van
+        het team.
+
+
+
+
+                                                                                                    18
+
+
+
+                                                                                                          Page 32 of 39
+     Belangenbehartiging
+De regenbOog vzw behartigt de belangen van onze doelgroep door het kanaliseren en vertalen van
+signalen die verband houden met personen een beperking uit al dan niet maatschappelijk kwetsbare
+gezinnen. Op die manier willen we een stem geven aan onze doelgroep. Medewerkers en vrijwilligers
+zijn alert voor bemerkingen, (hulp)vragen, problemen, nieuwe situaties van de doelgroep. Deze
+waardevolle signalen brengen we tijdens diverse overlegorganen over naar de betrokken organisaties
+en (beleids)instanties. De regenbOog vzw is actief op meerdere niveaus.
+
+    • Genk
+Campusoverleg CitéZ Genk
+Afstemming en samenwerking met Gigos, BOA Pardotje, Sint-Albertusschool, buurtwerk BOL, de
+wijkmanager, Saamo en Chiro Zwartberg. Daarnaast worden gezamenlijke activiteiten georganiseerd
+voor kinderen met en zonder handicap, zoals het Sinterklaasfeest en de Langste Pannenkoekentafel.
+
+Frequentie: 3 keer per jaar.
+
+Wijkoverleg Zwartberg
+Overleg met SAAMO, jobcoach,Gigos, WIL, wijkmanager om signalen uit de wijk te bundelen en acties
+op te zetten rond welzijn, werk en jeugd.
+
+Frequentie : jaarlijks.
+
+Speelpleincommissie Genk
+Afstemming en samenwerking rond aanbod en outreach ter versterking van een inclusieve
+speelpleinwerking en het tijdig signaleren van kinderen met een beperking.
+
+Frequentie: 2 keer per jaar.
+
+Jeugdraad Genk
+Samenwerking en afstemming om signalen rond inclusie en vrijetijdsbesteding van jongeren met een
+handicap in te brengen en bij te dragen aan beleidsaanbevelingen en gezamenlijke initiatieven.
+
+Frequentie: 2 keer per jaar.
+
+Lokaal Samenwerkingsverband BOA Genk
+Structurele deelname aan het netwerk van BOA om inclusie in de opvang en vrije tijd te bevorderen.
+
+Frequentie 3 keer per jaar.
+
+Lokaal overleg Kinderopvang Genk
+Structurele samenwerking met het lokaal overleg en werkgroepen om opvang voor kinderen met een
+beperking te versterken.
+
+Frequentie 2 keer per jaar.
+
+Stedelijke Adviesraad Personen met een Handicap Genk
+Structurele deelname aan het overleg om signalen rond inclusie en vrijetijdsbesteding in te brengen
+en beleidsaanbevelingen op te stellen.
+                                                                                                19
+
+
+
+                                                                                                      Page 33 of 39
+Frequentie: 4 keer per jaar.
+
+    • Beringen
+Overleg Welzijnscampus Regina Mundi Beringen
+Samenwerking met jeugdwelzijnswerk Arktos, Inzetje, Kind en Taal, De Bareel, de Speelboom, CVO
+LBC, CVO Cursa, Ligo, Saamo en stad Beringen. Samen met de partners organiseren we ook
+activiteiten voor kinderen met en zonder handicap.
+
+Stedelijke Adviesraad Kinderopvang Beringen
+Samenwerking ter ondersteuning van inclusie in de kinderopvang.
+
+Frequentie: 2 keer per jaar
+
+Stedelijke Adviesraad voor Andersvaliden
+Structurele samenwerking rond inclusie en vrijetijd. Samen organiseert de adviesraad inleefdagen.
+
+Frequentie: 3 keer per jaar
+
+Project KANS Beringen
+Samenwerking rond de opvang en ondersteuning van van anderstaligen nieuwkomers in het
+onderwijs en de vrije tijd. Partners zijn stad Beringen, Hivset, Ontdek techniek / talent, onderwijs
+Beringen, bibliotheek Beringen.
+
+Beleidsgroep Huis van het Kind
+Structurele samenwerking met Ferm, Agentschap Opgroeien, Inzetje, Speelboom, stad Beringen, CLB,
+Huis van het Kind, OCMW, Saamo, kinderdagverblijf Bambi, opvoedingswinkel West-Limburg, de
+Bareel.
+
+Stuurgroep moedergroep Beringen
+De regenbOog stelt lokaalruimte ter beschikking voor kinderen terwijl ouders taallessen volgen en
+geeft adviezen om inclusie te versterken.
+
+    • Andere steden en gemeenten
+Kerngroep Jeugdwelzijn Hasselt
+Samenwerking met lokale partners rond jeugdwelzijn en inclusie, onder meer in de stationsbuurt.
+
+Stedelijke Adviesraad Kinderopvang Bilzen
+Samenwerking ter versterking van inclusieve opvanginitiatieven.
+
+    • Bovenlokaal niveau
+Iroj – intersectoraal regionaal overleg jeugdhulp
+Structureel regionaal overleg waarin alle sectoren van de jeugdhulp samenwerken om hulpverlening
+beter op elkaar af te stemmen.
+
+Platform Minderjarigen
+
+
+                                                                                                  20
+
+
+
+                                                                                                       Page 34 of 39
+Samenwerking tussen VAPH en jeugdhulp, met partners zoals DAB, Covida, Bethanië, Sint-Elisabeth,
+Sint-Ferdinand, Sint-Oda, Stijn en de regenbOog. Het platform bewaakt de rechten van minderjarigen
+en de continuïteit van zorg.
+
+Forum
+Forum is een intersectoraal overlegplatform dat ontstaan is vanuit de Dienst Ondersteuningsplan
+(DOP). Het brengt organisaties samen om expertise te delen, knelpunten te bespreken en trajecten
+voor personen met een beperking beter op elkaar af te stemmen. De regenbOog neemt hier
+structureel aan deel om signalen rond inclusie en vrije tijd in te brengen.
+
+CAANO
+Bovenlokaal samenwerkingsverband tussen voorzieningen voor personen met een handicap (Covida,
+Zorggroep Arum, Intesa, Berkenhof, Ter Heide, Bethanië, Wiric, Tandem, de Wroeter en de
+regenbOog). De directeur van de regenbOog zetelt in het bestuur en medewerkers nemen deel aan
+diverse netwerktafels. Er wordt gewerkt aan gezamenlijke strategische projecten.
+
+    • Vlaams niveau
+Troef
+Netwerkorganisatie die streeft naar een open samenleving waarin personen met een beperking een
+volwaardig vrijetijdsaanbod vinden. De regenbOog is actief lid en werkt mee aan
+belangenbehartiging, beleidsbeïnvloeding en expertise-uitwisseling. De leden zijn: vzw Autisme Leeft,
+Briek vzw, De Lovie vzw, vzw de regenbOog, vzw De Stroom, vzw Dyade, vzw Het Balanske, Muzass
+vzw, vzw Oranje, vzw VOC Opstap, vzw Voluntas, vzw WVA, vzw Fiola - Yieha.
+
+SOM – Werkgeverskoepel
+Rechtstreekse afstemming met SOM over vragen en bezorgdheden uit de werking. De regenbOog
+neemt actief deel aan de werkgroep handicap en beleid en de trefdagen in Limburg
+
+    Pilootprojecten RTH binnen het VAPH
+De RegenbOog voerde tussen 2023 en 2025 twee pilootprojecten uit binnen het VAPH om te
+experimenteren met Rechtstreeks Toegankelijke Hulp (RTH): ‘Maatwerk en verbinding in de kijker’
+en ‘Speelplezier voor ieder kind’. Voor deze projecten werd in totaal 142 aanvullende RTH-punten
+toegekend. Eind 2025 kregen we het positieve nieuws dat beide pilootprojecten voor onbepaalde
+duur worden erkend.
+
+    • Maatwerk en verbinding in de kijker
+Binnen dit project werd gewerkt met een open functie, waarbij de begeleiding flexibel kon worden
+afgestemd op de deelnemer. Hierdoor konden ook korte activiteiten zoals naschoolse opvang,
+dansles, G-voetbal en paardrijden worden geregistreerd. Tot juni 2024 gebeurde dit via zelfgekozen
+RTH-punten (0,029 per activiteit). Vanaf juli 2024 werd dit systeem stopgezet en konden enkel nog
+halve of hele dagen worden geregistreerd. Hoewel het project voorzag in een registratie op basis van
+zorgzwaarte (1-op-1 tot 1-op-8), werd dit in 2024 niet toegepast; er werden enkel reguliere halve of
+hele dagen geregistreerd. Voor dit project ontving De RegenbOog jaarlijks 71 aanvullende
+RTH-punten.
+                                                                                                  21
+
+
+
+                                                                                                        Page 35 of 39
+    • Speelplezier voor ieder kind
+In dit pilootproject werd verder geëxperimenteerd met outreach, onder meer via jobshadowing,
+detachering en het opzetten van lerende netwerken. Het project richt zich op het versterken van
+reguliere partners en het ondersteunen van kinderen en jongeren met een beperking die moeilijk de
+weg vinden naar het reguliere aanbod. Door flexibele en duurzame outreach kunnen we beter
+inspelen op hun ondersteuningsnoden en die van onze partners. Ook voor dit project werden 71
+aanvullende RTH-punten toegekend.
+
+    Communicatie
+De meeste deelnemers bereiken ons via de klassieke kanalen: persoonlijk contact, telefoon, onze
+website en e-mail. Mond-tot-mondreclame blijft daarbij onze belangrijkste instroombron: tevreden
+deelnemers en ouders brengen nieuwe gezinnen aan en versterken zo onze zichtbaarheid. Daarnaast
+spelen onze website en onze actieve aanwezigheid op Facebook en Instagram een belangrijke rol in
+onze communicatie en in het bereiken van nieuwe doelgroepen.
+
+    Uitdagingen en kansen
+    • Uitdagingen
+De beleidsuitdagingen werden in 2025 geformuleerd op basis van gesprekken met medewerkers,
+vrijwilligers, ouders, deelnemers, lokale besturen en externe partners.
+
+Het vrijetijdsaanbod voor kinderen en jongeren met een beperking blijft schaars, waardoor ouders
+moeilijk een passend aanbod vinden. De ondersteuningsnoden zijn zeer divers: van rust en nabijheid
+tot uitdaging en intensieve begeleiding. De regenbOog kan deze gespecialiseerde zorg niet altijd zelf
+bieden, terwijl doorverwijzing vaak gepaard gaat met lange wachttijden. De jonge leeftijd en
+complexe ondersteuningsprofielen vragen een hoge inzet van begeleiders en zetten de draagkracht
+van het team onder druk.
+
+De complexiteit van problematieken neemt toe. Steeds meer kinderen en jongeren hebben
+verhoogde ondersteuningsnoden, ook wanneer diagnostiek nog niet is afgerond. De uitdaging
+bestaat erin hen een plek te bieden binnen een vrijetijdswerking, met aandacht voor hun volledige
+context en in samenwerking met partners, zonder de draagkracht van de werking te overschrijden.
+
+Ook ouders ervaren een verminderde pedagogische draagkracht door de combinatie van werk, gezin
+en maatschappelijke druk. Ze zoeken houvast, vertrouwen en duidelijke communicatie. Tegelijk zijn
+ouders mondiger en veeleisender, wat extra tijd en communicatieve vaardigheden vraagt van
+medewerkers. De uitdaging is om ouders te ondersteunen via open dialoog, met behoud van de
+pedagogische opdracht.
+
+Het vrijwilligersengagement verandert: langdurige inzet wordt moeilijker te combineren met studie
+en werk, terwijl jobstudenten tijdelijk waardevolle ervaring meebrengen. Het evenwicht tussen
+kwaliteitsvolle begeleiding en haalbaar vrijwilligersengagement blijft een aandachtspunt.
+
+
+
+
+                                                                                                  22
+
+
+
+                                                                                                        Page 36 of 39
+    • Nieuwe kansen dankzij de uitbreiding van middelen
+Dankzij de definitieve erkenning van de pilootprojecten (VAPH), de uitbreiding van middelen in het
+kader van het Vlaams Jeugdwerk en de verhoogde subsidies van de lokale besturen kunnen we onze
+werking op een duurzame manier continueren, versterken en uitbreiden. Hierdoor kunnen we vooral
+onze outreach en brugfunctie verder versterken en verdiepen.
+
+    • Beleidsopties en accenten voor de komende jaren
+De regenbOog wil de komende jaren haar werking versterken door het eigen specifieke aanbod
+verder te zetten en te verdiepen. Nieuwe initiatieven starten we alleen op in cocreatie of
+samenwerking met partners uit verschillende sectoren. Door samen te werken bereiken we meer
+mensen, ondersteunen we meer partners en stimuleren we inclusie.
+
+We zien veel kansen voor samenwerking over sectoren heen. Door onze krachten te bundelen met
+partners in Genk, Beringen en andere steden versterken we onze rol als expert en bruggenbouwer.
+
+Ons vrijetijdsaanbod blijft groeien rond spelplezier, talentontwikkeling, ontmoeting en
+levenskwaliteit. Door duidelijk te communiceren over onze mogelijkheden zorgen we voor een
+haalbaar en kwalitatief aanbod dat aansluit bij uiteenlopende noden. Ouders en partners betrekken
+we actief via open en transparante communicatie. Nieuwe vormen van vrijetijdsbesteding, zoals
+kampen met overnachting, ontwikkelen we enkel samen met andere organisaties.
+
+We blijven inzetten op een breed aanbod, zowel inclusief als specifiek, in samenwerking met partners
+zoals KRC Genk, TKT Theater, C-mine, LABIOMISTA, G-sport Vlaanderen en de Academie voor Muziek,
+Woord en Dans. Zo creëren we diverse vrijetijdskansen die passen bij verschillende interesses en
+ondersteuningsnoden.
+
+Onze expertise delen we actief met andere organisaties. We stimuleren kennisuitwisseling,
+versterken samenwerkingen en ondersteunen vrijwilligers via begeleiding, waardering en opvolging,
+met een vaste coördinator en een kern van hoofdanimatoren.
+
+De regenbOog blijft ook een duidelijke signaalfunctie opnemen. We maken noden zichtbaar,
+benoemen drempels en brengen de stem van kinderen en jongeren onder de aandacht via
+studiedagen, sociale media en samenwerking met lokale besturen en beleidsmakers.
+
+Tot slot investeren we in organisatorische en financiële versterking. Kleine teams, duidelijke rollen en
+taakafstemming op talenten verhogen onze wendbaarheid en het welzijn van medewerkers. Een
+transparant financieel kader ondersteunt duurzame investeringen in kwalitatieve vrijetijdskansen.
+Omdat we een klein team zijn en daardoor kwetsbaar, besteden we bepaalde expertise bewust uit,
+zoals personeelsadministratie (Acerta) en boekhouding. Dit verlaagt de werkdruk en laat ons focussen
+op onze kerntaak: kwaliteitsvolle vrijetijdskansen creëren.
+
+De regenbOog blijft zo, samen met haar partners, bouwen aan een open en toegankelijke
+samenleving waarin diversiteit gewaardeerd wordt, gelijkwaardigheid centraal staat en iedereen zijn
+of haar vrije tijd zelf kan vormgeven.
+
+
+
+
+                                                                                                     23
+
+
+
+                                                                                                           Page 37 of 39
+    Doelstellingen 2026
+   • Nieuw vrijetijdsaanbod in samenwerking met partners
+Vanaf september 2026 stoppen we met de naschoolse kinderopvang op maandag, dinsdag,
+donderdag en vrijdag in Genk. Deze werking maakte deel uit van onze convenant met de stad Genk.
+Samen met de dienst kinderopvang zoeken we een alternatief aanbod.
+
+De huidige naschoolse opvang past niet binnen onze visie op vrije tijd en groepsaanbod. De
+zorgnoden zijn hoog en het aantal kinderen is beperkt. We moeten telkens twee collega’s inzetten,
+waardoor deze werking financieel op termijn niet haalbaar is.
+
+We willen daarom een nieuw naschools vrijetijdsaanbod ontwikkelen in cocreatie met partners uit
+de vrijetijdssector. Mogelijke pistes zijn:
+
+   •   sportactiviteiten met de dienst Sport Genk
+   •   technologie-activiteiten met Educator T2 Campus Thorpark
+   •   culturele activiteiten met de Academie voor Muziek, Woord en Dans Genk
+
+Daarnaast zetten we sterker in op ondersteuning en coaching rond inclusieve kinderopvang binnen
+de reguliere opvanginitiatieven in Genk. Het nieuwe aanbod start vanaf oktober 2026.
+
+Vanaf het najaar 2026 wil de regenbOog vzw samenwerken met Kiosk, LABIOMISTA en Groep Intro
+aan een soepbar. De regenbOog wil één dag per week deelnemers met een beperking begeleiden bij
+het uitbaten van deze soepbar.
+
+Vanaf 2026 werken we jaarlijks per werking met een wow-activiteit. Begeleiders krijgen hiervoor een
+extra budget om een bijzondere of verrassende activiteit te organiseren.
+
+Daarnaast willen we in 2026 ook de voorbereidingen starten voor nieuwe initiatieven in het kader
+van het beleidsplan bovenlokaal jeugdwerk voor de beleidsperiode 2027–2031.
+
+   • Het professionaliseren van het medewerkersbeleid
+Vanaf 2026 starten we met een nieuwe organisatiestructuur waarbij we werken met coördinatoren
+voor jongerenwerking, volwassenen, kinderwerking en outreach. Outreach wordt zo een volwaardige
+pijler binnen onze werking. De coördinatoren zorgen voor kwaliteitsopvolging, innovatie en fungeren
+als aanspreekpunt. Ze krijgen daarnaast meer verantwoordelijkheid in het beheren van de uitgaven
+van hun activiteiten.
+
+We werken aan het verduidelijken van rollen en verwachtingen en leggen afspraken vast rond
+feedback. Ook het organigram wordt vernieuwd. We willen evolueren naar een efficiëntere
+overlegstructuur en heldere communicatielijnen. Vergaderingen worden opnieuw ingedeeld: we
+werken met overlegmomenten per thema, zodat alles niet langer door elkaar loopt.
+
+Daarnaast investeren we in coaching en vorming van medewerkers. In 2026 komt er via VDS een
+nieuwe collega die de verschillende Boomhutwerkingen inhoudelijk ondersteunt en op elkaar
+afstemt.
+
+We werken hiervoor samen met consultant Tilda Duchamps, die ons in dit proces begeleidt.
+
+                                                                                                24
+
+
+
+                                                                                                      Page 38 of 39
+   • Het optimaliseren van de administratie en boekhouding in Odoo
+Eind 2025 zijn we gestart met een extra dienstverlening via Acerta. Zij nemen onze personeelszaken
+en loonadministratie op. We hebben een koppeling gemaakt tussen onze tikklok en Acerta, waardoor
+we exports kunnen doorsturen die daar verder opgevolgd worden. Dit zorgt voor minder fouten,
+meer correcties waar nodig en maakt gebruik van de expertise van Acerta.
+
+In 2026 richten we ons op het optimaliseren van de administratie en boekhouding binnen Odoo. We
+willen aanmaningen verder automatiseren, zoveel mogelijk werken met domiciliëringen en onze
+boekhoudprocessen stroomlijnen. Vanaf 2026 willen we hiervoor ook samenwerken met een
+boekhouder in flexijob (wanneer mogelijk), die ons enkele dagen per maand ondersteunt om deze
+processen verder te optimaliseren.
+
+In 2027 werken we samen met een bedrijfsrevisor voor de controle en neerlegging van de
+jaarrekening van de regenbOog. Dit is verplicht in het kader van onze erkenning als bovenlokaal
+jeugdwerk. In 2026 bereiden we deze samenwerking en de nodige processen al voor.
+
+   • Nieuwe tarieven en PAB/PVB contracten in orde krijgen
+In 2026 bereiden we de nieuwe tarieven voor onze activiteiten en de aangepaste begeleidingskosten
+voor PAB en PVB voor. Deze nieuwe prijzen gaan in vanaf januari 2027. We zorgen ervoor dat alle
+PAB/PVB-contracten volledig in orde zijn en dat deelnemers hun budget ook effectief inzetten voor
+begeleidingskosten bij onze activiteiten. Dit is vooral belangrijk voor de Toekan- en
+Kameleon-avondactiviteiten, waar een deel van de deelnemers hun budget momenteel nog niet
+gebruikt.
+
+
+
+
+                                                                                               25
+
+
+
+                                                                                                     Page 39 of 39
+

@@ -39820,3 +39820,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: perso@crvi.be — general mailbox verified on the official site https://crvi.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_crvi_verviers_vaph_matrix_9900_1_82m_9901_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3698/; rq_3698=done; spawn **rq_3699**; ticks=3698.
 - Next: **rq_3699 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3699 — 2026-10-13T17:07:35Z — rq_3699 leftover dual De RegenbOog Genk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **De RegenbOog** → KBO 0429.794.726 had 0 prior entity rows.
+- KBO: Actief since 7 juli 1984; VZW; zetel Lucien Londotstraat 3B 3600 Genk; 1 VE; 0 prior entity rows for 0429.794.726
+- Found: official NBB VKT-VZW native PDF **2026-00295617** (800731 B / 39p; AV 16-06-2026; neergelegd 15/07/2026; MD5 ff641a4b3812521f088f6d92517b98c4). VKT-VZW 9900 **EUR1019182** (-1.84%); 62 **EUR928646**; 9901 **EUR18346** (was 26313); 9904 18206; equity 522723; cash 188616; FTE 16,7 (was 20,5).
+- FOI address: vrijetijd@deregenboog.be — general mailbox verified on the official site https://www.deregenboog.be/contact (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_de_regenboog_genk_vaph_matrix_9900_1_02m_9901_18k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3699/; rq_3699=done; spawn **rq_3700**; ticks=3699.
+- Next: **rq_3700 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
