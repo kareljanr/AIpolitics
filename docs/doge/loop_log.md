@@ -35104,3 +35104,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: infoprevention@brucity.be — general mailbox verified on the official site https://bravvo.bruxelles.be/avis (prevention-service mailbox of this ASBL).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_bravvo_bruxelles_code73_subsidy_split_73_contrib-gifts-legacies-subsidies-not-split_19_95m_9901_754k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3226/; rq_3226=done; spawn **rq_3227**; ticks=3226.
 - Next: **rq_3227 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3227 — 2026-10-13T02:24:40Z — rq_3227 leftover dual Brussels Major Events (BME) Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Largest recipients in the official City of Brussels 2025 subsidy inventory (opendata.brussels.be dataset subsides-ville-de-bruxelles-subsidies-stad-brussel-2025) not yet in the repo, cross-checked with the NBB filing: **Brussels Major Events (BME)** → KBO 0843.724.212 had 0 prior entity rows.
+- KBO: Actief since 16 februari 2012; VZW; zetel Grote Markt 1 1000 Brussel; 2 VE; 0 prior entity rows for 0843.724.212
+- Found: official NBB VOL-VZW native PDF **2026-00283488** (2013196 B / 43p; AV 23-06-2026; neergelegd 13/07/2026; MD5 77c291efbaf58e8d7c3abcd659889051). VOL-VZW 733 **EUR60668** (+3.26%); 62 **EUR3158698**; 9901 **EUR-161707** (was -244665); 9904 -194791; equity 1900812; cash 2531220; FTE 44,4 (was 44,3).
+- FOI address: info@bmeo.be — general mailbox verified on the official site https://www.brusselsmajorevents.be/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_brussels_major_events_vaph_matrix_733_0_06m_9901_loss_162k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3227/; rq_3227=done; spawn **rq_3228**; ticks=3227.
+- Next: **rq_3228 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
