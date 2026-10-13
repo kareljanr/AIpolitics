@@ -37650,3 +37650,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: direction@infosourds.be — general mailbox named in the body's statutes, verified on the official site https://www.infosourds.be/contacts-dinfo-sourds (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_info_sourds_bruxelles_vaph_matrix_9900_1_44m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3481/; rq_3480=done; spawn **rq_3482**; ticks=3481.
 - Next: **rq_3482 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3482 — 2026-10-13T11:34:50Z — rq_3482 leftover dual HERW!N Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **HERW!N** → KBO 0453.093.037 had 0 prior entity rows.
+- KBO: Actief since 19 mei 1994; VZW; zetel Koning Albertlaan 124 9000 Gent; 1 VE; 0 prior entity rows for 0453.093.037
+- Found: official NBB VKT-VZW native PDF **2026-00262491** (46935 B / 13p; AV 13-05-2026; neergelegd 07/07/2026; MD5 1e6eaa36a40c6f3de23392a98c108d86). VKT-VZW 9900 **EUR1415583** (+1.69%); 62 **EUR1239808**; 9901 **EUR164053** (was 54681); 9904 172143; equity 1547699; cash 646099; FTE 14,5 (was 15,2).
+- FOI address: hello@herwin.be — general mailbox verified on the official site https://herwin.be/contact/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_herwin_gent_vaph_matrix_9900_1_42m_9901_164k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3482/; rq_3482=done; spawn **rq_3483**; ticks=3482.
+- Next: **rq_3483 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T11:34:41Z,rq_3480,3481,no,tick3481 leftover dual Info-Sourds de Bruxelles Forest 0458.968.168 Strong PDF 2026-00270643 9900 1.44m / 9901 7k; next rq_3482 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T11:34:50Z,rq_3482,3482,no,tick3482 leftover dual HERW!N Gent 0453.093.037 Strong PDF 2026-00262491 9900 1.42m / 9901 164k; next rq_3483 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
