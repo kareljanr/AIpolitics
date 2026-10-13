@@ -38320,3 +38320,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@deharmonie.be — general mailbox verified on the official site https://deharmonie.be/nl/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_buurtwerk_noordwijk_bxl_vaph_matrix_9900_0_64m_9901_loss_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3548/; rq_3548=done; spawn **rq_3549**; ticks=3548.
 - Next: **rq_3549 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3549 — 2026-10-13T12:42:04Z — rq_3549 leftover dual Centre de Service Social de Namur Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre de Service Social de Namur** → KBO 0410.327.618 had 0 prior entity rows.
+- KBO: Actief since 2 juli 1953; VZW; zetel Rue Ruplémont 20 5000 Namur; 6 VE; 0 prior entity rows for 0410.327.618
+- Found: official NBB VKT-VZW native PDF **2026-00244595** (247681 B / 15p; AV 02-06-2026; neergelegd 29/06/2026; MD5 8adc0aa4612d9327d7a7bc9c447ae034). VKT-VZW 9900 **EUR631603** (+3.04%); 62 **EUR607925**; 9901 **EUR17295** (was -9527); 9904 17762; equity 287387; cash 181827; FTE 9,4 (was 9,7).
+- FOI address: general@css-namur.be — general mailbox shown on the official site https://css-namur.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_css_namur_vaph_matrix_9900_0_63m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3549/; rq_3549=done; spawn **rq_3550**; ticks=3549.
+- Next: **rq_3550 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
