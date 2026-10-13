@@ -40440,3 +40440,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3760 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3760 run locally as fallback.
 - Next: **rq_3760** — code 9900 (NOT subsidy amounts): Stormkop (EUR0.65m, micro); mailbox verified on the official site, after the dedup check. Source: bounded KBO scan nscan15.
+
+
+## Tick 3761 — 2026-10-13T19:26:09Z — rq_3760 leftover dual Stormkop Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Stormkop** → KBO 0725.853.770 had 0 prior entity rows.
+- KBO: Actief since 10 april 2019; VZW; zetel Droogdokkenweg 4 2030 Antwerpen; 1 VE; 0 prior entity rows for 0725.853.770
+- Found: official NBB MIC-VZW native PDF **2026-00213927** (47363 B / 12p; AV 24-06-2026; neergelegd 29/06/2026; MD5 27b856d23c494909df7fe8a8c5e49441). MIC-VZW 9900 **EUR651306** (+5.87%); 62 **EUR547714**; 9901 **EUR86118** (was 2500); 9904 83869; equity 139647; cash 145603; FTE n/a.
+- FOI address: info@stormkop.be — general mailbox verified on the official site https://www.stormkop.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_stormkop_antwerpen_vaph_matrix_9900_0_65m_9901_86k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3761/; rq_3760=done; spawn **rq_3762**; ticks=3761.
+- Next: **rq_3762 leftover dual** — Batch done (3752-3761); code 9900 rows from nscan14 leftovers and bounded KBO scan nscan15, largest first; no code 733 filer found; Médiathèque Nouvelle still unreachable. Next: a new bounded scan..

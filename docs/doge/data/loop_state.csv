@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T19:26:03Z,every10_3760,3760,no,"tick3760 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3700 carried open; next Stormkop (code 9900, nscan15)"
+main,continuous,hole_fill,2026-10-13T19:26:09Z,rq_3760,3761,no,"tick3761 leftover dual Stormkop Antwerpen 0725.853.770 Strong PDF 2026-00213927 9900 0.65m / 9901 86k; next rq_3762 Batch done (3752-3761); code 9900 rows from nscan14 leftovers and bounded KBO scan nscan15, largest first; no code 733 filer found; Médiathèque Nouvelle still unreachable. Next: a new bounded scan. (local fallback runner; Actions cron unreliable)"
