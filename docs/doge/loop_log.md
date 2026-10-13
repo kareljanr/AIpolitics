@@ -36130,3 +36130,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@jeugddorp.be — general mailbox verified on the official site https://www.jeugddorp.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bonheiden); FOI **gap_jeugddorp_bonheiden_vaph_matrix_733_5_29m_9901_loss_162k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3329/; rq_3329=done; spawn **rq_3330**; ticks=3329.
 - Next: **rq_3330 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3330 — 2026-10-13T06:08:24Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2934** of 2989 rows; inventory budgets 62173 · commitments 6989 · leaderboard 9107 · entities 3007 · sources 9900.
+- Top10: **stable** (3321-3329 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3321-3329: FIX · Becetel · De Rode Antraciet · Centre de Michamps · Centre Vidéo de Bruxelles · ACSOL · Wingerdbloei · La Cité Joyeuse · Jeugddorp.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3330 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3330 run locally as fallback.
+- Next: **rq_3330** — NACE 87.xxx scan (code 733 subsidies): St. Franziskus Eupen (EUR2.87m), Les Jours Paisibles (EUR2.50m), Saint-Thomas de Villeneuve (EUR2.04m), OLV Ter Westroze (EUR0.92m), Maria Troost Veurne (EUR0.90m); mailboxes verified on official sites, after the dedup check.
