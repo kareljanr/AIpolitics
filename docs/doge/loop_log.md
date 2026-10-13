@@ -39670,3 +39670,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vogelopvangcentrum.be — general mailbox verified on the official site https://vogelopvangcentrum.be/contact (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_vogelopvangcentrum_oostende_vaph_matrix_9900_0_59m_9901_31k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3683/; rq_3683=done; spawn **rq_3684**; ticks=3683.
 - Next: **rq_3684 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3684 — 2026-10-13T16:38:27Z — rq_3684 leftover dual De Keerkring, Centrum voor Opvoedingsondersteuning Sint-Niklaas YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **De Keerkring, Centrum voor Opvoedingsondersteuning** → KBO 0464.894.670 had 0 prior entity rows.
+- KBO: Actief since 30 september 1998; VZW; zetel Plezantstraat 165 bus 1 9100 Sint-Niklaas; 1 VE; 0 prior entity rows for 0464.894.670
+- Found: official NBB MIC-VZW native PDF **2026-00134465** (1507041 B / 62p; AV 11-05-2026; neergelegd 03/06/2026; MD5 fd15f1056ae2399719d068d18d39f568). MIC-VZW 9900 **EUR579719** (-9.04%); 62 **EUR606764**; 9901 **EUR-28669** (was 83208); 9904 -28348; equity 275279; cash 359436; FTE n/a.
+- FOI address: info@keerkring.be — general mailbox verified on the official site https://keerkring.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_keerkring_sint_niklaas_vaph_matrix_9900_0_58m_9901_loss_29k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3684/; rq_3684=done; spawn **rq_3685**; ticks=3684.
+- Next: **rq_3685 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
