@@ -39950,3 +39950,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@sosburnout.be — secretariat mailbox verified on the official site https://sosburnout.be/contact (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_sos_burn_out_belgique_gembloux_vaph_matrix_9900_0_79m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3711/; rq_3710=done; spawn **rq_3712**; ticks=3711.
 - Next: **rq_3712 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3712 — 2026-10-13T17:18:19Z — rq_3712 leftover dual Le Signe (AMO) Charleroi YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Le Signe (AMO)** → KBO 0444.454.790 had 0 prior entity rows.
+- KBO: Actief since 21 maart 1991; VZW; zetel Rue du Laboratoire 27 6000 Charleroi; 1 VE; 0 prior entity rows for 0444.454.790
+- Found: official NBB MIC-VZW native PDF **2026-00169890** (39885 B / 10p; AV 04-06-2026; neergelegd 15/06/2026; MD5 fda39f7882eb751a08aef7370a5744eb). MIC-VZW 9900 **EUR563262** (+8.71%); 62 **EUR544627**; 9901 **EUR-4080** (was 187); 9904 -6177; equity 164652; cash 140107; FTE n/a.
+- FOI address: secretariat@lesigne.be — secretariat mailbox verified on the official site https://www.lesigne.be/index.php/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_amo_le_signe_charleroi_vaph_matrix_9900_0_56m_9901_loss_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3712/; rq_3712=done; spawn **rq_3713**; ticks=3712.
+- Next: **rq_3713 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T17:18:10Z,rq_3710,3711,no,tick3711 leftover dual SOS Burn-out Belgique Gembloux 0782.499.493 Strong PDF 2026-00481429 9900 0.79m / 9901 17k; next rq_3712 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T17:18:19Z,rq_3712,3712,no,tick3712 leftover dual Le Signe (AMO) Charleroi 0444.454.790 Strong PDF 2026-00169890 9900 0.56m / 9901 loss 4k; next rq_3713 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
