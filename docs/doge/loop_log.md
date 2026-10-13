@@ -38900,3 +38900,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cota.be — general mailbox verified on the official site https://www.cota.be/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cota_bruxelles_vaph_matrix_733_0_20m_9901_loss_73k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3606/; rq_3606=done; spawn **rq_3607**; ticks=3606.
 - Next: **rq_3607 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3607 — 2026-10-13T15:45:13Z — rq_3607 leftover dual JES Sint-Jans-Molenbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **JES** → KBO 0443.565.558 had 0 prior entity rows.
+- KBO: Actief since 18 september 1990; VZW; zetel Werkhuizenstraat 3 1080 Sint-Jans-Molenbeek; 6 VE; 0 prior entity rows for 0443.565.558
+- Found: official NBB VKT-VZW native PDF **2026-00072994** (393253 B / 26p; AV 25-03-2026; neergelegd 07/04/2026; MD5 f3d8bceaacd15e3c2f8906337be6c077). VKT-VZW 9900 **EUR6754488** (+2.34%); 62 **EUR6677619**; 9901 **EUR-14108** (was -404295); 9904 6557; equity 1151799; cash 1415473; FTE 104,4 (was 109,2).
+- FOI address: info@jes.be — general mailbox verified on the official site https://www.jes.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_jes_molenbeek_vaph_matrix_9900_6_75m_9901_loss_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3607/; rq_3607=done; spawn **rq_3608**; ticks=3607.
+- Next: **rq_3608 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
