@@ -34954,3 +34954,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: coordination.ucclewb@ssmucclewb.be — general mailbox verified on the official site https://servicedesantementale-uccle-boitsfort.be/contacts/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ssm_forest_uccle_wb_vaph_matrix_9900_2_25m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3211/; rq_3210=done; spawn **rq_3212**; ticks=3211.
 - Next: **rq_3212 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3212 — 2026-10-13T01:47:23Z — rq_3212 leftover dual Santé Mentale et Exclusion Sociale - Belgique (SMES-B) Schaerbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Mental-health, youth-care and social-economy non-profits (Walloon/Brussels services de santé mentale and habitations protégées, Flemish jeugdhulp / sociale werkplaats VZWs) from a fresh KBO name search; code 733 rows first (none qualified), then largest code 9900: **Santé Mentale et Exclusion Sociale - Belgique (SMES-B)** → KBO 0475.627.523 had 0 prior entity rows.
+- KBO: Actief since 11 februari 2001; VZW; zetel Vooruitgangstraat 323 1030 Schaarbeek; 2 VE; 0 prior entity rows for 0475.627.523
+- Found: official NBB VKT-VZW native PDF **2026-00351561** (55494 B / 15p; AV 12-05-2026; neergelegd 22/07/2026; MD5 2ddd44d53f277f7a5e4b34a8975b91ea). VKT-VZW 9900 **EUR1951024** (+1.84%); 62 **EUR1890779**; 9901 **EUR34621** (was 22614); 9904 30347; equity 240756; cash 103130; FTE 26,9 (was 25,8).
+- FOI address: info@smes.be — general mailbox verified on the official site https://smes.be/fr/accueil/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_smes_b_vaph_matrix_9900_1_95m_9901_35k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3212/; rq_3212=done; spawn **rq_3213**; ticks=3212.
+- Next: **rq_3213 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
