@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T15:26:09Z,rq_3592,3592,no,tick3592 leftover dual Onthaalcentrum Foyer Sint-Jans-Molenbeek 0409.624.763 Strong PDF 2026-00102687 9900 0.33m / 9901 86k; next rq_3593 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T15:26:19Z,rq_3593,3593,no,tick3593 leftover dual Pony Paradise Anderlecht 0463.260.122 Strong PDF 2026-00247317 9900 0.32m / 9901 7k; next rq_3594 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

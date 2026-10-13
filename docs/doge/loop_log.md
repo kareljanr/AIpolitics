@@ -38760,3 +38760,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariaat@foyer.be — general mailbox verified on the official site https://www.foyer.be/contact-3/ (secretariat mailbox; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_foyer_molenbeek_vaph_matrix_9900_0_33m_9901_86k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3592/; rq_3592=done; spawn **rq_3593**; ticks=3592.
 - Next: **rq_3593 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3593 — 2026-10-13T15:26:19Z — rq_3593 leftover dual Pony Paradise Anderlecht YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Pony Paradise** → KBO 0463.260.122 had 0 prior entity rows.
+- KBO: Actief since 7 mei 1998; VZW; zetel Kiekensstraat 7 1070 Anderlecht; 1 VE; 0 prior entity rows for 0463.260.122
+- Found: official NBB VKT-VZW native PDF **2026-00247317** (973164 B / 17p; AV 18-05-2026; neergelegd 03/07/2026; MD5 7c325b089f4dde350981503639057d7b). VKT-VZW 9900 **EUR322644** (-5.84%); 62 **EUR293046**; 9901 **EUR6990** (was 14082); 9904 -7844; equity 82890; cash 6467; FTE 1.003.
+- FOI address: info@pony-paradise-brussels.be — general mailbox verified on the official site https://pony-paradise-brussels.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_pony_paradise_anderlecht_vaph_matrix_9900_0_32m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3593/; rq_3593=done; spawn **rq_3594**; ticks=3593.
+- Next: **rq_3594 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
