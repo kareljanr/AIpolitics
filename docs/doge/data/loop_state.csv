@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T11:28:48Z,rq_3477,3477,no,tick3477 leftover dual Revivre chez soi Liège 0410.571.801 Strong PDF 2026-00274038 9900 1.71m / 9901 loss 44k; next rq_3478 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T11:29:00Z,rq_3478,3478,no,tick3478 leftover dual Alternatives Familiales Braine-l'Alleud 0413.344.813 Strong PDF 2026-00253664 9900 1.63m / 9901 loss 6k; next rq_3479 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

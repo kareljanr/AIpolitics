@@ -37610,3 +37610,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: direction@revivrechezsoi.be — role (direction) mailbox verified on the official site https://www.revivrechezsoi.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_revivre_chez_soi_liege_vaph_matrix_9900_1_71m_9901_loss_44k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3477/; rq_3477=done; spawn **rq_3478**; ticks=3477.
 - Next: **rq_3478 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3478 — 2026-10-13T11:29:00Z — rq_3478 leftover dual Alternatives Familiales Braine-l'Alleud YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Alternatives Familiales** → KBO 0413.344.813 had 0 prior entity rows.
+- KBO: Actief since 27 juni 1973; VZW; zetel Avenue Albert 1er 21 1420 Braine-l'Alleud; 1 VE; 0 prior entity rows for 0413.344.813
+- Found: official NBB VKT-VZW native PDF **2026-00253664** (42110 B / 11p; AV 28-05-2026; neergelegd 29/06/2026; MD5 5a1cb4384f6f9e886cad77da90e14ef2). VKT-VZW 9900 **EUR1630324** (+2.48%); 62 **EUR1577208**; 9901 **EUR-5822** (was 21067); 9904 -24133; equity 765998; cash 460895; FTE 17,1 (was 17,3).
+- FOI address: info@alterfam.be — general mailbox verified on the official site http://www.alterfam.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_alternatives_familiales_braine_l_alleud_vaph_matrix_9900_1_63m_9901_loss_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3478/; rq_3478=done; spawn **rq_3479**; ticks=3478.
+- Next: **rq_3479 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
