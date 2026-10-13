@@ -36490,3 +36490,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@rmdp.be — general mailbox verified on the official site https://www.mediasdeproximite.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_rmdp_namur_vaph_matrix_9900_1_30m_9901_52k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3365/; rq_3365=done; spawn **rq_3366**; ticks=3365.
 - Next: **rq_3366 leftover dual** — Batch done; the 94/91/93/49/81/01-02 scans gave two new code 733 rows (Santhea, Fost Plus); the rest are code 9900 fallbacks from professional bodies. Next: Médiathèque Nouvelle (code 733, site unreachable this batch), then remaining 9900 leftovers largest first..
+
+
+## Tick 3366 — 2026-10-13T07:30:01Z — rq_3366 leftover dual Centre de Recherches Métallurgiques (CRM Group) Bruxelles (seat; labs in Liège and Gent) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre de Recherches Métallurgiques (CRM Group)** → KBO 0406.015.373 had 0 prior entity rows.
+- KBO: Actief since 11 maart 1948; VZW; zetel Ravensteinstraat 4 1000 Brussel; 10 VE; 0 prior entity rows for 0406.015.373
+- Found: official NBB VOL-VZW native PDF **2026-00103065** (766405 B / 53p; AV 15-04-2026; neergelegd 30/04/2026; MD5 8f0bccf25915304cacdfbd402495f4ec). VOL-VZW 733 **EUR12570959** (-9.55%); 62 **EUR19700969**; 9901 **EUR-76102** (was -402999); 9904 159600; equity 25260321; cash 1499954; FTE 182,4 (was 177,4).
+- FOI address: bdservices@crmgroup.be — role mailbox verified on the official site https://crmgroup.be/fr/contact/.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_crm_metallurgie_vaph_matrix_733_12_57m_9901_loss_76k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3366/; rq_3366=done; spawn **rq_3367**; ticks=3366.
+- Next: **rq_3367 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
