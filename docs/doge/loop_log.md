@@ -35840,3 +35840,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3300 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3300 run locally as fallback.
 - Next: **rq_3300** — NACE 94.99x scan (code 9900, NOT subsidy amounts): MS-Liga Vlaanderen (EUR1.74m), Bataljong (EUR1.68m), KSA Nationaal (EUR1.67m), GAFFI (EUR1.40m), Arc-en-Ciel (EUR1.32m); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3301 — 2026-10-13T05:07:57Z — rq_3300 leftover dual MS-Liga Vlaanderen Pelt YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.991 / 94.992 (974 legal persons not yet in the repo) and NACE 94.999 / 88.109 (776) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first: **MS-Liga Vlaanderen** → KBO 0424.531.287 had 0 prior entity rows.
+- KBO: Actief since 25 september 1982; VZW; zetel Boemerangstraat 4 3900 Pelt; 1 VE; 0 prior entity rows for 0424.531.287
+- Found: official NBB VKT-VZW native PDF **2026-00113509** (208236 B / 26p; AV 20-04-2026; neergelegd 18/05/2026; MD5 454c9dcc784b33b4c1efbf2ec4152d4e). VKT-VZW 9900 **EUR1740327** (+5.34%); 62 **EUR1526055**; 9901 **EUR81890** (was -12744); 9904 145980; equity 3956388; cash 2175579; FTE 20,1 (was 19,5).
+- FOI address: info@ms-vlaanderen.be — general mailbox verified on the official site https://ms-vlaanderen.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_ms_liga_vlaanderen_vaph_matrix_9900_1_74m_9901_82k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3301/; rq_3300=done; spawn **rq_3302**; ticks=3301.
+- Next: **rq_3302 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
