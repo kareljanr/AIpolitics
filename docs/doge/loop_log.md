@@ -39500,3 +39500,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@humanipedie.be — general mailbox verified on the official site https://humanipedie.be/termes-et-conditions (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_humanipedie_koekelberg_vaph_matrix_9900_2_12m_9901_167k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3666/; rq_3666=done; spawn **rq_3667**; ticks=3666.
 - Next: **rq_3667 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3667 — 2026-10-13T16:33:47Z — rq_3667 leftover dual Cité Services - Wijkdiensten Woluwe-Saint-Pierre YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Cité Services - Wijkdiensten** → KBO 0418.925.083 had 0 prior entity rows.
+- KBO: Actief since 14 september 1978; VZW; zetel Blauwe Hemelstraat 13A bus 400 1150 Sint-Pieters-Woluwe; 1 VE; 0 prior entity rows for 0418.925.083
+- Found: official NBB VKT-VZW native PDF **2026-00331669** (82818 B / 14p; AV 22-04-2026; neergelegd 23/07/2026; MD5 53d6c2e521ce694414e172646140e19c). VKT-VZW 9900 **EUR1530302** (+6.58%); 62 **EUR1500949**; 9901 **EUR380324** (was 100754); 9904 285306; equity 717457; cash 349814; FTE 27,3 (was 27,1).
+- FOI address: citeservices@cswd.be — general mailbox verified on the official site https://cswd.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cite_services_woluwe_saint_pierre_vaph_matrix_9900_1_53m_9901_380k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3667/; rq_3667=done; spawn **rq_3668**; ticks=3667.
+- Next: **rq_3668 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
