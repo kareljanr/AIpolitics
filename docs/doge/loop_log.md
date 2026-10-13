@@ -37500,3 +37500,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sos-hilfe.net — general mailbox verified on the official site https://www.sos-hilfe.net/kontakt/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_sos_hilfe_eupen_vaph_matrix_9900_1_89m_9901_179k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3466/; rq_3466=done; spawn **rq_3467**; ticks=3466.
 - Next: **rq_3467 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3467 — 2026-10-13T11:16:02Z — rq_3467 leftover dual Le Traversier Braine-l'Alleud YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Le Traversier** → KBO 0881.698.623 had 0 prior entity rows.
+- KBO: Actief since 3 mei 2006; VZW; zetel Grand'Route 129 1428 Braine-l'Alleud; 1 VE; 0 prior entity rows for 0881.698.623
+- Found: official NBB VKT-VZW native PDF **2026-00250139** (48876 B / 12p; AV 17-06-2026; neergelegd 30/06/2026; MD5 22429104fdff0c0c04f7dc6f76679d66). VKT-VZW 9900 **EUR1882954** (+2.35%); 62 **EUR1813996**; 9901 **EUR22382** (was 25111); 9904 17965; equity 220297; cash 385249; FTE 25 (was 25,1).
+- FOI address: info@asblletraversier.be — general mailbox verified on the official site https://www.asblletraversier.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_le_traversier_braine_l_alleud_vaph_matrix_9900_1_88m_9901_22k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3467/; rq_3467=done; spawn **rq_3468**; ticks=3467.
+- Next: **rq_3468 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
