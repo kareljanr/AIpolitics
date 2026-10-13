@@ -6,6 +6,42 @@
 
 ---
 
+## Snapshot at **tick 3180** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3170; 3171-3179 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3171-3179 residual dual L5 (not near-complete of 348bn):** LUCA School of Arts (Schaarbeek) · Lire et Ecrire Luxembourg · Lire et Ecrire Liège-Huy-Waremme · Lire et Ecrire Namur · Lire et Ecrire Charleroi Sud Hainaut · IES Les Colibris (Tournai) · Les Castors Réunis (Ans) · ESC Cinacien (Ciney) · Centre Scolaire Libre de Waremme (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2801** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2855** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3171-3179** LUCA School of Arts (Schaarbeek) · Lire et Ecrire Luxembourg · Lire et Ecrire Liège-Huy-Waremme · Lire et Ecrire Namur · Lire et Ecrire Charleroi Sud Hainaut · IES Les Colibris (Tournai) · Les Castors Réunis (Ans) · ESC Cinacien (Ciney) · Centre Scolaire Libre de Waremme.
+
+### Inventory (tick 3180)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 61063 |
+| commitments.csv | 6855 |
+| leaderboard.csv | 8973 |
+| entities.csv | 2873 |
+| sources.csv | 9498 |
+| FOI ready | 2801 |
+| FOI total rows | 2855 |
+| research_queue open | rq_3180 (carried; next: Centre scolaire Saint-Michel Etterbeek, Collège Jean XXIII, Saint-Joseph Chimay, Sainte-Marie Fontaine-l'Evêque, Saint-Remacle Stavelot; largest code 733 first) |
+
+### What improved since tick 3170
+
+- **New source (tick3171-3179):** LUCA School of Arts (Schaarbeek) · Lire et Ecrire Luxembourg · Lire et Ecrire Liège-Huy-Waremme · Lire et Ecrire Namur · Lire et Ecrire Charleroi Sud Hainaut · IES Les Colibris (Tournai) · Les Castors Réunis (Ans) · ESC Cinacien (Ciney) · Centre Scolaire Libre de Waremme. After the last Lire et Ecrire rows, applied the user decision of 13 Oct 2026: an @sec.cfwb.be school mailbox counts if shown on the FWB (enseignement.be) or SeGEC directory, disclosed in the draft. Crawled the SeGEC school directory (1,789 school pages), kept organising bodies with an @sec.cfwb.be address (24), matched them to KBO by name and triaged the NBB filings. All picks passed the dedup check.
+- **Toolkit:** data.py: SPE profile (FWB special-needs school organising bodies) and a SeGEC-directory recipient-note helper.
+- **FOI addresses:** 3171-3175 general/role mailboxes verified on opened official pages; 3176-3179 @sec.cfwb.be school mailboxes from the SeGEC directory, disclosed in each draft's recipient note.
+- **Runner note:** 2576-3180 ran on the local fallback runner; GitHub Actions DOGE loop: last run (#6, 2026-10-12 21:20 Brussels time) failed at its Tick step (Grok CLI not signed in); no newer run. Do not run both at once.
+- **Rejected 3171-3179 (fast, ~5 min cap):** IES Borinage (EUR15.10m) and Reumonjoie Malonne (EUR11.29m): SeGEC lists no @sec.cfwb.be address (own-domain/hotmail only); Centre Scolaire du Sacré-Coeur (EUR19.37m) already in entities (dedup).
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3170** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

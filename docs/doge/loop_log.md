@@ -34632,3 +34632,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: stlaurent.waremme@sec.cfwb.be — FWB-issued school mailbox (stlaurent.waremme@sec.cfwb.be) of Institut Saint-Laurent (Waremme), a school run by this organising body, as listed on the SeGEC school directory https://enseignement.catholique.be/etablissements/institut-saint-laurent/ (the page names this ASBL as pouvoir organisateur); per user decision of 13 Oct 2026 an @sec.cfwb.be school address on the SeGEC/enseignement.be directory counts; not a mailbox of the ASBL's board itself.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_cs_libre_waremme_vaph_matrix_733_17_88m_9901_137k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3179/; rq_3179=done; spawn **rq_3180**; ticks=3179.
 - Next: **rq_3180 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3180 — 2026-10-13T00:52:36Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2801** of 2855 rows; inventory budgets 61063 · commitments 6855 · leaderboard 8973 · entities 2873 · sources 9498.
+- Top10: **stable** (3171-3179 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3171-3179: LUCA School of Arts (Schaarbeek) · Lire et Ecrire Luxembourg · Lire et Ecrire Liège-Huy-Waremme · Lire et Ecrire Namur · Lire et Ecrire Charleroi Sud Hainaut · IES Les Colibris (Tournai) · Les Castors Réunis (Ans) · ESC Cinacien (Ciney) · Centre Scolaire Libre de Waremme.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3180 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3180 run locally as fallback.
+- Next: **rq_3180** — Centre scolaire Saint-Michel Etterbeek (code 733 EUR14.22m), Collège Jean XXIII (EUR12.25m), Saint-Joseph Chimay (EUR11.60m), Sainte-Marie Fontaine-l'Evêque (EUR9.79m), Saint-Remacle Stavelot (EUR8.16m), @sec.cfwb.be mailboxes from the SeGEC directory, after the dedup check.
