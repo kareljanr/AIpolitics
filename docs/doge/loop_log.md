@@ -39270,3 +39270,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@k-s.be — general mailbox verified on the official site https://www.k-s.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_kind_en_samenleving_mechelen_vaph_matrix_9900_0_53m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3643/; rq_3643=done; spawn **rq_3644**; ticks=3643.
 - Next: **rq_3644 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3644 — 2026-10-13T16:04:49Z — rq_3644 leftover dual Poëziecentrum Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Poëziecentrum** → KBO 0420.692.760 had 0 prior entity rows.
+- KBO: Actief since 25 juli 1980; VZW; zetel Vrijdagmarkt 36 9000 Gent; 1 VE; 0 prior entity rows for 0420.692.760
+- Found: official NBB MIC-VZW native PDF **2026-00291091** (43703 B / 11p; AV 23-03-2026; neergelegd 14/07/2026; MD5 3669356a1d887f425db519b284163a87). MIC-VZW 9900 **EUR520426** (-10.66%); 62 **EUR477701**; 9901 **EUR29054** (was 13174); 9904 27386; equity 212642; cash 156318; FTE n/a.
+- FOI address: contact@poeziecentrum.be — general mailbox verified on the official site https://www.poeziecentrum.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_poeziecentrum_gent_vaph_matrix_9900_0_52m_9901_29k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3644/; rq_3644=done; spawn **rq_3645**; ticks=3644.
+- Next: **rq_3645 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
