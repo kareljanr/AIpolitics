@@ -35920,3 +35920,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@proximitesante.be — general mailbox verified on the official site https://www.proximitesante.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_proximite_sante_ixelles_vaph_matrix_9900_1_20m_9901_56k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3308/; rq_3308=done; spawn **rq_3309**; ticks=3308.
 - Next: **rq_3309 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3309 — 2026-10-13T05:17:55Z — rq_3309 leftover dual O'YES Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.991 / 94.992 / 94.999 / 88.109 (1,750 legal persons not yet in the repo) and NACE 88.992 / 88.994 (401) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first; EU-level bodies excluded: **O'YES** → KBO 0809.282.480 had 0 prior entity rows.
+- KBO: Actief since 22 januari 2009; VZW; zetel Fortstraat 85 1060 Sint-Gillis (bij-Brussel); 2 VE; 0 prior entity rows for 0809.282.480
+- Found: official NBB VKT-VZW native PDF **2026-00135945** (54199 B / 15p; AV 12-05-2026; neergelegd 02/06/2026; MD5 c51fe351f37575614e676c12ee2d0d30). VKT-VZW 9900 **EUR1164825** (+9.31%); 62 **EUR896682**; 9901 **EUR106077** (was 74038); 9904 97591; equity 902557; cash 963962; FTE 14 (was 14).
+- FOI address: hello@o-yes.be — general mailbox verified on the official site https://www.o-yes.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_o_yes_saint_gilles_vaph_matrix_9900_1_16m_9901_106k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3309/; rq_3309=done; spawn **rq_3310**; ticks=3309.
+- Next: **rq_3310 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
