@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T04:05:45Z,every10_3270,3270,no,"tick3270 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3180 carried open; next Saint-Michel Etterbeek, Jean XXIII, Saint-Joseph Chimay, Sainte-Marie Fontaine-l Evêque, Saint-Remacle Stavelot, largest code 733 first (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-13T04:05:55Z,rq_3270,3271,no,tick3271 leftover dual La Maison de Musti Montigny-le-Tilleul 0420.082.353 Strong PDF 2026-00412063 9900 3.49m / 9901 186k; next rq_3272 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

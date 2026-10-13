@@ -35544,3 +35544,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3270 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3270 run locally as fallback.
 - Next: **rq_3270** — NACE 88.911/88.991 scan (code 9900, NOT subsidy amounts): La Maison de Musti (EUR3.49m), Crèche Petit à Petit Huy (EUR3.12m), SDPA Madeleine Melot Namur (EUR2.82m), Cunina (EUR2.17m), Régie des Quartiers de Liège (EUR2.09m); mailboxes verified on official pages, after the dedup check.
+
+
+## Tick 3271 — 2026-10-13T04:05:55Z — rq_3270 leftover dual La Maison de Musti Montigny-le-Tilleul YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used: NACE 88.911 / 88.991 (childcare and day-care without accommodation) over Walloon, Brussels and Flemish postcodes (912 legal persons not yet in the repo, 418 triaged), plus remaining NACE 88.999 / 88.101 / 85.599 rows; code 733 rows first, then code 9900, largest first: **La Maison de Musti** → KBO 0420.082.353 had 0 prior entity rows.
+- KBO: Actief since 28 december 1979; VZW; zetel Avenue des Eglantines 20 6110 Montigny-le-Tilleul; 1 VE; 0 prior entity rows for 0420.082.353
+- Found: official NBB VKT-VZW native PDF **2026-00412063** (43456 B / 11p; AV 30-06-2026; neergelegd 21/08/2026; MD5 4d030fc7ce76905b432b431795b63667). VKT-VZW 9900 **EUR3492753** (+13.93%); 62 **EUR3305618**; 9901 **EUR186315** (was -63069); 9904 188810; equity 638091; cash 835681; FTE 68,7 (was 62,4).
+- FOI address: maisondemusti@gmail.com — general mailbox shown on the official site https://www.lamaisondemusti.com/contact (a gmail.com address, not an own-domain mailbox; disclosed as such).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_maison_de_musti_montigny_vaph_matrix_9900_3_49m_9901_186k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3271/; rq_3270=done; spawn **rq_3272**; ticks=3271.
+- Next: **rq_3272 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
