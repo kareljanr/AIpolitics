@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T12:01:51Z,rq_3506,3506,no,tick3506 leftover dual Compagnons Dépanneurs Saint-Gilles 0416.016.271 Strong PDF 2026-00087512 9900 0.96m / 9901 loss 10k; next rq_3507 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T12:02:00Z,rq_3507,3507,no,tick3507 leftover dual Ergasia Stekene 0463.149.858 Strong PDF 2026-00349181 9900 0.93m / 9901 112k; next rq_3508 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

@@ -37900,3 +37900,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: infoasbl@compagnonsdepanneurs.be — general mailbox verified on the official site https://www.compagnonsdepanneurs.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_compagnons_depanneurs_saint_gilles_vaph_matrix_9900_0_96m_9901_loss_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3506/; rq_3506=done; spawn **rq_3507**; ticks=3506.
 - Next: **rq_3507 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3507 — 2026-10-13T12:02:00Z — rq_3507 leftover dual Ergasia Stekene YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Ergasia** → KBO 0463.149.858 had 0 prior entity rows.
+- KBO: Actief since 22 januari 1998; VZW; zetel Pannenhuisstraat(KLS) 32B 9190 Stekene; 1 VE; 0 prior entity rows for 0463.149.858
+- Found: official NBB VKT-VZW native PDF **2026-00349181** (34906 B / 8p; AV 30-06-2026; neergelegd 29/07/2026; MD5 c5c6bfe6527a910585da319895a67d3b). VKT-VZW 9900 **EUR932856** (+13.62%); 62 **EUR792334**; 9901 **EUR112288** (was 29321); 9904 112158; equity 1081245; cash 651220; FTE n/a.
+- FOI address: contact@ergasia.be — general mailbox verified on the official site https://ergasia.be/disclaimer (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_ergasia_stekene_vaph_matrix_9900_0_93m_9901_112k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3507/; rq_3507=done; spawn **rq_3508**; ticks=3507.
+- Next: **rq_3508 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
