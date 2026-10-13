@@ -40260,3 +40260,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sohab.be — general mailbox verified on the official site https://sohab.be/fr/politique-de-confidentialite/ (site shows the same KBO number) (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_sohab_ixelles_vaph_matrix_9900_2_75m_9901_42k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3742/; rq_3742=done; spawn **rq_3743**; ticks=3742.
 - Next: **rq_3743 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3743 — 2026-10-13T19:17:41Z — rq_3743 leftover dual Arbeidskansen As YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Arbeidskansen** → KBO 0880.249.957 had 0 prior entity rows.
+- KBO: Actief since 3 februari 2006; VZW; zetel Bilzerweg 88 3665 As; 2 VE; 0 prior entity rows for 0880.249.957
+- Found: official NBB VKT-VZW native PDF **2026-00235727** (46822 B / 12p; AV 30-06-2026; neergelegd 01/07/2026; MD5 bb6ad40d6c09a820b0f9af89db0393aa). VKT-VZW 9900 **EUR1870621** (+775.92%); 62 **EUR780800**; 9901 **EUR1066173** (was -1034088); 9904 1065402; equity 75040; cash 259794; FTE 9,7 (was 8,7).
+- FOI address: info@arbeidskansen.be — general mailbox verified on the official site https://www.arbeidskansen.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_arbeidskansen_as_vaph_matrix_9900_1_87m_9901_1066k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3743/; rq_3743=done; spawn **rq_3744**; ticks=3743.
+- Next: **rq_3744 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
