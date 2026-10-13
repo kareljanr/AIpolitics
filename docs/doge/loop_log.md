@@ -36360,3 +36360,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@mdne.be — secretariat mailbox verified on the official site https://mdne.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_maison_de_nos_enfants_beauraing_vaph_matrix_9900_2_80m_9901_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3352/; rq_3352=done; spawn **rq_3353**; ticks=3352.
 - Next: **rq_3353 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3353 — 2026-10-13T06:35:41Z — rq_3353 leftover dual La Pommeraie Gesves (Faulx-les-Tombes) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **La Pommeraie** → KBO 0414.034.206 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1974; VZW; zetel Rue de Gesves 10 5340 Gesves; 1 VE; 0 prior entity rows for 0414.034.206
+- Found: official NBB VKT-VZW native PDF **2026-00248311** (50305 B / 13p; AV 29-06-2026; neergelegd 03/07/2026; MD5 847217951a79e656fe84e889f1e54343). VKT-VZW 9900 **EUR2671502** (+3.29%); 62 **EUR2624956**; 9901 **EUR-9643** (was -39113); 9904 1177; equity 612602; cash 1010962; FTE 35,5 (was 34,3).
+- FOI address: info@pommeraie.be — general mailbox verified on the official site https://www.pommeraie.be/nous-contacter/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_la_pommeraie_gesves_vaph_matrix_9900_2_67m_9901_loss_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3353/; rq_3353=done; spawn **rq_3354**; ticks=3353.
+- Next: **rq_3354 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
