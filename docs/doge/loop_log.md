@@ -40590,3 +40590,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kraamvogel.be — general mailbox verified on the official site https://www.kraamvogel.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_de_kraamvogel_antwerpen_vaph_matrix_9900_0_42m_9901_loss_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3775/; rq_3775=done; spawn **rq_3776**; ticks=3775.
 - Next: **rq_3776 leftover dual** — Partial batch (3771-3775); code 9900 rows from bounded KBO scans nscan20/nscan22 (Brussels and Antwerp postcodes not scanned before), largest first; no usable code 733 filer; Werkstroomm (site mailbox belongs to another KBO), Payoke (site address differs from KBO seat), VINC (no mailbox), De Overmolen (site HTTP 500) skipped. Next: new scan..
+
+
+## Tick 3776 — 2026-10-13T21:22:30Z — rq_3776 leftover dual APIDES (Association de Promotion, d’Initiatives et de Développement Economique et Social) Court-Saint-Etienne YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **APIDES (Association de Promotion, d’Initiatives et de Développement Economique et Social)** → KBO 0426.196.719 had 0 prior entity rows.
+- KBO: Actief since 23 juni 1984; VZW; zetel Clos de l'Aciérie 1 1490 Court-Saint-Etienne; 2 VE; 0 prior entity rows for 0426.196.719
+- Found: official NBB VKT-VZW native PDF **2026-00155856** (51992 B / 14p; AV 25-05-2026; neergelegd 12/06/2026; MD5 2123b9aadda543470614c43cc989e569). VKT-VZW 9900 **EUR772807** (-14.03%); 62 **EUR816382**; 9901 **EUR-53681** (was 38885); 9904 -52836; equity 600930; cash 84296; FTE 11,3 (was 10,8).
+- FOI address: info@apides.be — general mailbox verified on the official site https://www.apides.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_apides_court_saint_etienne_vaph_matrix_9900_0_77m_9901_loss_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3776/; rq_3776=done; spawn **rq_3777**; ticks=3776.
+- Next: **rq_3777 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
