@@ -34974,3 +34974,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@swdelta.be — general mailbox verified on the official site https://www.swdelta.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_tienen); FOI **gap_delta_sw_tienen_vaph_matrix_9900_1_60m_9901_141k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3213/; rq_3213=done; spawn **rq_3214**; ticks=3213.
 - Next: **rq_3214 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3214 — 2026-10-13T01:48:26Z — rq_3214 leftover dual Service de Santé mentale Le Méridien (Saint-Josse) Saint-Josse-ten-Noode YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Mental-health, youth-care and social-economy non-profits (Walloon/Brussels services de santé mentale and habitations protégées, Flemish jeugdhulp / sociale werkplaats VZWs) from a fresh KBO name search; code 733 rows first (none qualified), then largest code 9900: **Service de Santé mentale Le Méridien (Saint-Josse)** → KBO 0460.879.068 had 0 prior entity rows.
+- KBO: Actief since 18 april 1997; VZW; zetel Middaglijnstraat 68 1210 Sint-Joost-ten-Node; 1 VE; 0 prior entity rows for 0460.879.068
+- Found: official NBB VKT-VZW native PDF **2026-00158135** (52370 B / 14p; AV 21-05-2026; neergelegd 09/06/2026; MD5 7d83cc95fba1a8bd4338ab15748f371b). VKT-VZW 9900 **EUR1536597** (-0.77%); 62 **EUR1416869**; 9901 **EUR97308** (was 19596); 9904 103804; equity 82323; cash 19444; FTE 19 (was 19).
+- FOI address: secretariat@ssmlemeridien.be — general mailbox verified on the official site https://ssmlemeridien.be/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ssm_le_meridien_vaph_matrix_9900_1_54m_9901_97k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3214/; rq_3214=done; spawn **rq_3215**; ticks=3214.
+- Next: **rq_3215 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
