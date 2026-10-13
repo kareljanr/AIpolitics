@@ -38140,3 +38140,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3530 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3530 run locally as fallback.
 - Next: **rq_3530** — code 9900 (NOT subsidy amounts): CFIP (EUR0.723m), Service d’Interprétation des Sourds de Wallonie (EUR0.707m), Mediaraven (EUR0.696m), Association pour le Droit des Etrangers (EUR0.684m), Tumult (EUR0.682m); mailboxes verified on official sites, after the dedup check. Scans: old codes complete; NACE-BEL 2025 codes 110/400 pages; triage of all scan keys complete so far.
+
+
+## Tick 3531 — 2026-10-13T12:23:13Z — rq_3530 leftover dual Centre pour la Formation et l'Intervention Psychosociologiques (CFIP) Woluwe-Saint-Lambert YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre pour la Formation et l'Intervention Psychosociologiques (CFIP)** → KBO 0409.145.703 had 0 prior entity rows.
+- KBO: Actief since 5 februari 1970; VZW; zetel Louis Gribaumontlaan 153 1200 Sint-Lambrechts-Woluwe; 1 VE; 0 prior entity rows for 0409.145.703
+- Found: official NBB VKT-VZW native PDF **2026-00073168** (51858 B / 13p; AV 23-03-2026; neergelegd 07/04/2026; MD5 8e214a2782387a5ff357083d9c3aabe9). VKT-VZW 9900 **EUR722934** (+18.14%); 62 **EUR559791**; 9901 **EUR95599** (was 3146); 9904 121545; equity 1092290; cash 771788; FTE 7,7 (was 7,7).
+- FOI address: secretariat@cfip.be — role (secretariat) mailbox verified on the official site https://www.cfip.be/page/infos-pratiques-adresse-accueil-cfip/f1.html (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cfip_wsl_vaph_matrix_9900_0_72m_9901_96k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3531/; rq_3530=done; spawn **rq_3532**; ticks=3531.
+- Next: **rq_3532 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
