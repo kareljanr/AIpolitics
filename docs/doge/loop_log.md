@@ -37490,3 +37490,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ulysse-ssm.be — general mailbox verified on the official site https://www.ulysse-ssm.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ulysse_ixelles_vaph_matrix_9900_1_75m_9901_37k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3465/; rq_3465=done; spawn **rq_3466**; ticks=3465.
 - Next: **rq_3466 leftover dual** — Batch done; code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the fresh 22-family scan for code 733 filers as pages finish, then further code 9900 leftovers from the cached NBB pool, largest first..
+
+
+## Tick 3466 — 2026-10-13T11:15:51Z — rq_3466 leftover dual SOS-Hilfe Eupen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **SOS-Hilfe** → KBO 0419.418.201 had 0 prior entity rows.
+- KBO: Actief since 6 april 1979; VZW; zetel Nöretherstrasse 53 4700 Eupen; 2 VE; 0 prior entity rows for 0419.418.201
+- Found: official NBB VKT-VZW native PDF **2026-00221627** (54469 B / 14p; AV 16-04-2026; neergelegd 30/06/2026; MD5 22eb5699872e1f030b874a9ae84a20ff). VKT-VZW 9900 **EUR1890724** (+3.04%); 62 **EUR1599942**; 9901 **EUR178600** (was 78953); 9904 176839; equity 975060; cash 744223; FTE 38,3 (was 37,6).
+- FOI address: info@sos-hilfe.net — general mailbox verified on the official site https://www.sos-hilfe.net/kontakt/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_sos_hilfe_eupen_vaph_matrix_9900_1_89m_9901_179k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3466/; rq_3466=done; spawn **rq_3467**; ticks=3466.
+- Next: **rq_3467 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
