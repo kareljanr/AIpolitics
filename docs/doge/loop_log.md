@@ -36290,3 +36290,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@psc-elsene.be — general mailbox verified on the official site https://www.psc-elsene.be/ (contact page gives the KBO registered seat address).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ixelles); FOI **gap_psc_elsene_vaph_matrix_9900_4_45m_9901_loss_96k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3345/; rq_3345=done; spawn **rq_3346**; ticks=3345.
 - Next: **rq_3346 leftover dual** — Batch done; the NACE 87.xxx code 733 rows are used up (remaining: Maison Heureuse, no general mailbox; Myosotis, Blijvelde and Petites Soeurs des Pauvres, sites unreachable). Next: a fresh 733 scan of other care / para-public codes, then code 9900 largest first. Skipped (5-min cap / mailbox rule): KiJoCo (no mailbox on its own site), L’Equipe (site shows another KBO number), Agentschap Integratie en Inburgering (already in repo), Héliades (group site), Jardins de Scailmont, Libre-Parcours and Les Gentianes (no mailbox), Wijgmaalbroek (commercial group site), Maison Notre-Dame des Anges and Siloé (sites unreachable)..
+
+
+## Tick 3346 — 2026-10-13T06:34:26Z — rq_3346 leftover dual ACIS - Association Chrétienne des Institutions Sociales et de Santé Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **ACIS - Association Chrétienne des Institutions Sociales et de Santé** → KBO 0415.047.954 had 0 prior entity rows.
+- KBO: Actief since 28 februari 1975; VZW; zetel Avenue de la Pairelle 33 5000 Namur; 101 VE; 0 prior entity rows for 0415.047.954
+- Found: official NBB VOL-VZW native PDF **2026-00218882** (3174358 B / 70p; AV 26-06-2026; neergelegd 30/06/2026; MD5 4a40d303fe689340bde505c7d9b955dd). VOL-VZW 733 **EUR227603771** (+3.08%); 62 **EUR260830760**; 9901 **EUR4391563** (was 3945629); 9904 6373684; equity 275930753; cash 34256009; FTE 4.332 (was 4.179,2).
+- FOI address: acisbelgique@acis-asbl.be — general mailbox verified on the official site https://www.acis-asbl.be/siege-social/ (which lists the KBO number and the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_acis_namur_vaph_matrix_733_227_60m_9901_4392k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3346/; rq_3346=done; spawn **rq_3347**; ticks=3346.
+- Next: **rq_3347 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
