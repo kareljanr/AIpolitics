@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T12:11:12Z,rq_3516,3516,no,tick3516 leftover dual La Croisée Malmedy 0420.694.641 Strong PDF 2026-00200441 9900 0.85m / 9901 7k; next rq_3517 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T12:11:22Z,rq_3517,3517,no,tick3517 leftover dual Service d'Information Psycho-Sexuelle (SIPS) Liège 0414.008.272 Strong PDF 2026-00252218 9900 0.84m / 9901 loss 2k; next rq_3518 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

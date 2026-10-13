@@ -38000,3 +38000,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@la-croisee.be — general mailbox verified on the official site https://www.la-croisee.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_la_croisee_malmedy_vaph_matrix_9900_0_85m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3516/; rq_3516=done; spawn **rq_3517**; ticks=3516.
 - Next: **rq_3517 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3517 — 2026-10-13T12:11:22Z — rq_3517 leftover dual Service d'Information Psycho-Sexuelle (SIPS) Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Service d'Information Psycho-Sexuelle (SIPS)** → KBO 0414.008.272 had 0 prior entity rows.
+- KBO: Actief since 28 maart 1974; VZW; zetel Rue Soeurs-de-Hasque 9 4000 Liège; 1 VE; 0 prior entity rows for 0414.008.272
+- Found: official NBB VKT-VZW native PDF **2026-00252218** (250804 B / 17p; AV 08-04-2026; neergelegd 02/07/2026; MD5 4812aac159daba020c972fb22cc5cabf). VKT-VZW 9900 **EUR843116** (+3.51%); 62 **EUR792202**; 9901 **EUR-1614** (was -358); 9904 92; equity 76593; cash 73862; FTE 11,2 (was 10,5).
+- FOI address: sips@sips.be — general mailbox verified on the official site https://www.sips.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_sips_liege_vaph_matrix_9900_0_84m_9901_loss_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3517/; rq_3517=done; spawn **rq_3518**; ticks=3517.
+- Next: **rq_3518 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
