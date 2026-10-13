@@ -35274,3 +35274,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: metx@metx.be — general mailbox verified on the official site https://www.metx.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_metx_vaph_matrix_9900_0_72m_9901_loss_35k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3243/; rq_3243=done; spawn **rq_3244**; ticks=3243.
 - Next: **rq_3244 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3244 — 2026-10-13T02:34:30Z — rq_3244 leftover dual Beursschouwburg Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Largest recipients in the official City of Brussels 2025 subsidy inventory (opendata.brussels.be dataset subsides-ville-de-bruxelles-subsidies-stad-brussel-2025) not yet in the repo, cross-checked with the NBB filing: **Beursschouwburg** → KBO 0414.042.520 had 0 prior entity rows.
+- KBO: Actief since 2 maart 1974; VZW; zetel Auguste Ortsstraat 20-28 1000 Brussel; 1 VE; 0 prior entity rows for 0414.042.520
+- Found: official NBB VKT-VZW native PDF **2026-00120337** (50650 B / 12p; AV 02-04-2026; neergelegd 22/05/2026; MD5 a6119a46f0430b18ca4019fcc8f14993). VKT-VZW 9900 **EUR1756607** (+5.35%); 62 **EUR1431425**; 9901 **EUR250297** (was 93047); 9904 256665; equity 1481555; cash 1324209; FTE 22 (was 22,5).
+- FOI address: hello@beursschouwburg.be — general mailbox verified on the official site https://www.beursschouwburg.be/en/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_beursschouwburg_vaph_matrix_9900_1_76m_9901_250k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3244/; rq_3244=done; spawn **rq_3245**; ticks=3244.
+- Next: **rq_3245 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
