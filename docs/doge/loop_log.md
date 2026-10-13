@@ -37060,3 +37060,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kavka.be — general mailbox verified on the official site https://kavka.be/praktisch/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_kavka_antwerpen_vaph_matrix_9900_1_11m_9901_29k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3422/; rq_3422=done; spawn **rq_3423**; ticks=3422.
 - Next: **rq_3423 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3423 — 2026-10-13T09:29:19Z — rq_3423 leftover dual Habitat et Participation Louvain-la-Neuve YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Habitat et Participation** → KBO 0424.207.427 had 0 prior entity rows.
+- KBO: Actief since 29 juni 1982; VZW; zetel Traverse d'Esope 6 1348 Ottignies-Louvain-la-Neuve; 2 VE; 0 prior entity rows for 0424.207.427
+- Found: official NBB VKT-VZW native PDF **2026-00145251** (48707 B / 12p; AV 23-04-2026; neergelegd 02/06/2026; MD5 3b8b4d551910ea23a7797a81549f243a). VKT-VZW 9900 **EUR1053763** (+5.61%); 62 **EUR1005678**; 9901 **EUR30826** (was 4993); 9904 33427; equity 571596; cash 724083; FTE 14,4 (was 14,7).
+- FOI address: contact@habitat-participation.be — general mailbox verified on the official site https://habitat-participation.be/contacts/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_habitat_et_participation_lln_vaph_matrix_9900_1_05m_9901_31k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3423/; rq_3423=done; spawn **rq_3424**; ticks=3423.
+- Next: **rq_3424 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
