@@ -36670,3 +36670,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: ssmg@ssmg.be — general mailbox verified on the official site https://www.ssmg.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ssmg_bruxelles_vaph_matrix_9900_0_89m_9901_189k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3383/; rq_3383=done; spawn **rq_3384**; ticks=3383.
 - Next: **rq_3384 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3384 — 2026-10-13T08:05:12Z — rq_3384 leftover dual Chudoscnik Sunergia Eupen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Chudoscnik Sunergia** → KBO 0443.606.437 had 0 prior entity rows.
+- KBO: Actief since 28 februari 1991; VZW; zetel Rotenbergplatz 19 4700 Eupen; 2 VE; 0 prior entity rows for 0443.606.437
+- Found: official NBB VKT-VZW native PDF **2026-00165023** (46927 B / 11p; AV 07-05-2026; neergelegd 16/06/2026; MD5 e7fee6b0d4398f6ffdc37bc9482dea45). VKT-VZW 9900 **EUR848658** (+3.31%); 62 **EUR896645**; 9901 **EUR-5181** (was 4613); 9904 -7386; equity 193883; cash 225056; FTE 14,1 (was 13,6).
+- FOI address: info@sunergia.be — general mailbox verified on the official site https://www.sunergia.be/kontakt/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_sunergia_eupen_vaph_matrix_9900_0_85m_9901_loss_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3384/; rq_3384=done; spawn **rq_3385**; ticks=3384.
+- Next: **rq_3385 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
