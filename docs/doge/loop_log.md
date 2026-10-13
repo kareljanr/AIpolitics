@@ -37660,3 +37660,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: hello@herwin.be — general mailbox verified on the official site https://herwin.be/contact/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_herwin_gent_vaph_matrix_9900_1_42m_9901_164k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3482/; rq_3482=done; spawn **rq_3483**; ticks=3482.
 - Next: **rq_3483 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3483 — 2026-10-13T11:34:59Z — rq_3483 leftover dual Mentor-Escale Ixelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Mentor-Escale** → KBO 0461.988.135 had 0 prior entity rows.
+- KBO: Actief since 3 oktober 1997; VZW; zetel Opperstraat 19 1050 Elsene; 2 VE; 0 prior entity rows for 0461.988.135
+- Found: official NBB VKT-VZW native PDF **2026-00181432** (52273 B / 14p; AV 08-06-2026; neergelegd 22/06/2026; MD5 4891c63c7f5e090b1d4bad61ca1b194c). VKT-VZW 9900 **EUR1405724** (+20.67%); 62 **EUR1290919**; 9901 **EUR62515** (was 19860); 9904 68604; equity 1816691; cash 1306693; FTE n/a.
+- FOI address: info@mentorescale.be — general mailbox verified on the official site https://www.mentorescale.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_mentor_escale_ixelles_vaph_matrix_9900_1_41m_9901_63k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3483/; rq_3483=done; spawn **rq_3484**; ticks=3483.
+- Next: **rq_3484 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
