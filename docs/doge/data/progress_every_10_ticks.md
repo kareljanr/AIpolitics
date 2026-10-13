@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3490** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3480; 3481-3489 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3481-3489 residual dual L5 (not near-complete of 348bn):** Info-Sourds de Bruxelles · HERW!N · Mentor-Escale · Vlaamse Parkinson Liga · Agricall Wallonie · La Porte Verte - Snijboontje · Contrepied · Centre liégeois d’Aide aux Jeunes (CLAJ) · Antenne Tournesol (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3078** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3133** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3481-3489** Info-Sourds de Bruxelles · HERW!N · Mentor-Escale · Vlaamse Parkinson Liga · Agricall Wallonie · La Porte Verte - Snijboontje · Contrepied · Centre liégeois d’Aide aux Jeunes (CLAJ) · Antenne Tournesol.
+
+### Inventory (tick 3490)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 63345 |
+| commitments.csv | 7133 |
+| leaderboard.csv | 9251 |
+| entities.csv | 3151 |
+| sources.csv | 10332 |
+| FOI ready | 3078 |
+| FOI total rows | 3133 |
+| research_queue open | rq_3490 (carried; next: Heidehuis, Centre de psycho-oncologie, Vlaams Huis voor Amateurkunsten in Brussel (Zinnema), Passages AMO, Education-Environnement (code 9900 leftovers; old-code scan 77 of 440 pages finished; NACE-BEL 2025 replacement scan 12 of 400 pages finished; triage 714 of 3493 keys, no code 733 rows yet); largest first) |
+
+### What improved since tick 3480
+
+- **New source (tick3481-3489):** Info-Sourds de Bruxelles · HERW!N · Mentor-Escale · Vlaamse Parkinson Liga · Agricall Wallonie · La Porte Verte - Snijboontje · Contrepied · Centre liégeois d’Aide aux Jeunes (CLAJ) · Antenne Tournesol. All nine are code 9900 leftovers (NOT subsidy amounts), largest first; the code 733 pool from all earlier scans is used up (Médiathèque Nouvelle retried, site still unreachable). Scan status at tick 3490: the old-code scan has 77 of its 440 pages finished (the restarted 82.300 / 93.29x pages are still running with a 40-second request timeout). The 17 NACE codes that return HTTP 404 on KBO Public Search were mapped to 20 NACE-BEL 2025 codes (90.201/90.202, 91.120, 91.220, 91.410/91.420, 90.112, 90.312, 85.520, 85.610/85.691/85.699, 85.401/85.402, 85.330, 86.910/86.920/86.970, 74.991/74.999); that scan has 12 of 400 pages finished, running 12 jobs in parallel. Triage of scan keys: 714 of 3493 checked, no code 733 rows found so far. EU-level and international bodies, umbrella bodies and duplicates excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3490 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3480** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
