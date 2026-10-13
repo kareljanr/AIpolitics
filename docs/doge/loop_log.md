@@ -37990,3 +37990,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mmhorizons.be — general mailbox verified on the official site https://www.mmhorizons.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_mm_horizons_anderlecht_vaph_matrix_9900_0_89m_9901_95k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3515/; rq_3515=done; spawn **rq_3516**; ticks=3515.
 - Next: **rq_3516 leftover dual** — Batch done (3506-3515); code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the new-family scan keys for code 733 filers (remaining 82.300 / 93.29x pages and the 20 NACE-BEL 2025 replacement codes still scanning), then further code 9900 leftovers from the cached NBB pool, largest first..
+
+
+## Tick 3516 — 2026-10-13T12:11:12Z — rq_3516 leftover dual La Croisée Malmedy YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **La Croisée** → KBO 0420.694.641 had 0 prior entity rows.
+- KBO: Actief since 14 maart 1980; VZW; zetel Rue de la Warche 33 4960 Malmedy; 1 VE; 0 prior entity rows for 0420.694.641
+- Found: official NBB VKT-VZW native PDF **2026-00200441** (1685046 B / 23p; AV 19-06-2026; neergelegd 22/06/2026; MD5 af1f294344f27347b7599fb272949b08). VKT-VZW 9900 **EUR846283** (+3.52%); 62 **EUR779627**; 9901 **EUR7242** (was 20063); 9904 6275; equity 974030; cash 183033; FTE 12,3 (was 12,2).
+- FOI address: info@la-croisee.be — general mailbox verified on the official site https://www.la-croisee.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_la_croisee_malmedy_vaph_matrix_9900_0_85m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3516/; rq_3516=done; spawn **rq_3517**; ticks=3516.
+- Next: **rq_3517 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
