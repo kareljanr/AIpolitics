@@ -40450,3 +40450,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@stormkop.be — general mailbox verified on the official site https://www.stormkop.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_stormkop_antwerpen_vaph_matrix_9900_0_65m_9901_86k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3761/; rq_3760=done; spawn **rq_3762**; ticks=3761.
 - Next: **rq_3762 leftover dual** — Batch done (3752-3761); code 9900 rows from nscan14 leftovers and bounded KBO scan nscan15, largest first; no code 733 filer found; Médiathèque Nouvelle still unreachable. Next: a new bounded scan..
+
+
+## Tick 3762 — 2026-10-13T19:49:12Z — rq_3762 leftover dual Formation Encadrement Espace Social (F.E.E.S.) Boussu YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Formation Encadrement Espace Social (F.E.E.S.)** → KBO 0447.506.134 had 0 prior entity rows.
+- KBO: Actief since 18 maart 1992; VZW; zetel Amphithéâtre Hadès(H) 154 7301 Boussu; 4 VE; 0 prior entity rows for 0447.506.134
+- Found: official NBB VKT-VZW native PDF **2026-00206557** (989542 B / 24p; AV 08-06-2026; neergelegd 24/06/2026; MD5 b834037fca9a1e5bc7eef8c03235c8e4). VKT-VZW 9900 **EUR1174604** (-11.92%); 62 **EUR1192541**; 9901 **EUR-85872** (was 140684); 9904 -61245; equity 827722; cash 279089; FTE 18,1 (was 18,8).
+- FOI address: regiedesquartiers@asblfees.be — role mailbox (Régie des Quartiers service) verified on the official contact page https://asblfees.be/contact/; KBO number and the KBO seat address shown on https://asblfees.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_fees_boussu_vaph_matrix_9900_1_17m_9901_loss_86k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3762/; rq_3762=done; spawn **rq_3763**; ticks=3762.
+- Next: **rq_3763 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
