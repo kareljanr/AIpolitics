@@ -37890,3 +37890,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: dc@chambery.be — general (service-centre) mailbox verified on the official site https://www.chambery.be/contact/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_wijkhuis_chambery_etterbeek_vaph_matrix_9900_1_00m_9901_loss_33k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3505/; rq_3505=done; spawn **rq_3506**; ticks=3505.
 - Next: **rq_3506 leftover dual** — Batch done (3496-3505); code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the new-family scan keys for code 733 filers (remaining 82.300 / 93.29x pages and the 20 NACE-BEL 2025 replacement codes still scanning), then further code 9900 leftovers from the cached NBB pool, largest first..
+
+
+## Tick 3506 — 2026-10-13T12:01:51Z — rq_3506 leftover dual Compagnons Dépanneurs Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Compagnons Dépanneurs** → KBO 0416.016.271 had 0 prior entity rows.
+- KBO: Actief since 15 maart 1976; VZW; zetel Ijskelderstraat 37 1060 Sint-Gillis (bij-Brussel); 9 VE; 0 prior entity rows for 0416.016.271
+- Found: official NBB VKT-VZW native PDF **2026-00087512** (51206 B / 13p; AV 24-03-2026; neergelegd 24/04/2026; MD5 19b92b0ec30b1acc6ea1bb9a88bb7b9b). VKT-VZW 9900 **EUR960461** (+14.27%); 62 **EUR810593**; 9901 **EUR-10088** (was 4117); 9904 -10489; equity 525637; cash 271085; FTE 20,1 (was 17,1).
+- FOI address: infoasbl@compagnonsdepanneurs.be — general mailbox verified on the official site https://www.compagnonsdepanneurs.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_compagnons_depanneurs_saint_gilles_vaph_matrix_9900_0_96m_9901_loss_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3506/; rq_3506=done; spawn **rq_3507**; ticks=3506.
+- Next: **rq_3507 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
