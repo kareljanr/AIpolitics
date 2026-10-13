@@ -37090,3 +37090,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@dranoeter.be — general mailbox verified on the official site https://www.dranoeter.be/contact (KBO number on https://www.dranoeter.be/de-vzw).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_dranoeter_heuvelland_vaph_matrix_9900_0_68m_9901_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3425/; rq_3425=done; spawn **rq_3426**; ticks=3425.
 - Next: **rq_3426 leftover dual** — Batch done; the finished scan pages gave no further usable code 733 rows (Vlaamse Jeugdherbergen code 733 line blank), so all nine are code 9900 leftovers. Next: Médiathèque Nouvelle (code 733, site still unreachable), the still-running 88.91x / 94.xxx / 55.20x / 52.2x / 59.1x / 58.1x scan pages, then SONEFA / Crèches de Schaerbeek (code 733, no own-site mailbox yet)..
+
+
+## Tick 3426 — 2026-10-13T09:39:22Z — rq_3426 leftover dual Les Grignoux Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Les Grignoux** → KBO 0419.172.434 had 0 prior entity rows.
+- KBO: Actief since 18 december 1978; VZW; zetel Rue Soeurs-de-Hasque 9 4000 Liège; 9 VE; 0 prior entity rows for 0419.172.434
+- Found: official NBB VOL-VZW native PDF **2026-00180343** (1416154 B / 49p; AV 21-04-2026; neergelegd 21/06/2026; MD5 a353f2a0f84ab3091fc0982e78933b26). VOL-VZW 733 **EUR5309092** (-0.25%); 62 **EUR7782970**; 9901 **EUR-656979** (was 228793); 9904 -676073; equity 837415; cash 1064886; FTE 130,6 (was 128,6).
+- FOI address: contact@grignoux.be — general mailbox verified on the official site https://www.grignoux.be/fr/nous-contacter (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_les_grignoux_liege_vaph_matrix_733_5_31m_9901_loss_657k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3426/; rq_3426=done; spawn **rq_3427**; ticks=3426.
+- Next: **rq_3427 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
