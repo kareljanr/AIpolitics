@@ -38590,3 +38590,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@trill.be — general mailbox verified on the official site https://www.trill.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_trill_leuven_vaph_matrix_9900_0_49m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3575/; rq_3575=done; spawn **rq_3576**; ticks=3575.
 - Next: **rq_3576 leftover dual** — Batch done (3566-3575); one code 733 row (Rode Kruishotel, from the NBB pool) then code 9900 leftovers (Médiathèque Nouvelle still unreachable). Next: EPHEC-Galilée (code 733) if a general mailbox on its own site is found (old-code and NACE-BEL 2025 scans complete, all keys triaged), then further code 9900 leftovers from the rebuilt pool, largest first..
+
+
+## Tick 3576 — 2026-10-13T15:15:33Z — rq_3576 leftover dual Little Star Village (Little Ball Village) Waregem YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Little Star Village (Little Ball Village)** → KBO 0536.827.001 had 0 prior entity rows.
+- KBO: Actief since 19 juli 2013; VZW; zetel Opstalstraat 32-34 8792 Waregem; 3 VE; 0 prior entity rows for 0536.827.001
+- Found: official NBB VKT-VZW native PDF **2026-00090537** (48027 B / 13p; AV 30-03-2026; neergelegd 28/04/2026; MD5 6a5f7c63f4f9e1a4b19e1eb75f652fae). VKT-VZW 9900 **EUR474993** (-15.33%); 62 **EUR172382**; 9901 **EUR280503** (was 439857); 9904 301670; equity 1373032; cash 1660535; FTE 2,8 (was 2,1).
+- FOI address: info@littleballvillage.be — general mailbox verified on the official site https://www.littleballvillage.be/nl/contact (site cookie statement lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_little_star_village_waregem_vaph_matrix_9900_0_47m_9901_281k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3576/; rq_3576=done; spawn **rq_3577**; ticks=3576.
+- Next: **rq_3577 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
