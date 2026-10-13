@@ -38530,3 +38530,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mmperspective.be — general mailbox verified on the official site https://mmperspective.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_mm_perspective_anderlecht_vaph_matrix_9900_0_52m_9901_loss_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3569/; rq_3569=done; spawn **rq_3570**; ticks=3569.
 - Next: **rq_3570 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3570 — 2026-10-13T15:11:13Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3150** of 3205 rows; inventory budgets 63924 · commitments 7205 · leaderboard 9323 · entities 3223 · sources 10548.
+- Top10: **stable** (3561-3569 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3561-3569: Âgo · Centre Séverine · Centre Familial Belgo-Immigré · La Trace · Addictions · Rode Kruishotel (Domein Polderwind) · Centre de Planning Familial et de Consultations d’Uccle · Infor Jeunes Luxembourg · Maison Médicale Perspective.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3570 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3570 run locally as fallback.
+- Next: **rq_3570** — code 9900 (NOT subsidy amounts): Mobile School (EUR0.511m), De Landgenoten (EUR0.510m), Archiefpunt (EUR0.499m), Fakkeltheater (EUR0.499m), TRILL (EUR0.486m); mailboxes verified on official sites, after the dedup check. Scans: old codes and NACE-BEL 2025 codes complete (400/400 pages); all keys triaged (EPHEC-Galilée code 733 skipped: no general mailbox on its own site).
