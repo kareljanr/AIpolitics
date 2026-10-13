@@ -37190,3 +37190,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@camera-etc.be — general mailbox verified on the official site https://www.camera-etc.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_camera_etc_liege_vaph_matrix_9900_0_78m_9901_loss_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3435/; rq_3435=done; spawn **rq_3436**; ticks=3435.
 - Next: **rq_3436 leftover dual** — Batch done; newly finished 59.1x / 58.1x / 94.xxx scan pages gave one usable code 733 row (Les Grignoux); the rest are code 9900 leftovers. Next: Médiathèque Nouvelle (code 733, site still unreachable), the 23 still-running scan pages, then SONEFA / Crèches de Schaerbeek (code 733, no own-site mailbox yet)..
+
+
+## Tick 3436 — 2026-10-13T10:09:11Z — rq_3436 leftover dual Centre de Santé (Visé) Visé YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre de Santé (Visé)** → KBO 0409.121.551 had 0 prior entity rows.
+- KBO: Actief since 16 december 1965; VZW; zetel Rue de Sluse(VIS) 17 4600 Visé; 3 VE; 0 prior entity rows for 0409.121.551
+- Found: official NBB VKT-VZW native PDF **2026-00382210** (49013 B / 12p; AV 16-06-2026; neergelegd 04/08/2026; MD5 e21f9c481cfa8f49d13ac40b63ea85a0). VKT-VZW 9900 **EUR1800135** (-0.39%); 62 **EUR1633303**; 9901 **EUR-19982** (was -66664); 9904 -2325; equity 2103370; cash 812894; FTE 31,5 (was 31,5).
+- FOI address: info@centredesante.be — general mailbox verified on the official site https://centredesante.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_centre_de_sante_vise_vaph_matrix_9900_1_80m_9901_loss_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3436/; rq_3436=done; spawn **rq_3437**; ticks=3436.
+- Next: **rq_3437 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
