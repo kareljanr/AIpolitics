@@ -36680,3 +36680,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sunergia.be — general mailbox verified on the official site https://www.sunergia.be/kontakt/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_sunergia_eupen_vaph_matrix_9900_0_85m_9901_loss_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3384/; rq_3384=done; spawn **rq_3385**; ticks=3384.
 - Next: **rq_3385 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3385 — 2026-10-13T08:05:22Z — rq_3385 leftover dual PIBO (Provinciaal Instituut voor Biotechnisch Onderzoek) Tongeren YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **PIBO (Provinciaal Instituut voor Biotechnisch Onderzoek)** → KBO 0461.790.472 had 0 prior entity rows.
+- KBO: Actief since 25 augustus 1997; VZW; zetel Kruissteenweg 321 3700 Tongeren-Borgloon; 1 VE; 0 prior entity rows for 0461.790.472
+- Found: official NBB VKT-VZW native PDF **2026-00244134** (46943 B / 13p; AV 16-06-2026; neergelegd 29/06/2026; MD5 42c39715641b2426d3fc4fa787acf5d1). VKT-VZW 9900 **EUR829824** (+63.21%); 62 **EUR469470**; 9901 **EUR320430** (was -25883); 9904 323869; equity 593082; cash 854097; FTE 5,6 (was 7).
+- FOI address: pibo@pibo.be — general mailbox verified on the official site https://www.pibo.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_pibo_tongeren_vaph_matrix_9900_0_83m_9901_320k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3385/; rq_3385=done; spawn **rq_3386**; ticks=3385.
+- Next: **rq_3386 leftover dual** — Batch done; the completed 68.204 / 70.100 scans gave one code 733 row (Herita); the rest are code 9900 leftovers. Next: Médiathèque Nouvelle (code 733, site still unreachable), then new NACE families for code 733 filers..
