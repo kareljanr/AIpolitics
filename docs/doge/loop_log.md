@@ -36470,3 +36470,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: ahk@debelux.org — general mailbox verified on the official site https://www.debelux.org/de/kontakt.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_debelux_handelskammer_vaph_matrix_9900_1_81m_9901_16k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3363/; rq_3363=done; spawn **rq_3364**; ticks=3363.
 - Next: **rq_3364 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3364 — 2026-10-13T07:04:31Z — rq_3364 leftover dual Centre de référence en santé mentale (CRéSaM) Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.120 / 94.110 / 91.xxx / 93.1xx / 49.390 / 81.300 / 01.610 / 02.400 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre de référence en santé mentale (CRéSaM)** → KBO 0840.555.973 had 0 prior entity rows.
+- KBO: Actief since 25 oktober 2011; VZW; zetel Boulevard de Merckem(NR) 7 5000 Namur; 1 VE; 0 prior entity rows for 0840.555.973
+- Found: official NBB VKT-VZW native PDF **2026-00178767** (203725 B / 22p; AV 01-06-2026; neergelegd 18/06/2026; MD5 14e7fb16e9f3cb21c362c8980776c708). VKT-VZW 9900 **EUR1433008** (+4.39%); 62 **EUR1401976**; 9901 **EUR-5862** (was 3081); 9904 -8279; equity 374599; cash 92327; FTE 15,6 (was 15,8).
+- FOI address: cresam@cresam.be — general mailbox verified on the official site https://www.cresam.be/contact/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_cresam_namur_vaph_matrix_9900_1_43m_9901_loss_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3364/; rq_3364=done; spawn **rq_3365**; ticks=3364.
+- Next: **rq_3365 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
