@@ -39200,3 +39200,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@asblkaleidos.be — general mailbox verified on the official site https://www.asblkaleidos.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_kaleidos_liege_vaph_matrix_9900_0_63m_9901_55k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3636/; rq_3636=done; spawn **rq_3637**; ticks=3636.
 - Next: **rq_3637 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3637 — 2026-10-13T16:02:53Z — rq_3637 leftover dual Le Choix Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Le Choix** → KBO 0431.132.237 had 0 prior entity rows.
+- KBO: Actief since 24 juni 1985; VZW; zetel Rue du Travail 47 5000 Namur; 1 VE; 0 prior entity rows for 0431.132.237
+- Found: official NBB MIC-VZW native PDF **2026-00121942** (341882 B / 19p; AV 13-05-2026; neergelegd 27/05/2026; MD5 02e5a33881f3558107ae7cc86a0355bc). MIC-VZW 9900 **EUR600194** (+8.70%); 62 **EUR599958**; 9901 **EUR-589** (was 116); 9904 114; equity 29073; cash 264839; FTE n/a.
+- FOI address: info@lechoix.be — general mailbox verified on the official site https://www.lechoix.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_le_choix_namur_vaph_matrix_9900_0_60m_9901_loss_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3637/; rq_3637=done; spawn **rq_3638**; ticks=3637.
+- Next: **rq_3638 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
