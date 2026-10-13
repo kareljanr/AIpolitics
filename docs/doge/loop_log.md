@@ -39830,3 +39830,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: vrijetijd@deregenboog.be — general mailbox verified on the official site https://www.deregenboog.be/contact (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_de_regenboog_genk_vaph_matrix_9900_1_02m_9901_18k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3699/; rq_3699=done; spawn **rq_3700**; ticks=3699.
 - Next: **rq_3700 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3700 — 2026-10-13T17:08:31Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3267** of 3322 rows; inventory budgets 64863 · commitments 7322 · leaderboard 9440 · entities 3340 · sources 10899.
+- Top10: **stable** (3691-3699 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3691-3699: Mille Lieux de Vie (AMO) · Rondpunt · Betonne Jeugd · Imp’ACT · Timotheus · ISOCELE · Convivium (Convivial) · CRVI · De RegenbOog.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3700 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3700 run locally as fallback.
+- Next: **rq_3700** — code 9900 (NOT subsidy amounts): Mensen voor Mensen (EUR0.66m), Planning familial Arlon (EUR0.66m), SVAG (EUR0.58m, micro), WVCB (EUR0.58m), Mondiale Werken Regio Lier (EUR0.39m, micro); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scan nscan7.

@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3700** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3690; 3691-3699 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3691-3699 residual dual L5 (not near-complete of 348bn):** Mille Lieux de Vie (AMO) · Rondpunt · Betonne Jeugd · Imp’ACT · Timotheus · ISOCELE · Convivium (Convivial) · CRVI · De RegenbOog (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3267** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3322** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3691-3699** Mille Lieux de Vie (AMO) · Rondpunt · Betonne Jeugd · Imp’ACT · Timotheus · ISOCELE · Convivium (Convivial) · CRVI · De RegenbOog.
+
+### Inventory (tick 3700)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 64863 |
+| commitments.csv | 7322 |
+| leaderboard.csv | 9440 |
+| entities.csv | 3340 |
+| sources.csv | 10899 |
+| FOI ready | 3267 |
+| FOI total rows | 3322 |
+| research_queue open | rq_3700 (carried; next: Mensen voor Mensen, Planning familial Arlon, SVAG, WVCB, Mondiale Werken Regio Lier (code 9900 rows from bounded KBO scan nscan7); largest first) |
+
+### What improved since tick 3690
+
+- **New source (tick3691-3699):** Mille Lieux de Vie (AMO) · Rondpunt · Betonne Jeugd · Imp’ACT · Timotheus · ISOCELE · Convivium (Convivial) · CRVI · De RegenbOog. All code 9900 rows (NOT subsidy amounts) from bounded KBO scans nscan5, nscan6 and nscan7 (nscan7: new postcodes, NACE 88101/88991/88992/88999/94999), largest first; no qualifying code 733 filer in nscan7. Mailboxes verified on each body’s own site; rejected: mutualité, ISP, Gmail, Hotmail or mismatched-domain mailboxes, staff-only or form-only sites, address mismatches, umbrella or federation bodies, and a compromised site. Médiathèque Nouvelle still unreachable (HTTP 000).
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3700 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked at start of batch 3696-3705: no github-actions DOGE tick commits. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3690** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
