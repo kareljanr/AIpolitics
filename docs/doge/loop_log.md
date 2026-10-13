@@ -39860,3 +39860,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: arlon@planning-arlon-bastogne.be — Arlon centre mailbox verified on the official site https://www.planning-arlon-bastogne.be/ (also listed in the KBO record; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_planning_familial_arlon_vaph_matrix_9900_0_66m_9901_loss_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3702/; rq_3702=done; spawn **rq_3703**; ticks=3702.
 - Next: **rq_3703 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3703 — 2026-10-13T17:08:54Z — rq_3703 leftover dual Service Verviétois d’Accompagnement et de Guidance (SVAG) Verviers YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Service Verviétois d’Accompagnement et de Guidance (SVAG)** → KBO 0431.113.926 had 0 prior entity rows.
+- KBO: Actief since 10 januari 1985; VZW; zetel Rue d' Anvers 22 4800 Verviers; 1 VE; 0 prior entity rows for 0431.113.926
+- Found: official NBB MIC-VZW native PDF **2026-00249715** (36095 B / 8p; AV 26-05-2026; neergelegd 29/06/2026; MD5 d24d032e1b2471238687b081d24827dd). MIC-VZW 9900 **EUR582202** (-8.76%); 62 **EUR562475**; 9901 **EUR8717** (was 4304); 9904 8331; equity 116952; cash 388082; FTE n/a.
+- FOI address: coe@svag.be — contact mailbox verified on the official site https://www.svag.be/accueil/nous-contacter (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_svag_verviers_vaph_matrix_9900_0_58m_9901_9k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3703/; rq_3703=done; spawn **rq_3704**; ticks=3703.
+- Next: **rq_3704 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
