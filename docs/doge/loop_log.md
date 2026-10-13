@@ -40070,3 +40070,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ateliercirculer.be — general mailbox verified on the official site https://ateliercirculer.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_atelier_circuler_herent_vaph_matrix_9900_0_30m_9901_36k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3723/; rq_3723=done; spawn **rq_3724**; ticks=3723.
 - Next: **rq_3724 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3724 — 2026-10-13T17:29:25Z — rq_3724 leftover dual E.V.A.-Centrum Ekeren YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **E.V.A.-Centrum** → KBO 0413.518.225 had 0 prior entity rows.
+- KBO: Actief since 1 september 1973; VZW; zetel Kattenberg 54 2180 Antwerpen; 2 VE; 0 prior entity rows for 0413.518.225
+- Found: official NBB MIC-VZW native PDF **2026-00523373** (36773 B / 8p; AV 22-04-2026; neergelegd 25/09/2026; MD5 7220bd9c0383630e229b99a30bf307cc). MIC-VZW 9900 **EUR248723** (-49.97%); 62 **EUR231543**; 9901 **EUR-3711** (was 323111); 9904 -7684; equity 561840; cash 197908; FTE n/a.
+- FOI address: info@evacentrum.be — general mailbox verified on the official site https://evacentrum.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_eva_centrum_ekeren_vaph_matrix_9900_0_25m_9901_loss_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3724/; rq_3724=done; spawn **rq_3725**; ticks=3724.
+- Next: **rq_3725 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
