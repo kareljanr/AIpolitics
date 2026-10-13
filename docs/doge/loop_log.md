@@ -35504,3 +35504,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@crpe.be — general mailbox verified on the official site https://www.crpe.be/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_verviers); FOI **gap_crpe_verviers_vaph_matrix_9900_6_59m_9901_256k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3266/; rq_3266=done; spawn **rq_3267**; ticks=3266.
 - Next: **rq_3267 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3267 — 2026-10-13T04:04:21Z — rq_3267 leftover dual De Molenketjes (Sint-Jans-Molenbeek) Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used: NACE 88.911 / 88.991 (childcare and day-care without accommodation) over Walloon, Brussels and Flemish postcodes (912 legal persons not yet in the repo, 418 triaged), plus remaining NACE 88.999 / 88.101 / 85.599 rows; code 733 rows first, then code 9900, largest first: **De Molenketjes (Sint-Jans-Molenbeek)** → KBO 0563.346.207 had 0 prior entity rows.
+- KBO: Actief since 25 september 2014; VZW; zetel Ninoofsesteenweg 124 a 1080 Sint-Jans-Molenbeek; 13 VE; 0 prior entity rows for 0563.346.207
+- Found: official NBB VKT-VZW native PDF **2026-00232402** (54739 B / 14p; AV 13-06-2026; neergelegd 30/06/2026; MD5 0b74419d21f7eaaafbf1f3b39160d0bd). VKT-VZW 9900 **EUR5529386** (+31.11%); 62 **EUR4532129**; 9901 **EUR693381** (was 1255); 9904 690915; equity 3233342; cash 802210; FTE 107,8 (was 92,7).
+- FOI address: info@demolenketjes.brussels — general mailbox verified on the official site https://www.demolenketjes.be/contactpage/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_de_molenketjes_molenbeek_vaph_matrix_9900_5_53m_9901_693k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3267/; rq_3267=done; spawn **rq_3268**; ticks=3267.
+- Next: **rq_3268 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
