@@ -40780,3 +40780,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@symfonieorkest.be — general mailbox verified on the official site https://www.symfonieorkest.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_symfonieorkest_vlaanderen_gent_vaph_matrix_9900_1_58m_9901_46k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3794/; rq_3794=done; spawn **rq_3795**; ticks=3794.
 - Next: **rq_3795 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3795 — 2026-10-13T22:05:15Z — rq_3795 leftover dual Sportaround Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Sportaround** → KBO 0568.625.876 had 0 prior entity rows.
+- KBO: Actief since 12 januari 2015; VZW; zetel Emanuel Hielstraat 106 9050 Gent; 2 VE; 0 prior entity rows for 0568.625.876
+- Found: official NBB MIC-VZW native PDF **2026-00546560** (36730 B / 8p; AV 18-06-2026; neergelegd 27/09/2026; MD5 fad57a016660d94fe63f0ed4a815e56c). MIC-VZW 9900 **EUR394231** (-3.20%); 62 **EUR416168**; 9901 **EUR-37164** (was 52092); 9904 -37037; equity 124015; cash 107396; FTE n/a.
+- FOI address: info@sportaround.be — general mailbox verified on the official site https://www.sportaround.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_sportaround_gent_vaph_matrix_9900_0_39m_9901_loss_37k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3795/; rq_3795=done; spawn **rq_3796**; ticks=3795.
+- Next: **rq_3796 leftover dual** — Partial batch (3783-3795); recipients found in the Gent and Brugge open-data subsidy lists already in data/raw (gent_subs_full.json, brugge_subs_full.json), amounts from the NBB 2025 filings (code 9900, NOT subsidy amounts); VIERNULVIER and De Korrelatie skipped (no general mailbox on own site), Stadmakers site unreachable, De Overmolen HTTP 500. Next: remaining Gent/Brugge list recipients..
