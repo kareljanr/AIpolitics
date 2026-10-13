@@ -38350,3 +38350,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@universitedesfemmes.be — general mailbox verified on the official site https://universitedesfemmes.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_universite_des_femmes_bxl_vaph_matrix_9900_0_63m_9901_104k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3551/; rq_3550=done; spawn **rq_3552**; ticks=3551.
 - Next: **rq_3552 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3552 — 2026-10-13T12:52:08Z — rq_3552 leftover dual Infor Famille Liège Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Infor Famille Liège** → KBO 0416.392.987 had 0 prior entity rows.
+- KBO: Actief since 1 juli 1976; VZW; zetel Rue de Pitteurs 8 4020 Liège; 1 VE; 0 prior entity rows for 0416.392.987
+- Found: official NBB VKT-VZW native PDF **2026-00158186** (34988 B / 9p; AV 03-06-2026; neergelegd 09/06/2026; MD5 eaf1afc278176f21b7bd31e294efbe4e). VKT-VZW 9900 **EUR612921** (-0.21%); 62 **EUR584194**; 9901 **EUR22850** (was 23233); 9904 22517; equity 243709; cash 75866; FTE n/a.
+- FOI address: info@inforfamille.be — general mailbox verified on the official contact page https://www.planninginforfamilleliege.be/contact (same address as the KBO registered seat and https://inforfamille.be/).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_infor_famille_liege_vaph_matrix_9900_0_61m_9901_23k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3552/; rq_3552=done; spawn **rq_3553**; ticks=3552.
+- Next: **rq_3553 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
