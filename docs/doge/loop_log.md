@@ -39700,3 +39700,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ilesdepaix.org — general mailbox verified on the official site https://www.ilesdepaix.org/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_iles_de_paix_huy_vaph_matrix_733_4_09m_9901_loss_312k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3686/; rq_3686=done; spawn **rq_3687**; ticks=3686.
 - Next: **rq_3687 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3687 — 2026-10-13T16:47:57Z — rq_3687 leftover dual ROTS Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **ROTS** → KBO 0462.896.074 had 0 prior entity rows.
+- KBO: Actief since 20 januari 1998; VZW; zetel Kerkstraat 108 9050 Gent; 1 VE; 0 prior entity rows for 0462.896.074
+- Found: official NBB VKT-VZW native PDF **2026-00150905** (55645 B / 16p; AV 11-05-2026; neergelegd 08/06/2026; MD5 b2d33357e9e0b25b80e5f02e758ccf20). VKT-VZW 9900 **EUR1046734** (+10.21%); 62 **EUR1007004**; 9901 **EUR33869** (was 19926); 9904 34824; equity 339026; cash 186125; FTE 16,3 (was 14,3).
+- FOI address: info@rotsvzw.be — general mailbox verified on the official site https://www.rotsvzw.be/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_rots_gent_vaph_matrix_9900_1_05m_9901_34k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3687/; rq_3687=done; spawn **rq_3688**; ticks=3687.
+- Next: **rq_3688 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
