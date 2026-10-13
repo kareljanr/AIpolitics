@@ -34824,3 +34824,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: direction@rjcv.be — general/role mailbox of the school of the same name run by this organising body, listed on the SeGEC school directory page https://enseignement.catholique.be/etablissements/ecole-prof-dens-specialisee-reumonjoie-clair-val/ which names this ASBL as pouvoir organisateur (opened 13 Oct 2026).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_reumonjoie_clair_val_vaph_matrix_733_11_29m_9901_299k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3198/; rq_3198=done; spawn **rq_3199**; ticks=3198.
 - Next: **rq_3199 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3199 — 2026-10-13T01:32:58Z — rq_3199 leftover dual Centre scolaire du Sacré-Coeur de Jette Jette YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies and literacy ASBLs (ASBL) whose general/role mailbox is listed on the SeGEC school directory or an official site, matched to the KBO; largest code 733 first: **Centre scolaire du Sacré-Coeur de Jette** → KBO 0414.213.952 had 0 prior entity rows.
+- KBO: Actief since 29 maart 1974; VZW; zetel Heilig-Hartlaan 8 1090 Jette; 3 VE; 0 prior entity rows for 0414.213.952
+- Found: official NBB VOL-VZW native PDF **2026-00266303** (1494788 B / 41p; AV 30-06-2026; neergelegd 07/07/2026; MD5 3d0ebde2458fda2028a1bb2164087ba0). VOL-VZW 733 **EUR10499809** (-2.57%); 62 **EUR9625562**; 9901 **EUR112408** (was 58893); 9904 110276; equity 4952643; cash 1053230; FTE 11,8 (was 13,1).
+- FOI address: direction@scj-secondaire.be — general/role mailbox of the school of the same name run by this organising body, listed on the SeGEC school directory page https://enseignement.catholique.be/etablissements/centre-scolaire-du-sacre-coeur/ which names this ASBL as pouvoir organisateur (opened 13 Oct 2026).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_sacre_coeur_jette_vaph_matrix_733_10_50m_9901_112k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3199/; rq_3199=done; spawn **rq_3200**; ticks=3199.
+- Next: **rq_3200 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
