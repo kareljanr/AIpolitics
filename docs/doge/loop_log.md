@@ -38680,3 +38680,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: vragen@de-speelvogels.be — general questions mailbox verified on the official site https://www.de-speelvogels.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_de_speelvogels_ranst_vaph_matrix_9900_0_41m_9901_78k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3584/; rq_3584=done; spawn **rq_3585**; ticks=3584.
 - Next: **rq_3585 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3585 — 2026-10-13T15:19:28Z — rq_3585 leftover dual ArmenTeKort (now Kanzo) Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **ArmenTeKort (now Kanzo)** → KBO 0544.771.794 had 0 prior entity rows.
+- KBO: Actief since 27 januari 2014; VZW; zetel Franklin Rooseveltplaats 12 bus 12 2060 Antwerpen; 1 VE; 0 prior entity rows for 0544.771.794
+- Found: official NBB VKT-VZW native PDF **2026-00174185** (1778041 B / 21p; AV 05-05-2026; neergelegd 12/06/2026; MD5 92776ad746babc59a0901adf963c9d5c). VKT-VZW 9900 **EUR376511** (-6.59%); 62 **EUR306317**; 9901 **EUR68947** (was 16593); 9904 67964; equity 187666; cash 293507; FTE 4,9 (was 5,4).
+- FOI address: info@kanzo.network — general mailbox verified on the official site https://www.kanzo.network/contact (site lists ArmenTeKort vzw, the KBO number and the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_armentekort_kanzo_antwerpen_vaph_matrix_9900_0_38m_9901_69k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3585/; rq_3585=done; spawn **rq_3586**; ticks=3585.
+- Next: **rq_3586 leftover dual** — Batch done (3576-3585); code 9900 leftovers (no new code 733 filer: Marienheim Raeren already in the data) (Médiathèque Nouvelle still unreachable). Next (old-code and NACE-BEL 2025 scans complete, all keys triaged; EPHEC-Galilée not used: no general mailbox on its own site), then further code 9900 leftovers from the rebuilt pool, largest first..
