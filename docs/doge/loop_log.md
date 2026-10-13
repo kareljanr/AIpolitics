@@ -36160,3 +36160,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lesjourspaisibles.be — general mailbox verified on the official site https://www.lesjourspaisibles.be/contact/ (which lists the KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_jours_paisibles_saint_ghislain_vaph_matrix_733_2_50m_9901_289k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3332/; rq_3332=done; spawn **rq_3333**; ticks=3332.
 - Next: **rq_3333 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3333 — 2026-10-13T06:08:39Z — rq_3333 leftover dual Institut Saint-Thomas de Villeneuve Profondeville (Lustin) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **Institut Saint-Thomas de Villeneuve** → KBO 0407.404.750 had 0 prior entity rows.
+- KBO: Actief since 25 juni 1926; VZW; zetel Rue E. Falmagne(LU) 111 5170 Profondeville; 1 VE; 0 prior entity rows for 0407.404.750
+- Found: official NBB VOL-VZW native PDF **2026-00406437** (353935 B / 41p; AV 30-06-2026; neergelegd 19/08/2026; MD5 12b9b8114aa6ec57c54c2e0032b0951a). VOL-VZW 733 **EUR2040794** (+9.34%); 62 **EUR6160854**; 9901 **EUR186224** (was 287398); 9904 91270; equity 3414077; cash 1174524; FTE 86,4 (was 88,6).
+- FOI address: info@saint-thomas.be — general mailbox verified on the official site https://www.saint-thomas.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_saint_thomas_villeneuve_profondeville_vaph_matrix_733_2_04m_9901_186k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3333/; rq_3333=done; spawn **rq_3334**; ticks=3333.
+- Next: **rq_3334 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
