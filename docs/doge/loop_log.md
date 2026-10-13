@@ -35860,3 +35860,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@bataljong.be — general mailbox verified on the official site https://www.bataljong.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_bataljong_antwerpen_vaph_matrix_9900_1_68m_9901_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3302/; rq_3302=done; spawn **rq_3303**; ticks=3302.
 - Next: **rq_3303 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3303 — 2026-10-13T05:08:11Z — rq_3303 leftover dual KSA Nationaal Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.991 / 94.992 (974 legal persons not yet in the repo) and NACE 94.999 / 88.109 (776) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first: **KSA Nationaal** → KBO 0420.509.351 had 0 prior entity rows.
+- KBO: Actief since 25 januari 1980; VZW; zetel Vooruitgangstraat 225 1030 Schaarbeek; 7 VE; 0 prior entity rows for 0420.509.351
+- Found: official NBB VKT-VZW native PDF **2026-00067135** (405160 B / 21p; AV 24-03-2026; neergelegd 30/03/2026; MD5 d255bb66be939bcb537d5cb998cf874d). VKT-VZW 9900 **EUR1673343** (+1.78%); 62 **EUR1651067**; 9901 **EUR-54098** (was -115354); 9904 -39126; equity 2353324; cash 2759142; FTE 24,5 (was 25,1).
+- FOI address: info@ksa.be — general mailbox verified on the official site https://www.ksa.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ksa_nationaal_vaph_matrix_9900_1_67m_9901_loss_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3303/; rq_3303=done; spawn **rq_3304**; ticks=3303.
+- Next: **rq_3304 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
