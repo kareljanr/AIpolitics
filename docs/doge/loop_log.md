@@ -39750,3 +39750,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: team@amo-millelieuxdevie.be — team mailbox verified on the official site https://amo-millelieuxdevie.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_mille_lieux_de_vie_huy_vaph_matrix_9900_0_45m_9901_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3691/; rq_3690=done; spawn **rq_3692**; ticks=3691.
 - Next: **rq_3692 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3692 — 2026-10-13T16:49:35Z — rq_3692 leftover dual Rondpunt Berchem YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Rondpunt** → KBO 0862.355.932 had 0 prior entity rows.
+- KBO: Actief since 23 december 2003; VZW; zetel Uitbreidingstraat 518 bus 2.01 2600 Antwerpen; 1 VE; 0 prior entity rows for 0862.355.932
+- Found: official NBB MIC-VZW native PDF **2026-00180056** (46436 B / 11p; AV 11-06-2026; neergelegd 22/06/2026; MD5 cb9abd113eb711c6207b877d9de574ae). MIC-VZW 9900 **EUR317310** (+12.75%); 62 **EUR339171**; 9901 **EUR-27517** (was -61240); 9904 -24811; equity 238703; cash 95769; FTE n/a.
+- FOI address: info@rondpunt.be — general mailbox verified on the official site https://www.rondpunt.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_rondpunt_berchem_vaph_matrix_9900_0_32m_9901_loss_28k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3692/; rq_3692=done; spawn **rq_3693**; ticks=3692.
+- Next: **rq_3693 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
