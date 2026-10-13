@@ -37420,3 +37420,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@visavis.be — general mailbox verified on the official site https://www.visavis.be/fr/service-daccompagnement (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_vis_a_vis_namur_vaph_matrix_9900_2_06m_9901_45k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3458/; rq_3458=done; spawn **rq_3459**; ticks=3458.
 - Next: **rq_3459 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3459 — 2026-10-13T11:06:47Z — rq_3459 leftover dual Ligue Belge de la Sclérose en Plaques - Communauté française Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Ligue Belge de la Sclérose en Plaques - Communauté française** → KBO 0424.264.043 had 0 prior entity rows.
+- KBO: Actief since 23 juni 1982; VZW; zetel Rue des Linottes(NN) 6 5100 Namur; 6 VE; 0 prior entity rows for 0424.264.043
+- Found: official NBB VKT-VZW native PDF **2026-00268668** (857855 B / 28p; AV 22-04-2026; neergelegd 02/07/2026; MD5 e4847db1573286cbd3c7fd68fd33357d). VKT-VZW 9900 **EUR2019970** (+12.50%); 62 **EUR2219322**; 9901 **EUR-304867** (was -224028); 9904 -282512; equity 4455460; cash 762972; FTE 27,5 (was 25).
+- FOI address: info@liguesep.be — general mailbox verified on the official site https://www.liguesep.be/index.php/nous-contacter-general/siege-social (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_ligue_sep_naninne_vaph_matrix_9900_2_02m_9901_loss_305k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3459/; rq_3459=done; spawn **rq_3460**; ticks=3459.
+- Next: **rq_3460 leftover dual** — Batch done; code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: Article 23, Phénix, RaCYNes, Bednet, Ulysse (code 9900), and triage of the fresh 22-family scan for code 733 filers as pages finish..
