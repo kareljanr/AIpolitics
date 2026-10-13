@@ -37150,3 +37150,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@bouke.media — general mailbox verified on the official site https://www.bouke.media/mentions-legales (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_bouke_namur_vaph_matrix_9900_3_26m_9901_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3431/; rq_3430=done; spawn **rq_3432**; ticks=3431.
 - Next: **rq_3432 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3432 — 2026-10-13T09:41:44Z — rq_3432 leftover dual Transkript Asse (Zellik) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Transkript** → KBO 0422.603.660 had 0 prior entity rows.
+- KBO: Actief since 21 december 1981; VZW; zetel Cesar Van Malderenstraat 33 1731 Asse; 4 VE; 0 prior entity rows for 0422.603.660
+- Found: official NBB VKT-VZW native PDF **2026-00079499** (50679 B / 13p; AV 19-03-2026; neergelegd 13/04/2026; MD5 b71b934060958eddf6d0926758a0c03f). VKT-VZW 9900 **EUR1977920** (-4.88%); 62 **EUR1873105**; 9901 **EUR-119271** (was 105814); 9904 16492; equity 2572452; cash 841187; FTE 29,1 (was 30,8).
+- FOI address: info@transkript.be — general mailbox verified on the official site https://transkript.be/disclaimer/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_transkript_zellik_vaph_matrix_9900_1_98m_9901_loss_119k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3432/; rq_3432=done; spawn **rq_3433**; ticks=3432.
+- Next: **rq_3433 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
