@@ -38370,3 +38370,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: ligue.alzheimer@alzheimer.be — general administrative mailbox verified on the official site https://alzheimer.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_ligue_alzheimer_ans_vaph_matrix_9900_0_61m_9901_194k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3553/; rq_3553=done; spawn **rq_3554**; ticks=3553.
 - Next: **rq_3554 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3554 — 2026-10-13T12:52:26Z — rq_3554 leftover dual De Bonte Beestenboel Hoogstraten YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **De Bonte Beestenboel** → KBO 0872.054.249 had 0 prior entity rows.
+- KBO: Actief since 22 februari 2005; VZW; zetel Kolonie 35 2323 Hoogstraten; 1 VE; 0 prior entity rows for 0872.054.249
+- Found: official NBB VKT-VZW native PDF **2026-00360513** (261055 B / 16p; AV 01-06-2026; neergelegd 28/07/2026; MD5 291b4fe483adf9785a583918289f602d). VKT-VZW 9900 **EUR603029** (+2.97%); 62 **EUR482677**; 9901 **EUR71724** (was 82211); 9904 90814; equity 413437; cash 41131; FTE 7,6 (was 8).
+- FOI address: info@debontebeestenboel.be — general mailbox verified on the official site https://www.debontebeestenboel.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_bonte_beestenboel_wortel_vaph_matrix_9900_0_60m_9901_72k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3554/; rq_3554=done; spawn **rq_3555**; ticks=3554.
+- Next: **rq_3555 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
