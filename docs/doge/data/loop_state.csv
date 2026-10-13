@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T06:17:59Z,rq_3340,3341,no,tick3341 leftover dual Sainte Adeline (Pouponnière Sainte-Adeline) Liège 0415.061.713 Strong PDF 2026-00338537 9900 6.26m / 9901 loss 6k; next rq_3342 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T06:18:05Z,rq_3342,3342,no,tick3342 leftover dual Notre Abri Uccle 0410.376.712 Strong PDF 2026-00276703 9900 5.70m / 9901 89k; next rq_3343 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

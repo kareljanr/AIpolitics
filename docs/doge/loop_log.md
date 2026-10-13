@@ -36250,3 +36250,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: sainte.adeline@skynet.be — general mailbox verified on the official site https://www.sainte-adeline.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_sainte_adeline_liege_vaph_matrix_9900_6_26m_9901_loss_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3341/; rq_3340=done; spawn **rq_3342**; ticks=3341.
 - Next: **rq_3342 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3342 — 2026-10-13T06:18:05Z — rq_3342 leftover dual Notre Abri Uccle YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **Notre Abri** → KBO 0410.376.712 had 0 prior entity rows.
+- KBO: Actief since 19 maart 1955; VZW; zetel Colonel Chaltinstraat 85 1180 Ukkel; 1 VE; 0 prior entity rows for 0410.376.712
+- Found: official NBB VKT-VZW native PDF **2026-00276703** (47301 B / 14p; AV 09-06-2026; neergelegd 10/07/2026; MD5 92b60815e456e43c1366961e83eb8d85). VKT-VZW 9900 **EUR5697417** (-10.04%); 62 **EUR5245798**; 9901 **EUR89258** (was 977357); 9904 80846; equity 3652940; cash 227820; FTE 94 (was 90).
+- FOI address: info@notreabri.be — general mailbox verified on the official site https://notreabri.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_notre_abri_uccle_vaph_matrix_9900_5_70m_9901_89k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3342/; rq_3342=done; spawn **rq_3343**; ticks=3342.
+- Next: **rq_3343 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
