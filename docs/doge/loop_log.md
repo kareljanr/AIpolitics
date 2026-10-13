@@ -36890,3 +36890,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sgp.be — general mailbox verified on the official site https://scoutspluralistes.be/nous-contacter/siege-federal/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_scouts_guides_pluralistes_vaph_matrix_9900_1_90m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3405/; rq_3405=done; spawn **rq_3406**; ticks=3405.
 - Next: **rq_3406 leftover dual** — Batch done; the new NACE scans gave one usable code 733 row (Crescendo); other code 733 rows were duplicates, EU-level, or had no own-site mailbox. Next: Médiathèque Nouvelle (code 733, site still unreachable), SONEFA / Crèches de Schaerbeek (code 733, no own-site mailbox yet), then code 9900 childcare leftovers..
+
+
+## Tick 3406 — 2026-10-13T09:15:45Z — rq_3406 leftover dual Les Auberges de Jeunesse Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Les Auberges de Jeunesse** → KBO 0406.568.273 had 0 prior entity rows.
+- KBO: Actief since 18 juni 1933; VZW; zetel Martelaarsplein 10 1000 Brussel; 12 VE; 0 prior entity rows for 0406.568.273
+- Found: official NBB VOL-VZW native PDF **2026-00180462** (1079262 B / 41p; AV 13-06-2026; neergelegd 22/06/2026; MD5 3c5cd75892bd14afe98eab55ddc11923). VOL-VZW 733 **EUR5716580** (+12.25%); 62 **EUR7775812**; 9901 **EUR807110** (was 51677); 9904 315258; equity 6755822; cash 1787583; FTE 126,8 (was 124,1).
+- FOI address: info@lesaubergesdejeunesse.be — general mailbox verified on the official site https://lesaubergesdejeunesse.be/conditions-generales-de-vente/ (which lists the KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_auberges_de_jeunesse_wb_vaph_matrix_733_5_72m_9901_807k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3406/; rq_3406=done; spawn **rq_3407**; ticks=3406.
+- Next: **rq_3407 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
