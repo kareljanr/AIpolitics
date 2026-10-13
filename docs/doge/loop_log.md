@@ -37260,3 +37260,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@fos.be — general mailbox verified on the official site https://fosopenscouting.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_fos_open_scouting_gent_vaph_matrix_9900_0_81m_9901_loss_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3442/; rq_3442=done; spawn **rq_3443**; ticks=3442.
 - Next: **rq_3443 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3443 — 2026-10-13T10:12:58Z — rq_3443 leftover dual Maison de la poésie d'Amay Amay YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Maison de la poésie d'Amay** → KBO 0415.520.185 had 0 prior entity rows.
+- KBO: Actief since 1 juli 1975; VZW; zetel Place des Cloîtres(AMA) 8 4540 Amay; 1 VE; 0 prior entity rows for 0415.520.185
+- Found: official NBB VKT-VZW native PDF **2026-00326932** (48750 B / 14p; AV 27-06-2026; neergelegd 24/07/2026; MD5 0ec9edbc7614893c911059bd0cb0f593). VKT-VZW 9900 **EUR632316** (+10.79%); 62 **EUR578735**; 9901 **EUR38364** (was -23855); 9904 42410; equity 229441; cash 77735; FTE 10,8 (was 11,3).
+- FOI address: contact@maisondelapoesie.com — general mailbox verified on the official site https://www.maisondelapoesie.com/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_maison_de_la_poesie_amay_vaph_matrix_9900_0_63m_9901_38k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3443/; rq_3443=done; spawn **rq_3444**; ticks=3443.
+- Next: **rq_3444 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

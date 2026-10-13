@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T10:12:47Z,rq_3442,3442,no,tick3442 leftover dual FOS Open Scouting Gent 0409.543.797 Strong PDF 2026-00237220 9900 0.81m / 9901 loss 6k; next rq_3443 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T10:12:58Z,rq_3443,3443,no,tick3443 leftover dual Maison de la poésie d'Amay Amay 0415.520.185 Strong PDF 2026-00326932 9900 0.63m / 9901 38k; next rq_3444 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
