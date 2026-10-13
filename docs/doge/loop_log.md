@@ -35880,3 +35880,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: coordination@gaffi.be — coordination (role) mailbox verified on the official site https://www.gaffi.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_gaffi_schaerbeek_vaph_matrix_9900_1_40m_9901_loss_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3304/; rq_3304=done; spawn **rq_3305**; ticks=3304.
 - Next: **rq_3305 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3305 — 2026-10-13T05:08:23Z — rq_3305 leftover dual Service Arc-en-Ciel Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.991 / 94.992 (974 legal persons not yet in the repo) and NACE 94.999 / 88.109 (776) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first: **Service Arc-en-Ciel** → KBO 0410.661.376 had 0 prior entity rows.
+- KBO: Actief since 14 februari 1961; VZW; zetel Bien-Fairestraat 41 1170 Watermaal-Bosvoorde; 4 VE; 0 prior entity rows for 0410.661.376
+- Found: official NBB VKT-VZW native PDF **2026-00156604** (576962 B / 22p; AV 30-05-2026; neergelegd 12/06/2026; MD5 b4528708590a5f4b58aa4430246af2c2). VKT-VZW 9900 **EUR1316586** (+4.37%); 62 **EUR391819**; 9901 **EUR8017** (was -27930); 9904 12894; equity 783207; cash 979529; FTE 6,6 (was 6,4).
+- FOI address: info@arc-en-ciel.be — general mailbox verified on the official site https://www.arc-en-ciel.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_arc_en_ciel_watermael_vaph_matrix_9900_1_32m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3305/; rq_3305=done; spawn **rq_3306**; ticks=3305.
+- Next: **rq_3306 leftover dual** — Batch done; skipped (5-min cap / mailbox rule): Mediante (address not shown on its contact page), Solentra (only hospital-domain mailboxes), Belgische Federatie van Voedselbanken (no mailbox on its contact page), Brandwonden, FMJ and Financité (no mailbox found), EU-level bodies (European Cyclists Federation, Seas At Risk, European Social Network, Protection International), I.M. (no figure). Next: remaining 94.99x / 88.109 9900 rows, then other unscanned codes/regions.
