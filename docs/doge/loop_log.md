@@ -36870,3 +36870,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: inscriptions@cemome.be — enrolment role mailbox verified on the official site https://www.cemome.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cemome_saint_gilles_vaph_matrix_9900_3_25m_9901_395k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3403/; rq_3403=done; spawn **rq_3404**; ticks=3403.
 - Next: **rq_3404 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3404 — 2026-10-13T08:51:17Z — rq_3404 leftover dual Fédération des Jeunesses Musicales Wallonie-Bruxelles Auderghem YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Fédération des Jeunesses Musicales Wallonie-Bruxelles** → KBO 0415.345.882 had 0 prior entity rows.
+- KBO: Actief since 25 september 1975; VZW; zetel Triomflaan 173 1160 Oudergem; 9 VE; 0 prior entity rows for 0415.345.882
+- Found: official NBB VKT-VZW native PDF **2026-00372531** (51245 B / 13p; AV 11-06-2026; neergelegd 02/08/2026; MD5 0b541646948a2af0b88baf0f73ddff50). VKT-VZW 9900 **EUR2207708** (+4.16%); 62 **EUR1756098**; 9901 **EUR53298** (was 25809); 9904 52870; equity 196503; cash 458117; FTE n/a.
+- FOI address: info@jeunessesmusicales.be — general mailbox verified on the official site https://jeunessesmusicales.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_jeunesses_musicales_wb_vaph_matrix_9900_2_21m_9901_53k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3404/; rq_3404=done; spawn **rq_3405**; ticks=3404.
+- Next: **rq_3405 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
