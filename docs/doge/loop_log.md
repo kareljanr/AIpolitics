@@ -40700,3 +40700,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@victoriadeluxe.be — general mailbox verified on the official site https://www.victoriadeluxe.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_victoria_deluxe_gent_vaph_matrix_9900_0_50m_9901_46k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3786/; rq_3786=done; spawn **rq_3787**; ticks=3786.
 - Next: **rq_3787 leftover dual** — Partial batch (3783-3786); recipients found in the Gent and Brugge open-data subsidy lists already in data/raw (gent_subs_full.json, brugge_subs_full.json), amounts from the NBB 2025 filings (code 9900, NOT subsidy amounts); VIERNULVIER and De Korrelatie skipped (no general mailbox on own site), Stadmakers site unreachable, De Overmolen HTTP 500. Next: remaining Gent/Brugge list recipients..
+
+
+## Tick 3787 — 2026-10-13T22:00:05Z — rq_3787 leftover dual Uilenspel Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Uilenspel** → KBO 0808.284.568 had 0 prior entity rows.
+- KBO: Actief since 9 december 2008; VZW; zetel Groot Begijnhof 85 9040 Gent; 2 VE; 0 prior entity rows for 0808.284.568
+- Found: official NBB VKT-VZW native PDF **2026-00180946** (44302 B / 11p; AV 23-03-2026; neergelegd 19/06/2026; MD5 f31b8fc11e3cdcba5177416e0b0fda55). VKT-VZW 9900 **EUR795692** (+4.77%); 62 **EUR777689**; 9901 **EUR15777** (was 21140); 9904 15816; equity 151323; cash 233868; FTE 7,9 (was 10).
+- FOI address: info@uilenspel.be — general mailbox verified on the official site https://www.uilenspel.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_uilenspel_gent_vaph_matrix_9900_0_80m_9901_16k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3787/; rq_3787=done; spawn **rq_3788**; ticks=3787.
+- Next: **rq_3788 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
