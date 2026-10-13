@@ -41080,3 +41080,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kannet.be — general mailbox verified on the official site https://www.kannet.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_kannet_antwerpen_vaph_matrix_9900_1_37m_9901_50k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3824/; rq_3824=done; spawn **rq_3825**; ticks=3824.
 - Next: **rq_3825 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3825 — 2026-10-13T22:32:54Z — rq_3825 leftover dual Het Gevolg Turnhout YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Het Gevolg** → KBO 0431.113.134 had 0 prior entity rows.
+- KBO: Actief since 8 april 1986; VZW; zetel Otterstraat 31-33 2300 Turnhout; 1 VE; 0 prior entity rows for 0431.113.134
+- Found: official NBB MIC-VZW native PDF **2026-00123634** (50583 B / 15p; AV 05-05-2026; neergelegd 28/05/2026; MD5 5254a534498ad08b98abb82cf0cb6df3). MIC-VZW 9900 **EUR671927** (+10.48%); 62 **EUR558665**; 9901 **EUR21240** (was 35120); 9904 14203; equity 430701; cash 129922; FTE n/a.
+- FOI address: info@hetgevolg.be — general mailbox verified on the official site https://www.hetgevolg.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_het_gevolg_turnhout_vaph_matrix_9900_0_67m_9901_21k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3825/; rq_3825=done; spawn **rq_3826**; ticks=3825.
+- Next: **rq_3826 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
