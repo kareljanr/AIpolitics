@@ -39850,3 +39850,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mensenvoormensen.be — general mailbox verified on the official site https://mensenvoormensen.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_mensen_voor_mensen_aalst_vaph_matrix_9900_0_66m_9901_loss_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3701/; rq_3700=done; spawn **rq_3702**; ticks=3701.
 - Next: **rq_3702 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3702 — 2026-10-13T17:08:46Z — rq_3702 leftover dual Centre de Planning et de Consultation familiale et conjugale du Luxembourg Arlon YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre de Planning et de Consultation familiale et conjugale du Luxembourg** → KBO 0412.746.678 had 0 prior entity rows.
+- KBO: Actief since 30 oktober 1972; VZW; zetel Rue de Bastogne 46 6700 Arlon Extra adresinfo: arlon@planning-arlon-bastogne.be; 2 VE; 0 prior entity rows for 0412.746.678
+- Found: official NBB VKT-VZW native PDF **2026-00532573** (49893 B / 13p; AV 18-06-2026; neergelegd 30/09/2026; MD5 e9c4c6d14e3fddddcd9618324ff012d2). VKT-VZW 9900 **EUR662223** (-3.24%); 62 **EUR646826**; 9901 **EUR-2792** (was 80257); 9904 -1921; equity 731878; cash 727943; FTE 8,2 (was 7,4).
+- FOI address: arlon@planning-arlon-bastogne.be — Arlon centre mailbox verified on the official site https://www.planning-arlon-bastogne.be/ (also listed in the KBO record; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_planning_familial_arlon_vaph_matrix_9900_0_66m_9901_loss_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3702/; rq_3702=done; spawn **rq_3703**; ticks=3702.
+- Next: **rq_3703 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
