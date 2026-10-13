@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T22:57:09Z,rq_3850,3851,no,tick3851 leftover dual GLUON Brussel 0887.643.436 Strong PDF 2026-00402261 9900 0.45m / 9901 34k; next rq_3852 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T22:57:17Z,rq_3852,3852,no,tick3852 leftover dual Het Depot Leuven 0860.735.735 Strong PDF 2026-00099864 9900 0.95m / 9901 loss 68k; next rq_3853 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
