@@ -36880,3 +36880,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@jeunessesmusicales.be — general mailbox verified on the official site https://jeunessesmusicales.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_jeunesses_musicales_wb_vaph_matrix_9900_2_21m_9901_53k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3404/; rq_3404=done; spawn **rq_3405**; ticks=3404.
 - Next: **rq_3405 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3405 — 2026-10-13T08:51:29Z — rq_3405 leftover dual Scouts et Guides Pluralistes de Belgique Auderghem YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Scouts et Guides Pluralistes de Belgique** → KBO 0409.558.645 had 0 prior entity rows.
+- KBO: Actief since 9 mei 1966; VZW; zetel Charles Michielslaan 154 1160 Oudergem; 2 VE; 0 prior entity rows for 0409.558.645
+- Found: official NBB VKT-VZW native PDF **2026-00482042** (51490 B / 13p; AV 15-03-2026; neergelegd 28/08/2026; MD5 9a08ebfc848cc0a2c97dc9f1276aa66b). VKT-VZW 9900 **EUR1901746** (+115.16%); 62 **EUR934691**; 9901 **EUR7483** (was -20469); 9904 -20370; equity 597790; cash 1148318; FTE 15,6 (was 16,1).
+- FOI address: info@sgp.be — general mailbox verified on the official site https://scoutspluralistes.be/nous-contacter/siege-federal/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_scouts_guides_pluralistes_vaph_matrix_9900_1_90m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3405/; rq_3405=done; spawn **rq_3406**; ticks=3405.
+- Next: **rq_3406 leftover dual** — Batch done; the new NACE scans gave one usable code 733 row (Crescendo); other code 733 rows were duplicates, EU-level, or had no own-site mailbox. Next: Médiathèque Nouvelle (code 733, site still unreachable), SONEFA / Crèches de Schaerbeek (code 733, no own-site mailbox yet), then code 9900 childcare leftovers..
