@@ -35444,3 +35444,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3260 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3260 run locally as fallback.
 - Next: **rq_3260** — NACE 88.999 Walloon scan (code 9900, NOT subsidy amounts): CRIPEL (EUR2.77m), CALIA (EUR2.62m), RWLP (EUR2.44m), CRIC Charleroi (EUR2.21m), Canopea (EUR2.20m); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3261 — 2026-10-13T03:29:44Z — rq_3260 leftover dual CRIPEL - Centre régional pour l'intégration des personnes étrangères de Liège Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used: NACE 88.999 over Walloon and Flemish postcodes (2,181 legal persons not yet in the repo, 773 with a 2025-12 filing), plus NACE 88.101 and 85.599 (partial); code 733 rows first, then code 9900, largest first: **CRIPEL - Centre régional pour l'intégration des personnes étrangères de Liège** → KBO 0465.562.188 had 0 prior entity rows.
+- KBO: Actief since 29 oktober 1998; VZW; zetel Place Xavier-Neujean 19 bus B 4000 Liège; 1 VE; 0 prior entity rows for 0465.562.188
+- Found: official NBB VKT-VZW native PDF **2026-00462676** (51235 B / 14p; AV 27-06-2026; neergelegd 31/08/2026; MD5 5b9f5a2bc584934a2d3f693a34060bae). VKT-VZW 9900 **EUR2770523** (+2.06%); 62 **EUR2725729**; 9901 **EUR1822** (was 1112); 9904 238; equity 29239; cash 137654; FTE 43,5 (was 43,9).
+- FOI address: info@cripel.be — general mailbox verified on the official site https://www.cripel.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_cripel_liege_vaph_matrix_9900_2_77m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3261/; rq_3260=done; spawn **rq_3262**; ticks=3261.
+- Next: **rq_3262 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
