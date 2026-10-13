@@ -40580,3 +40580,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@aditivzw.be — general mailbox verified on the official site https://www.aditivzw.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_aditi_antwerpen_vaph_matrix_9900_0_56m_9901_19k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3774/; rq_3774=done; spawn **rq_3775**; ticks=3774.
 - Next: **rq_3775 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3775 — 2026-10-13T21:18:31Z — rq_3775 leftover dual De Kraamvogel (geboortecentrum en expertisecentrum kraamzorg) Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **De Kraamvogel (geboortecentrum en expertisecentrum kraamzorg)** → KBO 0429.866.485 had 0 prior entity rows.
+- KBO: Actief since 4 september 1984; VZW; zetel Volkstraat 7 2000 Antwerpen; 1 VE; 0 prior entity rows for 0429.866.485
+- Found: official NBB MIC-VZW native PDF **2026-00137763** (50550 B / 14p; AV 19-05-2026; neergelegd 04/06/2026; MD5 72c169d6c821b622cc7ba67fa0a3b83b). MIC-VZW 9900 **EUR423027** (+15.03%); 62 **EUR426119**; 9901 **EUR-6079** (was 18531); 9904 -5291; equity 397513; cash 471013; FTE n/a.
+- FOI address: info@kraamvogel.be — general mailbox verified on the official site https://www.kraamvogel.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_de_kraamvogel_antwerpen_vaph_matrix_9900_0_42m_9901_loss_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3775/; rq_3775=done; spawn **rq_3776**; ticks=3775.
+- Next: **rq_3776 leftover dual** — Partial batch (3771-3775); code 9900 rows from bounded KBO scans nscan20/nscan22 (Brussels and Antwerp postcodes not scanned before), largest first; no usable code 733 filer; Werkstroomm (site mailbox belongs to another KBO), Payoke (site address differs from KBO seat), VINC (no mailbox), De Overmolen (site HTTP 500) skipped. Next: new scan..
