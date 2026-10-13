@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T16:38:02Z,rq_3680,3681,no,tick3681 leftover dual L'Échelle Mouscron 0448.610.152 Strong PDF 2026-00205844 9900 0.62m / 9901 loss 14k; next rq_3682 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T16:38:10Z,rq_3682,3682,no,tick3682 leftover dual De Kei Deurne 0434.491.407 Strong PDF 2026-00126391 9900 0.61m / 9901 120k; next rq_3683 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

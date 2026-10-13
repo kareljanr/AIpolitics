@@ -39650,3 +39650,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@echelleasbl.be — general mailbox verified on the official site https://echelleasbl.be/nous%20contacter.html (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_l_echelle_mouscron_vaph_matrix_9900_0_62m_9901_loss_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3681/; rq_3680=done; spawn **rq_3682**; ticks=3681.
 - Next: **rq_3682 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3682 — 2026-10-13T16:38:10Z — rq_3682 leftover dual De Kei Deurne YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **De Kei** → KBO 0434.491.407 had 0 prior entity rows.
+- KBO: Actief since 22 december 1987; VZW; zetel Ter Rivierenlaan 152 2100 Antwerpen; 1 VE; 0 prior entity rows for 0434.491.407
+- Found: official NBB MIC-VZW native PDF **2026-00126391** (46246 B / 11p; AV 19-03-2026; neergelegd 27/05/2026; MD5 69ec596745b3ef277561c91115ac71d6). MIC-VZW 9900 **EUR609920** (+4.72%); 62 **EUR438672**; 9901 **EUR120238** (was 44539); 9904 120210; equity 454758; cash 176416; FTE n/a.
+- FOI address: info@dekei.be — general mailbox verified on the official site https://www.dekei.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_de_kei_deurne_vaph_matrix_9900_0_61m_9901_120k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3682/; rq_3682=done; spawn **rq_3683**; ticks=3682.
+- Next: **rq_3683 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
