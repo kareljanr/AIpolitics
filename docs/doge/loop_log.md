@@ -40400,3 +40400,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mentorjeunes.be — general mailbox verified on the official site https://www.mentorjeunes.be/mentions-legales/ (site shows the same KBO number) (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_mentor_jeunes_ixelles_vaph_matrix_9900_0_63m_9901_27k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3756/; rq_3756=done; spawn **rq_3757**; ticks=3756.
 - Next: **rq_3757 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3757 — 2026-10-13T19:24:00Z — rq_3757 leftover dual Parents d'Enfants Victimes de la Route - SAVE Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Parents d'Enfants Victimes de la Route - SAVE** → KBO 0671.979.178 had 0 prior entity rows.
+- KBO: Actief since 2 maart 2017; VZW; zetel Haachtsesteenweg 1405 1130 Brussel; 1 VE; 0 prior entity rows for 0671.979.178
+- Found: official NBB MIC-VZW native PDF **2026-00180057** (34304 B / 8p; AV 06-06-2026; neergelegd 22/06/2026; MD5 6e8f7d849b83ee6dfed42b5a433a54d7). MIC-VZW 9900 **EUR568557** (+791.35%); 62 **EUR39935**; 9901 **EUR519434** (was 16278); 9904 519229; equity 538632; cash 497631; FTE n/a.
+- FOI address: info@pevr.be — general mailbox verified on the official site https://pevr.be/contactez-nous (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_parents_enfants_victimes_route_save_vaph_matrix_9900_0_57m_9901_519k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3757/; rq_3757=done; spawn **rq_3758**; ticks=3757.
+- Next: **rq_3758 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
