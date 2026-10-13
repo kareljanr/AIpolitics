@@ -38060,3 +38060,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mosaiqueasbl.be — general mailbox verified on the official site https://www.mosaiqueasbl.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_mosaique_vise_vaph_matrix_9900_0_81m_9901_loss_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3522/; rq_3522=done; spawn **rq_3523**; ticks=3522.
 - Next: **rq_3523 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3523 — 2026-10-13T12:14:59Z — rq_3523 leftover dual De RuimteVaart Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **De RuimteVaart** → KBO 0460.009.038 had 0 prior entity rows.
+- KBO: Actief since 19 december 1996; VZW; zetel Valkerijgang 26 3000 Leuven; 1 VE; 0 prior entity rows for 0460.009.038
+- Found: official NBB VKT-VZW native PDF **2026-00090357** (49941 B / 14p; AV 27-04-2026; neergelegd 28/04/2026; MD5 5cb264cd5da9799b0bad3945eaaf4eea). VKT-VZW 9900 **EUR792311** (-1.67%); 62 **EUR771648**; 9901 **EUR7673** (was 11539); 9904 7626; equity 339054; cash 125853; FTE 15,8 (was 16,6).
+- FOI address: hallo@deruimtevaart.be — general mailbox verified on the official site https://www.deruimtevaart.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_de_ruimtevaart_leuven_vaph_matrix_9900_0_79m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3523/; rq_3523=done; spawn **rq_3524**; ticks=3523.
+- Next: **rq_3524 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
