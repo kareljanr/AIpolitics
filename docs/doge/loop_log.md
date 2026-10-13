@@ -37470,3 +37470,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: accueil@racynes.be — general mailbox verified on the official site https://racynes.be/contact/ (same address as the filed seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_racynes_oupeye_vaph_matrix_9900_1_81m_9901_9k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3463/; rq_3463=done; spawn **rq_3464**; ticks=3463.
 - Next: **rq_3464 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3464 — 2026-10-13T11:10:15Z — rq_3464 leftover dual Bednet Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Bednet** → KBO 0865.402.821 had 0 prior entity rows.
+- KBO: Actief since 22 mei 2004; VZW; zetel Tiensevest 58 3000 Leuven; 1 VE; 0 prior entity rows for 0865.402.821
+- Found: official NBB VKT-VZW native PDF **2026-00128545** (1650508 B / 54p; AV 12-05-2026; neergelegd 01/06/2026; MD5 2413b9da833d0dc54ed3def0fe4f975c). VKT-VZW 9900 **EUR1811290** (-17.58%); 62 **EUR1216810**; 9901 **EUR-107712** (was 652728); 9904 -105053; equity 3488704; cash 1515217; FTE 16,3 (was 15,3).
+- FOI address: info@bednet.be — general mailbox verified on the official site https://www.bednet.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_bednet_leuven_vaph_matrix_9900_1_81m_9901_loss_108k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3464/; rq_3464=done; spawn **rq_3465**; ticks=3464.
+- Next: **rq_3465 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

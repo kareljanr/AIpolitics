@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T11:10:04Z,rq_3463,3463,no,tick3463 leftover dual RaCYNes Oupeye 0874.941.483 Strong PDF 2026-00526843 9900 1.81m / 9901 9k; next rq_3464 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T11:10:15Z,rq_3464,3464,no,tick3464 leftover dual Bednet Leuven 0865.402.821 Strong PDF 2026-00128545 9900 1.81m / 9901 loss 108k; next rq_3465 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
