@@ -40060,3 +40060,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@bouworde.be — general mailbox verified on the official site https://bouworde.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_bouworde_kessel_lo_vaph_matrix_9900_0_36m_9901_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3722/; rq_3722=done; spawn **rq_3723**; ticks=3722.
 - Next: **rq_3723 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3723 — 2026-10-13T17:29:16Z — rq_3723 leftover dual Atelier Circuler Herent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Atelier Circuler** → KBO 0676.833.336 had 0 prior entity rows.
+- KBO: Actief since 15 juni 2017; VZW; zetel Klein Dalenstraat 42 3020 Herent; 1 VE; 0 prior entity rows for 0676.833.336
+- Found: official NBB MIC-VZW native PDF **2026-00291036** (41555 B / 12p; AV 25-06-2026; neergelegd 14/07/2026; MD5 8ffccfc851d03367addab66d36549983). MIC-VZW 9900 **EUR296774** (+27.29%); 62 **EUR242093**; 9901 **EUR35972** (was 16232); 9904 34503; equity 198768; cash 139325; FTE n/a.
+- FOI address: info@ateliercirculer.be — general mailbox verified on the official site https://ateliercirculer.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_atelier_circuler_herent_vaph_matrix_9900_0_30m_9901_36k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3723/; rq_3723=done; spawn **rq_3724**; ticks=3723.
+- Next: **rq_3724 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
