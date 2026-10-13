@@ -37390,3 +37390,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@graphoui.org — general mailbox verified on the official site https://graphoui.org/fr/contact/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_atelier_graphoui_bruxelles_vaph_matrix_9900_0_40m_9901_loss_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3455/; rq_3455=done; spawn **rq_3456**; ticks=3455.
 - Next: **rq_3456 leftover dual** — Batch done; code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the fresh 22-family scan for code 733 filers as pages finish (61 of 440 done), then further code 9900 leftovers from the cached NBB pool, largest first..
+
+
+## Tick 3456 — 2026-10-13T11:06:10Z — rq_3456 leftover dual Praxis Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Praxis** → KBO 0447.265.713 had 0 prior entity rows.
+- KBO: Actief since 11 januari 1992; VZW; zetel Rue Puits-en-Sock 63 bus 22/32 4020 Liège; 3 VE; 0 prior entity rows for 0447.265.713
+- Found: official NBB VKT-VZW native PDF **2026-00061773** (60237 B / 18p; AV 25-03-2026; neergelegd 25/03/2026; MD5 78883c9a98245e73689c3b1f31a2d669). VKT-VZW 9900 **EUR2318570** (+8.45%); 62 **EUR2292725**; 9901 **EUR13356** (was 6585); 9904 13271; equity 196400; cash 196581; FTE 27,3 (was 25,7).
+- FOI address: liege@asblpraxis.be — seat-office role mailbox verified on the official site https://www.asblpraxis.be/contact/praxis-liege-siege-social (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_praxis_liege_vaph_matrix_9900_2_32m_9901_13k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3456/; rq_3456=done; spawn **rq_3457**; ticks=3456.
+- Next: **rq_3457 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
