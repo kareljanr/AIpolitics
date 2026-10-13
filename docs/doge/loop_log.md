@@ -38970,3 +38970,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@creahm.be — general mailbox verified on the official site https://creahm.be/fr/contact (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_creahm_liege_vaph_matrix_9900_1_29m_9901_40k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3613/; rq_3613=done; spawn **rq_3614**; ticks=3613.
 - Next: **rq_3614 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3614 — 2026-10-13T15:47:38Z — rq_3614 leftover dual Solidarcité Anderlecht YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Solidarcité** → KBO 0881.260.539 had 0 prior entity rows.
+- KBO: Actief since 11 mei 2006; VZW; zetel Raphaëlstraat 14 bus 1 1070 Anderlecht; 2 VE; 0 prior entity rows for 0881.260.539
+- Found: official NBB VKT-VZW native PDF **2026-00210145** (1419869 B / 19p; AV 15-06-2026; neergelegd 29/06/2026; MD5 beb149addf049d9a087996a87cb48812). VKT-VZW 9900 **EUR990359** (+15.18%); 62 **EUR890141**; 9901 **EUR58011** (was 3326); 9904 78990; equity 617301; cash 346950; FTE 13 (was 12).
+- FOI address: coordination@solidarcite.be — coordination (role) mailbox verified on the official site https://www.solidarcite.be/nous-contacter/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_solidarcite_anderlecht_vaph_matrix_9900_0_99m_9901_58k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3614/; rq_3614=done; spawn **rq_3615**; ticks=3614.
+- Next: **rq_3615 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
