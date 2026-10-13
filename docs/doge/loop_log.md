@@ -35554,3 +35554,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: maisondemusti@gmail.com — general mailbox shown on the official site https://www.lamaisondemusti.com/contact (a gmail.com address, not an own-domain mailbox; disclosed as such).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_maison_de_musti_montigny_vaph_matrix_9900_3_49m_9901_186k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3271/; rq_3270=done; spawn **rq_3272**; ticks=3271.
 - Next: **rq_3272 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3272 — 2026-10-13T04:06:00Z — rq_3272 leftover dual Crèche « Petit à Petit » (Huy) Huy YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used: NACE 88.911 / 88.991 (childcare and day-care without accommodation) over Walloon, Brussels and Flemish postcodes (912 legal persons not yet in the repo, 418 triaged), plus remaining NACE 88.999 / 88.101 / 85.599 rows; code 733 rows first, then code 9900, largest first: **Crèche « Petit à Petit » (Huy)** → KBO 0465.699.077 had 0 prior entity rows.
+- KBO: Actief since 20 november 1998; VZW; zetel Rue St-Domitien 2 4500 Huy; 6 VE; 0 prior entity rows for 0465.699.077
+- Found: official NBB VKT-VZW native PDF **2026-00339160** (44910 B / 11p; AV 28-06-2026; neergelegd 28/07/2026; MD5 985508fbcee2bb38c06983794cd92dc2). VKT-VZW 9900 **EUR3123348** (+0.17%); 62 **EUR3067544**; 9901 **EUR37707** (was 105904); 9904 37412; equity 207925; cash 382177; FTE 70,6.
+- FOI address: info@petitapetit.group — general mailbox verified on the official site https://www.huy.be/petit-a-petit/accueil (the ASBL site, which gives the same registered seat as KBO).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_creche_petit_a_petit_huy_vaph_matrix_9900_3_12m_9901_38k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3272/; rq_3272=done; spawn **rq_3273**; ticks=3272.
+- Next: **rq_3273 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
