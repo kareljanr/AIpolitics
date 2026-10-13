@@ -39710,3 +39710,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@rotsvzw.be — general mailbox verified on the official site https://www.rotsvzw.be/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_rots_gent_vaph_matrix_9900_1_05m_9901_34k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3687/; rq_3687=done; spawn **rq_3688**; ticks=3687.
 - Next: **rq_3688 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3688 — 2026-10-13T16:48:07Z — rq_3688 leftover dual Accueil et Solidarité Huy YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Accueil et Solidarité** → KBO 0425.616.006 had 0 prior entity rows.
+- KBO: Actief since 7 juli 1983; VZW; zetel Avenue Jacques Grégoire 18 4500 Huy; 1 VE; 0 prior entity rows for 0425.616.006
+- Found: official NBB VKT-VZW native PDF **2026-00174032** (42086 B / 11p; AV 08-06-2026; neergelegd 17/06/2026; MD5 db0e679c7eba3e940f70182450e5fb2b). VKT-VZW 9900 **EUR733578** (+2.30%); 62 **EUR715364**; 9901 **EUR-7193** (was 2362); 9904 -7812; equity 242651; cash 337341; FTE 8,1 (was 8,1).
+- FOI address: info@accueiletsolidarite.be — general mailbox verified on the official site https://www.accueiletsolidarite.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_accueil_et_solidarite_huy_vaph_matrix_9900_0_73m_9901_loss_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3688/; rq_3688=done; spawn **rq_3689**; ticks=3688.
+- Next: **rq_3689 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
