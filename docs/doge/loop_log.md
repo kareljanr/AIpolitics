@@ -35064,3 +35064,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lathierache.be — general mailbox verified on the official site https://lathierache.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_eta_la_thierache_vaph_matrix_9900_2_15m_9901_loss_924k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3222/; rq_3222=done; spawn **rq_3223**; ticks=3222.
 - Next: **rq_3223 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3223 — 2026-10-13T02:14:09Z — rq_3223 leftover dual Entreprise de Travail Adapté APN (Nivelles) Nivelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon sheltered workshops (ETA) and AVIQ disability services from a KBO activity-code scan (NACE 88.993, all Walloon/Brussels postcodes); code 733 rows first, then code 9900, largest first: **Entreprise de Travail Adapté APN (Nivelles)** → KBO 0411.929.207 had 0 prior entity rows.
+- KBO: Actief since 5 januari 1972; VZW; zetel Rue du Commerce 15 1400 Nivelles; 1 VE; 0 prior entity rows for 0411.929.207
+- Found: official NBB VKT-VZW native PDF **2026-00471079** (441010 B / 23p; AV 09-04-2026; neergelegd 31/08/2026; MD5 7040103faa8de64f91313963743d35ed). VKT-VZW 9900 **EUR1666055** (+9.37%); 62 **EUR1506229**; 9901 **EUR16706** (was -37887); 9904 4604; equity 1118930; cash 51998; FTE 42 (was 43,7).
+- FOI address: info@etaapn.be — general mailbox verified on the official site https://www.etaapn.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_eta_apn_nivelles_vaph_matrix_9900_1_67m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3223/; rq_3223=done; spawn **rq_3224**; ticks=3223.
+- Next: **rq_3224 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
