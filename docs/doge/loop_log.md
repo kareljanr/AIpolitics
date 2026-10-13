@@ -39320,3 +39320,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@alin-vzw.be — general mailbox verified on the official site https://alin-vzw.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_alin_sint_joost_vaph_matrix_9900_1_65m_9901_138k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3648/; rq_3648=done; spawn **rq_3649**; ticks=3648.
 - Next: **rq_3649 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3649 — 2026-10-13T16:19:17Z — rq_3649 leftover dual Promotion de l'Emploi (Promemploi) Arlon YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Promotion de l'Emploi (Promemploi)** → KBO 0431.173.908 had 0 prior entity rows.
+- KBO: Actief since 26 augustus 1985; VZW; zetel Rue de l'Hydrion 115 bus 11 6700 Arlon Extra adresinfo: info@promemploi.be; 1 VE; 0 prior entity rows for 0431.173.908
+- Found: official NBB MIC-VZW native PDF **2026-00491065** (51460 B / 13p; AV 26-06-2026; neergelegd 02/09/2026; MD5 5caeb1cfbebf086eb4fc0a25c8b6fd2a). MIC-VZW 9900 **EUR1538431** (+0.17%); 62 **EUR1533365**; 9901 **EUR-93866** (was 16294); 9904 -92943; equity 207978; cash 173552; FTE n/a.
+- FOI address: info@promemploi.be — general mailbox verified on the official site http://www.promemploi.be/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_promemploi_arlon_vaph_matrix_9900_1_54m_9901_loss_94k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3649/; rq_3649=done; spawn **rq_3650**; ticks=3649.
+- Next: **rq_3650 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
