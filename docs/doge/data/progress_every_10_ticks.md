@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3440** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3430; 3431-3439 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3431-3439 residual dual L5 (not near-complete of 348bn):** Boukè · Transkript · De Barkentijn · dOT · Caméra-etc · Centre de Santé (Visé) · GIBBIS · Crèche Royale Le Nid · Forêt.Nature (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3033** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3088** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3431-3439** Boukè · Transkript · De Barkentijn · dOT · Caméra-etc · Centre de Santé (Visé) · GIBBIS · Crèche Royale Le Nid · Forêt.Nature.
+
+### Inventory (tick 3440)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 62985 |
+| commitments.csv | 7088 |
+| leaderboard.csv | 9206 |
+| entities.csv | 3106 |
+| sources.csv | 10197 |
+| FOI ready | 3033 |
+| FOI total rows | 3088 |
+| research_queue open | rq_3440 (carried; next: MOBILESEM, FOS Open Scouting, Maison de la poésie d’Amay, CEGO, Talbot House (code 9900 leftovers; fresh scan of 22 new NACE families about 80 of 440 pages finished); largest first) |
+
+### What improved since tick 3430
+
+- **New source (tick3431-3439):** Boukè · Transkript · De Barkentijn · dOT · Caméra-etc · Centre de Santé (Visé) · GIBBIS · Crèche Royale Le Nid · Forêt.Nature. All nine are code 9900 leftovers (NOT subsidy amounts), largest first within each group. Scan status: the 88.91x / 85.31x / 94.xxx / 55.20x / 52.2x / 59.1x / 58.1x scan is now complete (all 344 resumed pages finished; the last pages gave no further code 733 rows). A fresh scan of 22 not-yet-scanned NACE families (85.4x, 85.5x, 85.6, 90.0x, 91.0x, 93.29x, 86.909, 82.300, 74.909) started at tick 3436; about 80 of its 440 pages had finished at tick 3440 (only 85.5x sports/education pages so far, no code 733 rows yet). EU-level and international bodies and duplicates excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3440 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3430** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

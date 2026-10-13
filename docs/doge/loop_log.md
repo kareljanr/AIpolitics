@@ -37230,3 +37230,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@foretnature.be — general mailbox verified on the official site https://www.foretnature.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_foret_nature_marche_vaph_matrix_9900_0_97m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3439/; rq_3439=done; spawn **rq_3440**; ticks=3439.
 - Next: **rq_3440 leftover dual** — Batch done; newly finished 59.1x / 58.1x / 94.xxx scan pages gave one usable code 733 row (Les Grignoux); the rest are code 9900 leftovers. Next: Médiathèque Nouvelle (code 733, site still unreachable), the 23 still-running scan pages, then SONEFA / Crèches de Schaerbeek (code 733, no own-site mailbox yet)..
+
+
+## Tick 3440 — 2026-10-13T10:12:27Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3033** of 3088 rows; inventory budgets 62985 · commitments 7088 · leaderboard 9206 · entities 3106 · sources 10197.
+- Top10: **stable** (3431-3439 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3431-3439: Boukè · Transkript · De Barkentijn · dOT · Caméra-etc · Centre de Santé (Visé) · GIBBIS · Crèche Royale Le Nid · Forêt.Nature.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3440 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3440 run locally as fallback.
+- Next: **rq_3440** — code 9900 (NOT subsidy amounts): MOBILESEM (EUR1.05m), FOS Open Scouting (EUR0.81m), Maison de la poésie d’Amay (EUR0.63m), CEGO (EUR0.62m), Talbot House (EUR0.52m); mailboxes verified on official sites, after the dedup check. Fresh scan of 22 new NACE families running (about 80 of 440 pages done).
