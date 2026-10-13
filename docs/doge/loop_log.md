@@ -39530,3 +39530,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mirhw.be — general mailbox verified on the official site https://mirhw.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_mission_regionale_huy_waremme_vaph_matrix_9900_1_31m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3669/; rq_3669=done; spawn **rq_3670**; ticks=3669.
 - Next: **rq_3670 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3670 — 2026-10-13T16:34:33Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3240** of 3295 rows; inventory budgets 64646 · commitments 7295 · leaderboard 9413 · entities 3313 · sources 10818.
+- Top10: **stable** (3661-3669 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3661-3669: Centre d’Entraide de Jette · Le CRIC · Dierenasiel Genk · Citadelle · VOC Opstap · Humanipédie · Cité Services · Wallopoly · Mission régionale Huy-Waremme.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3670 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3670 run locally as fallback.
+- Next: **rq_3670** — code 9900 (NOT subsidy amounts): Form’Anim (EUR1.18m), Dierenvrienden Sint-Truiden (EUR1.06m), Multijobs (EUR1.05m), Dynam’Autes (EUR0.32m, micro), Interm’Aide (EUR0.31m, micro); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scans nscan5/nscan4.

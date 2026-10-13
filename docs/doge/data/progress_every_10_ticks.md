@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3670** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3660; 3661-3669 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3661-3669 residual dual L5 (not near-complete of 348bn):** Centre d’Entraide de Jette · Le CRIC · Dierenasiel Genk · Citadelle · VOC Opstap · Humanipédie · Cité Services · Wallopoly · Mission régionale Huy-Waremme (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3240** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3295** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3661-3669** Centre d’Entraide de Jette · Le CRIC · Dierenasiel Genk · Citadelle · VOC Opstap · Humanipédie · Cité Services · Wallopoly · Mission régionale Huy-Waremme.
+
+### Inventory (tick 3670)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 64646 |
+| commitments.csv | 7295 |
+| leaderboard.csv | 9413 |
+| entities.csv | 3313 |
+| sources.csv | 10818 |
+| FOI ready | 3240 |
+| FOI total rows | 3295 |
+| research_queue open | rq_3670 (carried; next: Form’Anim, Dierenvrienden Sint-Truiden, Multijobs, Dynam’Autes, Interm’Aide (code 9900 rows from bounded KBO scans nscan5/nscan4); largest first) |
+
+### What improved since tick 3660
+
+- **New source (tick3661-3669):** Centre d’Entraide de Jette · Le CRIC · Dierenasiel Genk · Citadelle · VOC Opstap · Humanipédie · Cité Services · Wallopoly · Mission régionale Huy-Waremme. All code 9900 rows (NOT subsidy amounts), largest first: the first five from nscan4, the last four from a new bounded KBO scan nscan5 (NACE-BEL 2025 codes 88101, 88991, 88999, 94999 on 23 further postcodes). The one code 733 filer found (Centre La Clairière, EUR14.2m) was not used: its own site gives only a service mailbox. Mailboxes verified on each body's own site; rejected: ISP, mutualité or mismatched-domain mailboxes, federations and international bodies. Médiathèque Nouvelle still unreachable (HTTP 000).
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3670 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked at start of batch 3666-3675: no github-actions DOGE tick commits. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3660** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
