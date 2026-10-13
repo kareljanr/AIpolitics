@@ -40810,3 +40810,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@dehogerielen.be — general mailbox verified on the official site https://www.dehogerielen.be/nl/contact (same address as the KBO registered seat); De Hoge Rielen is the domain named in the KBO extra address info.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_adj_de_hoge_rielen_vaph_matrix_9900_4_87m_9901_loss_830k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3797/; rq_3797=done; spawn **rq_3798**; ticks=3797.
 - Next: **rq_3798 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3798 — 2026-10-13T22:11:28Z — rq_3798 leftover dual STUK Kunstencentrum Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **STUK Kunstencentrum** → KBO 0411.973.450 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1972; VZW; zetel Naamsestraat 96 3000 Leuven; 1 VE; 0 prior entity rows for 0411.973.450
+- Found: official NBB VKT-VZW native PDF **2026-00516717** (54608 B / 15p; AV 18-05-2026; neergelegd 11/09/2026; MD5 95b91797b0066a8b5493575b51537653). VKT-VZW 9900 **EUR2984615** (+2.16%); 62 **EUR2310298**; 9901 **EUR201923** (was 218253); 9904 114532; equity 3679722; cash 13298; FTE 32,5 (was 33,8).
+- FOI address: info@stuk.be — general mailbox verified on the official site https://www.stuk.be/nl/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_stuk_kunstencentrum_leuven_vaph_matrix_9900_2_98m_9901_202k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3798/; rq_3798=done; spawn **rq_3799**; ticks=3798.
+- Next: **rq_3799 leftover dual** — Partial batch (3796-3798); recipients from the Flemish Subsidieregister 2025_V01 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets; file kept outside the repo), non-profits not yet in the data ranked by toegekend; amounts from the NBB 2025 filings (code 733 for full-model filers, otherwise code 9900, NOT a subsidy amount), register figure cited per verstrekker; Skipped: KMDA and Limburgs Landschap (no verifiable own-domain mailbox), ADIC (Gmail), De Steiger (site belongs to another org). Next: remaining Subsidieregister candidates (/workspace/subreg/cands.tsv)..
