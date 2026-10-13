@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3870** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3860; 3861-3869 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3861-3869 residual dual L5 (not near-complete of 348bn):** Madam Fortuna · De Wakkere Burger · Kunsthal Gent · Ecolife · Rebels Kunstplatform Man OverBoord · BRYGGEN - Bruges Strings · Escautville · Graindelavoix · Recyclart (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3414** drafts ready | Human send only; answered **11**; partial **29**; total FOI rows **3475** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3861-3869** Madam Fortuna · De Wakkere Burger · Kunsthal Gent · Ecolife · Rebels Kunstplatform Man OverBoord · BRYGGEN - Bruges Strings · Escautville · Graindelavoix · Recyclart.
+
+### Inventory (tick 3870)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 66091 |
+| commitments.csv | 7475 |
+| leaderboard.csv | 9593 |
+| entities.csv | 3493 |
+| sources.csv | 11358 |
+| FOI ready | 3414 |
+| FOI total rows | 3475 |
+| research_queue open | rq_3870 (carried; next: none queued (check remaining Flemish Subsidieregister candidates)) |
+
+### What improved since tick 3860
+
+- **New source (tick3861-3869):** Madam Fortuna · De Wakkere Burger · Kunsthal Gent · Ecolife · Rebels Kunstplatform Man OverBoord · BRYGGEN - Bruges Strings · Escautville · Graindelavoix · Recyclart. All from the Flemish Subsidieregister 2025_V01 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets; file kept outside the repo, register amount and largest verstrekker cited per row), non-profit filers only. Amounts from NBB 2025 filings: code 9900 (NOT a subsidy amount). Mailbox, registered address and KBO number all verified on each body’s own site; KBO address checked with kb.py. Rejected: Volta (sector social-partner body), Katrientje (ISP mailbox), Vincentgoed (no own site), Sankaa (umbrella of member associations), Kenniscentrum Kinderrechten (site now another KBO), Solentra (hospital mailbox), Eerstelijnszones and school-linked bodies, Natuurhulpcentrum, Muziekpublique, Auguste Orts and Faso Danse Theatre (KBO number or mailbox not shown on own site), others with only personal mailboxes.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3870 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked 2026-10-13: no new DOGE tick commits (radar only). Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3860** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

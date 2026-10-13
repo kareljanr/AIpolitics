@@ -41530,3 +41530,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@recyclart.be — general mailbox verified on the official site https://recyclart.be/ (same address and KBO number as the registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent sec_flanders); FOI **gap_recyclart_molenbeek_vaph_matrix_9900_1_84m_9901_loss_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3869/; rq_3869=done; spawn **rq_3870**; ticks=3869.
 - Next: **rq_3870 leftover dual** — Partial batch (3869); recipients from the Flemish Subsidieregister 2025_V01 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets; file kept outside the repo), non-profit filers not yet in the data (dedup by KBO and name), ranked by toegekend; amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest verstrekker cited per row. Correction in this commit: the tick3824 Kannet+ FOI row is set to not_ready (umbrella rule; Kannet+ is a Flanders-wide network with regional branches and duplicates entity vzw_kannet_antwerpen from tick2606); row kept. Skipped: AFS (international), Journalismfund Europe and ISF International Daycare (international), Verso (federation), DC-pwa (public), Compagnie Cecilia, Zomer van Antwerpen, Eastman and Cachet (no reachable own site or no general mailbox), Eos Wetenschap (no address on own site). Next: remaining Subsidieregister candidates (/workspace/subreg/cands.tsv)..
+
+
+## Tick 3870 — 2026-10-13T23:37:23Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3414** of 3475 rows; inventory budgets 66091 · commitments 7475 · leaderboard 9593 · entities 3493 · sources 11358.
+- Top10: **stable** (3861-3869 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3861-3869: Madam Fortuna · De Wakkere Burger · Kunsthal Gent · Ecolife · Rebels Kunstplatform Man OverBoord · BRYGGEN - Bruges Strings · Escautville · Graindelavoix · Recyclart.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3870 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3870 run locally as fallback.
+- Next: **rq_3870** — no candidate queued: continue the Flemish Subsidieregister candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
