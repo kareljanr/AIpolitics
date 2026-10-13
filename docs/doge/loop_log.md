@@ -37600,3 +37600,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@mirec.net — general mailbox verified on the official site https://www.mirec.net/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_mirec_charleroi_vaph_matrix_9900_4_64m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3476/; rq_3476=done; spawn **rq_3477**; ticks=3476.
 - Next: **rq_3477 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3477 — 2026-10-13T11:28:48Z — rq_3477 leftover dual Revivre chez soi Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Revivre chez soi** → KBO 0410.571.801 had 0 prior entity rows.
+- KBO: Actief since 23 november 1964; VZW; zetel Rue Jean-Mathieu-Nisen 32 4020 Liège; 1 VE; 0 prior entity rows for 0410.571.801
+- Found: official NBB VKT-VZW native PDF **2026-00274038** (45312 B / 12p; AV 10-06-2026; neergelegd 09/07/2026; MD5 a535e42117c9127231deb2a01b1669b3). VKT-VZW 9900 **EUR1705971** (-16.27%); 62 **EUR1709634**; 9901 **EUR-44319** (was 225705); 9904 -45399; equity 734229; cash 630907; FTE n/a.
+- FOI address: direction@revivrechezsoi.be — role (direction) mailbox verified on the official site https://www.revivrechezsoi.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_revivre_chez_soi_liege_vaph_matrix_9900_1_71m_9901_loss_44k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3477/; rq_3477=done; spawn **rq_3478**; ticks=3477.
+- Next: **rq_3478 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
