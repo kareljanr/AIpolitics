@@ -35990,3 +35990,23 @@ Append-only. Each tick adds a short entry.
 - FOI address: accueil@faimetfroid.be — general mailbox verified on the official site https://www.faimetfroid.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_charleroi); FOI **gap_operation_faim_et_froid_gilly_vaph_matrix_9900_0_80m_9901_loss_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3315/; rq_3315=done; spawn **rq_3316**; ticks=3315.
 - Next: **rq_3316 leftover dual** — Batch done; no code 733 row passed (Centrale de Services à Domicile du Centre: 733 not readable and related to an existing CSD group). Skipped (5-min cap / mailbox rule): Li Mohon (its site shows another KBO number), Casa Legal (address not confirmable), Bureau d'Accueil et de Défense des Jeunes (only the SDJ network mailbox), Un Pass dans l'Impasse, La Chaloupe, Alias, KAVKA, dynamix, Habitat et Participation, Animal sans toit (no mailbox found), Samenleven (site not tied to the KBO), De Warande (already in repo), EU-level bodies. Next: remaining 9900 rows, then other unscanned codes/regions.
+
+
+## Tick 3316 — 2026-10-13T05:44:41Z — rq_3316 leftover dual Centre d'Enseignement Saint-Laurent (Liège) Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.101 / 72.109 (research) and 85.591 / 85.593 (education) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first; EU-level bodies excluded: **Centre d'Enseignement Saint-Laurent (Liège)** → KBO 0461.051.094 had 0 prior entity rows.
+- KBO: Actief since 22 april 1997; VZW; zetel Rue Saint-Laurent 29 4000 Liège; 2 VE; 0 prior entity rows for 0461.051.094
+- Found: official NBB VOL-VZW native PDF **2026-00144189** (1395821 B / 38p; AV 26-05-2026; neergelegd 08/06/2026; MD5 50c7fcb9ee5eaf41695e64bfd17639e4). VOL-VZW 733 **EUR15030974** (+4.60%); 62 **EUR13747415**; 9901 **EUR863433** (was 502564); 9904 874850; equity 7984987; cash 981806; FTE 5,6 (was 7,6).
+- FOI address: courriel@isllg.be — general mailbox verified on the official site https://www.isllg.be/ (which names this ASBL and its seat, same as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_saint_laurent_liege_vaph_matrix_733_15_03m_9901_863k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3316/; rq_3316=done; spawn **rq_3317**; ticks=3316.
+- Next: **rq_3317 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3317 — 2026-10-13T05:44:45Z — rq_3317 leftover dual Materia Nova Mons YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.101 / 72.109 (research) and 85.591 / 85.593 (education) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first; EU-level bodies excluded: **Materia Nova** → KBO 0472.056.933 had 0 prior entity rows.
+- KBO: Actief since 29 december 1999; VZW; zetel Avenue Nicolas Copernic 3 7000 Mons Extra adresinfo: parc initialis; 5 VE; 0 prior entity rows for 0472.056.933
+- Found: official NBB VOL-VZW native PDF **2026-00307396** (1333556 B / 57p; AV 30-06-2026; neergelegd 16/07/2026; MD5 2429de00ac2ce72fee0e352de1d2f223). VOL-VZW 733 **EUR8120378** (+34.07%); 62 **EUR6248258**; 9901 **EUR381798** (was 266652); 9904 184529; equity 5800619; cash 624638; FTE 75,4 (was 68,5).
+- FOI address: info@materianova.be — general mailbox verified on the official site https://www.materianova.be/fr/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mons); FOI **gap_materia_nova_mons_vaph_matrix_733_8_12m_9901_382k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3317/; rq_3317=done; spawn **rq_3318**; ticks=3317.
+- Next: **rq_3318 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
