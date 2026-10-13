@@ -40940,3 +40940,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3810 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3810 run locally as fallback.
 - Next: **rq_3810** — no candidate queued: continue the Flemish Subsidieregister candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
+
+
+## Tick 3811 — 2026-10-13T22:24:08Z — rq_3810 leftover dual Theater Antigone Kortrijk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Theater Antigone** → KBO 0410.019.988 had 0 prior entity rows.
+- KBO: Actief since 18 april 1964; VZW; zetel Overleiestraat(Kor) 41 8500 Kortrijk; 1 VE; 0 prior entity rows for 0410.019.988
+- Found: official NBB VKT-VZW native PDF **2026-00117018** (456279 B / 21p; AV 22-04-2026; neergelegd 21/05/2026; MD5 bb9d15c84966bd19150e7be8688068eb). VKT-VZW 9900 **EUR841052** (+3.68%); 62 **EUR817735**; 9901 **EUR-25850** (was -53417); 9904 -47565; equity 518001; cash 303220; FTE 11,1 (was 9,6).
+- FOI address: facturatie@antigone.be — role mailbox (invoicing) verified on the official site https://www.antigone.be/contact (same address as the KBO registered seat); no general mailbox listed.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_theater_antigone_kortrijk_vaph_matrix_9900_0_84m_9901_loss_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3811/; rq_3810=done; spawn **rq_3812**; ticks=3811.
+- Next: **rq_3812 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
