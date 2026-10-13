@@ -38450,3 +38450,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ago-asbl.be — general mailbox verified on the official site https://www.ago-asbl.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ago_ixelles_vaph_matrix_9900_0_59m_9901_loss_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3561/; rq_3560=done; spawn **rq_3562**; ticks=3561.
 - Next: **rq_3562 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3562 — 2026-10-13T14:15:30Z — rq_3562 leftover dual Centre Séverine - Planning familial laïque de Bruxelles-Ouest Anderlecht YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre Séverine - Planning familial laïque de Bruxelles-Ouest** → KBO 0424.047.475 had 0 prior entity rows.
+- KBO: Actief since 10 september 1982; VZW; zetel Raymond Vander Bruggenlaan 84 1070 Anderlecht; 1 VE; 0 prior entity rows for 0424.047.475
+- Found: official NBB VKT-VZW native PDF **2026-00256335** (49614 B / 13p; AV 03-06-2026; neergelegd 01/07/2026; MD5 fc7106d3a101bd2c113824f69a7488e9). VKT-VZW 9900 **EUR586512** (+3.62%); 62 **EUR566567**; 9901 **EUR14258** (was 1179); 9904 10592; equity 175487; cash 74597; FTE 8,7 (was 9).
+- FOI address: info@planning-severine.org — general mailbox verified on the official site https://www.planning-severine.org/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_centre_severine_anderlecht_vaph_matrix_9900_0_59m_9901_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3562/; rq_3562=done; spawn **rq_3563**; ticks=3562.
+- Next: **rq_3563 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
