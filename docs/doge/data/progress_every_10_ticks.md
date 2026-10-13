@@ -6,6 +6,41 @@
 
 ---
 
+## Snapshot at **tick 3230** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3220; 3221-3229 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3221-3229 residual dual L5 (not near-complete of 348bn):** Le CHAF Farciennes · ETA La Thiérache · ETA APN Nivelles · La Sève Herve · Les Grillons Chaudfontaine · Bravvo (Bruxelles) · Brussels Major Events · Entreprendre.Brucity · Bruxelles Laïque (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2845** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2900** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3221-3229** Le CHAF Farciennes · ETA La Thiérache · ETA APN Nivelles · La Sève Herve · Les Grillons Chaudfontaine · Bravvo (Bruxelles) · Brussels Major Events · Entreprendre.Brucity · Bruxelles Laïque.
+
+### Inventory (tick 3230)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 61446 |
+| commitments.csv | 6900 |
+| leaderboard.csv | 9018 |
+| entities.csv | 2918 |
+| sources.csv | 9633 |
+| FOI ready | 2845 |
+| FOI total rows | 2900 |
+| research_queue open | rq_3230 (carried; next: Centre culturel Bruxelles Nord, Les Riches-Claires, Jeunesse à Bruxelles, MAD Brussels, Ecole de Sports de l'ULB (City of Brussels 2025 register); largest first) |
+
+### What improved since tick 3220
+
+- **New source (tick3221-3229):** Le CHAF Farciennes · ETA La Thiérache · ETA APN Nivelles · La Sève Herve · Les Grillons Chaudfontaine · Bravvo (Bruxelles) · Brussels Major Events · Entreprendre.Brucity · Bruxelles Laïque. 3221-3225 finished the NACE 88.993 ETA/AVIQ list (code 9900). 3226+ uses an official regional subsidy register: the City of Brussels 2025 subsidy inventory (opendata.brussels.be dataset subsides-ville-de-bruxelles-subsidies-stad-brussel-2025, 1,076 lines), summed per KBO number, largest recipients not yet in the repo first; each row cites the register lines and the NBB filing figure. The Flemish subsidieregister and the FWB cadastre were not reachable from the runner.
+- **FOI addresses:** general or role mailboxes verified on each body's own official site.
+- **Runner note:** 2576-3230 ran on the local fallback runner; GitHub Actions status not re-checked (GitHub CLI on the box not signed in). Do not run both at once.
+- **Rejected (register, fast ~5 min cap):** Police zone and CPAS Brussels (no NBB filing), Association Hospitalière entities, Bains de Bruxelles, Bruxelles enseignement (no general mailbox), Brufête (umbrella city mailbox), several without a 2025-12 filing.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3220** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

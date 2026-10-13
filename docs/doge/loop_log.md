@@ -35134,3 +35134,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: bruxelles.laique@laicite.be — general mailbox verified on the official site https://www.bxllaique.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_bruxelles_laique_vaph_matrix_9900_1_37m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3229/; rq_3229=done; spawn **rq_3230**; ticks=3229.
 - Next: **rq_3230 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3230 — 2026-10-13T02:26:27Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2845** of 2900 rows; inventory budgets 61446 · commitments 6900 · leaderboard 9018 · entities 2918 · sources 9633.
+- Top10: **stable** (3221-3229 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3221-3229: Le CHAF Farciennes · ETA La Thiérache · ETA APN Nivelles · La Sève Herve · Les Grillons Chaudfontaine · Bravvo (Bruxelles) · Brussels Major Events · Entreprendre.Brucity · Bruxelles Laïque.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3230 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3230 run locally as fallback.
+- Next: **rq_3230** — City of Brussels 2025 register: CC Bruxelles Nord (EUR699,800), Riches-Claires (EUR697,630), Jeunesse à Bruxelles (EUR688,182), MAD (EUR678,161), Ecole de Sports ULB (EUR240,000); mailboxes verified on official sites, after the dedup check.
