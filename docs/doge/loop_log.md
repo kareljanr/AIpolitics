@@ -40050,3 +40050,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@edelweissasbl.be — general mailbox verified on the official site https://edelweissasbl.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_edelweiss_la_louviere_vaph_matrix_9900_0_57m_9901_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3721/; rq_3720=done; spawn **rq_3722**; ticks=3721.
 - Next: **rq_3722 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3722 — 2026-10-13T17:29:07Z — rq_3722 leftover dual Bouworde Kessel-Lo YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Bouworde** → KBO 0407.593.703 had 0 prior entity rows.
+- KBO: Actief since 31 maart 1958; VZW; zetel Diestsesteenweg 49 3010 Leuven; 1 VE; 0 prior entity rows for 0407.593.703
+- Found: official NBB VKT-VZW native PDF **2026-00213915** (45300 B / 12p; AV 15-03-2026; neergelegd 29/06/2026; MD5 4bdfed69b764b705119f21bf35eda8d8). VKT-VZW 9900 **EUR358222** (+31.55%); 62 **EUR323203**; 9901 **EUR25068** (was -69895); 9904 27020; equity 618621; cash 849029; FTE 4,8 (was 4,8).
+- FOI address: info@bouworde.be — general mailbox verified on the official site https://bouworde.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_bouworde_kessel_lo_vaph_matrix_9900_0_36m_9901_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3722/; rq_3722=done; spawn **rq_3723**; ticks=3722.
+- Next: **rq_3723 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
