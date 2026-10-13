@@ -36700,3 +36700,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: sentiers@lessentiers.be — general mailbox verified on the official site http://www.lessentiers.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_les_sentiers_woluwe_vaph_matrix_9900_2_88m_9901_31k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3386/; rq_3386=done; spawn **rq_3387**; ticks=3386.
 - Next: **rq_3387 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3387 — 2026-10-13T08:22:02Z — rq_3387 leftover dual Le Chanmurly Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Le Chanmurly** → KBO 0414.256.613 had 0 prior entity rows.
+- KBO: Actief since 25 maart 1974; VZW; zetel Rue de Sélys 31 4000 Liège; 2 VE; 0 prior entity rows for 0414.256.613
+- Found: official NBB VKT-VZW native PDF **2026-00155395** (51581 B / 15p; AV 21-05-2026; neergelegd 12/06/2026; MD5 ef6593ed0abd4b74c10113ed53a451c6). VKT-VZW 9900 **EUR2798780** (+1.19%); 62 **EUR2819573**; 9901 **EUR-66061** (was 3542); 9904 -61399; equity 137757; cash 245936; FTE 37,9.
+- FOI address: asbl@lechanmurly.be — general mailbox verified on the official site https://lechanmurly.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_le_chanmurly_liege_vaph_matrix_9900_2_80m_9901_loss_66k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3387/; rq_3387=done; spawn **rq_3388**; ticks=3387.
+- Next: **rq_3388 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
