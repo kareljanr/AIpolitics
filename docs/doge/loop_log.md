@@ -39060,3 +39060,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@bioforum.be — general mailbox verified on the official site https://www.bioforum.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_bioforum_antwerpen_vaph_matrix_9900_0_98m_9901_loss_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3622/; rq_3622=done; spawn **rq_3623**; ticks=3622.
 - Next: **rq_3623 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3623 — 2026-10-13T15:52:34Z — rq_3623 leftover dual Badje - Bureau d'Accueil et de Défense des Jeunes Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Badje - Bureau d'Accueil et de Défense des Jeunes** → KBO 0423.438.454 had 0 prior entity rows.
+- KBO: Actief since 24 maart 1982; VZW; zetel Emile Feronstraat 153 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0423.438.454
+- Found: official NBB VKT-VZW native PDF **2026-00271554** (347899 B / 17p; AV 11-06-2026; neergelegd 09/07/2026; MD5 bf58fb5fa93c2fde74b4ae2bf970c501). VKT-VZW 9900 **EUR873812** (+8.34%); 62 **EUR860650**; 9901 **EUR5707** (was 3672); 9904 8608; equity 61561; cash 349430; FTE 13,4 (was 12,7).
+- FOI address: info@badje.be — general mailbox verified on the official site https://www.badje.be/a-propos-de-badje/contacts/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_badje_saint_gilles_vaph_matrix_9900_0_87m_9901_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3623/; rq_3623=done; spawn **rq_3624**; ticks=3623.
+- Next: **rq_3624 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
