@@ -37820,3 +37820,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cribw.be — general mailbox verified on the official site https://www.cribw.be/mentions-legales/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_cribw_nivelles_vaph_matrix_9900_1_07m_9901_94k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3498/; rq_3498=done; spawn **rq_3499**; ticks=3498.
 - Next: **rq_3499 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3499 — 2026-10-13T11:52:59Z — rq_3499 leftover dual Pôle Formation Emploi des métiers du numérique (Digitalcity.brussels) Auderghem YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Pôle Formation Emploi des métiers du numérique (Digitalcity.brussels)** → KBO 0446.261.960 had 0 prior entity rows.
+- KBO: Actief since 23 december 1991; VZW; zetel Jules Cockxstraat 6 1160 Oudergem; 1 VE; 0 prior entity rows for 0446.261.960
+- Found: official NBB VKT-VZW native PDF **2026-00180756** (494779 B / 22p; AV 16-06-2026; neergelegd 17/06/2026; MD5 beaa9a50480f6fc52d261f2eedbeb37c). VKT-VZW 9900 **EUR1061728** (+6.03%); 62 **EUR804705**; 9901 **EUR153818** (was 129115); 9904 153907; equity 1038480; cash 1070550; FTE 9,6 (was 9,3).
+- FOI address: info@digitalcity.brussels — general mailbox verified on the official site https://digitalcity.brussels/fr/a-propos (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_digitalcity_auderghem_vaph_matrix_9900_1_06m_9901_154k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3499/; rq_3499=done; spawn **rq_3500**; ticks=3499.
+- Next: **rq_3500 leftover dual** — Batch done (3496-3505); code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the new-family scan keys for code 733 filers (remaining 82.300 / 93.29x pages and the 20 NACE-BEL 2025 replacement codes still scanning), then further code 9900 leftovers from the cached NBB pool, largest first..
