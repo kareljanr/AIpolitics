@@ -36860,3 +36860,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariatbabillarde@lababillarde.be — secretariat mailbox verified on the official site https://lababillarde.be/contact/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_la_babillarde_ath_vaph_matrix_9900_3_55m_9901_108k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3402/; rq_3402=done; spawn **rq_3403**; ticks=3402.
 - Next: **rq_3403 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3403 — 2026-10-13T08:51:05Z — rq_3403 leftover dual CEMôme Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **CEMôme** → KBO 0892.447.411 had 0 prior entity rows.
+- KBO: Actief since 2 oktober 2007; VZW; zetel Denemarkenstraat 15-17 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0892.447.411
+- Found: official NBB VKT-VZW native PDF **2026-00273915** (51204 B / 14p; AV 03-07-2026; neergelegd 09/07/2026; MD5 8a4c045a30dd11f76effedf871990a32). VKT-VZW 9900 **EUR3245103** (+6.54%); 62 **EUR2723463**; 9901 **EUR395171** (was 328755); 9904 392335; equity 1779336; cash 541521; FTE 63 (was 70,9).
+- FOI address: inscriptions@cemome.be — enrolment role mailbox verified on the official site https://www.cemome.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cemome_saint_gilles_vaph_matrix_9900_3_25m_9901_395k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3403/; rq_3403=done; spawn **rq_3404**; ticks=3403.
+- Next: **rq_3404 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
