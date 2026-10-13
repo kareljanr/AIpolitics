@@ -36040,3 +36040,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3320 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3320 run locally as fallback.
 - Next: **rq_3320** — NACE 72.10x / 85.59x scans (code 9900, NOT subsidy amounts): FIX (EUR4.83m), Becetel (EUR2.04m), De Rode Antraciet (EUR1.96m), Centre de Michamps (EUR1.36m), Centre Vidéo de Bruxelles (EUR1.24m); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3321 — 2026-10-13T05:46:24Z — rq_3320 leftover dual FIX Anderlecht YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.101 / 72.109 (research) and 85.591 / 85.593 (education) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first; EU-level bodies excluded: **FIX** → KBO 0862.494.801 had 0 prior entity rows.
+- KBO: Actief since 7 januari 2004; VZW; zetel Sylvain Denayerstraat 51 1070 Anderlecht; 1 VE; 0 prior entity rows for 0862.494.801
+- Found: official NBB VKT-VZW native PDF **2026-00083576** (54604 B / 14p; AV 19-03-2026; neergelegd 17/04/2026; MD5 8ba22f3a20871a20505e415e789a032c). VKT-VZW 9900 **EUR4831251** (+10.48%); 62 **EUR4361672**; 9901 **EUR253414** (was 137813); 9904 264651; equity 1484413; cash 1132843; FTE 95,3 (was 96,9).
+- FOI address: info@fix.be — general mailbox verified on the official site https://fix.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_anderlecht); FOI **gap_fix_anderlecht_vaph_matrix_9900_4_83m_9901_253k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3321/; rq_3320=done; spawn **rq_3322**; ticks=3321.
+- Next: **rq_3322 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

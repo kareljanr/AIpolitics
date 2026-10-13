@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T05:46:19Z,every10_3320,3320,no,"tick3320 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3320 carried open; next FIX, Becetel, De Rode Antraciet, Centre de Michamps, Centre Vidéo de Bruxelles (NACE 72.10x / 85.59x scans, code 9900), largest first (local fallback runner; Actions cron unreliable)"
+main,continuous,hole_fill,2026-10-13T05:46:24Z,rq_3320,3321,no,tick3321 leftover dual FIX Anderlecht 0862.494.801 Strong PDF 2026-00083576 9900 4.83m / 9901 253k; next rq_3322 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
