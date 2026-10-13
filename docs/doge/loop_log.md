@@ -36420,3 +36420,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@apotheia.be — general mailbox verified on the official site https://www.apotheia.be/contacteer-ons (the site privacy page lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_hasselt); FOI **gap_ozos_apotheia_hasselt_vaph_matrix_9900_5_84m_9901_388k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3358/; rq_3358=done; spawn **rq_3359**; ticks=3358.
 - Next: **rq_3359 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3359 — 2026-10-13T07:02:52Z — rq_3359 leftover dual TRAXIO Evere YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.120 / 94.110 / 91.xxx / 93.1xx / 49.390 / 81.300 / 01.610 / 02.400 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **TRAXIO** → KBO 0452.914.477 had 0 prior entity rows.
+- KBO: Actief since 24 juni 1994; VZW; zetel Jules Bordetlaan 164 1140 Evere; 1 VE; 0 prior entity rows for 0452.914.477
+- Found: official NBB VKT-VZW native PDF **2026-00542102** (310276 B / 23p; AV 16-06-2026; neergelegd 29/09/2026; MD5 3621cbeed731e6bfaa2a4b355f844b21). VKT-VZW 9900 **EUR4494604** (+0.93%); 62 **EUR3712178**; 9901 **EUR243846** (was 320902); 9904 231329; equity 5822826; cash 1893113; FTE 31,6 (was 31,3).
+- FOI address: info@traxio.be — general mailbox verified on the official site https://www.traxio.be/nl/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_traxio_evere_vaph_matrix_9900_4_49m_9901_244k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3359/; rq_3359=done; spawn **rq_3360**; ticks=3359.
+- Next: **rq_3360 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
