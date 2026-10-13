@@ -37790,3 +37790,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@education-environnement.be — general mailbox verified on the official site https://www.education-environnement.be/ contact page (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_education_environnement_liege_vaph_matrix_9900_1_10m_9901_loss_38k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3495/; rq_3495=done; spawn **rq_3496**; ticks=3495.
 - Next: **rq_3496 leftover dual** — Batch done (3486-3495); code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the new-family scan keys for code 733 filers (remaining 82.300 / 93.29x pages and the 20 NACE-BEL 2025 replacement codes still scanning), then further code 9900 leftovers from the cached NBB pool, largest first..
+
+
+## Tick 3496 — 2026-10-13T11:52:33Z — rq_3496 leftover dual Service Marchois d'Aide aux Justiciables (SMAJ) Marche-en-Famenne YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Service Marchois d'Aide aux Justiciables (SMAJ)** → KBO 0476.370.067 had 0 prior entity rows.
+- KBO: Actief since 21 september 2001; VZW; zetel Hollogne, Rue de Bastogne 36D 6900 Marche-en-Famenne Extra adresinfo: SITE MURANO; 1 VE; 0 prior entity rows for 0476.370.067
+- Found: official NBB VKT-VZW native PDF **2026-00335876** (47477 B / 11p; AV 27-04-2026; neergelegd 27/07/2026; MD5 45ad59fef11bf20f2944fa47defa27b0). VKT-VZW 9900 **EUR1095127** (-0.24%); 62 **EUR1028937**; 9901 **EUR28867** (was 5451); 9904 2777; equity 58020; cash 5210; FTE 12,4 (was 13,2).
+- FOI address: info@smaj.be — general mailbox verified on the official site https://www.smaj.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_smaj_marche_vaph_matrix_9900_1_10m_9901_29k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3496/; rq_3496=done; spawn **rq_3497**; ticks=3496.
+- Next: **rq_3497 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
