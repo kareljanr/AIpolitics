@@ -36920,3 +36920,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@maredsous.com — general mailbox verified on the official site https://www.maredsous.com/contacts/ (which lists the KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_abbaye_de_maredsous_vaph_matrix_733_0_21m_9901_loss_119k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3408/; rq_3408=done; spawn **rq_3409**; ticks=3408.
 - Next: **rq_3409 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3409 — 2026-10-13T09:16:24Z — rq_3409 leftover dual Centre d'Education populaire André Genot (CEPAG) Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre d'Education populaire André Genot (CEPAG)** → KBO 0415.402.696 had 0 prior entity rows.
+- KBO: Actief since 23 oktober 1975; VZW; zetel Rue de Namur(BZ) 47 5000 Namur; 2 VE; 0 prior entity rows for 0415.402.696
+- Found: official NBB VKT-VZW native PDF **2026-00292533** (823559 B / 19p; AV 09-07-2026; neergelegd 13/07/2026; MD5 84ebf3df2b593e99a934d3311ee2e784). VKT-VZW 9900 **EUR8269682** (+3.87%); 62 **EUR6977111**; 9901 **EUR7060** (was 1829); 9904 6939; equity -236688; cash 425574; FTE 72,4 (was 68,7).
+- FOI address: cepag@cepag.be — general mailbox verified on the official site https://www.cepag.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_cepag_namur_vaph_matrix_9900_8_27m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3409/; rq_3409=done; spawn **rq_3410**; ticks=3409.
+- Next: **rq_3410 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
