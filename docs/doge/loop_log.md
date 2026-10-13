@@ -38360,3 +38360,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@inforfamille.be — general mailbox verified on the official contact page https://www.planninginforfamilleliege.be/contact (same address as the KBO registered seat and https://inforfamille.be/).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_infor_famille_liege_vaph_matrix_9900_0_61m_9901_23k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3552/; rq_3552=done; spawn **rq_3553**; ticks=3552.
 - Next: **rq_3553 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3553 — 2026-10-13T12:52:18Z — rq_3553 leftover dual Ligue Alzheimer Ans YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Ligue Alzheimer** → KBO 0457.213.260 had 0 prior entity rows.
+- KBO: Actief since 30 oktober 1995; VZW; zetel Rue Walthère Jamar 231 bus 1 4430 Ans; 3 VE; 0 prior entity rows for 0457.213.260
+- Found: official NBB VKT-VZW native PDF **2026-00419730** (44950 B / 11p; AV 19-06-2026; neergelegd 21/08/2026; MD5 23a29a6b55043314deb15b6281292472). VKT-VZW 9900 **EUR611640** (-54.15%); 62 **EUR394799**; 9901 **EUR193681** (was 821438); 9904 193247; equity 2198973; cash 2004854; FTE 7 (was 5).
+- FOI address: ligue.alzheimer@alzheimer.be — general administrative mailbox verified on the official site https://alzheimer.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_ligue_alzheimer_ans_vaph_matrix_9900_0_61m_9901_194k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3553/; rq_3553=done; spawn **rq_3554**; ticks=3553.
+- Next: **rq_3554 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
