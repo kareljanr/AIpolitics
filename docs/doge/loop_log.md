@@ -35640,3 +35640,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3280 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3280 run locally as fallback.
 - Next: **rq_3280** — new NACE scans (code 9900, NOT subsidy amounts): Kaaitheater (EUR2.69m), Allo Candy (EUR2.30m), Musée de la Photographie (EUR1.81m), Espaces Tourisme & Culture Stavelot (EUR1.32m), Latitude 50 (EUR0.90m); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3281 — 2026-10-13T04:46:19Z — rq_3280 leftover dual Kaaitheater Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used over Walloon, Brussels and Flemish postcodes: NACE 90.311 (arts venues) and 88.102 (635 legal persons not yet in the repo), NACE 90.111 and 91.210 (2,445), NACE 93.110 and 85.520 (4,272; mostly companies and small clubs, no code 733 row); code 733 rows first, then code 9900, largest first: **Kaaitheater** → KBO 0418.716.633 had 0 prior entity rows.
+- KBO: Actief since 24 mei 1978; VZW; zetel Akenkaai 2 1000 Brussel; 2 VE; 0 prior entity rows for 0418.716.633
+- Found: official NBB VKT-VZW native PDF **2026-00083467** (55053 B / 14p; AV 24-03-2026; neergelegd 21/04/2026; MD5 a6416a136dc5f9603589d13c4304b363). VKT-VZW 9900 **EUR2689975** (+0.68%); 62 **EUR2416200**; 9901 **EUR319991** (was 109113); 9904 325302; equity 1427489; cash 1463570; FTE 33,4 (was 31,8).
+- FOI address: info@kaaitheater.be — general mailbox verified on the official site https://www.kaaitheater.be/nl/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_kaaitheater_brussel_vaph_matrix_9900_2_69m_9901_320k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3281/; rq_3280=done; spawn **rq_3282**; ticks=3281.
+- Next: **rq_3282 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
