@@ -35144,3 +35144,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3230 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3230 run locally as fallback.
 - Next: **rq_3230** — City of Brussels 2025 register: CC Bruxelles Nord (EUR699,800), Riches-Claires (EUR697,630), Jeunesse à Bruxelles (EUR688,182), MAD (EUR678,161), Ecole de Sports ULB (EUR240,000); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3231 — 2026-10-13T02:26:38Z — rq_3230 leftover dual Centre culturel Bruxelles Nord - Maison de la Création Laeken YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Largest recipients in the official City of Brussels 2025 subsidy inventory (opendata.brussels.be dataset subsides-ville-de-bruxelles-subsidies-stad-brussel-2025) not yet in the repo, cross-checked with the NBB filing: **Centre culturel Bruxelles Nord - Maison de la Création** → KBO 0870.519.273 had 0 prior entity rows.
+- KBO: Actief since 10 december 2004; VZW; zetel Emile Bockstaellaan 246 bus A 1020 Brussel; 4 VE; 0 prior entity rows for 0870.519.273
+- Found: official NBB VKT-VZW native PDF **2026-00153431** (47971 B / 12p; AV 10-06-2026; neergelegd 11/06/2026; MD5 5441cdc8dabc23436cdaca799d9f6455). VKT-VZW 9900 **EUR1174186** (-2.64%); 62 **EUR1135458**; 9901 **EUR654** (was -3718); 9904 476; equity 23368; cash 455658; FTE 14,9 (was 16,3).
+- FOI address: accueil@maisondelacreation.org — general mailbox verified on the official site https://www.maisondelacreation.org/fr/infos/equipe-et-contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cc_bruxelles_nord_maison_creation_vaph_matrix_9900_1_17m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3231/; rq_3230=done; spawn **rq_3232**; ticks=3231.
+- Next: **rq_3232 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
