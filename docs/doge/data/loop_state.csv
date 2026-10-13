@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T15:26:00Z,rq_3590,3591,no,tick3591 leftover dual Thebe Maasmechelen 0469.524.639 Strong PDF 2026-00352958 9900 0.34m / 9901 loss 86k; next rq_3592 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T15:26:09Z,rq_3592,3592,no,tick3592 leftover dual Onthaalcentrum Foyer Sint-Jans-Molenbeek 0409.624.763 Strong PDF 2026-00102687 9900 0.33m / 9901 86k; next rq_3593 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

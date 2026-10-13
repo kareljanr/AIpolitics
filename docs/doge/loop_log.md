@@ -38750,3 +38750,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@thebe.be — general mailbox verified on the official site https://www.thebe.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_thebe_maasmechelen_vaph_matrix_9900_0_34m_9901_loss_86k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3591/; rq_3590=done; spawn **rq_3592**; ticks=3591.
 - Next: **rq_3592 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3592 — 2026-10-13T15:26:09Z — rq_3592 leftover dual Onthaalcentrum Foyer Sint-Jans-Molenbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Onthaalcentrum Foyer** → KBO 0409.624.763 had 0 prior entity rows.
+- KBO: Actief since 7 maart 1969; VZW; zetel Werkhuizenstraat 25 1080 Sint-Jans-Molenbeek; 1 VE; 0 prior entity rows for 0409.624.763
+- Found: official NBB VKT-VZW native PDF **2026-00102687** (1012861 B / 21p; AV 28-04-2026; neergelegd 05/05/2026; MD5 7f4b473caa92b7511dc3f870de5d5716). VKT-VZW 9900 **EUR326681** (+4.24%); 62 **EUR64769**; 9901 **EUR86344** (was -20564); 9904 66902; equity 3359276; cash 310226; FTE 1,8 (was 2,3).
+- FOI address: secretariaat@foyer.be — general mailbox verified on the official site https://www.foyer.be/contact-3/ (secretariat mailbox; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_foyer_molenbeek_vaph_matrix_9900_0_33m_9901_86k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3592/; rq_3592=done; spawn **rq_3593**; ticks=3592.
+- Next: **rq_3593 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
