@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T08:48:57Z,rq_3398,3398,no,tick3398 leftover dual Archipel Ixelles 0416.289.158 Strong PDF 2026-00217862 9900 6.52m / 9901 28k; next rq_3399 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T08:49:10Z,rq_3399,3399,no,tick3399 leftover dual Le Sourire (service d'accueillantes conventionnées) Tournai 0416.186.220 Strong PDF 2026-00258885 9900 6.22m / 9901 198k; next rq_3400 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

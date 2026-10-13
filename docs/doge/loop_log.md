@@ -36820,3 +36820,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@archipel.be — general mailbox verified on the official site https://archipel.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_archipel_ixelles_vaph_matrix_9900_6_52m_9901_28k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3398/; rq_3398=done; spawn **rq_3399**; ticks=3398.
 - Next: **rq_3399 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3399 — 2026-10-13T08:49:10Z — rq_3399 leftover dual Le Sourire (service d'accueillantes conventionnées) Tournai YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Le Sourire (service d'accueillantes conventionnées)** → KBO 0416.186.220 had 0 prior entity rows.
+- KBO: Actief since 17 mei 1976; VZW; zetel Quai Andreï Sakharov(TOU) 5 7500 Tournai; 1 VE; 0 prior entity rows for 0416.186.220
+- Found: official NBB VKT-VZW native PDF **2026-00258885** (2448345 B / 25p; AV 26-06-2026; neergelegd 03/07/2026; MD5 91775020a9fae4118a2af0df821eb5a7). VKT-VZW 9900 **EUR6216398** (+5.21%); 62 **EUR6006206**; 9901 **EUR198116** (was -3946); 9904 213726; equity 727282; cash 873838; FTE 124,1 (was 122,5).
+- FOI address: info@lesourire.be — general mailbox verified on the official site https://lesourire.be/index.php/le-service-2/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_le_sourire_tournai_vaph_matrix_9900_6_22m_9901_198k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3399/; rq_3399=done; spawn **rq_3400**; ticks=3399.
+- Next: **rq_3400 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
