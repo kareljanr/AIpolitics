@@ -37460,3 +37460,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@asblphenix.be — general mailbox verified on the official site https://www.asblphenix.be/contact/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_phenix_namur_vaph_matrix_9900_1_92m_9901_89k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3462/; rq_3462=done; spawn **rq_3463**; ticks=3462.
 - Next: **rq_3463 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3463 — 2026-10-13T11:10:04Z — rq_3463 leftover dual RaCYNes Oupeye YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **RaCYNes** → KBO 0874.941.483 had 0 prior entity rows.
+- KBO:  since ; VZW; zetel ;  VE; 0 prior entity rows for 0874.941.483
+- Found: official NBB VKT-VZW native PDF **2026-00526843** (51810 B / 14p; AV 30-06-2026; neergelegd 28/09/2026; MD5 8502968d36fc5f624e1ae9d7817d3c9a). VKT-VZW 9900 **EUR1812456** (+7.01%); 62 **EUR1631155**; 9901 **EUR9057** (was 9601); 9904 5155; equity 659552; cash 27760; FTE n/a.
+- FOI address: accueil@racynes.be — general mailbox verified on the official site https://racynes.be/contact/ (same address as the filed seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_racynes_oupeye_vaph_matrix_9900_1_81m_9901_9k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3463/; rq_3463=done; spawn **rq_3464**; ticks=3463.
+- Next: **rq_3464 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

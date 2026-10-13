@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T11:09:51Z,rq_3462,3462,no,tick3462 leftover dual Phénix Namur 0454.810.927 Strong PDF 2026-00227134 9900 1.92m / 9901 89k; next rq_3463 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T11:10:04Z,rq_3463,3463,no,tick3463 leftover dual RaCYNes Oupeye 0874.941.483 Strong PDF 2026-00526843 9900 1.81m / 9901 9k; next rq_3464 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
