@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3520** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3510; 3511-3519 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3511-3519 residual dual L5 (not near-complete of 348bn):** AMO Jeun’Est · Inter-Actions · Jeunes Schaerbeekois au Travail (JST) · SOS Enfants Namur · Maison Médicale Horizons · La Croisée · Service d’Information Psycho-Sexuelle (SIPS) · AMO Tempo · Atrium 57, Centre culturel de Gembloux (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3105** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3160** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3511-3519** AMO Jeun’Est · Inter-Actions · Jeunes Schaerbeekois au Travail (JST) · SOS Enfants Namur · Maison Médicale Horizons · La Croisée · Service d’Information Psycho-Sexuelle (SIPS) · AMO Tempo · Atrium 57, Centre culturel de Gembloux.
+
+### Inventory (tick 3520)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 63561 |
+| commitments.csv | 7160 |
+| leaderboard.csv | 9278 |
+| entities.csv | 3178 |
+| sources.csv | 10413 |
+| FOI ready | 3105 |
+| FOI total rows | 3160 |
+| research_queue open | rq_3520 (carried; next: Adoptiehuis, Mosaïque, De RuimteVaart, Centre de Santé du Miroir, Aide Enfants-Familles Brabant wallon (code 9900 leftovers; old-code scan complete: 85 runnable pages finished, 77 with results, 8 confirmed empty; NACE-BEL 2025 scan 85 of 400 pages finished; triage 1279 of 3493 earlier keys + all 307 new keys from the 2025 scan, no code 733 rows yet); largest first) |
+
+### What improved since tick 3510
+
+- **New source (tick3511-3519):** AMO Jeun’Est · Inter-Actions · Jeunes Schaerbeekois au Travail (JST) · SOS Enfants Namur · Maison Médicale Horizons · La Croisée · Service d’Information Psycho-Sexuelle (SIPS) · AMO Tempo · Atrium 57, Centre culturel de Gembloux. All nine are code 9900 leftovers (NOT subsidy amounts), largest first; the code 733 pool from all earlier scans is used up (Médiathèque Nouvelle retried, site still unreachable). Scan status at tick 3520: the old-code scan is complete. All 85 runnable pages (82.300, 93.291, 93.299) have finished: 77 returned results, and the 8 empty pages finished empty again on re-run, so they are confirmed empty. The other 355 pages (17 NACE codes that return HTTP 404 on KBO) are covered by the NACE-BEL 2025 replacement scan: 85 of 400 pages finished, 12 jobs in parallel. Triage: 1279 of 3493 earlier keys checked, plus all 307 new non-profit keys from the 2025-code pages (148 + 159; 29 with a 2025 filing); no code 733 rows found so far. EU-level and international bodies, umbrella bodies and federations, bodies without an own-domain general mailbox, address mismatches and duplicates excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3520 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3510** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

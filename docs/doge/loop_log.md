@@ -38030,3 +38030,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: administration@atrium57.be — role mailbox verified on the official site https://atrium57.be/mentions-legales/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_atrium57_gembloux_vaph_matrix_9900_0_81m_9901_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3519/; rq_3519=done; spawn **rq_3520**; ticks=3519.
 - Next: **rq_3520 leftover dual** — Batch done (3516-3525); code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the new-family scan keys for code 733 filers (remaining 82.300 / 93.29x pages and the 20 NACE-BEL 2025 replacement codes still scanning), then further code 9900 leftovers from the cached NBB pool, largest first..
+
+
+## Tick 3520 — 2026-10-13T12:14:22Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3105** of 3160 rows; inventory budgets 63561 · commitments 7160 · leaderboard 9278 · entities 3178 · sources 10413.
+- Top10: **stable** (3511-3519 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3511-3519: AMO Jeun’Est · Inter-Actions · Jeunes Schaerbeekois au Travail (JST) · SOS Enfants Namur · Maison Médicale Horizons · La Croisée · Service d’Information Psycho-Sexuelle (SIPS) · AMO Tempo · Atrium 57, Centre culturel de Gembloux.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3520 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3520 run locally as fallback.
+- Next: **rq_3520** — code 9900 (NOT subsidy amounts): Adoptiehuis (EUR0.813m), Mosaïque (EUR0.810m), De RuimteVaart (EUR0.792m), Centre de Santé du Miroir (EUR0.791m), Aide Enfants-Familles Brabant wallon (EUR0.790m); mailboxes verified on official sites, after the dedup check. Scans: old codes complete; NACE-BEL 2025 codes 85/400 pages.
