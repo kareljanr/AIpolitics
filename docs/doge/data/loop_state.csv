@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T17:16:15Z,rq_3708,3708,no,tick3708 leftover dual Les Bruyères Verviers 0409.419.083 Strong PDF 2026-00187811 9900 1.06m / 9901 20k; next rq_3709 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T17:16:24Z,rq_3709,3709,no,tick3709 leftover dual Le Quinquet Soignies 0426.267.884 Strong PDF 2026-00237125 9900 0.98m / 9901 5k; next rq_3710 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

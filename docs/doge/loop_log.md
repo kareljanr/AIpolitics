@@ -39920,3 +39920,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lesbruyeres.eu — general mailbox verified on the official site https://lesbruyeres.eu/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_les_bruyeres_verviers_vaph_matrix_9900_1_06m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3708/; rq_3708=done; spawn **rq_3709**; ticks=3708.
 - Next: **rq_3709 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3709 — 2026-10-13T17:16:24Z — rq_3709 leftover dual Le Quinquet Soignies YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Le Quinquet** → KBO 0426.267.884 had 0 prior entity rows.
+- KBO: Actief since 18 november 1983; VZW; zetel Rue de Neufvilles 15 7060 Soignies; 1 VE; 0 prior entity rows for 0426.267.884
+- Found: official NBB VKT-VZW native PDF **2026-00237125** (50428 B / 14p; AV 06-06-2026; neergelegd 30/06/2026; MD5 22b849484df351c4a1473b7cd203d302). VKT-VZW 9900 **EUR983149** (-8.26%); 62 **EUR899805**; 9901 **EUR5249** (was 91253); 9904 0; equity 251488; cash 303536; FTE 17,8 (was 21,3).
+- FOI address: info@lequinquet.be — general mailbox verified on the official site https://www.lequinquet.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_le_quinquet_soignies_vaph_matrix_9900_0_98m_9901_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3709/; rq_3709=done; spawn **rq_3710**; ticks=3709.
+- Next: **rq_3710 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
