@@ -36800,3 +36800,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: voorzitter@crescendo-scholen.be — chair role mailbox verified on the official site https://crescendo-scholen.be/ (footer names the VZW at the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_crescendo_samen_groeien_dilbeek_vaph_matrix_733_3_96m_9901_510k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3396/; rq_3396=done; spawn **rq_3397**; ticks=3396.
 - Next: **rq_3397 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3397 — 2026-10-13T08:48:45Z — rq_3397 leftover dual Mentes Mechelen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Mentes** → KBO 0716.787.834 had 0 prior entity rows.
+- KBO: Actief since 21 december 2018; VZW; zetel Kanunnik De Deckerstraat 20a 2800 Mechelen; 1 VE; 0 prior entity rows for 0716.787.834
+- Found: official NBB VKT-VZW native PDF **2026-00061729** (43789 B / 12p; AV 24-03-2026; neergelegd 25/03/2026; MD5 739a4b6df0ab6a5466725208ac52cd79). VKT-VZW 9900 **EUR10584461** (+37.31%); 62 **EUR217902**; 9901 **EUR-118765** (was -6447); 9904 -112860; equity 642295; cash 637274; FTE 2,5 (was 2,6).
+- FOI address: infopunt@mentesvzw.be — information-point mailbox verified on the official site https://www.mentesvzw.be/contacteer-ons/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_mentes_mechelen_vaph_matrix_9900_10_58m_9901_loss_119k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3397/; rq_3397=done; spawn **rq_3398**; ticks=3397.
+- Next: **rq_3398 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
