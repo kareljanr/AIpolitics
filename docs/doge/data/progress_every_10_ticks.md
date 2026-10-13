@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3550** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3540; 3541-3549 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3541-3549 residual dual L5 (not near-complete of 348bn):** Kinderhuis Kakelbont · Villa Basta · Gekkoo · AMO Plan J · Samarcande AMO · vzw ‘de Rand’ · Minard · Buurtwerk Noordwijk · Centre de Service Social de Namur (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3132** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3187** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3541-3549** Kinderhuis Kakelbont · Villa Basta · Gekkoo · AMO Plan J · Samarcande AMO · vzw ‘de Rand’ · Minard · Buurtwerk Noordwijk · Centre de Service Social de Namur.
+
+### Inventory (tick 3550)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 63778 |
+| commitments.csv | 7187 |
+| leaderboard.csv | 9305 |
+| entities.csv | 3205 |
+| sources.csv | 10494 |
+| FOI ready | 3132 |
+| FOI total rows | 3187 |
+| research_queue open | rq_3550 (carried; next: Université des Femmes, Infor Famille Liège, Ligue Alzheimer, De Bonte Beestenboel, Hippopassion (code 9900 leftovers from the rebuilt NBB pool; old-code scan complete; NACE-BEL 2025 scan 191 of 400 pages finished; triage of all 3493 earlier keys complete + all 479 new keys from the 2025 scan: code 733 rows vzw de Rand (used at 3546) and one school organising body (excluded)); largest first) |
+
+### What improved since tick 3540
+
+- **New source (tick3541-3549):** Kinderhuis Kakelbont · Villa Basta · Gekkoo · AMO Plan J · Samarcande AMO · vzw ‘de Rand’ · Minard · Buurtwerk Noordwijk · Centre de Service Social de Namur. vzw ‘de Rand’ is a code 733 row (subsidies EUR10.07m, funder not verified) found by triage of the NACE-BEL 2025 scan; the other eight are code 9900 leftovers (NOT subsidy amounts), largest first; the code 733 pool from all earlier scans is used up (Médiathèque Nouvelle retried, site still unreachable). Scan status at tick 3550: the old-code scan is complete (85 runnable pages; 77 with results, 8 confirmed empty). The NACE-BEL 2025 replacement scan (covering the 355 pages whose 17 old NACE codes return HTTP 404 on KBO) has 191 of 400 pages finished, 12 jobs in parallel. Triage is complete for all 3493 earlier scan keys (1278 with a 2025 filing) and for all 479 new non-profit keys from the 2025-code pages; two code 733 rows found (vzw de Rand, used; one school organising body, excluded). Code 9900 picks come from the NBB pool rebuilt from the local cache (2115 rows, no code 733 filers). EU-level and international bodies, umbrella bodies and federations, bodies without an own-domain general mailbox, address mismatches and duplicates excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3550 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3540** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

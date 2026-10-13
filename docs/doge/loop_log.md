@@ -38330,3 +38330,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: general@css-namur.be — general mailbox shown on the official site https://css-namur.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_css_namur_vaph_matrix_9900_0_63m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3549/; rq_3549=done; spawn **rq_3550**; ticks=3549.
 - Next: **rq_3550 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3550 — 2026-10-13T12:51:52Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3132** of 3187 rows; inventory budgets 63778 · commitments 7187 · leaderboard 9305 · entities 3205 · sources 10494.
+- Top10: **stable** (3541-3549 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3541-3549: Kinderhuis Kakelbont · Villa Basta · Gekkoo · AMO Plan J · Samarcande AMO · vzw ‘de Rand’ · Minard · Buurtwerk Noordwijk · Centre de Service Social de Namur.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3550 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3550 run locally as fallback.
+- Next: **rq_3550** — code 9900 (NOT subsidy amounts): Université des Femmes (EUR0.627m), Infor Famille Liège (EUR0.613m), Ligue Alzheimer (EUR0.612m), De Bonte Beestenboel (EUR0.603m), Hippopassion (EUR0.602m); mailboxes verified on official sites, after the dedup check. Scans: old codes complete; NACE-BEL 2025 codes 191/400 pages; triage of all scan keys complete so far.
