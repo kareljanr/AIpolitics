@@ -39150,3 +39150,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@digitalforyouth.be — general mailbox verified on the official site https://www.digitalforyouth.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_digital_for_youth_leuven_vaph_matrix_9900_0_71m_9901_399k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3631/; rq_3630=done; spawn **rq_3632**; ticks=3631.
 - Next: **rq_3632 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3632 — 2026-10-13T15:58:28Z — rq_3632 leftover dual Trage Wegen Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Trage Wegen** → KBO 0478.580.281 had 0 prior entity rows.
+- KBO: Actief since 15 maart 2002; VZW; zetel Dendermondsesteenweg 50 9000 Gent; 2 VE; 0 prior entity rows for 0478.580.281
+- Found: official NBB VKT-VZW native PDF **2026-00178245** (45266 B / 12p; AV 30-05-2026; neergelegd 18/06/2026; MD5 681ab4f76506ca130913221b94fc0a82). VKT-VZW 9900 **EUR662177** (+9.25%); 62 **EUR651761**; 9901 **EUR236** (was 2821); 9904 232; equity 274018; cash 160090; FTE 8 (was 6,2).
+- FOI address: info@tragewegen.be — general mailbox verified on the official site https://www.tragewegen.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_trage_wegen_gent_vaph_matrix_9900_0_66m_9901_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3632/; rq_3632=done; spawn **rq_3633**; ticks=3632.
+- Next: **rq_3633 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
