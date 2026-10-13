@@ -36910,3 +36910,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: oeuvres.sociales@armeedusalut.be — social-works role mailbox verified on the official site https://www.armeedusalut.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_armee_du_salut_oeuvres_sociales_vaph_matrix_733_5_15m_9901_loss_328k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3407/; rq_3407=done; spawn **rq_3408**; ticks=3407.
 - Next: **rq_3408 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3408 — 2026-10-13T09:16:11Z — rq_3408 leftover dual Abbaye de Maredsous Anhée (Denée) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Abbaye de Maredsous** → KBO 0407.585.882 had 0 prior entity rows.
+- KBO: Actief since 9 februari 1923; VZW; zetel Rue de Maredsous, Denée 11 5537 Anhée; 1 VE; 0 prior entity rows for 0407.585.882
+- Found: official NBB VOL-VZW native PDF **2026-00125143** (886380 B / 47p; AV 26-05-2026; neergelegd 29/05/2026; MD5 05b09a64b4c7332b2b1dcdbac3e0941f). VOL-VZW 733 **EUR214045** (+15.12%); 62 **EUR4986894**; 9901 **EUR-118738** (was 1055854); 9904 17920; equity 2755125; cash 419997; FTE 110,9 (was 103,5).
+- FOI address: info@maredsous.com — general mailbox verified on the official site https://www.maredsous.com/contacts/ (which lists the KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_abbaye_de_maredsous_vaph_matrix_733_0_21m_9901_loss_119k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3408/; rq_3408=done; spawn **rq_3409**; ticks=3408.
+- Next: **rq_3409 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
