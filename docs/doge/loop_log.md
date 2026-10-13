@@ -37620,3 +37620,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@alterfam.be — general mailbox verified on the official site http://www.alterfam.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_alternatives_familiales_braine_l_alleud_vaph_matrix_9900_1_63m_9901_loss_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3478/; rq_3478=done; spawn **rq_3479**; ticks=3478.
 - Next: **rq_3479 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3479 — 2026-10-13T11:29:12Z — rq_3479 leftover dual Azimut Entreprendre Charleroi YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Azimut Entreprendre** → KBO 0455.025.614 had 0 prior entity rows.
+- KBO: Actief since 27 januari 1995; VZW; zetel Rue de Monceau Fontaine 42 bus 2 6031 Charleroi; 4 VE; 0 prior entity rows for 0455.025.614
+- Found: official NBB VKT-VZW native PDF **2026-00177727** (420927 B / 20p; AV 11-06-2026; neergelegd 17/06/2026; MD5 b3d3dc86f33d1e5046214a9b3e319ffe). VKT-VZW 9900 **EUR1462986** (-0.82%); 62 **EUR1380657**; 9901 **EUR16620** (was 228780); 9904 -12879; equity 473563; cash 802827; FTE 13,9 (was 14,9).
+- FOI address: azimut@azimut-entreprendre.be — general mailbox verified on the official site https://www.azimut-entreprendre.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_azimut_entreprendre_charleroi_vaph_matrix_9900_1_46m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3479/; rq_3479=done; spawn **rq_3480**; ticks=3479.
+- Next: **rq_3480 leftover dual** — Batch done; code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: Info-Sourds de Bruxelles, HERW!N, Mentor-Escale, Vlaamse Parkinson Liga, Agricall Wallonie (code 9900), and triage of the fresh 22-family scan for code 733 filers as pages finish..
