@@ -39100,3 +39100,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: brussel@kanker.be — regional office (role) mailbox verified on the official site https://www.kanker.be/contact (Brussels office mailbox; the site lists the KBO number and the Leuvensesteenweg seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_stichting_tegen_kanker_schaarbeek_vaph_matrix_733_1_25m_9901_10989k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3626/; rq_3626=done; spawn **rq_3627**; ticks=3626.
 - Next: **rq_3627 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3627 — 2026-10-13T15:56:21Z — rq_3627 leftover dual Ons Erfdeel (de lage landen) Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Ons Erfdeel (de lage landen)** → KBO 0410.723.635 had 0 prior entity rows.
+- KBO: Actief since 17 september 1970; VZW; zetel Koningstraat 18 9000 Gent; 1 VE; 0 prior entity rows for 0410.723.635
+- Found: official NBB VKT-VZW native PDF **2026-00079000** (315171 B / 21p; AV 27-03-2026; neergelegd 14/04/2026; MD5 c103f71e43a4b8a67960310019649759). VKT-VZW 9900 **EUR793474** (+16.59%); 62 **EUR500147**; 9901 **EUR238180** (was -45621); 9904 234503; equity 854807; cash 111420; FTE 5,6 (was 7,4).
+- FOI address: hallo@de-lage-landen.com — general mailbox verified on the official site https://www.de-lage-landen.com/privacybeleid/ (privacy page names Ons Erfdeel vzw; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_ons_erfdeel_gent_vaph_matrix_9900_0_79m_9901_238k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3627/; rq_3627=done; spawn **rq_3628**; ticks=3627.
+- Next: **rq_3628 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

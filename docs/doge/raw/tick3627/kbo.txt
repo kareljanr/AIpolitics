@@ -1,0 +1,1 @@
+{"status": "Actief", "begin": "17 september 1970", "rv": "Vereniging zonder winstoogmerk", "addr": "Koningstraat 18 9000 Gent", "ve": "1"}
