@@ -37750,3 +37750,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@heidehuis.be — general mailbox verified on the official site https://www.heidehuis.be/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_heidehuis_brugge_vaph_matrix_9900_1_27m_9901_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3491/; rq_3490=done; spawn **rq_3492**; ticks=3491.
 - Next: **rq_3492 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3492 — 2026-10-13T11:47:41Z — rq_3492 leftover dual Centre de psycho-oncologie Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre de psycho-oncologie** → KBO 0422.071.546 had 0 prior entity rows.
+- KBO: Actief since 11 juni 1981; VZW; zetel Waterloolaan 106 1000 Brussel; 1 VE; 0 prior entity rows for 0422.071.546
+- Found: official NBB VKT-VZW native PDF **2026-00175771** (50331 B / 13p; AV 16-06-2026; neergelegd 19/06/2026; MD5 043ba3b5ab2cd8d565793ff8a0f5798c). VKT-VZW 9900 **EUR1210546** (+2.22%); 62 **EUR1068452**; 9901 **EUR-2049** (was -6614); 9904 3962; equity 1974456; cash 2335588; FTE 20,2 (was 21).
+- FOI address: secretariat@psycho-oncologie.be — role mailbox verified on the official site https://www.psycho-oncologie.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_psycho_oncologie_bruxelles_vaph_matrix_9900_1_21m_9901_loss_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3492/; rq_3492=done; spawn **rq_3493**; ticks=3492.
+- Next: **rq_3493 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
