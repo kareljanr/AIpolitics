@@ -35344,3 +35344,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3250 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3250 run locally as fallback.
 - Next: **rq_3250** — NACE 88.999 Brussels scan (code 9900, NOT subsidy amounts): SASLS-DMBSH (EUR4.13m), Diogenes (EUR2.31m), Mission Locale Saint-Gilles (EUR2.22m), Modus Vivendi (EUR2.04m), SOS Jeunes (EUR1.92m); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3251 — 2026-10-13T02:45:56Z — rq_3250 leftover dual SASLS-DMBSH (Service d'accompagnement social aux locataires sociaux) Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Large Brussels social-work non-profits from a KBO activity-code scan (NACE 88.999, all Brussels postcodes; 523 legal persons not yet in the repo), chosen after the City of Brussels 2025 register tail became small; code 733 rows first, then code 9900, largest first: **SASLS-DMBSH (Service d'accompagnement social aux locataires sociaux)** → KBO 0475.634.847 had 0 prior entity rows.
+- KBO: Actief since 22 juni 2001; VZW; zetel Gulden-Vlieslaan 72 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0475.634.847
+- Found: official NBB VKT-VZW native PDF **2026-00477141** (854660 B / 20p; AV 20-05-2026; neergelegd 31/08/2026; MD5 a7c28de388d28cd47e07488dbdc3df7f). VKT-VZW 9900 **EUR4133590** (+1.85%); 62 **EUR4365716**; 9901 **EUR-235286** (was -49973); 9904 -232838; equity 404022; cash 470079; FTE 61,9 (was 62,1).
+- FOI address: info@sasls.irisnet.be — general mailbox verified on the official site https://sasls-dmbsh.be/nous-contacter/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_sasls_dmbsh_vaph_matrix_9900_4_13m_9901_loss_235k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3251/; rq_3250=done; spawn **rq_3252**; ticks=3251.
+- Next: **rq_3252 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
