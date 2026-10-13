@@ -36640,3 +36640,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3380 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3380 run locally as fallback.
 - Next: **rq_3380** — code 9900 (NOT subsidy amounts): Fleur Service social (EUR0.96m), Cluster TWEED (EUR0.92m), SSMG (EUR0.89m), Chudoscnik Sunergia (EUR0.85m), PIBO (EUR0.83m); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3381 — 2026-10-13T08:04:42Z — rq_3380 leftover dual Fleur Service social Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Fleur Service social** → KBO 0420.270.514 had 0 prior entity rows.
+- KBO: Actief since 31 januari 1980; VZW; zetel Rue Defrêcheux 36 4000 Liège; 4 VE; 0 prior entity rows for 0420.270.514
+- Found: official NBB VKT-VZW native PDF **2026-00416564** (320129 B / 26p; AV 30-06-2026; neergelegd 24/08/2026; MD5 0765421e9c257fe0afc2f2b56a9f8699). VKT-VZW 9900 **EUR956135** (+1.00%); 62 **EUR844357**; 9901 **EUR23144** (was 65385); 9904 26656; equity 551646; cash 319113; FTE 19,8 (was 19,7).
+- FOI address: info@fleurservicesocial.be — general mailbox verified on the official site https://fleurservicesocial.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_fleur_service_social_liege_vaph_matrix_9900_0_96m_9901_23k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3381/; rq_3380=done; spawn **rq_3382**; ticks=3381.
+- Next: **rq_3382 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
