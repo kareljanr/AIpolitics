@@ -34814,3 +34814,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cdlys.be — general/role mailbox of the school of the same name run by this organising body, listed on the SeGEC school directory page https://enseignement.catholique.be/etablissements/college-de-la-lys-2/ which names this ASBL as pouvoir organisateur (opened 13 Oct 2026).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_college_de_la_lys_vaph_matrix_733_11_56m_9901_183k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3197/; rq_3197=done; spawn **rq_3198**; ticks=3197.
 - Next: **rq_3198 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3198 — 2026-10-13T01:32:29Z — rq_3198 leftover dual Ecoles d'Enseignement spécial Reumonjoie/Clair-Val (Namur) Namur (Malonne) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies and literacy ASBLs (ASBL) whose general/role mailbox is listed on the SeGEC school directory or an official site, matched to the KBO; largest code 733 first: **Ecoles d'Enseignement spécial Reumonjoie/Clair-Val (Namur)** → KBO 0422.352.945 had 0 prior entity rows.
+- KBO: Actief since 26 augustus 1981; VZW; zetel Chemin de Reumont(ML) 141 5020 Namur; 5 VE; 0 prior entity rows for 0422.352.945
+- Found: official NBB VOL-VZW native PDF **2026-00349403** (2635370 B / 38p; AV 25-06-2026; neergelegd 20/07/2026; MD5 2d103de9f729b568ef447d4031484503). VOL-VZW 733 **EUR11286176** (+0.62%); 62 **EUR10333142**; 9901 **EUR298999** (was 244164); 9904 308683; equity 4007389; cash 999130; FTE 6,1 (was 6,1).
+- FOI address: direction@rjcv.be — general/role mailbox of the school of the same name run by this organising body, listed on the SeGEC school directory page https://enseignement.catholique.be/etablissements/ecole-prof-dens-specialisee-reumonjoie-clair-val/ which names this ASBL as pouvoir organisateur (opened 13 Oct 2026).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_reumonjoie_clair_val_vaph_matrix_733_11_29m_9901_299k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3198/; rq_3198=done; spawn **rq_3199**; ticks=3198.
+- Next: **rq_3199 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
