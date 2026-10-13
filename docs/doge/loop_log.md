@@ -40600,3 +40600,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@apides.be — general mailbox verified on the official site https://www.apides.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_apides_court_saint_etienne_vaph_matrix_9900_0_77m_9901_loss_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3776/; rq_3776=done; spawn **rq_3777**; ticks=3776.
 - Next: **rq_3777 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3777 — 2026-10-13T21:22:39Z — rq_3777 leftover dual #SheDIDIT Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **#SheDIDIT** → KBO 0680.560.710 had 0 prior entity rows.
+- KBO: Actief since 1 augustus 2017; VZW; zetel Statiestraat 5 2600 Antwerpen; 2 VE; 0 prior entity rows for 0680.560.710
+- Found: official NBB MIC-VZW native PDF **2026-00505246** (48137 B / 13p; AV 12-05-2026; neergelegd 07/09/2026; MD5 bb1c1bfafdcd998cf1ab77f5f2ef0480). MIC-VZW 9900 **EUR689368** (+5.89%); 62 **EUR640366**; 9901 **EUR31564** (was 15933); 9904 22311; equity 94766; cash 24513; FTE n/a.
+- FOI address: hello@shedidit.be — general mailbox verified on the official site https://www.shedidit.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_shedidit_berchem_vaph_matrix_9900_0_69m_9901_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3777/; rq_3777=done; spawn **rq_3778**; ticks=3777.
+- Next: **rq_3778 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
