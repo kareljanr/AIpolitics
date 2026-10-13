@@ -37840,3 +37840,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3500 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3500 run locally as fallback.
 - Next: **rq_3500** — code 9900 (NOT subsidy amounts): Centrum Agrarische Geschiedenis (EUR1.04m), Technicity.brussels (EUR1.04m), Woodwize (EUR1.03m), Le Forum - Bruxelles contre les inégalités (EUR1.01m), Wijkhuis Chambéry (EUR0.997m); mailboxes verified on official sites, after the dedup check. Scans continue: old codes 77/440 pages, NACE-BEL 2025 codes 33/400 pages.
+
+
+## Tick 3501 — 2026-10-13T11:56:08Z — rq_3500 leftover dual Centrum Agrarische Geschiedenis Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centrum Agrarische Geschiedenis** → KBO 0473.877.761 had 0 prior entity rows.
+- KBO: Actief since 6 december 2000; VZW; zetel Naamsestraat 63 bus 5308 3000 Leuven; 1 VE; 0 prior entity rows for 0473.877.761
+- Found: official NBB VKT-VZW native PDF **2026-00260061** (49445 B / 12p; AV 26-03-2026; neergelegd 03/07/2026; MD5 04d315e8ae86840a44714c623e8d7623). VKT-VZW 9900 **EUR1037312** (+7.67%); 62 **EUR831252**; 9901 **EUR195566** (was 178205); 9904 199768; equity 909094; cash 376877; FTE 9,2 (was 9,2).
+- FOI address: contact@cagnet.be — general mailbox verified on the official site https://cagnet.be/page/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_cag_leuven_vaph_matrix_9900_1_04m_9901_196k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3501/; rq_3500=done; spawn **rq_3502**; ticks=3501.
+- Next: **rq_3502 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
