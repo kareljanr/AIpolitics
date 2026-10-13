@@ -38840,3 +38840,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3600 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3600 run locally as fallback.
 - Next: **rq_3600** — code 9900 (NOT subsidy amounts): JAVVA (EUR0.227m), Walter werkt (EUR0.173m), Avanco Adventure (EUR0.137m), Maison Arc-en-Ciel de Namur (EUR0.129m), Havenwereld (EUR0.112m); mailboxes verified on official sites, after the dedup check. Scans: old codes and NACE-BEL 2025 codes complete (400/400 pages); all keys triaged.
+
+
+## Tick 3601 — 2026-10-13T15:34:02Z — rq_3600 leftover dual JAVVA - Jeunes Actifs dans le Volontariat et les Voyages Alternatifs Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **JAVVA - Jeunes Actifs dans le Volontariat et les Voyages Alternatifs** → KBO 0474.230.426 had 0 prior entity rows.
+- KBO: Actief since 5 oktober 1999; VZW; zetel Emile Feronstraat 153 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0474.230.426
+- Found: official NBB VKT-VZW native PDF **2026-00218766** (52418 B / 14p; AV 21-06-2026; neergelegd 29/06/2026; MD5 0f2158ed23cd4e0a1b17411eb24e0066). VKT-VZW 9900 **EUR226701** (-11.02%); 62 **EUR260992**; 9901 **EUR-26051** (was -7728); 9904 43; equity 185939; cash 279432; FTE 3,8 (was 3,6).
+- FOI address: javva@javva.org — general mailbox verified on the official site https://javva.org/nous-contacter/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_javva_saint_gilles_vaph_matrix_9900_0_23m_9901_loss_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3601/; rq_3600=done; spawn **rq_3602**; ticks=3601.
+- Next: **rq_3602 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
