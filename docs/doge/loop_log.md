@@ -40220,3 +40220,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: services@trianglewallonie.be — general mailbox verified on the official site https://www.trianglewallonie.be/contact-4 (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_triangle_wallonie_sombreffe_vaph_matrix_9900_0_84m_9901_loss_65k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3738/; rq_3738=done; spawn **rq_3739**; ticks=3738.
 - Next: **rq_3739 leftover dual** — Batch done (3734-3738); code 9900 rows from bounded KBO scan nscan12 (88999/87101), largest first; code 733 filer Heuverveld rejected (OCMW/commune-linked); candidates ran dry; Médiathèque Nouvelle still unreachable. Next: a new bounded scan..
+
+
+## Tick 3739 — 2026-10-13T19:04:21Z — rq_3739 leftover dual Ouderenzorg Zusters der Christelijke Scholen (WZC Mariënhove) Westmalle YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Ouderenzorg Zusters der Christelijke Scholen (WZC Mariënhove)** → KBO 0438.432.278 had 0 prior entity rows.
+- KBO: Actief since 16 januari 1989; VZW; zetel Brechtsesteenweg 89 2390 Malle; 3 VE; 0 prior entity rows for 0438.432.278
+- Found: official NBB VOL-VZW native PDF **2026-00231854** (525188 B / 42p; AV 15-06-2026; neergelegd 30/06/2026; MD5 abc739152b28482d40aa3ce85f5faae1). VOL-VZW 733 **EUR2047236** (+7.56%); 62 **EUR10901390**; 9901 **EUR401561** (was 78833); 9904 109563; equity 6116617; cash 1180172; FTE 150,8 (was 147,2).
+- FOI address: info@marienhove.be — general mailbox verified on the official site https://www.marienhove.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_ouderenzorg_zcs_marienhove_malle_vaph_matrix_733_2_05m_9901_402k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3739/; rq_3739=done; spawn **rq_3740**; ticks=3739.
+- Next: **rq_3740 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
