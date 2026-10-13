@@ -38310,3 +38310,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@minard.be — general mailbox verified on the official site https://minard.be/contacteer/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_minard_gent_vaph_matrix_9900_0_65m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3547/; rq_3547=done; spawn **rq_3548**; ticks=3547.
 - Next: **rq_3548 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3548 — 2026-10-13T12:41:55Z — rq_3548 leftover dual Buurtwerk Noordwijk (LDC De Harmonie) Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Buurtwerk Noordwijk (LDC De Harmonie)** → KBO 0415.797.230 had 0 prior entity rows.
+- KBO: Actief since 1 maart 1975; VZW; zetel Antwerpsesteenweg 24 1000 Brussel; 2 VE; 0 prior entity rows for 0415.797.230
+- Found: official NBB VKT-VZW native PDF **2026-00131868** (563319 B / 34p; AV 26-05-2026; neergelegd 02/06/2026; MD5 2821e90ea4b582283fc5fd0225ba5fe7). VKT-VZW 9900 **EUR642226** (+1.76%); 62 **EUR537849**; 9901 **EUR-11702** (was -95642); 9904 -13231; equity 1398316; cash 93918; FTE 11,7 (was 13,2).
+- FOI address: info@deharmonie.be — general mailbox verified on the official site https://deharmonie.be/nl/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_buurtwerk_noordwijk_bxl_vaph_matrix_9900_0_64m_9901_loss_12k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3548/; rq_3548=done; spawn **rq_3549**; ticks=3548.
+- Next: **rq_3549 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

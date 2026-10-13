@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T12:41:46Z,rq_3547,3547,no,tick3547 leftover dual Minard Gent 0451.772.550 Strong PDF 2026-00181250 9900 0.65m / 9901 2k; next rq_3548 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T12:41:55Z,rq_3548,3548,no,tick3548 leftover dual Buurtwerk Noordwijk (LDC De Harmonie) Brussel 0415.797.230 Strong PDF 2026-00131868 9900 0.64m / 9901 loss 12k; next rq_3549 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
