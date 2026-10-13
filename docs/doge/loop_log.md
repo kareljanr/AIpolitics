@@ -38690,3 +38690,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@kanzo.network — general mailbox verified on the official site https://www.kanzo.network/contact (site lists ArmenTeKort vzw, the KBO number and the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_armentekort_kanzo_antwerpen_vaph_matrix_9900_0_38m_9901_69k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3585/; rq_3585=done; spawn **rq_3586**; ticks=3585.
 - Next: **rq_3586 leftover dual** — Batch done (3576-3585); code 9900 leftovers (no new code 733 filer: Marienheim Raeren already in the data) (Médiathèque Nouvelle still unreachable). Next (old-code and NACE-BEL 2025 scans complete, all keys triaged; EPHEC-Galilée not used: no general mailbox on its own site), then further code 9900 leftovers from the rebuilt pool, largest first..
+
+
+## Tick 3586 — 2026-10-13T15:23:47Z — rq_3586 leftover dual Roosendael Sint-Katelijne-Waver YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Roosendael** → KBO 0421.906.844 had 0 prior entity rows.
+- KBO: Actief since 20 mei 1981; VZW; zetel Rozendaal z/n 2860 Sint-Katelijne-Waver; 1 VE; 0 prior entity rows for 0421.906.844
+- Found: official NBB VKT-VZW native PDF **2026-00119957** (41147 B / 10p; AV 26-03-2026; neergelegd 20/05/2026; MD5 de3a619c9e685ee236a40bae2771b379). VKT-VZW 9900 **EUR401981** (+11.12%); 62 **EUR295261**; 9901 **EUR-101916** (was -137859); 9904 59352; equity 4386429; cash 264229; FTE 5,6 (was 6,5).
+- FOI address: info@roosendael.be — general mailbox verified on the official site https://www.roosendael.be/contact (site gives Rozendaal 5; KBO registered seat Rozendaal z/n).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_roosendael_sint_katelijne_waver_vaph_matrix_9900_0_40m_9901_loss_102k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3586/; rq_3586=done; spawn **rq_3587**; ticks=3586.
+- Next: **rq_3587 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
