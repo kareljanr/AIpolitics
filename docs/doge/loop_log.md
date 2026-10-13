@@ -35930,3 +35930,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: hello@o-yes.be — general mailbox verified on the official site https://www.o-yes.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_o_yes_saint_gilles_vaph_matrix_9900_1_16m_9901_106k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3309/; rq_3309=done; spawn **rq_3310**; ticks=3309.
 - Next: **rq_3310 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3310 — 2026-10-13T05:19:36Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2916** of 2971 rows; inventory budgets 62022 · commitments 6971 · leaderboard 9089 · entities 2989 · sources 9846.
+- Top10: **stable** (3271-3279 added 8 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3301-3309: MS-Liga Vlaanderen · Bataljong · KSA Nationaal · GAFFI · Service Arc-en-Ciel · CIRÉ · Badje · Proximité Santé · O'YES.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3310 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3310 run locally as fallback.
+- Next: **rq_3310** — NACE 94.99x / 88.99x scans (code 9900, NOT subsidy amounts): SOS Enfants Liège (EUR1.12m), Jeunesses Scientifiques (EUR1.10m), Linx+ (EUR0.96m), Familles d'Accueil Verviers (EUR0.83m), Opération Faim et Froid (EUR0.80m); mailboxes verified on official sites, after the dedup check.
