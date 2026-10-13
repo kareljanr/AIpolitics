@@ -36900,3 +36900,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lesaubergesdejeunesse.be — general mailbox verified on the official site https://lesaubergesdejeunesse.be/conditions-generales-de-vente/ (which lists the KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_auberges_de_jeunesse_wb_vaph_matrix_733_5_72m_9901_807k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3406/; rq_3406=done; spawn **rq_3407**; ticks=3406.
 - Next: **rq_3407 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3407 — 2026-10-13T09:15:59Z — rq_3407 leftover dual Oeuvres Sociales de l'Armée du Salut en Belgique Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Oeuvres Sociales de l'Armée du Salut en Belgique** → KBO 0416.251.744 had 0 prior entity rows.
+- KBO: Actief since 3 juni 1976; VZW; zetel Nieuwe Graanmarkt 34 1000 Brussel; 12 VE; 0 prior entity rows for 0416.251.744
+- Found: official NBB VOL-VZW native PDF **2026-00224625** (730365 B / 45p; AV 19-06-2026; neergelegd 30/06/2026; MD5 98d86419089d79c0e96665f7033bfe7e). VOL-VZW 733 **EUR5145250** (-1.18%); 62 **EUR7054985**; 9901 **EUR-328431** (was -966000); 9904 -295951; equity 440984; cash 2094781; FTE 105,4 (was 110,6).
+- FOI address: oeuvres.sociales@armeedusalut.be — social-works role mailbox verified on the official site https://www.armeedusalut.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_armee_du_salut_oeuvres_sociales_vaph_matrix_733_5_15m_9901_loss_328k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3407/; rq_3407=done; spawn **rq_3408**; ticks=3407.
+- Next: **rq_3408 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
