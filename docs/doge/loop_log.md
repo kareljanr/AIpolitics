@@ -36740,3 +36740,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3390 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3390 run locally as fallback.
 - Next: **rq_3390** — code 9900 (NOT subsidy amounts): Cerfs-Volants (EUR1.87m), Le Vieux Moulin (EUR1.63m), WZC Benaja (EUR1.62m), Vent Debout (EUR1.60m), de Vlinderkens (EUR1.57m); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3391 — 2026-10-13T08:23:14Z — rq_3390 leftover dual Cerfs-Volants - Maison des Tout-Petits Schaerbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Cerfs-Volants - Maison des Tout-Petits** → KBO 0431.181.727 had 0 prior entity rows.
+- KBO: Actief since 24 mei 1985; VZW; zetel Heliotropenlaan 6 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0431.181.727
+- Found: official NBB VKT-VZW native PDF **2026-00316413** (53761 B / 14p; AV 18-06-2026; neergelegd 22/07/2026; MD5 46f5414ce5d7a1ab5307ad30e957ee0c). VKT-VZW 9900 **EUR1872760** (+5.08%); 62 **EUR1863757**; 9901 **EUR-30752** (was -7465); 9904 -30906; equity 48032; cash 203180; FTE 32,6 (was 30,9).
+- FOI address: info@cerfs-volants.be — general mailbox verified on the official site https://cerfs-volants.be/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cerfs_volants_schaerbeek_vaph_matrix_9900_1_87m_9901_loss_31k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3391/; rq_3390=done; spawn **rq_3392**; ticks=3391.
+- Next: **rq_3392 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
