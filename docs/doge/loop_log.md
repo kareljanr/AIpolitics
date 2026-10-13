@@ -40500,3 +40500,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@parlerpourledire.be — general mailbox verified on the official site https://www.parlerpourledire.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_parler_pour_le_dire_dour_vaph_matrix_9900_0_46m_9901_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3766/; rq_3766=done; spawn **rq_3767**; ticks=3766.
 - Next: **rq_3767 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3767 — 2026-10-13T19:49:57Z — rq_3767 leftover dual Centre de Loisirs Actifs L’Eveil (maison de jeunes) Charleroi YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre de Loisirs Actifs L’Eveil (maison de jeunes)** → KBO 0448.658.850 had 0 prior entity rows.
+- KBO: Actief since 1 augustus 1992; VZW; zetel Rue Joseph Wauters 48 6043 Charleroi; 1 VE; 0 prior entity rows for 0448.658.850
+- Found: official NBB MIC-VZW native PDF **2026-00112241** (45314 B / 11p; AV 15-04-2026; neergelegd 18/05/2026; MD5 d6588c9a5d610836bfc7ad7393d3705e). MIC-VZW 9900 **EUR442580** (+7.91%); 62 **EUR404770**; 9901 **EUR379** (was -3043); 9904 4557; equity 220864; cash 297458; FTE n/a.
+- FOI address: info@mjeveil.be — general mailbox verified on the official site https://www.mjeveil.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_mj_eveil_ransart_vaph_matrix_9900_0_44m_9901_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3767/; rq_3767=done; spawn **rq_3768**; ticks=3767.
+- Next: **rq_3768 leftover dual** — Partial batch (3762-3767); code 9900 rows from nscan16/17 and new code 94991, largest first; no code 733 filer found; Recht-Op and ZOPP skipped (no verifiable general mailbox on own domain); Médiathèque Nouvelle still unreachable. Next: finish the 86xxx/85xxx/88919 scan..
