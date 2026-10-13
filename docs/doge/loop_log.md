@@ -39790,3 +39790,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@timotheus.org — general mailbox verified on the official site https://www.timotheus.org/contact/waar-vind-je-ons (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_timotheus_schoten_vaph_matrix_9900_0_13m_9901_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3695/; rq_3695=done; spawn **rq_3696**; ticks=3695.
 - Next: **rq_3696 leftover dual** — Batch done (3686-3695); one code 733 filer first, then code 9900 rows from bounded KBO scans nscan5/nscan6, largest first (Médiathèque Nouvelle still unreachable). Next: remaining nscan6 rows or a new bounded scan..
+
+
+## Tick 3696 — 2026-10-13T17:07:09Z — rq_3696 leftover dual ISOCELE (I.SO.C.E.L.E) Verviers YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **ISOCELE (I.SO.C.E.L.E)** → KBO 0424.845.152 had 0 prior entity rows.
+- KBO: Actief since 26 oktober 1983; VZW; zetel Rue Béribou 4 4800 Verviers; 3 VE; 0 prior entity rows for 0424.845.152
+- Found: official NBB VKT-VZW native PDF **2026-00410369** (51555 B / 13p; AV 28-05-2026; neergelegd 20/08/2026; MD5 04af966738cd885041b669343ee97623). VKT-VZW 9900 **EUR2356686** (+3.48%); 62 **EUR2152565**; 9901 **EUR41300** (was 59657); 9904 40954; equity 441043; cash 272306; FTE 32,2 (was 32,1).
+- FOI address: batiform@isocele.be — seat/Batiform service mailbox verified on the official site https://isocele.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_isocele_verviers_vaph_matrix_9900_2_36m_9901_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3696/; rq_3696=done; spawn **rq_3697**; ticks=3696.
+- Next: **rq_3697 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
