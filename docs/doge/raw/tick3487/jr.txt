@@ -1,0 +1,1472 @@
+2026-00317785       0874552394     2025    EUR    25.0.13     m04-f   22/07/2026   26                             A-ASBL 1
+
+
+
+
+                                 COMPTES ANNUELS ET AUTRES DOCUMENTS
+                                    À DÉPOSER EN VERTU DU CODE DES
+                                     SOCIÉTÉS ET DES ASSOCIATIONS
+
+
+
+DONNÉES D'IDENTIFICATION (à la date du dépôt)
+
+Dénomination :         CONTREPIED ASBL CONTREPIED ASBL
+Forme juridique :      Association sans but lucratif
+Adresse :   rue Longue /                                                      N° : 1702                Boîte :
+Code postal :     1150                 Commune :        Woluwe-Saint-Pierre
+Pays :   Belgique
+Registre des personnes morales (RPM) - Tribunal de l'entreprise de            Bruxelles, francophone
+                         https://www.google.com/search?
+Adresse Internet :
+                         q=CONTREPIED&rlz=1C1WPZA_enBE700BE700&oq=CONTREPIED&gs_lcrp=EgZjaHJvbWUyBggAEEU
+Adresse e-mail :         jean@contrepied.be
+
+
+
+                                                                      Numéro d'entreprise              0874.552.394
+
+
+
+Date du dépôt du document le plus récent mentionnant la date de publication des actes constitutif
+                                                                                                             17-08-2023
+et modificatif(s) des statuts
+
+
+
+COMPTES ANNUELS en                  EURO           approuvés par l’assemblée générale du         25-06-2026
+
+
+                et relatifs à l'exercice couvrant la période du       01-01-2025          au     31-12-2025
+
+
+                                      Exercice précédent du           01-01-2024          au     31-12-2024
+
+
+Les montants relatifs à l'exercice précédent sont identiques à ceux publiés antérieurement.
+
+
+
+Numéros des sections du document normalisé non déposées parce que sans objet :
+ A-ASBL 6.1.1, A-ASBL 6.2, A-ASBL 6.5, A-ASBL 6.6, A-ASBL 8
+
+
+
+
+                                                                                                                   Page 1 of 26
+N°      0874552394                                                                                                     A-ASBL 2
+
+
+                                LISTE DES ADMINISTRATEURS ET COMMISSAIRES
+
+
+
+
+LISTE DES ADMINISTRATEURS ET COMMISSAIRES
+
+LISTE COMPLÈTE des nom, prénoms, profession, domicile (adresse, numéro, code postal et commune) et fonction au sein de
+l'association ou de la fondation
+
+
+
+Stevens Brigitte
+Employée
+rue Longue 1702
+1150 Woluwe-Saint-Pierre
+BELGIQUE
+Début de mandat : 2023-08-17           Fin de mandat : 2026-08-17              Administrateur
+
+
+Huet Jean-Marie
+Employé
+rue Longue 1702
+1150 Woluwe-Saint-Pierre
+BELGIQUE
+Début de mandat : 2023-08-17           Fin de mandat : 2026-08-17              Administrateur
+
+
+Neybergh Pascale
+Employée
+rue Longue 1702
+1150 Woluwe-Saint-Pierre
+BELGIQUE
+Début de mandat : 2023-08-17           Fin de mandat : 2026-08-17              Président du Conseil d'Administration
+
+
+
+
+                                                                                                                       Page 2 of 26
+N°      0874552394                                                                                          A-ASBL 3.1
+
+
+                                                   COMPTES ANNUELS
+
+
+
+BILAN APRÈS RÉPARTITION
+
+                                                            Ann.      Codes   Exercice              Exercice précédent
+
+ ACTIF
+                                                                     20
+ FRAIS D'ÉTABLISSEMENT
+ ACTIFS IMMOBILISÉS                                                  21/28               268.211                  318.986
+                                                             6.1.1   21
+ Immobilisations incorporelles
+
+ Immobilisations corporelles                                 6.1.2   22/27               259.827                  317.402
+     Terrains et constructions                                       22
+
+     Installations, machines et outillage                            23                    1.115                          0
+     Mobilier et matériel roulant                                    24                  258.712                 317.402
+     Location-financement et droits similaires                       25
+
+     Autres immobilisations corporelles                              26
+
+     Immobilisations en cours et acomptes versés                     27
+
+ Immobilisations financières                                 6.1.3   28                     8.384                    1.584
+
+ ACTIFS CIRCULANTS                                                   29/58               469.481                  282.844
+
+ Créances à plus d'un an                                             29                    14.780                    9.900
+     Créances commerciales                                           290
+
+     Autres créances                                                 291                  14.780                    9.900
+                                                                     3
+ Stocks et commandes en cours d'exécution
+     Stocks                                                          30/36
+
+     Commandes en cours d'exécution                                  37
+
+ Créances à un an au plus                                            40/41               106.811                    71.624
+     Créances commerciales                                           40                  106.801                  71.497
+     Autres créances                                                 41                      10                          127
+                                                                     50/53
+ Placements de trésorerie
+
+ Valeurs disponibles                                                 54/58               347.890                  201.320
+                                                                     490/1
+ Comptes de régularisation
+
+ TOTAL DE L'ACTIF                                                    20/58               737.692                  601.830
+
+
+
+
+                                                                                                               Page 3 of 26
+N°      0874552394                                                                                                               A-ASBL 3.2
+
+                                                                               Ann.      Codes   Exercice                Exercice précédent
+
+ PASSIF
+ FONDS SOCIAL                                                                           10/15                540.705                   391.676
+                                                                                  6.2   10
+ Fonds de l'association ou de la fondation
+                                                                                        12
+ Plus-values de réévaluation
+
+ Fonds affectés et autres réserves                                                6.2   13                   130.000                     30.000
+
+ Bénéfice (Perte) reporté(e)                                         (+)/(-)            14                   410.705                   361.676
+                                                                                        15
+ Subsides en capital
+
+ PROVISIONS ET IMPÔTS DIFFÉRÉS                                                    6.2   16                    30.000                     30.000
+
+ Provisions pour risques et charges                                                     160/5                 30.000                     30.000
+     Pensions et obligations similaires                                                 160
+
+     Charges fiscales                                                                   161
+
+     Grosses réparations et gros entretien                                              162
+
+     Obligations environnementales                                                      163
+
+     Autres risques et charges                                                          164/5                30.000                    30.000
+
+ Provisions pour subsides et legs à rembourser et pour dons                             167
+ avec droit de reprise
+                                                                                        168
+ Impôts différés
+
+ DETTES                                                                                 17/49                166.988                   180.154
+
+ Dettes à plus d'un an                                                            6.3   17                    32.566                     40.000
+     Dettes financières                                                                 170/4                32.566                    40.000
+       Etablissements de crédit, dettes de location-financement et                      172/3               32.566                    40.000
+       assimilées
+       Autres emprunts                                                                  174/0
+
+     Dettes commerciales                                                                175
+
+     Acomptes sur commandes                                                             176
+
+     Autres dettes                                                                      178/9
+
+ Dettes à un an au plus                                                           6.3   42/48                132.397                   140.154
+     Dettes à plus d'un an échéant dans l'année                                         42                           0                            0
+     Dettes financières                                                                 43
+
+       Etablissements de crédit                                                         430/8
+
+       Autres emprunts                                                                  439
+
+     Dettes commerciales                                                                44                    7.027                      2.017
+       Fournisseurs                                                                     440/4                7.027                     2.017
+       Effets à payer                                                                   441
+
+     Acomptes sur commandes                                                             46
+
+     Dettes fiscales, salariales et sociales                                            45                  125.370                   138.137
+       Impôts                                                                           450/3                   0                             0
+       Rémunérations et charges sociales                                                454/9          125.370                      138.137
+     Autres dettes                                                                      48                                                        0
+
+ Comptes de régularisation                                                              492/3                  2.024
+
+ TOTAL DU PASSIF                                                                        10/49                737.692                   601.830
+
+
+
+
+                                                                                                                                    Page 4 of 26
+N°      0874552394                                                                                                                    A-ASBL 4
+
+
+COMPTE DE RÉSULTATS
+
+                                                                                   Ann.      Codes   Exercice              Exercice précédent
+
+ Produits et charges d'exploitation
+     Marge brute d'exploitation                                          (+)/(-)            9900           1.327.823                  1.158.060
+        Dont: produits d'exploitation non récurrents                                        76A
+
+        Chiffre d'affaires                                                                  70           1.370.353                  1.213.136
+        Cotisations, dons, legs et subsides                                                 73             254.204                    226.232
+        Approvisionnements, marchandises, services et biens divers                          60/61          322.984                    300.985
+     Rémunérations, charges sociales et pensions                         (+)/(-)            62             1.063.400                    972.836
+     Amortissements et réductions de valeur sur frais                                       630                 116.253                  86.347
+     d'établissement, sur immobilisations incorporelles et corporelles
+     Réductions de valeur sur stocks, sur commandes en cours             (+)/(-)            631/4
+     d'exécution et sur créances commerciales: dotations (reprises)
+     Provisions pour risques et charges: dotations (utilisations et      (+)/(-)            635/9
+     reprises)
+     Autres charges d'exploitation                                                          640/8                 3.983                    8.270
+     Charges d'exploitation portées à l'actif au titre de frais de           (-)            649
+     restructuration
+     Charges d'exploitation non récurrentes                                                 66A                   2.673                  18.529
+
+ Bénéfice (Perte) d'exploitation                                         (+)/(-)            9901                141.513                    72.078
+
+ Produits financiers                                                                  6.4   75/76B                10.660                    6.357
+     Produits financiers récurrents                                                         75                   10.660                    6.357
+     Produits financiers non récurrents                                                     76B
+
+ Charges financières                                                                  6.4   65/66B                 3.144                    7.461
+     Charges financières récurrentes                                                        65                    3.144                    5.356
+     Charges financières non récurrentes                                                    66B                                            2.105
+
+ Bénéfice (Perte) de l'exercice avant impôts                             (+)/(-)            9903                149.029                    70.975
+                                                                                            780
+ Prélèvement sur les impôts différés
+                                                                                            680
+ Transfert aux impôts différés
+                                                                         (+)/(-)            67/77
+ Impôts sur le résultat
+
+ Bénéfice (Perte) de l'exercice                                          (+)/(-)            9904                149.029                    70.975
+                                                                                            789
+ Prélèvement sur les réserves immunisées
+                                                                                            689
+ Transfert aux réserves immunisées
+
+ Bénéfice (Perte) de l'exercice à affecter                               (+)/(-)            9905                149.029                    70.975
+
+
+
+
+                                                                                                                                      Page 5 of 26
+N°      0874552394                                                                                                         A-ASBL 5
+
+
+AFFECTATIONS ET PRÉLÈVEMENTS
+
+                                                                                    Codes   Exercice             Exercice précédent
+
+ Bénéfice (Perte) à affecter                                             (+)/(-)   9906                510.705                  70.975
+     Bénéfice (Perte) de l'exercice à affecter                           (+)/(-)   (9905)          149.029                     70.975
+     Bénéfice (Perte) reporté(e) de l'exercice précédent                 (+)/(-)   14P             361.676
+
+ Prélèvement sur les capitaux propres: fonds, fonds affectés et autres             791
+ réserves
+
+ Affectation aux fonds affectés et autres réserves                                 691                 100.000                  10.000
+
+ Bénéfice (Perte) à reporter                                             (+)/(-)   (14)                410.705                 361.676
+
+
+
+
+                                                                                                                            Page 6 of 26
+N°      0874552394                                                                                                     A-ASBL 6.1.2
+
+
+ANNEXE
+
+ETAT DES IMMOBILISATIONS
+
+                                                                                    Codes    Exercice             Exercice précédent
+
+ IMMOBILISATIONS CORPORELLES
+
+ Valeur d'acquisition au terme de l'exercice                                       8199P     XXXXXXXXXX                         881.202
+
+ Mutations de l'exercice
+     Acquisitions, y compris la production immobilisée                             8169                 58.678
+     Cessions et désaffectations                                                   8179                 69.977
+     Transferts d'une rubrique à une autre                               (+)/(-)   8189
+
+ Valeur d'acquisition au terme de l'exercice                                       8199                 869.903
+
+ Plus-values au terme de l'exercice                                                8259P     XXXXXXXXXX
+
+ Mutations de l'exercice
+     Actées                                                                        8219
+
+     Acquises de tiers                                                             8229
+
+     Annulées                                                                      8239
+
+     Transférées d'une rubrique à une autre                              (+)/(-)   8249
+
+                                                                                   8259
+ Plus-values au terme de l'exercice
+ Amortissements et réductions de valeur au terme de l'exercice                     8329P     XXXXXXXXXX                         563.800
+
+ Mutations de l'exercice
+     Actés                                                                         8279             116.253
+     Repris                                                                        8289
+
+     Acquis de tiers                                                               8299
+
+     Annulés à la suite de cessions et désaffectations                             8309                 69.977
+     Transférés d'une rubrique à une autre                               (+)/(-)   8319
+
+ Amortissements et réductions de valeur au terme de l'exercice                     8329                 610.076
+
+ VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE                                     (22/27)              259.827
+
+ DONT
+     Appartenant à l'association ou à la fondation en pleine propriété             8349
+
+
+
+
+                                                                                                                             Page 7 of 26
+N°      0874552394                                                                            A-ASBL 6.1.3
+
+                                                              Codes   Exercice           Exercice précédent
+
+ IMMOBILISATIONS FINANCIÈRES
+
+ Valeur d'acquisition au terme de l'exercice                 8395P    XXXXXXXXXX                          1.584
+
+ Mutations de l'exercice
+     Acquisitions                                            8365                6.800
+     Cessions et retraits                                    8375
+
+     Transferts d'une rubrique à une autre         (+)/(-)   8385
+
+     Autres mutations                              (+)/(-)   8386
+
+ Valeur d'acquisition au terme de l'exercice                 8395                8.384
+
+ Plus-values au terme de l'exercice                          8455P    XXXXXXXXXX
+
+ Mutations de l'exercice
+     Actées                                                  8415
+
+     Acquises de tiers                                       8425
+
+     Annulées                                                8435
+
+     Transférées d'une rubrique à une autre        (+)/(-)   8445
+
+                                                             8455
+ Plus-values au terme de l'exercice
+
+ Réductions de valeur au terme de l'exercice                 8525P    XXXXXXXXXX
+
+ Mutations de l'exercice
+     Actées                                                  8475
+
+     Reprises                                                8485
+
+     Acquises de tiers                                       8495
+
+     Annulées à la suite de cessions et retraits             8505
+
+     Transférées d'une rubrique à une autre        (+)/(-)   8515
+
+                                                             8525
+ Réductions de valeur au terme de l'exercice
+
+ Montants non appelés au terme de l'exercice                 8555P    XXXXXXXXXX
+                                                   (+)/(-)   8545
+ Mutations de l'exercice
+                                                             8555
+ Montants non appelés au terme de l'exercice
+
+ VALEUR COMPTABLE NETTE AU TERME DE L'EXERCICE               (28)                8.384
+
+
+
+
+                                                                                                    Page 8 of 26
+N°      0874552394                                                                                                       A-ASBL 6.3
+
+
+ETAT DES DETTES
+
+                                                                                                              Codes   Exercice
+
+ VENTILATION DES DETTES À L'ORIGINE À PLUS D'UN AN, EN FONCTION DE LEUR DURÉE
+ RÉSIDUELLE
+ Total des dettes à plus d'un an échéant dans l'année                                                        (42)                    0
+
+ Total des dettes ayant plus d'un an mais 5 ans au plus à courir                                             8912                32.566
+                                                                                                             8913
+ Total des dettes ayant plus de 5 ans à courir
+
+ DETTES GARANTIES (COMPRISES DANS LES RUBRIQUES 17 ET 42/48 DU PASSIF)
+ Dettes garanties par les pouvoirs publics belges
+     Dettes financières                                                                                      8921
+
+       Etablissements de crédit, dettes de location-financement et dettes assimilées                         891
+
+       Autres emprunts                                                                                       901
+
+     Dettes commerciales                                                                                     8981
+
+       Fournisseurs                                                                                          8991
+
+       Effets à payer                                                                                        9001
+
+     Acomptes sur commandes                                                                                  9011
+
+     Dettes salariales et sociales                                                                           9021
+
+     Autres dettes                                                                                           9051
+
+                                                                                                             9061
+ Total des dettes garanties par les pouvoirs publics belges
+
+ Dettes garanties par des sûretés réelles constituées ou irrévocablement promises sur les actifs de
+ l'association ou de la fondation
+     Dettes financières                                                                                      8922
+
+       Etablissements de crédit, dettes de location-financement et dettes assimilées                         892
+
+       Autres emprunts                                                                                       902
+
+     Dettes commerciales                                                                                     8982
+
+       Fournisseurs                                                                                          8992
+
+       Effets à payer                                                                                        9002
+
+     Acomptes sur commandes                                                                                  9012
+
+     Dettes fiscales, salariales et sociales                                                                 9022
+
+       Impôts                                                                                                9032
+
+       Rémunérations et charges sociales                                                                     9042
+
+     Autres dettes                                                                                           9052
+
+ Total des dettes garanties par des sûretés réelles constituées ou irrévocablement promises sur les actifs   9062
+ de l'association ou de la fondation
+
+
+
+
+                                                                                                                            Page 9 of 26
+N°      0874552394                                                                                             A-ASBL 6.4
+
+
+RÉSULTATS
+
+                                                                            Codes   Exercice           Exercice précédent
+
+ PERSONNEL
+ Travailleurs pour lesquels l'association ou la fondation a introduit une
+ déclaration DIMONA ou qui sont inscrits au registre général du personnel
+     Effectif moyen du personnel calculé en équivalents temps plein         9087                19,5
+
+ PRODUITS ET CHARGES DE TAILLE OU D'INCIDENCE EXCEPTIONNELLE
+                                                                            76
+ Produits non récurrents
+     Produits d'exploitation non récurrents                                 (76A)
+
+     Produits financiers non récurrents                                     (76B)
+
+ Charges non récurrentes                                                    66                 2.673                  20.634
+     Charges d'exploitation non récurrentes                                 (66A)              2.673                 18.529
+     Charges financières non récurrentes                                    (66B)                                      2.105
+
+ RÉSULTATS FINANCIERS
+                                                                            6502
+ Intérêts portés à l'actif
+
+
+
+
+                                                                                                                Page 10 of 26
+N°        0874552394                                                                                                                                         A-ASBL 6.7
+
+
+BILAN SOCIAL
+
+
+
+
+Numéros des commissions paritaires dont dépend l'association ou la fondation:          329
+
+
+
+
+TRAVAILLEURS POUR LESQUELS L'ASSOCIATION OU LA FONDATION A INTRODUIT UNE DÉCLARATION DIMONA OU QUI SONT
+INSCRITS AU REGISTRE GÉNÉRAL DU PERSONNEL
+
+
+
+
+                                                                                                                      3. Total (T) ou total en    3P. Total (T) ou total en
+                                                              1. Temps plein              2. Temps partiel           équivalents temps plein      équivalents temps plein
+                                                   Codes                                                                       (ETP)                       (ETP)
+Au cours de l'exercice et de                                    (exercice)                   (exercice)
+l'exercice précédent                                                                                                        (exercice)             (exercice précédent)
+Nombre moyen de travailleurs                      100                           18,5                           1,4                         19,5                           0
+Nombre d'heures effectivement prestées            101                         31.685                           336                       32.021                           0
+Frais de personnel                                102                        979.042                       7.377                      986.419                             0
+
+
+
+
+                                                                                                                                                  3. Total en équivalents
+                                                                     Codes             1. Temps plein                 2. Temps partiel
+A la date de clôture de l'exercice                                                                                                                      temps plein
+Nombre de travailleurs                                              105                                   20                                2                          21,3
+
+Par type de contrat de travail
+     Contrat à durée indéterminée                                   110                                   17                                1                          17,8
+     Contrat à durée déterminée                                     111                                   1                                 1                           1,5
+     Contrat pour l'exécution d'un travail nettement défini         112                                   0                                 0                             0
+     Contrat de remplacement                                        113                                   2                                 0                             2
+
+Par sexe et niveau d'études
+     Hommes                                                         120                                   16                                0                           16
+          de niveau primaire                                        1200                                  14                                0                           14
+          de niveau secondaire                                      1201                                  2                                 0                             2
+          de niveau supérieur non universitaire                     1202                                  0                                 0                             0
+          de niveau universitaire                                   1203                                  0                                 0                             0
+     Femmes                                                         121                                   4                                 2                           5,3
+          de niveau primaire                                        1210                                  2                                 1                           2,5
+          de niveau secondaire                                      1211                                  2                                 0                             2
+          de niveau supérieur non universitaire                     1212                                  0                                 0                             0
+          de niveau universitaire                                   1213                                  0                                 0                             0
+
+Par catégorie professionnelle
+     Personnel de direction                                         130                                   0                                 0                             0
+     Employés                                                       134                                   20                                1                          20,8
+     Ouvriers                                                       132                                   0                                 1                           0,5
+     Autres                                                         133
+
+
+
+
+                                                                                                                                                              Page 11 of 26
+N°        0874552394                                                                                                                              A-ASBL 6.7
+
+
+TABLEAU DES MOUVEMENTS DU PERSONNEL AU COURS DE L'EXERCICE
+
+
+
+
+                                                                                                                                        3. Total en équivalents
+                                                                              Codes   1. Temps plein           2. Temps partiel
+ENTRÉES                                                                                                                                       temps plein
+Nombre de travailleurs pour lesquels l'association ou la fondation a
+introduit une déclaration DIMONA ou qui ont été inscrits au registre
+général du personnel au cours de l'exercice                                   205                      6                            1                        6,5
+
+SORTIES
+Nombre de travailleurs dont la date de fin de contrat a été inscrite dans
+une déclaration DIMONA ou au registre général du personnel au cours
+de l'exercice                                                                 305                      3                            1                        3,5
+
+
+
+
+RENSEIGNEMENTS SUR LES FORMATIONS POUR LES TRAVAILLEURS AU COURS DE L'EXERCICE
+
+
+
+
+                                                                                       Codes               Hommes           Codes              Femmes
+
+Initiatives en matière de formation professionnelle continue à caractère
+formel à charge de l'employeur
+     Nombre de travailleurs concernés                                                  5801                            0    5811                              0
+     Nombre d'heures de formation suivies                                              5802                            0    5812                              0
+     Coût net pour l'association ou la fondation                                       5803                            0    5813                              0
+          dont coût brut directement lié aux formations                                58031                           0    58131                             0
+          dont cotisations payées et versements à des fonds collectifs                 58032                           0    58132                             0
+          dont subventions et autres avantages financiers reçus (à déduire)            58033                           0    58133                             0
+
+Initiatives en matière de formation professionnelle continue à caractère
+moins formel ou informel à charge de l'employeur
+     Nombre de travailleurs concernés                                                  5821                            0    5831                              0
+     Nombre d'heures de formation suivies                                              5822                            0    5832                              0
+     Coût net pour l'association ou la fondation                                       5823                            0    5833                              0
+
+Initiatives en matière de formation professionnelle initiale à charge de
+l'employeur
+     Nombre de travailleurs concernés                                                  5841                            0    5851                              0
+     Nombre d'heures de formation suivies                                              5842                          479    5852                              0
+     Coût net pour l'association ou la fondation                                       5843                         5.868   5853                              0
+
+
+
+
+                                                                                                                                                   Page 12 of 26
+N°   0874552394       A-ASBL 6.8
+
+
+RÈGLES D'ÉVALUATION
+
+
+
+
+                      Page 13 of 26
+N°      0874552394                                                                                                                        A-ASBL 6.8
+
+     MODELE REGLES D’EVALUATION ASBL
+     Approuvé par l’AG de l’ASBL DE CONTREPIED du 17 août 2023
+
+
+     REGLES D’EVALUATION
+
+     I POSTE DE L’ACTIF DU BILAN
+
+     1 – FRAIS D’ETABLISSEMENT
+     2 - IMMOBILISATIONS INCORPORELLES
+     3 - IMMOBILISATIONS CORPORELLES
+     A En général
+     B Terrains
+     C Bâtiments
+     D Aménagements des terrains et des bâtiments
+     E Mobilier de bureau
+     F Matériel et mobilier de loisirs et d’animation
+     G Matériel d’imprimerie
+     H Matériel de bureau et entretien
+     I Matériel informatique
+     J Immobilisations détenues en location financement
+     K Autres Immobilisations corporelles
+     L Récapitulatif des pourcentages d’amortissements
+     4 - IMMOBILISATIONS FINANCIERES
+     5 – CREANCES A PLUS D’UN AN
+     6 – STOCKS
+     7 – CREANCES A UN AN AU PLUS
+     8 – PLACEMENTS DE TRESORERIE
+     9 – VALEURS DISPONIBLES
+     10 – COMPTES DE REGULARISATION
+
+     II POSTE DU PASSIF DU BILAN
+
+     1 – FONDS SOCIAL
+     2 – SUBSIDES EN CAPITAL
+     3 – PROVISIONS POUR RISQUES ET CHARGES
+     4 – DETTES A PLUS D’UN AN
+     5 – DETTES A UN AN AU PLUS
+     6 – COMPTES DE REGULARISATION
+
+     III PERTES ET PROFITS
+     1 – COMPTABILISATION DES SUBSIDES
+     2 – REGLES DE COMPTABILISATION DES DEVISES
+
+
+
+
+     PREFACE
+
+     Les règles d’évaluation sont dressées par le Conseil d’administration en application de l’arrêté royal du 19 décembre 2003, relatif à la
+     comptabilité des associations sans but lucratif.
+
+     Les modifications qui s’avéreront nécessaires devront être soumises pour approbation au Conseil d’Administration. De même, il ne pourra être
+     dérogé de manière exceptionnelle qu’après décision expresse du Conseil d’Administration.
+
+     Dans la mesure où le Conseil d’Administration juge que les cas d’évaluation non expressément prévus dans les présentes règles ne représentent pas
+     une importance suffisante pour nécessiter une décision additionnelle ou modificative, ceux-ci seront réglés par des méthodes similaires à celles
+     qui figurent ci-après, sans qu’il en soit fait mention spéciale.
+
+     Les règles restent identiques d'un exercice comptable à l'autre et sont appliquées de façon systématique sauf modification justifiée. Dans ce cas,
+     mention de ces modifications est faite dans les annexes des comptes annuels, qui montrent également les éventuelles conséquences au niveau du
+     compte de résultat ou du bilan. Le Conseil d'Administration aura la faculté de s'écarter des règles d'évaluation reprises dans ce document dans
+     les cas exceptionnels où leur application ne conduirait pas au respect des principes de fidélité, de clarté et de sincérité Mention en sera faite
+     dans les annexes des comptes annuels.
+
+     I POSTES DE L’ACTIF DU BILAN
+
+     1 – FRAIS D’ETABLISSEMENT
+
+     Les frais d’établissement sont amortis en 60 mois.
+
+     2 – IMMOBILISATIONS INCORPORELLES
+
+     Les immobilisations incorporelles (licence, logiciels, etc. …) sont comptabilisées à leur valeur nominale.
+
+     Les amortissements débutent l'année de la prise en compte, et sont calculés par année complète. Les immobilisations incorporelles sont amorties en
+     maximum 36 mois. Dans tous les cas, le Conseil d'Administration procède annuellement à une évaluation individuelle.
+
+     3 – IMMOBILISATIONS CORPORELLES
+
+     A. En général
+
+     Les immobilisations corporelles sont comptabilisées pour leur prix d’acquisition, en incluant les frais accessoires, s’ils sont inclus dans la
+     facture initiale d’acquisition. Les investissements d’un montant unitaire (ou le cas échéant, par lot homogène) de moins de 250 € sont toujours
+     pris en charge l’année de l’acquisition, même s’ils ont un caractère d’actif permanent. Pour certains biens repris ci-après, cette limite de
+     valeur peut être augmentée. L’amortissement est toujours linéaire. La méthode linéaire est appliquée par année complète.
+     Si la durée d’emploi probable de l’investissement est inférieure à la durée d’amortissement prescrit dans la présente, le Conseil d’administration
+     doit, au cas par cas, déterminer un taux d’amortissement supérieur à celui repris dans la présente. En cas de désaffectation ou de revente de
+     l’immobilisé, la valeur nette comptable devra être portée à zéro.
+     Ce taux ne peut en aucun cas être inférieur au taux normalement appliqué pour un investissement neuf du même type.
+     En ce qui concerne les achats de matériel d’occasion, il est requis d’amortir à un taux deux fois plus rapide qu’au taux normalement appliqué pour
+     un investissement neuf du même type.
+
+     B. Terrains
+
+     Les terrains sont repris pour leur valeur d’acquisition, éventuellement réévaluée. La réévaluation ayant fait l’objet d’une écriture comptable sur
+     base d’une expertise, et après approbation du Conseil d’Administration.
+     Sont repris également sur ce compte la valeur du terrain ayant fait l’objet d’une acquisition globale « terrain + bâtiment », la ventilation
+     terrain/bâtiment ayant été évaluée par expertise ou suivant le détail figurant dans l’acte d’acquisition.
+     Les terrains ne font pas l’objet d’amortissement. Les frais accessoires (droits d’enregistrement, etc …) pourront faire l’objet d’une réduction de
+     valeur intégrale dès leur comptabilisation à l’actif du bilan. Ce sera au conseil d’administration de statuer cas par cas.
+
+     C. Constructions
+
+     Les constructions sont reprises pour leur valeur d’acquisition, et font l’objet éventuellement de réévaluation. La réévaluation fera l’objet d’une
+     écriture comptable sur base d’une expertise, et après approbation du Conseil d’Administration.
+     Sur ce compte, sont activés les frais d’acquisition ou de construction des bâtiments (hors terrain), c'est-à-dire les fondations, les
+     installations pour l’électricité, l’eau, le gaz, le chauffage et le sanitaire, les ascenseurs et l’aménagement des alentours.
+     Sont également repris dans les frais, les honoraires des architectes, des ingénieurs, les taxes, les frais administratifs (production des plans,
+     annonces, devis, etc …) et les frais et droits d’enregistrements.
+     L’amortissement s’élève à 3% (33 ans) pour les constructions en dur, et à 6,67% (15 ans) pour des chalets en bois et les constructions en dur
+     destinées aux centres de loisirs.
+     Cependant, les bâtiments qui, lors de l’achat, de par leurs caractéristiques techniques, ou de par leur degré de vétusté, sont prévus pour une
+     période d’emploi probable inférieure à celle correspondant au pourcentage susmentionné, sont amortis selon leur durée d’emploi probable. Dans ce
+     cas, la durée d’emploi probable, inférieure à la durée de 33 ans (ou 15 ans), est décidée et arrêtée par le Conseil d’Administration.
+
+     N.B. : les investissements qui sont subsidiés seront comptabilisés et seront amortis pour leur valeur totale, sans déduction du subside octroyé,
+     le subside faisant l’objet d’un traitement particulier (voir le poste subside en capital).
+
+     D. Aménagements des terrains et des bâtiments
+
+     a) Les travaux importants d’amélioration ou de transformation des bâtiments et des installations et des terrains de centres de loisirs sont
+     activés s’ils entraînent une prolongation de la durée de vie de ces actifs.
+     De même, si ces aménagements apportent une plus value à la valeur intrinsèque des biens, il y a lieu de les porter en investissements et de les
+     amortir comme en C. Les travaux de gros œuvre au taux de 3%, châssis et autres aménagements au taux de 10%.
+
+                                                                                                                                           Page 14 of 26
+N°      0874552394                                                                                                                           A-ASBL 6.8
+
+     S’il s’agit de travaux qui ne modifient pas fondamentalement la structure des bâtiments et des terrains : utilisation de la provision pour grosses
+     réparations et gros entretiens ; voir ci-après, rubrique « Postes du passif du bilan ».
+     Si aucune provision n’a été constituée, les frais de réparations sont comptabilisés directement en dépenses.
+     b) Les aménagements plus légers, d’une valeur d’acquisition de 7.500 euros
+     maximum, (du type réaménagement des espaces intérieurs) sont également activés en dehors de toute provision et sont amortis, au taux de 10% ; ils
+     sont toutefois pris en charge l’année de leur acquisition s’ils ont une valeur inférieure à 1.250€.
+
+     E. Mobilier de bureau
+
+     Ce poste comprend essentiellement le mobilier de bureau (armoires, tables, bureaux, sièges, etc. …). Le mobilier repris dans ce poste est amorti
+     au taux de 33.33%.
+
+     F. Matériel et mobilier de loisirs et d’animation
+
+     Sous ce poste sont repris aussi le mobilier et le matériel d’animation, sujet à usure prématurée.
+     Les petits équipements, ustensiles de cuisine, vaisselle, petits sanitaires, … sont repris en charge lors d’achats considérés comme renouvellement
+     régulier ou dépannage, et ne sont amortis que lorsqu’il s’agit d’achats groupés pour le rééquipement général (périodique) ou pour un premier
+     équipement.
+     Taux d’amortissement pour ce type d’équipement : 33.3% pour le mobilier et les aménagements intérieurs et de loisirs.
+     Le matériel utilisé pour les animations, tels que panneaux d’exposition, matériel d’amplification, matériel d’éclairage mobile, stands, etc. … est
+     également repris dans ce poste. Si ce matériel est à usage unique, il sera pris totalement en charge dans l’année. Tous les biens figurant dans ce
+     poste sont toutefois repris en charge l’année de leur acquisition s’ils ont une valeur inférieure à 250€. Taux d’amortissement pour ce type
+     d’équipement : 33.3%
+     Les investissements qui sont subsidiés seront comptabilisés et seront amortis pour leur valeur totale, sans déduction du subside octroyé, le
+     subside faisant l’objet d’un traitement particulier (voir le poste subside en capital).
+
+
+     G. Matériel de bureau et d’entretien
+
+     Il s’agit du matériel et des machines de bureau, mécaniques ou électriques, des machines d’entretien telles qu’aspirateurs et autres machines
+     d’entretien.
+     Tout ce matériel est amorti à raison de 33.3% l’an.
+
+     H. Matériel et logiciel informatique
+
+     Ce poste comprend le matériel informatique, ordinateurs, imprimantes, écrans, ainsi que le mobilier pour autant qu’il soit spécifique à
+     l’utilisation de ce type de matériel. Il comprend également les logiciels utilisés sur ce matériel.
+     Les taux varient en fonction des différents types de matériel :
+     33.3% pour le matériel informatique de longue durée (type serveur)
+     33.3% pour le matériel micro-informatique (logiciel = INCORPOREL)
+     33.3% pour le matériel « bureautique », dont la durée de vie n’est pas spécifiquement liée au matériel de la micro-informatique
+
+     La définition exacte du matériel et les taux utilisés doivent être repris explicitement et individuellement dans les tableaux d’amortissements.
+
+     I. Immobilisations détenues en location – financement
+
+     Les droits dont dispose l’association en vertu de tels contrats sont comptabilisés à l’actif du bilan pour une valeur qui correspond à la valeur
+     nominale du bien, telle que prévue au contrat (reconstitution à 100%).
+     Au passif est comptabilisé dans la rubrique des dettes à plus d’un an, le montant qui représente la reconstitution du capital de la valeur du
+     bien.
+     Chaque année à la clôture du bilan, la partie du capital qui vient à échéance dans les 12 mois est transférée dans les dettes de plus d’un an
+     échéant dans l’année.
+     Les intérêts sont comptabilisés dans les charges financières à chaque échéance.
+     L’amortissement du bien détenu en leasing se fait conformément aux règles d’évaluation arrêtées par le Conseil d’Administration pour les biens de
+     même nature non acquis en location de financement.
+
+     J. Autres immobilisations corporelles
+
+     Cette rubrique contient entre autres les frais d’aménagement de locaux pris, en location, qui pour les installations sont amorties au taux de 20%
+     et pour l’équipement au taux de 20% ou sur base de la durée du bail restant à courir pour autant que la durée restante soit inférieure à la durée
+     d’amortissement. Ils sont toutefois pris en charge l’année de leur acquisition s’ils ont une valeur inférieure à 250€.
+
+     K. Récapitulatif des pourcentages d’amortissements
+
+     Les amortissements sont pratiqués pour la première fois, durant le mois de la comptabilisation au prorata temporis de l’amortissement annuel.
+
+
+
+     Incorporels et frais d’établissement20%
+     TerrainsNéant
+     Bâtiments en dur3%
+     Bâtiments de loisirs et chalets vacances6,67%
+     Aménagements terrains et bâtiments3 et 10%
+     Mobilier de bureau33.3%
+     Matériel et mobilier de loisirs et d’animation33.3%
+     Matériel d’imprimerie33.3%
+     Matériel de bureau et d’entretien33.3%
+     Matériel informatique : Micro33.3%
+     Gros équipements33.3%
+     Bureautique33.3%
+     Matériel de leasingselon nature
+     Autres immobilisations incorporelles20% ou selon bail
+
+     N.B. : Amortissements exceptionnels ou complémentaires
+     Le Conseil d’Administration doit décider, s’il y a lieu de prévoir une dotation exceptionnelle ou complémentaire pour les immobilisations
+     corporelles ayant subi une perte inopinée de leur valeur économique ou qui sont retirées de l’exploitation.
+
+     4 – IMMOBILISATIONS FINANCIERES
+
+     Les titres à revenu fixes, les placements à long terme, ainsi que les actions et parts sont valorisés à leur prix d’achat, hors frais
+     d’acquisition.
+
+     Les actifs financiers sont comptabilisés à leur valeur nominale. Une réduction de valeur est opérée sur ces actifs lorsque leur valeur de
+     réalisation à la date de clôture de l’exercice est inférieure de manière durable à leur valeur d’acquisition.
+     Les dépôts et cautionnements sont repris à leur valeur nominale.
+     Les immobilisations financières sont transférées à court terme lorsque la date d’échéance devient inférieure ou égale à un an.
+
+     5 – CREANCES A PLUS D’UN AN
+
+     Les créances à plus d’un an sont comptabilisées à leur valeur nominale.
+     Les créances en monnaie étrangère sont valorisées en euros au cours de change à la date de clôture de l’exercice social.
+     Les réductions de valeur sur créances à plus d’un an sont comptabilisées lorsque la valeur de réalisation à la date de clôture de l’exercice est
+     inférieure à la valeur comptable.
+     Les réductions de valeurs qui, à la date du bilan, ne sont plus nécessaires, sont reprises.
+
+     6 – STOCKS
+
+     1° Les stocks sont valorisés au coût réel d’acquisition (coût d’acquisition ou coût de revient), soit le prix d’achat méthode LIFO.
+
+     2° Les réductions de valeurs nécessaires doivent être actées. On applique des réductions de valeur chaque fois qu’il est nécessaire de déclasser
+     des achats qui ne seront plus vendus (brochures ponctuelles, actualité dépassée, …). Ou devenus invendables.
+
+     7 – CREANCES A UN AN AU PLUS
+
+     1° En général : Les créances à un an au plus sont reprises à leur valeur nominale. Les règles d’évaluation sont les mêmes que pour les créances à
+     plus d’un an. Les créances douteuses font l’objet de réduction de valeur en fonction du risque de perte.
+
+     8 – PLACEMENTS DE TRESORERIE
+
+     On y trouve tous les dépôts et placements dont l’échéance est inférieure ou égale à un an.
+     Les règles d’évaluation de placements de trésorerie sont les mêmes que celles des immobilisations financières.
+
+     9 – VALEURS DISPONIBLES
+
+     Les valeurs disponibles sont reprises à leur valeur nominale ; les valeurs en monnaie étrangère sont reprises au cours de change à la date de
+     clôture du bilan.
+
+     10 – COMPTES DE REGULARISATION (Actif)
+
+                                                                                                                                             Page 15 of 26
+N°      0874552394                                                                                                                           A-ASBL 6.8
+
+
+     Les comptes de régularisation comprennent des charges à reporter et les revenus acquis ; ils sont comptabilisés
+     -soit aux montants nominaux du prorata des charges déjà payées ou facturées mais qui affèrent aux exercices suivants
+     -soit au montant nominal du prorata des revenus qui affèrent à l’exercice mais qui ne sont pas encore reçus.
+
+     II POSTES DE PASSIF DU BILAN
+
+     1 – FONDS ASSOCIATIFS
+
+     Fonds Associatifs
+     Le montant des fonds associatifs (terme s'appliquant uniquement aux ASBL) repris dans « Patrimoine de départ » est celui qui existe lors de la
+     constitution de l'ASBL ou au premier jour de l'exercice social durant lequel les dispositions de l'A.R. du 19 décembre 2003 sont d'application
+     pour la première fois.
+     Les autres moyens permanents dont l'ASBL disposera plus tard sont repris dans un autre compte que « Patrimoine de départ » à l'intérieur des fonds
+     associatifs. Ces moyens peuvent être des dons, legs, subsides et ce tant en nature qu'en espèces. Il est nécessaire que le donateur, le légataire
+     ou l'autorité subsidiante exprime effectivement la volonté que les fonds qu'elle donne à l'ASBL soient destinés à la « soutenir durablement » ;
+     une convention est souhaitable.
+     Dons et legs reçus
+     En principe, ni les services prestés bénévolement, ni les biens mis gratuitement à sa disposition ne seront intégrés dans les comptes.
+     Cependant, en ce qui concerne les dons et legs reçus, le CA peut décider d'évaluer à leur valeur de marché (ou, si ceci est impossible, à la
+     valeur d'usage) les dons et legs en nature qu'elle affecte à son activité ainsi que les biens mis gratuitement à sa disposition et dont elle peut
+     faire usage à titre onéreux.
+     Il peut évaluer de cette manière les autres biens qui lui sont donnés ou légués ainsi que les services prestés bénévolement à son profit et
+     susceptibles d'être réalisés, à leur valeur probable de réalisation au moment de l'inventaire ou à leur valeur de réalisation si celle-ci
+     intervient avant l'inventaire.
+     Si le CA décide d'utiliser cette faculté, il en est fait mention dans l’annexe des comptes annuels.
+     Fonds affectés
+     Les fonds affectés sont constitués, dans les ASBL, du résultat positif de l'exercice que l'entité réalise et auquel elle souhaite donner une
+     affectation spécifique afin de couvrir des risques ou projets de manière générale. Les affectations et prélèvements s'opèrent à l'initiative du
+     Conseil d'Administration mais, c'est l'AG qui doit approuver ces affectations et prélèvements »
+
+
+     PLUS VALUE DE REEVALUATION : voir l’analyse des comptes d’immobilisations à ce propos.
+
+     2 – SUBSIDES EN CAPITAL
+
+     Les subsides d’investissements obtenus sont comptabilisés à leur valeur nominale.
+
+     Par ailleurs, ils sont transférés en subsides consommés, comme produits au compte de résultats, chaque année, au même rythme que celui pratiqué
+     pour l’amortissement des investissements correspondants.
+
+     3 – PROVISIONS POUR RISQUE ET CHARGES
+
+     A la clôture de chaque exercice, le Conseil d’Administration, statuant avec prudence, sincérité et bonne foi, examine, de manière individualisée,
+     les provisions à constituer.
+
+     Ces provisions peuvent concerner notamment :
+     -Les grosses réparations et gros entretiens : il s’agit de réparations importantes et non périodiques aux toitures, murs extérieurs, châssis,
+     chauffage, etc. … Ces charges doivent être prélevées de la PROVISION POUR GROS ENTRETIENS ET REPARATIONS dont le montant de la dotation annuelle
+     doit être approuvé chaque année par le Conseil d’Administration.
+     -
+
+     Cette dotation doit d’ailleurs émerger du budget prévu pour les investissements.
+
+     -Les litiges
+     -Des risques identifiés et précis
+
+     Une provision peut également être constituée pour prendre en compte le risque de rejets de dépenses par les pouvoirs subsidiant. La règle retenue
+     prévoit deux types possibles de provisions :
+     soit une provision pour risque déterminé sur une subvention déterminée, dans ce cas le montant de la provision est égal au risque ;
+     soit une provision pour risque de rejets, dans ce cas le montant de la provision peut être de 0 à 3 % maximum du montant global des subventions de
+     l'année (hors aide à l'emploi).
+
+     Une provision doit être extournée lorsque le risque est éteint en tenant compte des règles propres à chaque pouvoir subsidiant.
+
+     Les provisions font l’objet de reprises dans la mesure où elles excèdent, en fin d’exercice, une appréciation actuelle des risques et charges, en
+     considération des quelles elles ont été constituées.
+
+
+     4 – DETTES A PLUS D’UN AN
+     Les emprunts et les dettes sont comptabilisés à leur valeur nominale.
+
+     5 – DETTES A UN AN AU PLUS
+     Ces dettes sont comptabilisées à leur valeur nominale.
+
+     Les provisions sociales liées à l’exercice sont constituées chaque année, indépendamment du résultat. Elles sont dotées mensuellement par 12ième
+     forfaitaire, et sont ajustées au moins une fois par an à la clôture du bilan. La provision concerne les pécules de vacances simples et doubles et
+     est calculée sur base des rémunérations brutes de l’exercice, conformément aux obligations légales en la matière.
+
+     Pour les travailleurs pour lesquels les pécules de vacances sont couverts par des subsides versés l'année suivante, il y aura lieu de
+     comptabiliser en plus de la provision reprise ci-dessus, un produit à recevoir équivalent à la provision actée en utilisant en débit, un compte
+     491 et en crédit, un compte 748 et ce, à condition que, au moment où le CA arrête les comptes de l'année N-1 :
+     le subside à recevoir pour l'année N soit certain
+     le subside de l'exercice en cours n'intègre pas dans l'allocation mensuelle un montant destiné à couvrir les pécules de vacances à liquider
+     l'année suivante. Dans ce cas, la règle ne peut s'appliquer à la partie de la provision pécule de vacances couverte par ce subside.
+     La formule à utiliser pour ce calcul est la suivante :
+     Provision N × ((coût net N)/ (coût total N))
+     Le montant obtenu fera l'objet de l'écriture à comptabiliser en débit du compte 491 par le crédit du compte 748.
+     Ces provisions seront extournées au cours de l'année suivante au moment du paiement du pécule de vacances »
+
+
+     6 – COMPTES DE REGULARISATION (Passif)
+
+     Les comptes de régularisation comprennent les charges à imputer et les produits à reporter ; ils sont comptabilisés :
+     -soit au montant nominal du prorata des charges qui affèrent à l’exercice mais dont les pièces comptables ne sont pas encore reçues ;
+     -soit aux montants nominaux du prorata des produits déjà facturés ou encaissés, mais qui concernant l’exercice suivant.
+     -Les subsides non dépensés (voir III – 1 comptabilisation des subsides)
+
+
+
+
+     III COMPTES DE RESULTAT (CHARGES ET PRODUITS)
+
+     1 – COMPTABILISATION DES SUBSIDES
+
+     Pour le subside de fonctionnement, on retiendra comme produit de l’année d’exploitation, le montant donné par le pouvoir subsidiant pour l’année
+     budgétaire.
+
+     2 – REGLES DE COMPTABILISATION DES DEVISES
+
+     Les achats en devises sont valorisés en euros sur base du cours du jour de la comptabilisation. Les frais sont comptabilisés en frais bancaires.
+
+
+     Pour approbation
+
+     Neybergh Pascale
+
+     Présidente
+
+
+
+
+                                                                                                                                             Page 16 of 26
+N°   0874552394                                                        A-ASBL 7
+
+
+                     AUTRES DOCUMENTS À DÉPOSER EN VERTU DU CODE DES
+                               SOCIÉTÉS ET DES ASSOCIATIONS
+
+
+
+RAPPORT DE GESTION
+
+
+
+
+                                                                       Page 17 of 26
+                      RAPPORT DE GESTION SUR LES OPÉRATIONS DE
+                            L’EXERCICE CLOS LE 31/12/2025
+
+
+Madame Pascale Neybergh, Présidente du Conseil d’Administration de l’ASBL CONTREPIED, aux fins de l’approbation
+des comptes de l’exercice clos le 31/12/2025, établi le présent rapport de gestion sur les opérations de l’exercice
+écoulé.
+
+Les comptes annuels qui vous sont présentés ont été établis conformément aux dispositions légales et statutaires.
+
+
+ACTIVITÉ DE LA SOCIÉTÉ
+
+L’ASBL clôture son exercice social de l’année par un bénéfice de 149.029,14 €.
+
+L’association a une activité continue de production de biens et services. Elle assure des services de transport et
+d’accompagnement de personnes à mobilité réduite, de personnes âgées ou qui éprouvent le besoin. Elle assure des
+soutiens administratifs. Elle mène des activités de rénovation de bâtiment. Elle assure des services d’aide-
+ménagère. Elle assure des formations. Elle assure des services de conseils et d’orientations personnelles et, ou,
+diététiques. Elle mène des études. Elle mène ou soutient des actions, internes ou externes, visant à favoriser le
+développement durable, le recyclage, la réduction des déchets et des émissions de polluants. Elle assure tous autres
+services et activités qu’elle juge opportuns auprès de ses bénéficiaires ainsi qu’auprès de personnes morales ou
+d’autres associations dont les objectifs seraient en tout ou en partie communs aux siens.
+Elle peut employer du personnel, exercer les activités commerciales de son choix et récolter des fonds par les
+moyens jugés opportuns, pour autant que la destination des fonds récoltés serve à la poursuite de ses buts sociaux.
+
+L’objet social de l’ASBL a été adapté selon l’acte déposé au greffe du Tribunal de Commerce de Bruxelles déposé le
+18 juillet 2019 et publié le 29 juillet de la même année
+
+MODIFICATION
+
+Aucune.
+
+ÉVÉNEMENTS IMPORTANTS SURVENUS DEPUIS LA CLOTURE DE L’EXERCICE
+
+Depuis la clôture de l’exercice 2024, aucun changement majeur n’a été apporté.
+
+
+COMPTES ANNUELS ET AFFECTATION DU RÉSULTAT
+
+Les comptes annuels de l’exercice clos le 31/12/2025 sont repris ci-dessous :
+
+BILAN
+
+
+     À l’actif :
+Les actifs immobilisés (immobilisations corporelles et incorporelles représentent un montant de 268.211.13€.
+
+    •     Les immobilisations corporelles représentent un montant de 259.826,83€ dont :
+
+          - Matériel informatique 34.260,47€ moins amortissements fin 2025 : 31.251,24€
+          - Véhicule utilitaire 691.720,78€ moins amortissements fin 2025 : 495.742,80€
+          - Autres véhicules : 142.248,73€ moins amortissements fin 2025 : 82.524,44€
+          - Machines et outillages 1.673,00€ moins amortissements fin 2025 : 557,67€
+
+          Remarque : Investissements 2025 : 58.677,83€ dont :
+          - Matériel informatique : 3.415,83€
+          - Véhicule utilitaire : 50.490,00€
+          - Autres véhicules : 3.099,00€
+          - Machines et outillage : 1.673,00€
+
+
+
+
+                                                                                                               Page 18 of 26
+    •   Les immobilisations financières représentent un montant de 8.384,30€ dont :
+
+        Cautions versées en numéraire : 8.384,30€ dont :
+        - caution Sprinter 316 Tourer : 6.800,00€
+        - autres cautions : 1.104,30€
+        - badges parking: 280,00€
+
+        Remarque : le compte devra faire l’objet d’une régularisation en 2026 concernant l’historique ouvert.
+
+
+Les Actifs circulants (créances à un an au plus, valeurs disponibles, comptes de régularisation) : 469.481,34€ dont :
+
+    •   Les créances à plus un an au plus : 14.780,00€ dont :
+
+        - prêt au personnel : 14.780,00€ dont :
+          - prêt Margaryan : 8.000,00€
+          - prêt Asdik : 6.780€
+
+    •   Les créances à un an au plus : 106.810,90€ dont :
+
+        - créances commerciales : 106.801,22€ dont :
+           - clients : 87.201,22€
+           - acomptes versés : 19.600,00€
+
+        - autres créances : 9,68€ dont :
+          - compte courant TVA : 9,68€
+
+    •   Les valeurs disponibles (caisses-banques) représentent un montant de 347.890,44€ dont :
+
+        - Belfius Compte courant : 14.142,90€
+        - Belfius Compte épargne : 83.738,63€
+        - Fintro Compte courant : 18.096,41€
+        - Fintro Compte épargne : 220.765,08€
+        - Caisse Espèce : 1.147,42€
+        - Virements internes : 10.000,00€ : Remarque : transfert vers compte épargne. Régularisation en 2026.
+
+
+
+
+     Au passif :
+Les capitaux propres s’élèvent à 540.704,95€ dont :
+
+    •   Fonds affectés et autres réserves : 130.000,00€ dont :
+
+        - Fonds affectés pour investissements : 20.000,00€
+        - Fonds affectés pour passif social : 110.000,00€
+
+    •   Bénéfice reporté : 410.704,95€ dont :
+
+        Bénéfice reporté 2024 : 361.675,81€
+        Bénéfice de l’exercice 2025 : 49.014,29€
+        (après affectation de 100.000€ à la réserve
+        pour passif social)
+
+Les dettes s’élèvent à 166.987,52€ dont :
+
+    •   Dettes à plus d’un an : 32.566,01€ dont :
+
+        - Etablissement de crédit : 32.566,01€ dont :
+           - 173270 Mercedes GLC – 93 : 40.000€
+          - remboursement 2025 : -7.433,99€
+
+
+
+                                                                                                                  Page 19 of 26
+    •   Dettes à un an au plus : 132.397,35€ dont :
+
+         - dettes commerciales : 7.027,44€ (fournisseurs)
+
+
+        - dettes fiscales, sociales et salariales : 125.369,91€ dont
+          - provision pour pécule de vacances : 125.369,91€
+
+    •   Comptes de régularisation : 2.024,16€ dont :
+
+         - remboursement à Contrepied non affecté : 2.024,16€
+
+
+Compte tenu de celui-ci, le bénéfice est reporté et affecte le bénéfice reporté des années précédentes pour un
+bénéfice reporté fin 2025 de 410.704,95€.
+
+
+Fait à Wolluwe-Saint-Pierre                                            Pascale Neybergh
+Le                                                                     Présidente
+
+
+
+
+                                                                                                                 Page 20 of 26
+COMPTE DE RESULTATS
+Le résultat d’exploitation de l’exercice s’élève à +141.513,21€ et le bénéfice de l’exercice est de 149.029,14€
+
+     DEPENSES
+
+Frais de fonctionnement : total de la charge 322.984,39€ soit 21,35% de la charge totale 1.512.437,97€
+
+            FRAIS DE FONCTIONNEMENT                          2025               2024               DIFFERENCE
+             600000 ACHATS DE MATIERES PREMIERES                   0.00 €              -35.00 €       35.00 €
+                   604000 Achat de marchandises                   99.93 €            718.51 €        -618.58 €
+               610010 Charges Locatives Bureaux              13,971.07 €         13,671.80 €         299.27 €
+           610015 Charges et provisions bureau Palio          2,033.26 €           2,594.26 €        -561.00 €
+          610020 Charges locatives garages et parking         5,028.00 €           5,028.00 €          0.00 €
+                   610100 Entretien des locaux                  367.32 €           5,873.67 €       -5,506.35 €
+                    610110 Eau-Gaz-Electricité                  918.90 €             636.79 €        282.11 €
+              610130 Petit matériel et petit outillage        4,262.10 €           4,081.11 €        180.99 €
+          610140 Aménagement des espaces de travail           1,311.09 €           3,562.67 €       -2,251.58 €
+          610210 Entretiens et réparations véhicules ut.     23,545.81 €         25,459.41 €        -1,913.60 €
+                610215 Pneus véhicules utilitaires            9,905.60 €           8,772.79 €      1,132.81 €
+         610220 Contrôle technique véhicules utilitaires      2,962.90 €           3,570.90 €        -608.00 €
+            610225 Petit matériel véhicules utilitaires      10,676.38 €         16,709.12 €        -6,032.74 €
+              610230 Adaptation véhicules utilitaires              0.00 €          1,570.79 €       -1,570.79 €
+                     610231 Equipement VSL                    5,381.56 €           1,837.51 €      3,544.05 €
+              610235 Carburant véhicules utilitaires         74,961.92 €         71,661.65 €       3,300.27 €
+             610240 Assurances véhicules utilitaires         47,975.64 €         37,618.44 €       10,357.20 €
+           610245 Parkings, péages et frais de voyage             79.88 €               17.82 €       62.06 €
+                  610250 Lettrages publicitaires              1,688.56 €           2,563.51 €        -874.95 €
+                610260 GPS - Matériel de traçage              1,954.25 €           4,969.17 €       -3,014.92 €
+                   610300 Vêtements de travail                1,296.69 €             798.03 €        498.66 €
+                 611010 Télécom. GSM + Internet              11,542.02 €           9,386.44 €      2,155.58 €
+                      611020 GSM Matériel                     1,555.41 €           4,313.36 €       -2,757.95 €
+                      611050 Frais postaux                        26.07 €               28.95 €        -2.88 €
+                  612000 Fournitures de bureau                4,454.24 €           3,450.07 €      1,004.17 €
+                  612100 Logiciels informatiques             19,434.91 €         18,187.99 €       1,246.92 €
+         612110 Internet-Hébergement-nom de domaine           1,102.92 €             714.53 €        388.39 €
+                612115 Maintenance informatique                    0.00 €            121.00 €        -121.00 €
+                612120 Petit matériel informatique            1,657.44 €           2,086.79 €        -429.35 €
+         612150 Déplacements courts éco-responsables            440.45 €                 0.00 €      440.45 €
+                 612200 Boissons et convivialités             1,521.83 €           2,224.80 €        -702.97 €
+               612300 Frais de restaurant Belgique            1,079.50 €             609.30 €        470.20 €
+             612400 Frais médicaux (Testing Covid...)         1,814.50 €                 0.00 €     1,814.50 €
+                 613010 Honoraires comptabilité               2,510.75 €           3,536.25 €       -1,025.50 €
+              613015 Honoraires Secrétariat Social            9,919.49 €         11,366.54 €        -1,447.05 €
+            613020 Honoraires avocats et procédures             306.17 €             897.41 €        -591.24 €
+             613100 Frais de gestion Chèques Repas            1,072.41 €             928.81 €        143.60 €
+                    613200 Frais de formation                 5,357.30 €           9,444.30 €       -4,087.00 €
+                613300 Assurances autres risques             32,981.84 €           3,095.37 €      29,886.47 €
+                     614000 Frais de publicité                1,381.70 €             249.37 €      1,132.33 €
+                   614200 Publications légales                  214.10 €             289.20 €         -75.10 €
+                 617010 Défraiement volontariat              16,190.48 €         18,374.00 €        -2,183.52 €
+                                                             Grd Ttl           Grd Ttl                 Grd Ttl
+                                                           322,984.39 €        300,985.43 €              21,998.96 €
+
+
+
+
+                                                                                                                  Page 21 of 26
+Charges financières : total de la charge 3.143,72€ soit 0.21% de la charge totale de 1.512.437,97€ :
+
+
+
+
+Autres charges d’exploitation : total de la charge 6.656,62€ soit 0.44% de la charge totale de 1.512.437,97€
+
+        - Taxe de circulation et de mise en circulation : 3.983,42€
+        - Amendes et pénalités : 2.673,20€
+
+         CHARGES EXCEPTIONNELLES ET TAXES                        2025               2024                 DIFFERENCE
+            640010 Taxe de circul. et mise en circulation         3,983.42 €            7,834.86 €        -3,851.44 €
+                    640130 Taxes diverses                              0.00 €             434.97 €         -434.97 €
+              664000 Autres charges exceptionnelles                    0.00 €         16,628.46 €        -16,628.46 €
+                666000 Amendes - Contraventions                   2,673.20 €            1,900.32 €          772.88 €
+                                                                 Grd Ttl            Grd Ttl                  Grd Ttl
+                                                                 6,656.62 €          26,798.61 €              -20,141.99 €
+
+
+
+
+Amortissement : total de la charge 116.252,83€ soit 7.69% de la charge totale de 1.512.437,97€
+
+
+                   AMORTISSEMENTS                                2025                2024                 DIFFERENCE
+             630019 Amortissement Machines et Outillage             557.67 €                 0.00 €          557.67 €
+               630200 Amortissement Matériel Roulant             93,265.98 €           62,536.38 €        30,729.60 €
+               630210 Amortissement Autres Véhicules             16,725.82 €           23,500.16 €         -6,774.34 €
+             630230 Amortissement Matériel Informatique           5,703.36 €               310.30 €        5,393.06 €
+                                                                 Grd Ttl             Grd Ttl                  Grd Ttl
+                                                               116,252.83 €           86,346.84 €              29,905.99 €
+
+
+
+
+                                                                                                               Page 22 of 26
+Rémunération : total de la charge 1.063.400,41€ soit 70.34% de la charge totale de 1.512.437,97€
+
+
+                      REMUNERATIONS                                     2025                 2024               DIFFERENCE
+                     620200 Rémunération employés                     713,392.35 €            632,493.54 €     80,898.81 €
+                       620210 Divers brut employé                             0.00 €             4,389.24 €     -4,389.24 €
+                        620220 Divers imposable                          3,795.12 €              5,350.43 €     -1,555.31 €
+              620266 Mise à disposition véh. de société empl.            7,840.89 €              4,882.25 €     2,958.64 €
+               620271 Indemn. de dépl. Employés non soumis               6,886.52 €              5,812.97 €     1,073.55 €
+                 620272 Indem. de dépl. Employés soumis                      26.19 €                65.80 €       -39.61 €
+                   620291 Pécule de vacance employés                    50,625.76 €             47,425.74 €     3,200.02 €
+                620292 Pécule de vac. ant.(année en cours)               3,000.01 €              3,952.63 €      -952.62 €
+                        620293 Pécule de Sortie                            870.88 €                  0.00 €       870.88 €
+                   620300 Rémunération brutte ouvrier                    5,052.09 €              7,470.48 €     -2,418.39 €
+                    620392 Pécule de vacance ouvrier                       857.44 €              1,181.06 €      -323.62 €
+                      620400 Rémunération Art 60                        31,499.06 €             22,816.32 €     8,682.74 €
+                 620500 Cote part patronn. Chèques repas                20,955.88 €             19,728.38 €     1,227.50 €
+                  621000 Cotisations ONSS patronnales                 252,854.49 €            227,192.32 €     25,662.17 €
+                        621010 Réduction ONSS                          -58,443.52 €            -41,407.61 €    -17,035.91 €
+                       623010 Médecine du travail                        3,350.82 €              4,245.42 €      -894.60 €
+                623050 Cotisation patronnale chèque repas                     0.00 €               156.51 €      -156.51 €
+                          623060 Eco chèques                             5,500.00 €              4,500.00 €     1,000.00 €
+                623070 Tickets Compliments/Consomations                  1,720.00 €              1,400.00 €       320.00 €
+              623150 Reprise de provisiion pécule de vacance                  0.00 €           -90,572.88 €    90,572.88 €
+                 623160 Provision pour pécule de vacance                      0.00 €          111,753.48 €    -111,753.48 €
+             625000 DOTATION PROVISION PECULE DE VACANCE              125,369.91 €                   0.00 €   125,369.91 €
+            625010 REPRISE DE PROVISION PECULE DE VACANCE            -111,753.48 €                   0.00 €   -111,753.48 €
+                                                                        Grd Ttl             Grd Ttl                 Grd Ttl
+                                                                  1,063,400.41 €            972,836.08 €             90,564.33 €
+
+
+
+
+     RECETTES
+
+Chiffre d’affaires et autres revenus : 1.661.467,88€
+
+
+                       VENTES                                  2025                       2024                DIFFERENCE
+                    700000 Ventes facturées                   835,778.86 €                 755,625.04 €        80,153.82 €
+                  700010 Ventes Titres Services               531,662.28 €                 427,729.00 €       103,933.28 €
+                   700020 Ventes assujetties                      912.00 €                   5,282.13 €        -4,370.13 €
+                     700500 Vente Véhicule                      2,000.00 €                  24,500.00 €       -22,500.00 €
+                                                               Grd Ttl                   Grd Ttl                  Grd Ttl
+                                                           1,370,353.14 €              1,213,136.17 €             157,216.97 €
+
+
+
+          SUBSIDES ET AUTRES AVANTAGES                            2025                    2024                DIFFERENCE
+                    736100 Subsides ESD                          127,281.33 €              101,816.65 €       25,464.68 €
+              736200 Avantages ECOSOC - ACTIVA                    74,705.64 €               71,676.22 €        3,029.42 €
+                   736300 Avantages ACS                           49,384.90 €               50,674.71 €        -1,289.81 €
+                   736500 Subsides divers                          2,832.37 €                2,064.00 €          768.37 €
+                                                                  Grd Ttl                Grd Ttl                  Grd Ttl
+                                                                254,204.24 €             226,231.58 €              27,972.66 €
+
+
+
+
+                                                                                                                   Page 23 of 26
+ AUTRES PRODUITS D'EXPLOITATION           2025           2024             DIFFERENCE
+743000 PRODUITS D'EXPLOITATION DIVERS        610.32 €            0.00 €     610.32 €
+  743010 Remboursements Assurances         3,547.64 €        1,649.70 €    1,897.94 €
+    743020 Remboursements divers          12,304.40 €      11,393.08 €      911.32 €
+      743030 Récupération PRP              1,946.83 €        1,752.60 €     194.23 €
+   743040 Réc. Avantage toute nature       7,840.89 €        4,882.25 €    2,958.64 €
+                                          Grd Ttl        Grd Ttl             Grd Ttl
+                                         26,250.08 €      19,677.63 €           6,572.45 €
+
+
+
+       PRODUITS FINANCIERS                2025           2024             DIFFERENCE
+750000 PRODUITS DES IMMO FINANCIERES         392.88 €        1,132.77 €      -739.89 €
+   754000 Différence de change Euro             0.51 €           1.57 €        -1.06 €
+     754100 Différence de paiement             61.49 €           5.99 €       55.50 €
+754110 Encaissements non remboursables     7,670.32 €        1,647.29 €     6,023.03 €
+    754120 Produits financiers divers      1,981.48 €          767.38 €    1,214.10 €
+    756000 Intérêts de retard clients        552.97 €        2,577.20 €    -2,024.23 €
+     757000 ESCOMPTES OBTENUS                   0.00 €         224.60 €      -224.60 €
+                                          Grd Ttl        Grd Ttl               Grd Ttl
+                                         10,659.65 €       6,356.80 €              4,302.85 €
+
+
+
+
+                                                                                        Page 24 of 26
+TABLEAU D’AMORTISSEMENTS 2025
+ContrePied asbl
+    Tableau d'amortissement 2025
+
+                                                  Valeur          Année                  Amort.                   Amort.                  Valeur
+  Libellés                                      acquisition     acquisition   Taux     antérieurs               de l'année              résiduelle         Sor
+                                                                                                       Texte VERT = traité pour 2025
+  Matériel informatique
+REPORT PRE 2014                                    1,809.00 €                             2,792.89 €                           0.00 €             0.00 €
+PC Lenovo 2014                                     1,119.00 €          2014     33%       1,119.00 €                           0.00 €             0.00 €
+Apple - iPadPro 2016-1                             1,048.02 €          2016     33%       1,048.02 €                           0.00 €             0.00 €
+Apple - iPadPro 2016-2                             1,129.00 €          2016     33%       1,048.02 €                           0.00 €             0.00 €
+Apple - iMac 27" 2018                              2,041.50 €          2018     33%       2,041.50 €                           0.00 €             0.00 €
+PC Lenovo 2018                                     1,129.91 €          2018     33%       1,129.91 €                           0.00 €             0.00 €
+Apple - iMac 21,5" 2019                            2,053.00 €          2019     33%       2,053.00 €                           0.00 €             0.00 €
+  Apple - MacBookPro 16" 2021                      2,699.00 €          2021     33%       2,699.00 €                           0.00 €             0.00 €
+  Apple - MacMini 2022                             1,373.99 €          2022     33%       1,373.99 €                           0.00 €             0.00 €
+  Apple - MacMini 2022                             1,373.99 €          2022     33%       1,373.99 €                           0.00 €             0.00 €
+  Apple - MacMini 2022                             1,373.99 €          2022     33%       1,373.99 €                           0.00 €             0.00 €
+  Apple - MacBookPro 13" 2023                      1,999.16 €          2023     33%       1,332.77 €                         666.39 €             0.00 €
+  PC Windows portable 17"                          1,660.33 €          2023     33%       1,106.89 €                         553.44 €             0.00 €
+  Apple - iMac 24,5" 2023 1                        2,564.99 €          2023     33%       1,709.99 €                         855.00 €             0.00 €
+  Apple - iMac 24,5" 2023 2                        2,565.00 €          2023     33%       1,710.00 €                         855.00 €             0.00 €
+  Apple - iMac 24,5" 2024 2                        2,795.00 €          2024     33%         931.67 €                         931.67 €           931.66 €
+  Apple - MacBookPro 14" 2023                      2,109.76 €          2024     33%         703.25 €                         703.25 €           703.26 €
+  Apple - MacBookPro 16" 2025                      3,415.83 €          2025     33%           0.00 €                       1,138.61 €         2,277.22 €
+               Mat. Informatique - Total :        34,260.47 €                            25,547.88 €                       5,703.36 €         3,912.14 €
+
+  Machines et outils
+Lave-linge Miele VVVVR860VVPS                    1,673.00 €            2025     33%         0.00 €                         557.67 €         1,115.33 €
+                Machines et outils - Total :     1,673.00 €                                 0.00 €                         557.67 €         1,115.33 €
+
+  Matériel roulant : camionnettes & voitures utilitaires
+REPORT PRE 2014                                 20,765.11 €                              22,965.10 €                                              0.00 €
+  VW Crafter 3 - 1GIR427                        41,677.25 €            2014     20%      41,677.25 €                           0.00 €             0.00 €
+  Adaptations Fiat Doblo 3                        4,249.00 €           2015     20%       4,249.00 €                           0.00 €             0.00 €
+  VW Caddy 1 - 1NJR620                          12,500.00 €            2016     20%      12,500.00 €                           0.00 €             0.00 €
+  VW Crafter 4 - 1NRB989                        42,728.25 €            2016     20%      42,728.25 €                           0.00 €             0.00 €
+  VW Crafter 5 - 1NRC013                        39,063.25 €            2016     20%      39,063.25 €                           0.00 €             0.00 €
+  VW Caddy 2 - 1RGG132                          10,250.00 €            2016     20%      10,250.00 €                           0.00 €             0.00 €
+  VW Crafter 6 - 1TRL902                        46,658.00 €            2018     20%      46,658.00 €                           0.00 €             0.00 €
+  Renault Trafic occasion - 1WXP394               7,500.00 €           2019     20%       7,500.00 €                           0.00 €             0.00 €
+  VW Caddy occasion - 2ACC553                   14,000.00 €            2021     20%      11,200.00 €                       2,800.00 €             0.00 €
+  VW Transporter occasion - 2AHP628             14,500.00 €            2021     20%      11,600.00 €                       2,900.00 €             0.00 €
+  Mercedes Sprinter 4 occasion - 2ANF727        38,000.00 €            2021     20%      30,400.00 €                       7,600.00 €             0.00 €
+  Mercedes Sprinter 5 occasion - 2DDQ421        47,500.00 €            2022     20%      28,500.00 €                       9,500.00 €         9,500.00 €
+  VW Caddy 3 - 2CUV267                          11,750.00 €            2022     20%       7,050.00 €                       2,350.00 €         2,350.00 €
+  Ford Transit 2 occasion - 2DWD145             24,789.92 €            2023     20%       9,915.96 €                       4,957.98 €         9,915.97 €
+  Mercedes Sprinter 6 occasion - 2EEV444        36,300.00 €            2023     20%      14,520.00 €                       7,260.00 €        14,520.00 €
+  Mercedes Citan 1 occasion - 2EDS965           13,500.00 €            2023     20%       5,400.00 €                       2,700.00 €         5,400.00 €
+  VW Caddy 5 occasion - 2ELH934                 30,000.00 €            2023     20%      12,000.00 €                       6,000.00 €        12,000.00 €
+  Mercedes Sprinter 7 occasion - 1THD711        36,000.00 €            2023     20%      14,400.00 €                       7,200.00 €        14,400.00 €
+  Peugeot Partner occasion - 2EXE564            16,000.00 €            2024     20%       3,200.00 €                       3,200.00 €         9,600.00 €
+  Mercedes Sprinter 8 occasion - 2GDS331        36,000.00 €            2024     20%       7,200.00 €                       7,200.00 €        21,600.00 €
+  Citroën Berlingo - 2FQA484                    14,000.00 €            2024     20%       2,800.00 €                       2,800.00 €         8,400.00 €
+  Mercedes Sprinter 9 occasion - 2GBX012        38,000.00 €            2024     20%       7,600.00 €                       7,600.00 €        22,800.00 €
+  VW Caddy 6 occasion - 2GCW177                 32,500.00 €            2024     20%       6,500.00 €                       6,500.00 €        19,500.00 €
+  Renault Kangoo occasion - 2GFD521             13,000.00 €            2024     20%       2,600.00 €                       2,600.00 €         7,800.00 €
+  Mercedes Sprinter 10 occasion - 2HUT686       36,990.00 €            2025     20%           0.00 €                       7,398.00 €        29,592.00 €
+  VW Caddy 7 occasion - 2GVQ683                 13,500.00 €            2025     20%           0.00 €                       2,700.00 €        10,800.00 €
+
+                     Mat. Roulant - Total :    691,720.78 €                           402,476.81 €                      93,265.98 €       198,177.97 €
+
+  Matériel roulant : Autres véhicules                                                                   Texte VERT = traité pour 2025
+REPORT PRE 2014                                   -5,300.00 €                            -8,041.53 €                                          2,741.53 €
+  Vélo                                           1,899.00 €            2021   33%       1,899.00 €                           0.00 €             0.00 €
+  Caravane occasion (utilisée comme bureau)     19,750.00 €            2021   33%      19,750.00 €                           0.00 €             0.00 €
+  VW Tiguan -Auto Center Mechelen               38,984.98 €            2021   33%      31,188.00 €                           0.00 €             0.00 €
+  Peugeot 308 occasion - LNL843                  5,300.00 €            2019   20%       5,300.00 €                           0.00 €             0.00 €
+  VW Caddy - 2GLC272                            17,097.00 €            2024   20%       3,419.40 €                       3,419.40 €        10,258.20 €
+  Mercedes GLC - 2GFP646                        61,418.75 €            2024   20%      12,283.75 €                      12,283.75 €        36,851.25 €
+  Vélo électrique BOSCH                          3,099.00 €            2025   33%           0.00 €                       1,022.67 €         2,076.33 €
+
+
+               Autres véhicules - Total :      142,248.73 €                            65,798.62 €                      16,725.82 €        51,927.31 €
+
+
+                            Total général :    869,902.98 €                           493,823.32 €                    116,252.83 €        255,132.76 €
+
+
+
+
+                                                                                                                                                     Page 25 of 26
+Page 26 of 26
+

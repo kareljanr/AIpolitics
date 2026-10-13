@@ -37700,3 +37700,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@porteverte.be — general mailbox verified on the official site https://www.porteverte-snijboontje.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_la_porte_verte_molenbeek_vaph_matrix_9900_1_33m_9901_loss_34k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3486/; rq_3486=done; spawn **rq_3487**; ticks=3486.
 - Next: **rq_3487 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3487 — 2026-10-13T11:44:06Z — rq_3487 leftover dual Contrepied Woluwe-Saint-Pierre YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Contrepied** → KBO 0874.552.394 had 0 prior entity rows.
+- KBO: Actief since 22 juni 2005; VZW; zetel Langestraat 170 bus 2 1150 Sint-Pieters-Woluwe; 1 VE; 0 prior entity rows for 0874.552.394
+- Found: official NBB VKT-VZW native PDF **2026-00317785** (356930 B / 26p; AV 25-06-2026; neergelegd 22/07/2026; MD5 090a94787ad0472d0811ca28a61a54ca). VKT-VZW 9900 **EUR1327823** (+14.66%); 62 **EUR1063400**; 9901 **EUR141513** (was 72078); 9904 149029; equity 540705; cash 347890; FTE 19,5.
+- FOI address: info@contrepied.be — general mailbox verified on the official site https://www.contrepied.be/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_contrepied_woluwe_vaph_matrix_9900_1_33m_9901_142k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3487/; rq_3487=done; spawn **rq_3488**; ticks=3487.
+- Next: **rq_3488 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
