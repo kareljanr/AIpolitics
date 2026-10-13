@@ -35780,3 +35780,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@gams.be — general mailbox verified on the official site https://gams.be/contact/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_gams_belgique_vaph_matrix_9900_1_80m_9901_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3294/; rq_3294=done; spawn **rq_3295**; ticks=3294.
 - Next: **rq_3295 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3295 — 2026-10-13T05:00:10Z — rq_3295 leftover dual Relie-F Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scan NACE 94.991 / 94.992 (other membership organisations) over Walloon, Brussels and Flemish postcodes (974 legal persons not yet in the repo); code 733 rows first, then code 9900, largest first: **Relie-F** → KBO 0472.457.306 had 0 prior entity rows.
+- KBO: Actief since 7 februari 2000; VZW; zetel Henri Jasparlaan 127 1060 Sint-Gillis (bij-Brussel); 2 VE; 0 prior entity rows for 0472.457.306
+- Found: official NBB VKT-VZW native PDF **2026-00246060** (50068 B / 13p; AV 18-06-2026; neergelegd 29/06/2026; MD5 a033932a089d423b0802dbf7457e36c1). VKT-VZW 9900 **EUR1768792** (+2.94%); 62 **EUR1686119**; 9901 **EUR1387** (was 10611); 9904 -3527; equity 798856; cash 453602; FTE 29,1 (was 29,9).
+- FOI address: info@relie-f.be — general mailbox verified on the official site https://relie-f.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_relie_f_vaph_matrix_9900_1_77m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3295/; rq_3295=done; spawn **rq_3296**; ticks=3295.
+- Next: **rq_3296 leftover dual** — Batch done; skipped (5-min cap / mailbox rule / dedup): Sociaal Verwarmingsfonds (733 EUR9.46m; already in repo), BEUC (733 EUR4.58m; press mailbox only), Kazou (733 EUR2.42m; no mailbox on its site), énéo (KBO link to the site not verifiable), Archipel, Kankerregister (form only), KRAS (personal mailbox), Rebelle and S-Plus (sites unreachable), Jeunesses Musicales (site lists other KBO numbers), Alzheimer Liga Vlaanderen (site does not tie to the KBO), Roma Foundation (private), EU-level bodies. Next: remaining NACE 94.99x 9900 rows, then other unscanned codes/regions.
