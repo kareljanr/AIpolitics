@@ -41130,3 +41130,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@berlinberlin.be — general mailbox verified on the official site https://www.berlinberlin.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_berlin_antwerpen_vaph_matrix_9900_0_40m_9901_55k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3829/; rq_3829=done; spawn **rq_3830**; ticks=3829.
 - Next: **rq_3830 leftover dual** — Partial batch (3827-3829); recipients from the Flemish Subsidieregister 2025_V01 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets; file kept outside the repo), non-profit filers not yet in the data (dedup by KBO and name), ranked by toegekend; amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest verstrekker cited per row. Correction in this commit: the tick3824 Kannet+ FOI row is set to not_ready (umbrella rule; Kannet+ is a Flanders-wide network with regional branches and duplicates entity vzw_kannet_antwerpen from tick2606); row kept. Skipped: AFS (international), Journalismfund Europe and ISF International Daycare (international), Verso (federation), DC-pwa (public), Compagnie Cecilia, Zomer van Antwerpen, Eastman and Cachet (no reachable own site or no general mailbox), Eos Wetenschap (no address on own site). Next: remaining Subsidieregister candidates (/workspace/subreg/cands.tsv)..
+
+
+## Tick 3830 — 2026-10-13T22:37:06Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3382** of 3439 rows; inventory budgets 65803 · commitments 7439 · leaderboard 9557 · entities 3457 · sources 11250.
+- Top10: **stable** (3821-3829 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3821-3829: Pasform · Boutersem Blinkt · Feniks · Kannet+ · Het Gevolg · De Hoe · Pamele · Pimento · BERLIN.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3830 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3830 run locally as fallback.
+- Next: **rq_3830** — no candidate queued: continue the Flemish Subsidieregister candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
