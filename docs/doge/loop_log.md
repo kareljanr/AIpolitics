@@ -40830,3 +40830,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: boekhouding@bruzz.be — role mailbox (accounting) verified on the official site https://www.bruzz.be/contact (same address as the KBO registered seat); no general mailbox listed.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_vlaams_brusselse_media_bruzz_vaph_matrix_733_8_56m_9901_loss_292k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3799/; rq_3799=done; spawn **rq_3800**; ticks=3799.
 - Next: **rq_3800 leftover dual** — Partial batch (3796-3798); recipients from the Flemish Subsidieregister 2025_V01 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets; file kept outside the repo), non-profits not yet in the data ranked by toegekend; amounts from the NBB 2025 filings (code 733 for full-model filers, otherwise code 9900, NOT a subsidy amount), register figure cited per verstrekker; Skipped: KMDA and Limburgs Landschap (no verifiable own-domain mailbox), ADIC (Gmail), De Steiger (site belongs to another org). Next: remaining Subsidieregister candidates (/workspace/subreg/cands.tsv)..
+
+
+## Tick 3800 — 2026-10-13T22:13:29Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3356** of 3412 rows; inventory budgets 65586 · commitments 7412 · leaderboard 9530 · entities 3430 · sources 11169.
+- Top10: **stable** (3791-3799 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3791-3799: Blauwe Kruis Brugge · Bij’ De Vieze Gasten · Mobar · Symfonieorkest Vlaanderen · Sportaround · Brussels Philharmonic · Algemene Dienst voor Jeugdtoerisme (De Hoge Rielen) · STUK Kunstencentrum · Vlaams-Brusselse Media (BRUZZ).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3800 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3800 run locally as fallback.
+- Next: **rq_3800** — no candidate queued: continue the Flemish Subsidieregister candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
