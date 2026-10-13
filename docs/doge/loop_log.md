@@ -38620,3 +38620,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@froefroe.be — general mailbox verified on the official site https://www.froefroe.be/nl/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_froefroe_antwerpen_vaph_matrix_9900_0_47m_9901_loss_49k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3578/; rq_3578=done; spawn **rq_3579**; ticks=3578.
 - Next: **rq_3579 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3579 — 2026-10-13T15:16:00Z — rq_3579 leftover dual Braséro - Accueil de Jour Tournai YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Braséro - Accueil de Jour** → KBO 1014.635.737 had 0 prior entity rows.
+- KBO: Actief since 4 oktober 2024; VZW; zetel Rue Saint-Brice(TOU) 22 7500 Tournai; 1 VE; 0 prior entity rows for 1014.635.737
+- Found: official NBB VKT-VZW native PDF **2026-00183519** (44850 B / 11p; AV 11-06-2026; neergelegd 21/06/2026; MD5 062151696f1abf1bd8a59cf4b42abf2f). VKT-VZW 9900 **EUR448889** (n/a); 62 **EUR446878**; 9901 **EUR-12524** (was 0); 9904 672; equity 201401; cash 137816; FTE 6,4.
+- FOI address: equipe@braserotournai.be — general (team) mailbox verified on the official site https://braserotournai.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_brasero_tournai_vaph_matrix_9900_0_45m_9901_loss_13k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3579/; rq_3579=done; spawn **rq_3580**; ticks=3579.
+- Next: **rq_3580 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

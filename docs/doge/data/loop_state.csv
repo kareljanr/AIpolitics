@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T15:15:51Z,rq_3578,3578,no,tick3578 leftover dual Theater FroeFroe Antwerpen 0424.808.431 Strong PDF 2026-00140133 9900 0.47m / 9901 loss 49k; next rq_3579 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T15:16:00Z,rq_3579,3579,no,tick3579 leftover dual Braséro - Accueil de Jour Tournai 1014.635.737 Strong PDF 2026-00183519 9900 0.45m / 9901 loss 13k; next rq_3580 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
