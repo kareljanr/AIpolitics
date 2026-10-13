@@ -40840,3 +40840,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3800 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3800 run locally as fallback.
 - Next: **rq_3800** — no candidate queued: continue the Flemish Subsidieregister candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
+
+
+## Tick 3801 — 2026-10-13T22:14:17Z — rq_3800 leftover dual De Spiegel Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **De Spiegel** → KBO 0862.110.858 had 0 prior entity rows.
+- KBO: Actief since 10 december 2003; VZW; zetel Pellenbergstraat 160 3010 Leuven; 2 VE; 0 prior entity rows for 0862.110.858
+- Found: official NBB VKT-VZW native PDF **2026-00188101** (68780 B / 21p; AV 18-06-2026; neergelegd 23/06/2026; MD5 2b074e56c21d94de4707f8902eaf8180). VKT-VZW 9900 **EUR4969264** (+4.40%); 62 **EUR4683490**; 9901 **EUR50202** (was 177666); 9904 -23360; equity 2608613; cash 1824329; FTE 53,5 (was 52,1).
+- FOI address: info@despiegel.org — general mailbox verified on the official site https://despiegel.org/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_de_spiegel_leuven_vaph_matrix_9900_4_97m_9901_50k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3801/; rq_3800=done; spawn **rq_3802**; ticks=3801.
+- Next: **rq_3802 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T22:13:29Z,every10_3800,3800,no,tick3800 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3700 carried open; next: none queued (check remaining nscan22 leftovers)
+main,continuous,hole_fill,2026-10-13T22:14:17Z,rq_3800,3801,no,tick3801 leftover dual De Spiegel Leuven 0862.110.858 Strong PDF 2026-00188101 9900 4.97m / 9901 50k; next rq_3802 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
