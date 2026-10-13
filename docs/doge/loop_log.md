@@ -35454,3 +35454,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cripel.be — general mailbox verified on the official site https://www.cripel.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_cripel_liege_vaph_matrix_9900_2_77m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3261/; rq_3260=done; spawn **rq_3262**; ticks=3261.
 - Next: **rq_3262 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3262 — 2026-10-13T03:29:49Z — rq_3262 leftover dual CALIA - Centre d'Accompagnement Liégeois vers l'Autonomie Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used: NACE 88.999 over Walloon and Flemish postcodes (2,181 legal persons not yet in the repo, 773 with a 2025-12 filing), plus NACE 88.101 and 85.599 (partial); code 733 rows first, then code 9900, largest first: **CALIA - Centre d'Accompagnement Liégeois vers l'Autonomie** → KBO 0410.075.616 had 0 prior entity rows.
+- KBO: Actief since 1 december 1966; VZW; zetel Féronstrée 129 4000 Liège; 1 VE; 0 prior entity rows for 0410.075.616
+- Found: official NBB VKT-VZW native PDF **2026-00160626** (54064 B / 15p; AV 28-05-2026; neergelegd 15/06/2026; MD5 400ca2a86221c41b2360779388061022). VKT-VZW 9900 **EUR2623441** (-2.92%); 62 **EUR2603206**; 9901 **EUR-24591** (was -71183); 9904 -4675; equity 228374; cash 68658; FTE 39,8 (was 39,1).
+- FOI address: info@calia-asbl.be — general mailbox verified on the official site https://www.calia-asbl.be/contactus (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_calia_liege_vaph_matrix_9900_2_62m_9901_loss_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3262/; rq_3262=done; spawn **rq_3263**; ticks=3262.
+- Next: **rq_3263 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
