@@ -39310,3 +39310,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@coala.be — general mailbox verified on the official site https://coala.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_coala_wavre_vaph_matrix_9900_1_68m_9901_134k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3647/; rq_3647=done; spawn **rq_3648**; ticks=3647.
 - Next: **rq_3648 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3648 — 2026-10-13T16:19:09Z — rq_3648 leftover dual alin vzw (All-in dienstverlening voor budgethouders) Sint-Joost-ten-Node YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **alin vzw (All-in dienstverlening voor budgethouders)** → KBO 0563.903.461 had 0 prior entity rows.
+- KBO: Actief since 2 oktober 2014; VZW; zetel Koning Albert II-laan 15 1210 Sint-Joost-ten-Node; 1 VE; 0 prior entity rows for 0563.903.461
+- Found: official NBB VKT-VZW native PDF **2026-00141123** (39234 B / 10p; AV 02-06-2026; neergelegd 02/06/2026; MD5 67623e6d730ca0fe815ccfcd07034e50). VKT-VZW 9900 **EUR1650862** (+17.62%); 62 **EUR1507571**; 9901 **EUR137904** (was 45602); 9904 138573; equity 442244; cash 335739; FTE 19,1 (was 17,8).
+- FOI address: info@alin-vzw.be — general mailbox verified on the official site https://alin-vzw.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_alin_sint_joost_vaph_matrix_9900_1_65m_9901_138k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3648/; rq_3648=done; spawn **rq_3649**; ticks=3648.
+- Next: **rq_3649 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
