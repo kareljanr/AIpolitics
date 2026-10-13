@@ -39460,3 +39460,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lecric-coe.be — general mailbox verified on the official site https://lecric-coe.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_le_cric_tournai_vaph_matrix_9900_0_59m_9901_31k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3662/; rq_3662=done; spawn **rq_3663**; ticks=3662.
 - Next: **rq_3663 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3663 — 2026-10-13T16:23:49Z — rq_3663 leftover dual Dierenasiel Genk Genk YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Dierenasiel Genk** → KBO 0434.584.645 had 0 prior entity rows.
+- KBO: Actief since 28 januari 1988; VZW; zetel Europalaan 13 3600 Genk; 1 VE; 0 prior entity rows for 0434.584.645
+- Found: official NBB VKT-VZW native PDF **2026-00416207** (45337 B / 12p; AV 20-08-2026; neergelegd 20/08/2026; MD5 d276fd59c6d7bdc6e26e54f7600bcee7). VKT-VZW 9900 **EUR558830** (-17.62%); 62 **EUR561604**; 9901 **EUR-32860** (was 115094); 9904 -36038; equity 522462; cash 359789; FTE 12 (was 12,3).
+- FOI address: info@dierenasielgenk.be — general mailbox verified on the official site https://dierenasielgenk.be/contact/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_dierenasiel_genk_vaph_matrix_9900_0_56m_9901_loss_33k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3663/; rq_3663=done; spawn **rq_3664**; ticks=3663.
+- Next: **rq_3664 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
