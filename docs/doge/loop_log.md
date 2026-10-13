@@ -36350,3 +36350,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@implerelais.be — general mailbox verified on the official site https://www.implerelais.be/ (official site of this ASBL).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_imp_le_relais_herve_vaph_matrix_9900_2_98m_9901_loss_103k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3351/; rq_3350=done; spawn **rq_3352**; ticks=3351.
 - Next: **rq_3352 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3352 — 2026-10-13T06:35:35Z — rq_3352 leftover dual La Maison de nos Enfants Beauraing YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **La Maison de nos Enfants** → KBO 0447.307.877 had 0 prior entity rows.
+- KBO: Actief since 26 februari 1992; VZW; zetel rue de Rochefort 144 5570 Beauraing; 2 VE; 0 prior entity rows for 0447.307.877
+- Found: official NBB VKT-VZW native PDF **2026-00239541** (52084 B / 14p; AV 29-06-2026; neergelegd 02/07/2026; MD5 bfb7c1fcbf06194e03363ce842f0d4a0). VKT-VZW 9900 **EUR2797695** (+2.03%); 62 **EUR2720738**; 9901 **EUR25138** (was -2279); 9904 24305; equity 536303; cash 358858; FTE 41,1 (was 36,4).
+- FOI address: secretariat@mdne.be — secretariat mailbox verified on the official site https://mdne.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_maison_de_nos_enfants_beauraing_vaph_matrix_9900_2_80m_9901_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3352/; rq_3352=done; spawn **rq_3353**; ticks=3352.
+- Next: **rq_3353 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
