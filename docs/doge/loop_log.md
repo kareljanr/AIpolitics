@@ -40560,3 +40560,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cheznousbijons.be — general mailbox verified on the official site https://cheznousbijons.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_bij_ons_chez_nous_brussel_vaph_matrix_9900_0_45m_9901_89k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3772/; rq_3772=done; spawn **rq_3773**; ticks=3772.
 - Next: **rq_3773 leftover dual** — Partial batch (3771-3772); code 9900 rows from bounded KBO scan nscan20 (Brussels/Liège/Limburg/Luxembourg postcodes not scanned before), largest first; no usable code 733 filer (Agentschap Integratie en Inburgering is a government agency; UNICEF, ALTEO, Latitude Jeunes, ESN, European Youth Forum excluded); De Overmolen skipped (site down, no mailbox fetched directly), Aimer Jeunes skipped (Skynet). Candidates dry; next: new scan..
+
+
+## Tick 3773 — 2026-10-13T21:17:56Z — rq_3773 leftover dual Kras Jeugdwerk Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Kras Jeugdwerk** → KBO 0826.963.008 had 0 prior entity rows.
+- KBO:  since ; VZW; zetel ;  VE; 0 prior entity rows for 0826.963.008
+- Found: official NBB VKT-VZW native PDF **2026-00123600** (404251 B / 24p; AV 12-05-2026; neergelegd 26/05/2026; MD5 34a501fac1c88b68878bfa717d11d867). VKT-VZW 9900 **EUR4011291** (+4.76%); 62 **EUR3965435**; 9901 **EUR27124** (was 30336); 9904 31593; equity 804896; cash 1250326; FTE 65,3 (was 61,8).
+- FOI address: info@krasjeugdwerk.be — general mailbox verified on the official site https://www.krasjeugdwerk.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_kras_jeugdwerk_borgerhout_vaph_matrix_9900_4_01m_9901_27k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3773/; rq_3773=done; spawn **rq_3774**; ticks=3773.
+- Next: **rq_3774 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
