@@ -38010,3 +38010,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: sips@sips.be — general mailbox verified on the official site https://www.sips.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_sips_liege_vaph_matrix_9900_0_84m_9901_loss_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3517/; rq_3517=done; spawn **rq_3518**; ticks=3517.
 - Next: **rq_3518 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3518 — 2026-10-13T12:11:31Z — rq_3518 leftover dual AMO Tempo Nivelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **AMO Tempo** → KBO 0423.416.777 had 0 prior entity rows.
+- KBO: Actief since 18 maart 1982; VZW; zetel Boulevard des Archers 12 1400 Nivelles; 1 VE; 0 prior entity rows for 0423.416.777
+- Found: official NBB VKT-VZW native PDF **2026-00394413** (44091 B / 10p; AV 10-06-2026; neergelegd 12/08/2026; MD5 db0a5e0721e18a9e77b8c4ef944ff9ae). VKT-VZW 9900 **EUR823599** (-2.00%); 62 **EUR812656**; 9901 **EUR-3296** (was 14580); 9904 2021; equity 50812; cash 223051; FTE n/a.
+- FOI address: info@amotempo.be — general mailbox verified on the official site https://www.amotempo.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_amo_tempo_nivelles_vaph_matrix_9900_0_82m_9901_loss_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3518/; rq_3518=done; spawn **rq_3519**; ticks=3518.
+- Next: **rq_3519 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
