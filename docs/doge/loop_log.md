@@ -40620,3 +40620,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@koningkevin.be — general mailbox verified on the official site https://www.koningkevin.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_koning_kevin_leuven_vaph_matrix_9900_0_68m_9901_22k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3778/; rq_3778=done; spawn **rq_3779**; ticks=3778.
 - Next: **rq_3779 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3779 — 2026-10-13T21:22:57Z — rq_3779 leftover dual Jonge Helden Leuven YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Jonge Helden** → KBO 0415.692.807 had 0 prior entity rows.
+- KBO: Actief since 17 december 1975; VZW; zetel Vital Decosterstraat 84 3000 Leuven; 1 VE; 0 prior entity rows for 0415.692.807
+- Found: official NBB MIC-VZW native PDF **2026-00057906** (42201 B / 10p; AV 17-03-2026; neergelegd 20/03/2026; MD5 72b7b84e0c30b68c2f699d23cb40746d). MIC-VZW 9900 **EUR456558** (-0.82%); 62 **EUR459418**; 9901 **EUR-18339** (was -1415); 9904 -16152; equity 423182; cash 396519; FTE n/a.
+- FOI address: info@jongehelden.be — general mailbox verified on the official site https://jongehelden.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_jonge_helden_leuven_vaph_matrix_9900_0_46m_9901_loss_18k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3779/; rq_3779=done; spawn **rq_3780**; ticks=3779.
+- Next: **rq_3780 leftover dual** — Batch done (3771-3779); code 9900 rows from bounded KBO scans nscan20/nscan22 (Brussels, Antwerp, Flemish and Walloon Brabant postcodes not scanned before), largest first; no usable code 733 filer; skipped: Werkstroomm, Payoke, Lampeke, Collectif des Femmes (address or KBO mismatch), MetSmaak (OCMW association), AAFU and VINC (no mailbox on own site), De Overmolen (site HTTP 500). Next: remaining nscan22 leftovers or a new scan..
