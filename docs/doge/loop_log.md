@@ -37540,3 +37540,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3470 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3470 run locally as fallback.
 - Next: **rq_3470** — code 9900 (NOT subsidy amounts): Aide et Reclassement (EUR1.57m), Médiante (EUR1.55m), Maison de Quartier d’Helmet (EUR1.55m), Reliance (EUR1.46m), Atlantis (EUR1.45m); mailboxes verified on official sites, after the dedup check. Fresh scan of 22 new NACE families still running (63 of 440 pages done; no code 733 rows yet).
+
+
+## Tick 3471 — 2026-10-13T11:19:26Z — rq_3470 leftover dual Aide et Reclassement Huy YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Aide et Reclassement** → KBO 0419.162.932 had 0 prior entity rows.
+- KBO: Actief since 9 december 1978; VZW; zetel Rue Rioul 22 4500 Huy; 1 VE; 0 prior entity rows for 0419.162.932
+- Found: official NBB VKT-VZW native PDF **2026-00271272** (50037 B / 14p; AV 30-06-2026; neergelegd 06/07/2026; MD5 c724461ba5953c50a356b5d99d245c6b). VKT-VZW 9900 **EUR1567518** (+1.59%); 62 **EUR1488688**; 9901 **EUR-25417** (was 12426); 9904 -25570; equity 44878; cash 145750; FTE 20,3 (was 21,1).
+- FOI address: info@aideetreclassement.be — general mailbox verified on the official site https://aideetreclassement.be/secretariat-contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_aide_et_reclassement_huy_vaph_matrix_9900_1_57m_9901_loss_25k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3471/; rq_3470=done; spawn **rq_3472**; ticks=3471.
+- Next: **rq_3472 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
