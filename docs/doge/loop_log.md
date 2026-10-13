@@ -36990,3 +36990,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: communicatie@rojm.be — communication role mailbox verified on the official site https://www.rojm.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_rojm_mechelen_vaph_matrix_9900_1_32m_9901_loss_67k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3415/; rq_3415=done; spawn **rq_3416**; ticks=3415.
 - Next: **rq_3416 leftover dual** — Batch done; the resumed new-family scan gave three usable code 733 rows (Auberges de Jeunesse, Armée du Salut, Maredsous); the rest are code 9900 leftovers. Next: Médiathèque Nouvelle (code 733, site still unreachable), finish the remaining 88.91x / 94.xxx / 55.20x / 52.2x / 59.1x / 58.1x scan pages, then SONEFA / Crèches de Schaerbeek (code 733, no own-site mailbox yet)..
+
+
+## Tick 3416 — 2026-10-13T09:27:23Z — rq_3416 leftover dual Les Petits Pas de la Botte Rance YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Les Petits Pas de la Botte** → KBO 0817.349.120 had 0 prior entity rows.
+- KBO: Actief since 27 juli 2009; VZW; zetel Grand Rue 33 6470 Sivry-Rance; 1 VE; 0 prior entity rows for 0817.349.120
+- Found: official NBB VKT-VZW native PDF **2026-00170325** (53751 B / 15p; AV 17-06-2026; neergelegd 18/06/2026; MD5 6a1e52f39de0a6a1384d6358904e9a92). VKT-VZW 9900 **EUR1871314** (+7.44%); 62 **EUR1807131**; 9901 **EUR14703** (was 40416); 9904 20294; equity 1407769; cash 344336; FTE 32 (was 28,2).
+- FOI address: info@lespetitspasdelabotte.be — general mailbox verified on the official site https://lespetitspasdelabotte.be/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_petits_pas_de_la_botte_rance_vaph_matrix_9900_1_87m_9901_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3416/; rq_3416=done; spawn **rq_3417**; ticks=3416.
+- Next: **rq_3417 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
