@@ -35154,3 +35154,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: accueil@maisondelacreation.org — general mailbox verified on the official site https://www.maisondelacreation.org/fr/infos/equipe-et-contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cc_bruxelles_nord_maison_creation_vaph_matrix_9900_1_17m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3231/; rq_3230=done; spawn **rq_3232**; ticks=3231.
 - Next: **rq_3232 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3232 — 2026-10-13T02:26:50Z — rq_3232 leftover dual Les Riches-Claires (Centre culturel) Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Largest recipients in the official City of Brussels 2025 subsidy inventory (opendata.brussels.be dataset subsides-ville-de-bruxelles-subsidies-stad-brussel-2025) not yet in the repo, cross-checked with the NBB filing: **Les Riches-Claires (Centre culturel)** → KBO 0460.971.021 had 0 prior entity rows.
+- KBO: Actief since 5 mei 1997; VZW; zetel Rijkeklarenstraat 24 1000 Brussel; 1 VE; 0 prior entity rows for 0460.971.021
+- Found: official NBB MIC-VZW native PDF **2026-00450809** (43566 B / 11p; AV 18-05-2026; neergelegd 28/08/2026; MD5 3344ad6a3fe1d6a400fdd3aa930f3a1a). MIC-VZW 9900 **EUR742761** (-7.96%); 62 **EUR676817**; 9901 **EUR33971** (was 18349); 9904 31663; equity 217268; cash 192579; FTE n/a.
+- FOI address: info@lesrichesclaires.be — general mailbox verified on the official site https://www.lesrichesclaires.be/entree-des-artistes/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_les_riches_claires_vaph_matrix_9900_0_74m_9901_34k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3232/; rq_3232=done; spawn **rq_3233**; ticks=3232.
+- Next: **rq_3233 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
