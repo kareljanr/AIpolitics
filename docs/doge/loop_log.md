@@ -35434,3 +35434,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@susa.be — general mailbox verified on the official site https://www.susa.be/projets/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mons); FOI **gap_fondation_susa_mons_vaph_matrix_9900_6_93m_9901_102k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3259/; rq_3259=done; spawn **rq_3260**; ticks=3259.
 - Next: **rq_3260 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3260 — 2026-10-13T03:29:40Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2872** of 2927 rows; inventory budgets 61666 · commitments 6927 · leaderboard 9045 · entities 2945 · sources 9714.
+- Top10: **stable** (3251-3259 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3251-3259: SASLS-DMBSH · Diogenes · Mission Locale Saint-Gilles · Modus Vivendi · SOS Jeunes · Fondation rurale de Wallonie · Accueil des Tout-Petits Liège · Mère Joséphine Blégny · Fondation SUSA Mons.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3260 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3260 run locally as fallback.
+- Next: **rq_3260** — NACE 88.999 Walloon scan (code 9900, NOT subsidy amounts): CRIPEL (EUR2.77m), CALIA (EUR2.62m), RWLP (EUR2.44m), CRIC Charleroi (EUR2.21m), Canopea (EUR2.20m); mailboxes verified on official sites, after the dedup check.

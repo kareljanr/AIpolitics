@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3260** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3250; 3251-3259 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3251-3259 residual dual L5 (not near-complete of 348bn):** SASLS-DMBSH · Diogenes · Mission Locale Saint-Gilles · Modus Vivendi · SOS Jeunes · Fondation rurale de Wallonie · Accueil des Tout-Petits Liège · Mère Joséphine Blégny · Fondation SUSA Mons (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2872** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2927** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3251-3259** SASLS-DMBSH · Diogenes · Mission Locale Saint-Gilles · Modus Vivendi · SOS Jeunes · Fondation rurale de Wallonie · Accueil des Tout-Petits Liège · Mère Joséphine Blégny · Fondation SUSA Mons.
+
+### Inventory (tick 3260)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 61666 |
+| commitments.csv | 6927 |
+| leaderboard.csv | 9045 |
+| entities.csv | 2945 |
+| sources.csv | 9714 |
+| FOI ready | 2872 |
+| FOI total rows | 2927 |
+| research_queue open | rq_3260 (carried; next: CRIPEL, CALIA, RWLP, CRIC Charleroi, Canopea (NACE 88.999 Walloon scan, code 9900); largest first) |
+
+### What improved since tick 3250
+
+- **New source (tick3251-3259):** SASLS-DMBSH · Diogenes · Mission Locale Saint-Gilles · Modus Vivendi · SOS Jeunes · Fondation rurale de Wallonie · Accueil des Tout-Petits Liège · Mère Joséphine Blégny · Fondation SUSA Mons. 3251-3255 finished the NACE 88.999 Brussels list (code 9900). 3256+ extends the activity-code scan to codes/regions not yet scanned: NACE 88.999 over all Walloon and Flemish postcodes (2,181 legal persons not yet in the repo, 773 with a 2025-12 filing), plus NACE 88.101 (256) and a partial NACE 85.599 run (mostly small bodies and companies); code 733 rows first (FRW, Accueil des Tout-Petits, Mère Joséphine), then code 9900.
+- **FOI addresses:** general mailboxes verified on each body's own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3260 ran on the local fallback runner; GitHub Actions status not re-checked (GitHub CLI on the box not signed in). Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3250** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
