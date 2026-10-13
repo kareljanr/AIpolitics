@@ -35820,3 +35820,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vai.be — general mailbox verified on the official site https://www.vai.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_vlaams_architectuurinstituut_vaph_matrix_9900_2_23m_9901_359k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3298/; rq_3298=done; spawn **rq_3299**; ticks=3298.
 - Next: **rq_3299 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3299 — 2026-10-13T05:06:36Z — rq_3299 leftover dual Sans Collier Perwez YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.991 / 94.992 (974 legal persons not yet in the repo) and NACE 94.999 / 88.109 (776) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first: **Sans Collier** → KBO 0412.659.972 had 0 prior entity rows.
+- KBO: Actief since 19 oktober 1972; VZW; zetel Chaussée de Charleroi 68 1360 Perwez; 1 VE; 0 prior entity rows for 0412.659.972
+- Found: official NBB VKT-VZW native PDF **2026-00232916** (58287 B / 16p; AV 17-06-2026; neergelegd 01/07/2026; MD5 ddd321efff43b07c404799cb18af8512). VKT-VZW 9900 **EUR1939280** (-3.83%); 62 **EUR819334**; 9901 **EUR387920** (was 795965); 9904 464206; equity 14706319; cash 4385665; FTE 18,4 (was 17,1).
+- FOI address: info@sanscollier.be — general mailbox verified on the official site https://www.sanscollier.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_sans_collier_perwez_vaph_matrix_9900_1_94m_9901_388k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3299/; rq_3299=done; spawn **rq_3300**; ticks=3299.
+- Next: **rq_3300 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

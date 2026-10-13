@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T05:06:28Z,rq_3298,3298,no,tick3298 leftover dual Vlaams Architectuurinstituut (VAi) Antwerpen 0476.914.455 Strong PDF 2026-00068437 9900 2.23m / 9901 359k; next rq_3299 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T05:06:36Z,rq_3299,3299,no,tick3299 leftover dual Sans Collier Perwez 0412.659.972 Strong PDF 2026-00232916 9900 1.94m / 9901 388k; next rq_3300 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
