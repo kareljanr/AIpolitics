@@ -35084,3 +35084,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@asbllaseve.be — general mailbox verified on the official site https://asbllaseve.be/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_la_seve_herve_vaph_matrix_9900_1_55m_9901_23k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3224/; rq_3224=done; spawn **rq_3225**; ticks=3224.
 - Next: **rq_3225 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3225 — 2026-10-13T02:15:11Z — rq_3225 leftover dual Les Grillons (Chaudfontaine) Chaudfontaine YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon sheltered workshops (ETA) and AVIQ disability services from a KBO activity-code scan (NACE 88.993, all Walloon/Brussels postcodes); code 733 rows first, then code 9900, largest first: **Les Grillons (Chaudfontaine)** → KBO 0417.829.973 had 0 prior entity rows.
+- KBO: Actief since 3 november 1977; VZW; zetel Rue de Chèvremont 35 4051 Chaudfontaine; 2 VE; 0 prior entity rows for 0417.829.973
+- Found: official NBB VKT-VZW native PDF **2026-00126659** (383853 B / 19p; AV 12-05-2026; neergelegd 21/05/2026; MD5 672af596f69f49b1aaf6a50353a631f1). VKT-VZW 9900 **EUR1429753** (+4.60%); 62 **EUR1361032**; 9901 **EUR-16807** (was 29551); 9904 8255; equity 1050704; cash 857810; FTE 20,6 (was 17,4).
+- FOI address: secretariat@lesgrillons.be — general mailbox verified on the official site https://www.lesgrillons.be/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_les_grillons_chaudfontaine_vaph_matrix_9900_1_43m_9901_loss_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3225/; rq_3225=done; spawn **rq_3226**; ticks=3225.
+- Next: **rq_3226 leftover dual** — Batch done; skipped for mailbox (5-min cap): Emeraude Nivelles (EUR3.34m, Wix page, mailbox not readable), La Boulaie Chimay (EUR2.48m, no official site found), CEJIEL Liège (EUR1.60m, mailbox not on fetched page); Flemish care scan (NACE 88.103 / 87.203, Flemish postcodes) found no large new 733 filer; next: Le Pré-Texte Uccle, Les Bleuets, Le Bailou after a mailbox check.
