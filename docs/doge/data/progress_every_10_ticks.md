@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3730** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3720; 3721-3729 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3721-3729 residual dual L5 (not near-complete of 348bn):** Edelweiss · Bouworde · Atelier Circuler · E.V.A.-Centrum · Missing You · Action Mondiale pour la Solidarité (Amonsoli) · Amarant · Liens de Quartier Petite Enfance · La Crèche au Fil de l'Eau (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3294** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3349** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3721-3729** Edelweiss · Bouworde · Atelier Circuler · E.V.A.-Centrum · Missing You · Action Mondiale pour la Solidarité (Amonsoli) · Amarant · Liens de Quartier Petite Enfance · La Crèche au Fil de l'Eau.
+
+### Inventory (tick 3730)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 65079 |
+| commitments.csv | 7349 |
+| leaderboard.csv | 9467 |
+| entities.csv | 3367 |
+| sources.csv | 10980 |
+| FOI ready | 3294 |
+| FOI total rows | 3349 |
+| research_queue open | rq_3730 (carried; next: Crèche Princesse Astrid, Ferme du Parc Maximilien (code 9900 rows from bounded KBO scan nscan10); largest first) |
+
+### What improved since tick 3720
+
+- **New source (tick3721-3729):** Edelweiss · Bouworde · Atelier Circuler · E.V.A.-Centrum · Missing You · Action Mondiale pour la Solidarité (Amonsoli) · Amarant · Liens de Quartier Petite Enfance · La Crèche au Fil de l'Eau. All code 9900 rows (NOT subsidy amounts) from bounded KBO scans nscan9 and nscan10 (nscan10: codes 85599 and 88911 on new postcodes; the tried 90/91 culture codes returned no rows), largest first; code 733 filers found were rejected (commune seat, ISP mailboxes, own domain unreachable). Mailboxes on each body’s own domain; rejected: ISP, Gmail, Hotmail or Outlook mailboxes, hospital- or university-linked bodies, umbrella or federation bodies and address mismatches. Médiathèque Nouvelle still unreachable (HTTP 000).
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3730 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked 2026-10-13: no new DOGE tick commits (radar only). Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3720** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

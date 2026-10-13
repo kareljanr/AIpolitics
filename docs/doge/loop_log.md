@@ -40130,3 +40130,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lacrecheaufildeleau.be — general mailbox verified on the official site https://www.lacrecheaufildeleau.be/ (site shows the same KBO number and registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_creche_au_fil_de_leau_tournai_vaph_matrix_9900_0_65m_9901_loss_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3729/; rq_3729=done; spawn **rq_3730**; ticks=3729.
 - Next: **rq_3730 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3730 — 2026-10-13T18:07:34Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3294** of 3349 rows; inventory budgets 65079 · commitments 7349 · leaderboard 9467 · entities 3367 · sources 10980.
+- Top10: **stable** (3721-3729 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3721-3729: Edelweiss · Bouworde · Atelier Circuler · E.V.A.-Centrum · Missing You · Action Mondiale pour la Solidarité (Amonsoli) · Amarant · Liens de Quartier Petite Enfance · La Crèche au Fil de l'Eau.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3730 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3730 run locally as fallback.
+- Next: **rq_3730** — code 9900 (NOT subsidy amounts): Crèche Princesse Astrid (EUR0.62m, micro), Ferme du Parc Maximilien (EUR0.52m, micro); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scan nscan10.
