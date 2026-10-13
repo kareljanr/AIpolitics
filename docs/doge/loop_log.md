@@ -36020,3 +36020,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: pcfruit@pcfruit.be — general mailbox verified on the official site https://www.pcfruit.be/nl/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_sint_truiden); FOI **gap_pcfruit_sint_truiden_vaph_matrix_733_5_88m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3318/; rq_3318=done; spawn **rq_3319**; ticks=3318.
 - Next: **rq_3319 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3319 — 2026-10-13T05:44:57Z — rq_3319 leftover dual Viaverda Destelbergen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.101 / 72.109 (research) and 85.591 / 85.593 (education) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first; EU-level bodies excluded: **Viaverda** → KBO 0407.784.040 had 0 prior entity rows.
+- KBO: Actief since 1 juli 1954; VZW; zetel Schaessestraat 18 9070 Destelbergen; 2 VE; 0 prior entity rows for 0407.784.040
+- Found: official NBB VKT-VZW native PDF **2026-00498340** (2274081 B / 29p; AV 23-04-2026; neergelegd 03/09/2026; MD5 374fe7c34c3e4e56e3ab06004bd96543). VKT-VZW 9900 **EUR8226886** (+13.23%); 62 **EUR6987719**; 9901 **EUR282295** (was 179826); 9904 194349; equity 9683742; cash 1807017; FTE 93,3 (was 86,7).
+- FOI address: info@viaverda.be — general mailbox verified on the official site https://www.viaverda.be/ contact page (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_destelbergen); FOI **gap_viaverda_destelbergen_vaph_matrix_9900_8_23m_9901_282k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3319/; rq_3319=done; spawn **rq_3320**; ticks=3319.
+- Next: **rq_3320 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
