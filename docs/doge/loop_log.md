@@ -39610,3 +39610,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ciaj-amo.be — general mailbox verified on the official site https://ciaj-amo.be/mentions-legales/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_ciaj_amo_seraing_vaph_matrix_9900_1_07m_9901_loss_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3677/; rq_3677=done; spawn **rq_3678**; ticks=3677.
 - Next: **rq_3678 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3678 — 2026-10-13T16:37:22Z — rq_3678 leftover dual Transit (AMO) La Louvière YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Transit (AMO)** → KBO 0461.991.105 had 0 prior entity rows.
+- KBO: Actief since 20 december 1986; VZW; zetel Rue de l'Hôtel de Ville(PIE) 6 7100 La Louvière; 1 VE; 0 prior entity rows for 0461.991.105
+- Found: official NBB MIC-VZW native PDF **2026-00165150** (37685 B / 9p; AV 10-06-2026; neergelegd 15/06/2026; MD5 df9a32582dc01b3987760ff08d1736d1). MIC-VZW 9900 **EUR763882** (+10.11%); 62 **EUR714918**; 9901 **EUR32331** (was 1005); 9904 31417; equity 184705; cash 270386; FTE n/a.
+- FOI address: info@amotransit.be — general mailbox verified on the official site https://amotransit.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_transit_amo_la_louviere_vaph_matrix_9900_0_76m_9901_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3678/; rq_3678=done; spawn **rq_3679**; ticks=3678.
+- Next: **rq_3679 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
