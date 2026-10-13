@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T17:27:51Z,rq_3717,3717,no,tick3717 leftover dual Solidarités Nouvelles Gilly 0408.018.622 Strong PDF 2026-00303589 9900 0.93m / 9901 4k; next rq_3718 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T17:28:01Z,rq_3718,3718,no,tick3718 leftover dual Espace (SAPSE) Ottignies 0430.766.013 Strong PDF 2026-00241092 9900 0.68m / 9901 loss 0k; next rq_3719 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
