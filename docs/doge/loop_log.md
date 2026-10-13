@@ -36770,3 +36770,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@benaja.be — general mailbox verified on the official site https://benaja.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_wzc_benaja_vleteren_vaph_matrix_9900_1_62m_9901_loss_246k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3393/; rq_3393=done; spawn **rq_3394**; ticks=3393.
 - Next: **rq_3394 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3394 — 2026-10-13T08:23:45Z — rq_3394 leftover dual Vent Debout Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Vent Debout** → KBO 0429.670.210 had 0 prior entity rows.
+- KBO: Actief since 26 maart 1984; VZW; zetel Rue des Trois-Rivages 39 4020 Liège; 1 VE; 0 prior entity rows for 0429.670.210
+- Found: official NBB VKT-VZW native PDF **2026-00359661** (51819 B / 14p; AV 15-07-2026; neergelegd 28/07/2026; MD5 527de2e695c7ef9f02841ae538a980c0). VKT-VZW 9900 **EUR1604063** (+2.20%); 62 **EUR1553159**; 9901 **EUR25881** (was 7729); 9904 26572; equity 356114; cash 794070; FTE 16,4 (was 17,4).
+- FOI address: infos@ventdebout.be — general mailbox verified on the official site https://www.ventdebout.be/a-propos (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_vent_debout_liege_vaph_matrix_9900_1_60m_9901_26k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3394/; rq_3394=done; spawn **rq_3395**; ticks=3394.
+- Next: **rq_3395 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
