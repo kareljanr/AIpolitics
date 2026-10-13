@@ -34542,3 +34542,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3170 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3170 run locally as fallback.
 - Next: **rq_3170** — LUCA School of Arts (code 733 EUR2.83m; Dutch voluntary draft), Lire et Ecrire Luxembourg (code 9900 EUR2.08m), Liège-Huy-Waremme (EUR1.81m), Namur (EUR1.23m), Charleroi Sud Hainaut (EUR1.12m), all mailboxes verified, after the dedup check.
+
+
+## Tick 3171 — 2026-10-13T00:39:14Z — rq_3170 leftover dual LUCA School of Arts Schaarbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Walloon/Brussels training, literacy and disability-service non-profits plus remaining university colleges (CISP/OISP training centres, Lire et Ecrire network, AVIQ medico-pedagogical institutes, Flemish hogescholen VZW); fresh KBO name searches (legal form ASBL/VZW; words such as Université/Universiteit, Hogeschool, Enseignement spécialisé/Buitengewoon onderwijs, Médico-pédagogique, CISP, Lire et Ecrire, Mission régionale, Centre de formation), filings ranked by NBB code 733 subsidies (full model) or code 9900 gross margin (abbreviated model), largest first; every candidate passed the name/alias/KBO/website dedup check: **LUCA School of Arts** → KBO 0456.758.944 had 0 prior entity rows.
+- KBO: Actief since 8 maart 1995; VZW; zetel Paleizenstraat 70 1030 Schaarbeek; 7 VE; 0 prior entity rows for 0456.758.944
+- Found: official NBB VOL-VZW native PDF **2026-00086305** (1775222 B / 51p; AV 26-03-2026; neergelegd 19/04/2026; MD5 3ee896df040753d38712ea52a48d9779). VOL-VZW 733 **EUR2834837** (-30.53%); 62 **EUR44359313**; 9901 **EUR1331280** (was 3027386); 9904 941541; equity 38642711; cash 22120169; FTE 25 (was 23,7).
+- FOI address: info@luca-arts.be — general mailbox verified on official contact page https://info.luca-arts.be/en/node/100 (page shows the KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_luca_school_of_arts_vaph_matrix_733_2_83m_9901_1331k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3171/; rq_3170=done; spawn **rq_3172**; ticks=3171.
+- Next: **rq_3172 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
