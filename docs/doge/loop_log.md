@@ -35710,3 +35710,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: lesscouts@lesscouts.be — general mailbox verified on the official site https://www.lesscouts.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_les_scouts_federation_vaph_matrix_9900_5_32m_9901_908k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3287/; rq_3287=done; spawn **rq_3288**; ticks=3287.
 - Next: **rq_3288 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3288 — 2026-10-13T04:57:55Z — rq_3288 leftover dual Vie Féminine, mouvement féministe d'action interculturelle et sociale Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scan NACE 94.991 / 94.992 (other membership organisations) over Walloon, Brussels and Flemish postcodes (974 legal persons not yet in the repo); code 733 rows first, then code 9900, largest first: **Vie Féminine, mouvement féministe d'action interculturelle et sociale** → KBO 0410.905.856 had 0 prior entity rows.
+- KBO: Actief since 9 februari 1929; VZW; zetel Poststraat 111 1030 Schaarbeek; 10 VE; 0 prior entity rows for 0410.905.856
+- Found: official NBB VKT-VZW native PDF **2026-00351088** (238318 B / 18p; AV 27-06-2026; neergelegd 28/07/2026; MD5 4f4b8c32ec12d7c244dc79b273ab3d22). VKT-VZW 9900 **EUR4790107** (-8.15%); 62 **EUR4359217**; 9901 **EUR147745** (was -168650); 9904 154662; equity 675119; cash 315049; FTE 78,3 (was 90,3).
+- FOI address: secretariat-national@viefeminine.be — national secretariat mailbox verified on the official site https://www.viefeminine.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_vie_feminine_vaph_matrix_9900_4_79m_9901_148k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3288/; rq_3288=done; spawn **rq_3289**; ticks=3288.
+- Next: **rq_3289 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
