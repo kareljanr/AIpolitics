@@ -35690,3 +35690,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@latitude50.be — general mailbox verified on the official site https://www.latitude50.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_latitude_50_marchin_vaph_matrix_9900_0_90m_9901_44k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3285/; rq_3285=done; spawn **rq_3286**; ticks=3285.
 - Next: **rq_3286 leftover dual** — Batch done; skipped (5-min cap / mailbox rule): Orchestre Philharmonique Royal de Liège (733 EUR12.74m; contact form only), Fondation Folon (site not readable from the box), Bois du Cazier (only personal / accounting / booking mailboxes), ASCL Ganshoren (only commune mailbox), Créahm (shop mailbox only), Sporta-centrum Tongerlo (only federation mailbox), Le Forum Liège, Chudoscnik Sunergia and Pierre de Lune (no mailbox shown), Bellenblaaz (personal mailboxes only); Roma Foundation and Rinkven golf club (private). Next: remaining 9900 rows of these scans, then other unscanned codes/regions.
+
+
+## Tick 3286 — 2026-10-13T04:57:42Z — rq_3286 leftover dual Scouts en Gidsen Vlaanderen Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scan NACE 94.991 / 94.992 (other membership organisations) over Walloon, Brussels and Flemish postcodes (974 legal persons not yet in the repo); code 733 rows first, then code 9900, largest first: **Scouts en Gidsen Vlaanderen** → KBO 0407.138.494 had 0 prior entity rows.
+- KBO: Actief since 10 november 1934; VZW; zetel Wilrijkstraat 45 2140 Antwerpen; 10 VE; 0 prior entity rows for 0407.138.494
+- Found: official NBB VOL-VZW native PDF **2026-00108952** (828282 B / 48p; AV 21-02-2026; neergelegd 12/05/2026; MD5 d3e4cbd71e39dfb393b8aeafd76b86fe). VOL-VZW 733 **EUR2847958** (+1.56%); 62 **EUR5696832**; 9901 **EUR601231** (was -410864); 9904 828322; equity 15782731; cash 3106600; FTE 77,4 (was 79,8).
+- FOI address: info@scoutsengidsenvlaanderen.be — general mailbox verified on the official site https://scoutsengidsenvlaanderen.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_scouts_en_gidsen_vlaanderen_vaph_matrix_733_2_85m_9901_601k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3286/; rq_3286=done; spawn **rq_3287**; ticks=3286.
+- Next: **rq_3287 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
