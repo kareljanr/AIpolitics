@@ -40740,3 +40740,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3790 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3790 run locally as fallback.
 - Next: **rq_3790** — no candidate queued: check the remaining Gent/Brugge subsidy-list recipients, verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
+
+
+## Tick 3791 — 2026-10-13T22:03:06Z — rq_3790 leftover dual Blauwe Kruis Brugge Dierenopvangcentrum Brugge YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Blauwe Kruis Brugge Dierenopvangcentrum** → KBO 0415.944.512 had 0 prior entity rows.
+- KBO: Actief since 25 januari 1976; VZW; zetel Krinkelstraat 4 8380 Brugge; 1 VE; 0 prior entity rows for 0415.944.512
+- Found: official NBB VKT-VZW native PDF **2026-00403725** (35940 B / 9p; AV 27-03-2026; neergelegd 18/08/2026; MD5 7619af4d6434f34d5d2b1c882269ca90). VKT-VZW 9900 **EUR626472** (-11.88%); 62 **EUR286961**; 9901 **EUR242119** (was 406206); 9904 266987; equity 4523051; cash 192973; FTE 6,4 (was 5,3).
+- FOI address: asiel.krinkel4@blauwekruis-brugge.be — general mailbox (listed as Algemeen) verified on the official site https://blauwekruis-brugge.be/asiel/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_blauwe_kruis_brugge_vaph_matrix_9900_0_63m_9901_242k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3791/; rq_3790=done; spawn **rq_3792**; ticks=3791.
+- Next: **rq_3792 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
