@@ -39190,3 +39190,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@vogelbescherming.be — general mailbox verified on the official site https://www.vogelbescherming.be/contact (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_vogelbescherming_vlaanderen_antwerpen_vaph_matrix_9900_0_63m_9901_loss_228k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3635/; rq_3635=done; spawn **rq_3636**; ticks=3635.
 - Next: **rq_3636 leftover dual** — Batch done (3626-3635); one code 733 filer (Stichting tegen Kanker) then code 9900 rows from the bounded KBO scan (NACE-BEL 2025 codes 85510, 85520, 88992, 93199, 94920, 94991, 94999) (Médiathèque Nouvelle still unreachable). Next (old-code and NACE-BEL 2025 scans complete, all keys triaged; EPHEC-Galilée not used: no general mailbox on its own site), then further code 9900 leftovers from the rebuilt pool, largest first..
+
+
+## Tick 3636 — 2026-10-13T16:02:45Z — rq_3636 leftover dual Kaléidos Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Kaléidos** → KBO 0878.172.870 had 0 prior entity rows.
+- KBO: Actief since 26 december 2005; VZW; zetel Rue Bassenge 31 4000 Liège; 1 VE; 0 prior entity rows for 0878.172.870
+- Found: official NBB MIC-VZW native PDF **2026-00193876** (38271 B / 9p; AV 10-06-2026; neergelegd 24/06/2026; MD5 28cedd7136e85afead8793e71808abcf). MIC-VZW 9900 **EUR625799** (+28.39%); 62 **EUR566057**; 9901 **EUR55372** (was 16601); 9904 55786; equity 485709; cash 97343; FTE n/a.
+- FOI address: info@asblkaleidos.be — general mailbox verified on the official site https://www.asblkaleidos.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_kaleidos_liege_vaph_matrix_9900_0_63m_9901_55k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3636/; rq_3636=done; spawn **rq_3637**; ticks=3636.
+- Next: **rq_3637 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
