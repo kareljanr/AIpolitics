@@ -40410,3 +40410,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@pevr.be — general mailbox verified on the official site https://pevr.be/contactez-nous (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_parents_enfants_victimes_route_save_vaph_matrix_9900_0_57m_9901_519k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3757/; rq_3757=done; spawn **rq_3758**; ticks=3757.
 - Next: **rq_3758 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3758 — 2026-10-13T19:24:08Z — rq_3758 leftover dual Accueil et Familles Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Accueil et Familles** → KBO 0433.283.063 had 0 prior entity rows.
+- KBO: Actief since 15 mei 1986; VZW; zetel Emile Feronstraat 168 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0433.283.063
+- Found: official NBB MIC-VZW native PDF **2026-00194006** (35166 B / 9p; AV 01-06-2026; neergelegd 24/06/2026; MD5 bb8295c71eea8ecf122f453c78596986). MIC-VZW 9900 **EUR509028** (-5.84%); 62 **EUR508124**; 9901 **EUR844** (was 956); 9904 813; equity 42560; cash 180233; FTE n/a.
+- FOI address: info@accueiletfamilles.be — general mailbox verified on the official site https://www.accueiletfamilles.be/nous-contacter/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_accueil_et_familles_saint_gilles_vaph_matrix_9900_0_51m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3758/; rq_3758=done; spawn **rq_3759**; ticks=3758.
+- Next: **rq_3759 leftover dual** — Batch done (3752-3758); code 9900 rows from bounded KBO scan nscan14 leftovers, largest first; no code 733 filer found; Médiathèque Nouvelle still unreachable. Next: bounded scan nscan15..
