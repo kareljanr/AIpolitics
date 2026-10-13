@@ -34874,3 +34874,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: csmg@csmg.be — general/role mailbox of the school of the same name run by this organising body, listed on the SeGEC school directory page https://enseignement.catholique.be/etablissements/college-saint-michel/ which names this ASBL as pouvoir organisateur (opened 13 Oct 2026).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_charleroi); FOI **gap_college_saint_michel_gosselies_vaph_matrix_733_6_20m_9901_137k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3203/; rq_3203=done; spawn **rq_3204**; ticks=3203.
 - Next: **rq_3204 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3204 — 2026-10-13T01:36:05Z — rq_3204 leftover dual Institut d'enseignement secondaire Saint-Berthuin (Malonne) Namur (Malonne) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies and literacy ASBLs (ASBL) whose general/role mailbox is listed on the SeGEC school directory or an official site, matched to the KBO; largest code 733 first: **Institut d'enseignement secondaire Saint-Berthuin (Malonne)** → KBO 0409.295.062 had 0 prior entity rows.
+- KBO: Actief since 10 augustus 1967; VZW; zetel Fond de Malonne(ML) 129 5020 Namur; 1 VE; 0 prior entity rows for 0409.295.062
+- Found: official NBB VOL-VZW native PDF **2026-00186797** (450725 B / 34p; AV 29-05-2026; neergelegd 23/06/2026; MD5 c9acdacad20115bee6c5a2d03689d483). VOL-VZW 733 **EUR5318089** (+0.63%); 62 **EUR4806159**; 9901 **EUR106904** (was 49570); 9904 79128; equity 1122585; cash 405563; FTE 5,3 (was 5,6).
+- FOI address: info@isbm.be — general/role mailbox of the school of the same name run by this organising body, listed on the SeGEC school directory page https://enseignement.catholique.be/etablissements/institut-saint-berthuin/ which names this ASBL as pouvoir organisateur (opened 13 Oct 2026).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_saint_berthuin_malonne_vaph_matrix_733_5_32m_9901_107k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3204/; rq_3204=done; spawn **rq_3205**; ticks=3204.
+- Next: **rq_3205 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
