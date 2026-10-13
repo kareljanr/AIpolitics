@@ -35770,3 +35770,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: luss@luss.be — general mailbox verified on the official site https://www.luss.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_luss_namur_vaph_matrix_9900_1_94m_9901_410k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3293/; rq_3293=done; spawn **rq_3294**; ticks=3293.
 - Next: **rq_3294 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3294 — 2026-10-13T05:00:05Z — rq_3294 leftover dual GAMS Belgique (Groupe pour l'Abolition des Mutilations Sexuelles féminines) Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scan NACE 94.991 / 94.992 (other membership organisations) over Walloon, Brussels and Flemish postcodes (974 legal persons not yet in the repo); code 733 rows first, then code 9900, largest first: **GAMS Belgique (Groupe pour l'Abolition des Mutilations Sexuelles féminines)** → KBO 0458.323.119 had 0 prior entity rows.
+- KBO: Actief since 18 juli 1996; VZW; zetel Gabrielle Petitstraat 6 1080 Sint-Jans-Molenbeek; 4 VE; 0 prior entity rows for 0458.323.119
+- Found: official NBB VKT-VZW native PDF **2026-00363835** (54579 B / 14p; AV 19-07-2026; neergelegd 31/07/2026; MD5 ab0fddf4672a0d07766678f71077c946). VKT-VZW 9900 **EUR1802248** (-1.41%); 62 **EUR1765866**; 9901 **EUR3538** (was 5748); 9904 3099; equity 86217; cash 250998; FTE 25,9 (was 27,3).
+- FOI address: info@gams.be — general mailbox verified on the official site https://gams.be/contact/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_gams_belgique_vaph_matrix_9900_1_80m_9901_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3294/; rq_3294=done; spawn **rq_3295**; ticks=3294.
+- Next: **rq_3295 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
