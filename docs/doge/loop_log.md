@@ -37410,3 +37410,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mirewapi.be — general mailbox verified on the official site https://mirewapi.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_mirewapi_tournai_vaph_matrix_9900_2_15m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3457/; rq_3457=done; spawn **rq_3458**; ticks=3457.
 - Next: **rq_3458 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3458 — 2026-10-13T11:06:35Z — rq_3458 leftover dual Vis à Vis Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Vis à Vis** → KBO 0424.346.393 had 0 prior entity rows.
+- KBO:  since ; VZW; zetel ;  VE; 0 prior entity rows for 0424.346.393
+- Found: official NBB VKT-VZW native PDF **2026-00520045** (48606 B / 13p; AV 22-06-2026; neergelegd 17/09/2026; MD5 e7ab0c193e780f70283a988bee908a7f). VKT-VZW 9900 **EUR2057340** (-11.35%); 62 **EUR1951165**; 9901 **EUR44769** (was 52389); 9904 46775; equity 208312; cash 319416; FTE 28,3 (was 29,4).
+- FOI address: info@visavis.be — general mailbox verified on the official site https://www.visavis.be/fr/service-daccompagnement (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_vis_a_vis_namur_vaph_matrix_9900_2_06m_9901_45k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3458/; rq_3458=done; spawn **rq_3459**; ticks=3458.
+- Next: **rq_3459 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
