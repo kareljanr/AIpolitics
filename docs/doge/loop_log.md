@@ -39720,3 +39720,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@accueiletsolidarite.be — general mailbox verified on the official site https://www.accueiletsolidarite.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_accueil_et_solidarite_huy_vaph_matrix_9900_0_73m_9901_loss_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3688/; rq_3688=done; spawn **rq_3689**; ticks=3688.
 - Next: **rq_3689 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3689 — 2026-10-13T16:48:16Z — rq_3689 leftover dual ’t Werkhuys Borgerhout YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **’t Werkhuys** → KBO 0478.321.549 had 0 prior entity rows.
+- KBO: Actief since 19 juli 2002; VZW; zetel Zegelstraat 13 2140 Antwerpen; 1 VE; 0 prior entity rows for 0478.321.549
+- Found: official NBB MIC-VZW native PDF **2026-00325980** (41498 B / 10p; AV 23-02-2026; neergelegd 24/07/2026; MD5 bb0bf703ca53ff738dd8fe2611f8ca45). MIC-VZW 9900 **EUR513520** (+4.46%); 62 **EUR413630**; 9901 **EUR59779** (was 56794); 9904 57383; equity 380600; cash 307831; FTE n/a.
+- FOI address: info@werkhuys.be — general mailbox verified on the official site https://www.werkhuys.be/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_t_werkhuys_borgerhout_vaph_matrix_9900_0_51m_9901_60k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3689/; rq_3689=done; spawn **rq_3690**; ticks=3689.
+- Next: **rq_3690 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
