@@ -36460,3 +36460,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@febelauto.be — general mailbox verified on the official site https://www.febelauto.be/fr/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_febelauto_woluwe_vaph_matrix_9900_2_55m_9901_1177k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3362/; rq_3362=done; spawn **rq_3363**; ticks=3362.
 - Next: **rq_3363 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3363 — 2026-10-13T07:04:25Z — rq_3363 leftover dual Deutsch-Belgisch-Luxemburgische Handelskammer (debelux) Sint-Joost-ten-Node YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.120 / 94.110 / 91.xxx / 93.1xx / 49.390 / 81.300 / 01.610 / 02.400 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Deutsch-Belgisch-Luxemburgische Handelskammer (debelux)** → KBO 0406.655.078 had 0 prior entity rows.
+- KBO: Actief since 16 juni 1969; VZW; zetel Bolwerklaan 21 1210 Sint-Joost-ten-Node; 1 VE; 0 prior entity rows for 0406.655.078
+- Found: official NBB VKT-VZW native PDF **2026-00325478** (325091 B / 25p; AV 11-06-2026; neergelegd 24/07/2026; MD5 d9a1f1d5f2867ae24d322a10ae06b283). VKT-VZW 9900 **EUR1813126** (+0.75%); 62 **EUR1604396**; 9901 **EUR15858** (was 80546); 9904 -20749; equity 1824542; cash 1577082; FTE 14,2 (was 14,4).
+- FOI address: ahk@debelux.org — general mailbox verified on the official site https://www.debelux.org/de/kontakt.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_debelux_handelskammer_vaph_matrix_9900_1_81m_9901_16k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3363/; rq_3363=done; spawn **rq_3364**; ticks=3363.
+- Next: **rq_3364 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
