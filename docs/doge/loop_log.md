@@ -38480,3 +38480,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@latrace.be — general mailbox verified on the official site https://www.latrace.be/infos-pratiques (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_la_trace_saint_gilles_vaph_matrix_9900_0_58m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3564/; rq_3564=done; spawn **rq_3565**; ticks=3564.
 - Next: **rq_3565 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3565 — 2026-10-13T14:15:58Z — rq_3565 leftover dual Addictions Etterbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Addictions** → KBO 0463.154.808 had 0 prior entity rows.
+- KBO: Actief since 16 februari 1998; VZW; zetel Léon de Lantsheerestraat 50 1040 Etterbeek; 1 VE; 0 prior entity rows for 0463.154.808
+- Found: official NBB VKT-VZW native PDF **2026-00165599** (40691 B / 9p; AV 11-06-2026; neergelegd 15/06/2026; MD5 dc3661077121c5e0269cb85b80e2de57). VKT-VZW 9900 **EUR571163** (+11.78%); 62 **EUR574465**; 9901 **EUR-6470** (was -31647); 9904 -2583; equity 219110; cash 1880; FTE 7 (was 7).
+- FOI address: coordination@addictionsasbl.be — role (coordination) mailbox verified on the official site https://www.addictionsasbl.be/contact-acces.html (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_addictions_etterbeek_vaph_matrix_9900_0_57m_9901_loss_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3565/; rq_3565=done; spawn **rq_3566**; ticks=3565.
+- Next: **rq_3566 leftover dual** — Batch done (3556-3565); one code 733 row (IATA Namur, from the NACE-BEL 2025 scan triage) then code 9900 leftovers (Médiathèque Nouvelle still unreachable). Next: triage of new NACE-BEL 2025 scan keys for code 733 filers (old-code scan complete; NACE-BEL 2025 scan still running), then further code 9900 leftovers from the rebuilt pool, largest first..
