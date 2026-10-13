@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T17:08:31Z,every10_3700,3700,no,"tick3700 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3700 carried open; next Mensen voor Mensen, Planning familial Arlon, SVAG, WVCB, Mondiale Werken Regio Lier (code 9900, nscan7)"
+main,continuous,hole_fill,2026-10-13T17:08:37Z,rq_3700,3701,no,tick3701 leftover dual Aalsterse Vierdewereldgroep Mensen voor Mensen Aalst 0456.198.423 Strong PDF 2026-00095397 9900 0.66m / 9901 loss 4k; next rq_3702 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

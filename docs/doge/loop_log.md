@@ -39840,3 +39840,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3700 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3700 run locally as fallback.
 - Next: **rq_3700** — code 9900 (NOT subsidy amounts): Mensen voor Mensen (EUR0.66m), Planning familial Arlon (EUR0.66m), SVAG (EUR0.58m, micro), WVCB (EUR0.58m), Mondiale Werken Regio Lier (EUR0.39m, micro); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scan nscan7.
+
+
+## Tick 3701 — 2026-10-13T17:08:37Z — rq_3700 leftover dual Aalsterse Vierdewereldgroep Mensen voor Mensen Aalst YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Aalsterse Vierdewereldgroep Mensen voor Mensen** → KBO 0456.198.423 had 0 prior entity rows.
+- KBO: Actief since 14 maart 1995; VZW; zetel Sinte Annalaan 41 9300 Aalst; 1 VE; 0 prior entity rows for 0456.198.423
+- Found: official NBB VKT-VZW native PDF **2026-00095397** (44256 B / 11p; AV 28-04-2026; neergelegd 30/04/2026; MD5 3f6e1065288e5e232fa510740d0cde3c). VKT-VZW 9900 **EUR664149** (-1.66%); 62 **EUR664572**; 9901 **EUR-4298** (was -24572); 9904 -1395; equity 89115; cash 224888; FTE 10,1 (was 10,6).
+- FOI address: info@mensenvoormensen.be — general mailbox verified on the official site https://mensenvoormensen.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_mensen_voor_mensen_aalst_vaph_matrix_9900_0_66m_9901_loss_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3701/; rq_3700=done; spawn **rq_3702**; ticks=3701.
+- Next: **rq_3702 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
