@@ -34964,3 +34964,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@smes.be — general mailbox verified on the official site https://smes.be/fr/accueil/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_schaerbeek); FOI **gap_smes_b_vaph_matrix_9900_1_95m_9901_35k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3212/; rq_3212=done; spawn **rq_3213**; ticks=3212.
 - Next: **rq_3213 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3213 — 2026-10-13T01:47:54Z — rq_3213 leftover dual Delta, Sociale Werkplaats voor Oost-Brabant (Tienen) Tienen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Mental-health, youth-care and social-economy non-profits (Walloon/Brussels services de santé mentale and habitations protégées, Flemish jeugdhulp / sociale werkplaats VZWs) from a fresh KBO name search; code 733 rows first (none qualified), then largest code 9900: **Delta, Sociale Werkplaats voor Oost-Brabant (Tienen)** → KBO 0465.819.833 had 0 prior entity rows.
+- KBO: Actief since 27 januari 1999; VZW; zetel Ambachtenlaan 70 3300 Tienen; 1 VE; 0 prior entity rows for 0465.819.833
+- Found: official NBB VKT-VZW native PDF **2026-00144848** (46250 B / 11p; AV 04-05-2026; neergelegd 03/06/2026; MD5 d5a81094cd639ed1ea7fcda0eb5f091a). VKT-VZW 9900 **EUR1597849** (+8.22%); 62 **EUR1433232**; 9901 **EUR140909** (was 53098); 9904 211863; equity 2762635; cash 1277987; FTE 43,2 (was 41,7).
+- FOI address: info@swdelta.be — general mailbox verified on the official site https://www.swdelta.be/contact/.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_tienen); FOI **gap_delta_sw_tienen_vaph_matrix_9900_1_60m_9901_141k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3213/; rq_3213=done; spawn **rq_3214**; ticks=3213.
+- Next: **rq_3214 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
