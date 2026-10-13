@@ -36410,3 +36410,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: fostplus@fostplus.be — general mailbox verified on the official site https://www.fostplus.be/fr/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_fost_plus_evere_vaph_matrix_733_0_07m_9901_41001k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3357/; rq_3357=done; spawn **rq_3358**; ticks=3357.
 - Next: **rq_3358 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3358 — 2026-10-13T07:02:45Z — rq_3358 leftover dual OZOS - Optimale Zorg door Optimale Samenwerking (Apotheia) Hasselt YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.120 / 94.110 / 91.xxx / 93.1xx / 49.390 / 81.300 / 01.610 / 02.400 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **OZOS - Optimale Zorg door Optimale Samenwerking (Apotheia)** → KBO 0408.819.366 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1953; VZW; zetel Ilgatlaan 5 3500 Hasselt; 2 VE; 0 prior entity rows for 0408.819.366
+- Found: official NBB VKT-VZW native PDF **2026-00216757** (63549 B / 20p; AV 15-06-2026; neergelegd 29/06/2026; MD5 424bb3db2a80bc87c1f5bbeb18a41e96). VKT-VZW 9900 **EUR5835446** (+132.57%); 62 **EUR5020630**; 9901 **EUR388474** (was 66971); 9904 396323; equity 21122176; cash 15011300; FTE 65,5 (was 30,2).
+- FOI address: info@apotheia.be — general mailbox verified on the official site https://www.apotheia.be/contacteer-ons (the site privacy page lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_hasselt); FOI **gap_ozos_apotheia_hasselt_vaph_matrix_9900_5_84m_9901_388k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3358/; rq_3358=done; spawn **rq_3359**; ticks=3358.
+- Next: **rq_3359 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
