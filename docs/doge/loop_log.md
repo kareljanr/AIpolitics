@@ -37240,3 +37240,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3440 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3440 run locally as fallback.
 - Next: **rq_3440** — code 9900 (NOT subsidy amounts): MOBILESEM (EUR1.05m), FOS Open Scouting (EUR0.81m), Maison de la poésie d’Amay (EUR0.63m), CEGO (EUR0.62m), Talbot House (EUR0.52m); mailboxes verified on official sites, after the dedup check. Fresh scan of 22 new NACE families running (about 80 of 440 pages done).
+
+
+## Tick 3441 — 2026-10-13T10:12:35Z — rq_3440 leftover dual MOBILESEM Philippeville YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **MOBILESEM** → KBO 0840.664.059 had 0 prior entity rows.
+- KBO: Actief since 18 oktober 2011; VZW; zetel Rue du Moulin 181 5600 Philippeville; 3 VE; 0 prior entity rows for 0840.664.059
+- Found: official NBB VKT-VZW native PDF **2026-00387416** (459899 B / 17p; AV 29-06-2026; neergelegd 29/07/2026; MD5 592651b2fd70303bb18ccc60dc0e7d47). VKT-VZW 9900 **EUR1048153** (+1.63%); 62 **EUR942838**; 9901 **EUR-100363** (was 24131); 9904 -10287; equity 227428; cash 336795; FTE 14,1 (was 12,9).
+- FOI address: info@mobilesem.be — general mailbox verified on the official site https://www.mobilesem.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_mobilesem_philippeville_vaph_matrix_9900_1_05m_9901_loss_100k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3441/; rq_3440=done; spawn **rq_3442**; ticks=3441.
+- Next: **rq_3442 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
