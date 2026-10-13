@@ -37180,3 +37180,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: dot.administratie@dotvzw.be — administration role mailbox verified on the official site https://dotvzw.be/contact/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_dot_vzw_schaerbeek_vaph_matrix_9900_1_47m_9901_106k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3434/; rq_3434=done; spawn **rq_3435**; ticks=3434.
 - Next: **rq_3435 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3435 — 2026-10-13T09:42:18Z — rq_3435 leftover dual Caméra-etc Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Caméra-etc** → KBO 0421.894.075 had 0 prior entity rows.
+- KBO: Actief since 19 december 1979; VZW; zetel Rue Louvrex 95 4000 Liège; 1 VE; 0 prior entity rows for 0421.894.075
+- Found: official NBB VKT-VZW native PDF **2026-00109050** (43528 B / 11p; AV 07-04-2026; neergelegd 11/05/2026; MD5 103c8ec8027c789ac373fa976591df1a). VKT-VZW 9900 **EUR781687** (+2.21%); 62 **EUR787240**; 9901 **EUR-13710** (was -40927); 9904 -10948; equity 31661; cash 90959; FTE 11,3.
+- FOI address: info@camera-etc.be — general mailbox verified on the official site https://www.camera-etc.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_camera_etc_liege_vaph_matrix_9900_0_78m_9901_loss_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3435/; rq_3435=done; spawn **rq_3436**; ticks=3435.
+- Next: **rq_3436 leftover dual** — Batch done; newly finished 59.1x / 58.1x / 94.xxx scan pages gave one usable code 733 row (Les Grignoux); the rest are code 9900 leftovers. Next: Médiathèque Nouvelle (code 733, site still unreachable), the 23 still-running scan pages, then SONEFA / Crèches de Schaerbeek (code 733, no own-site mailbox yet)..
