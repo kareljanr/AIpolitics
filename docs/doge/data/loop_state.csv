@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T06:34:38Z,rq_3348,3348,no,tick3348 leftover dual Chapelle de Bourgogne Uccle 0408.551.132 Strong PDF 2026-00224573 9900 3.69m / 9901 55k; next rq_3349 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T06:34:44Z,rq_3349,3349,no,tick3349 leftover dual La Tramontane Ixelles 0420.787.582 Strong PDF 2026-00376123 9900 3.27m / 9901 loss 127k; next rq_3350 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

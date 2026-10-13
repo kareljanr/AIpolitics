@@ -36320,3 +36320,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@chapbg.be — secretariat mailbox verified on the official site https://www.chapelledebourgogne.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_chapelle_de_bourgogne_uccle_vaph_matrix_9900_3_69m_9901_55k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3348/; rq_3348=done; spawn **rq_3349**; ticks=3348.
 - Next: **rq_3349 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3349 — 2026-10-13T06:34:44Z — rq_3349 leftover dual La Tramontane Ixelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **La Tramontane** → KBO 0420.787.582 had 0 prior entity rows.
+- KBO: Actief since 1 juni 1980; VZW; zetel Goffartstraat 103 1050 Elsene; 2 VE; 0 prior entity rows for 0420.787.582
+- Found: official NBB VKT-VZW native PDF **2026-00376123** (51282 B / 14p; AV 23-04-2026; neergelegd 30/07/2026; MD5 ec1ce50d19e320d31f3a43836859758c). VKT-VZW 9900 **EUR3270451** (+18.27%); 62 **EUR3249858**; 9901 **EUR-127477** (was 101561); 9904 -126835; equity 541417; cash 327604; FTE 45,7 (was 40).
+- FOI address: tramontane@latramontane.be — general mailbox verified on the official site https://www.latramontane.be/ (official site of this ASBL).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ixelles); FOI **gap_la_tramontane_ixelles_vaph_matrix_9900_3_27m_9901_loss_127k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3349/; rq_3349=done; spawn **rq_3350**; ticks=3349.
+- Next: **rq_3350 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
