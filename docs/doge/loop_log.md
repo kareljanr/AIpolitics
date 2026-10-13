@@ -37770,3 +37770,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@zinnema.be — general mailbox verified on the official site https://www.zinnema.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_zinnema_anderlecht_vaph_matrix_9900_1_14m_9901_loss_45k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3493/; rq_3493=done; spawn **rq_3494**; ticks=3493.
 - Next: **rq_3494 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3494 — 2026-10-13T11:47:59Z — rq_3494 leftover dual Passages AMO Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Passages AMO** → KBO 0452.251.414 had 0 prior entity rows.
+- KBO: Actief since 20 december 1993; VZW; zetel Rue de l'Armée Grouchy(NR) 20 5000 Namur; 2 VE; 0 prior entity rows for 0452.251.414
+- Found: official NBB VKT-VZW native PDF **2026-00248848** (44021 B / 12p; AV 16-06-2026; neergelegd 29/06/2026; MD5 a4b3bca40edf66ea131561179b3591b1). VKT-VZW 9900 **EUR1131855** (+25.05%); 62 **EUR1074336**; 9901 **EUR46726** (was 22548); 9904 48992; equity 255117; cash 527894; FTE 14,3 (was 13,8).
+- FOI address: secretariat@amopassages.be — role mailbox verified on the official site https://www.amopassages.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_passages_amo_namur_vaph_matrix_9900_1_13m_9901_47k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3494/; rq_3494=done; spawn **rq_3495**; ticks=3494.
+- Next: **rq_3495 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
