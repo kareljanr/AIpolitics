@@ -39640,3 +39640,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3680 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3680 run locally as fallback.
 - Next: **rq_3680** — code 9900 (NOT subsidy amounts): L’Échelle (EUR0.62m), De Kei (EUR0.61m, micro), Opvangcentrum Vogels Oostende (EUR0.59m, micro), De Keerkring (EUR0.58m, micro), AMO de NOH (EUR0.52m, micro); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scan nscan5.
+
+
+## Tick 3681 — 2026-10-13T16:38:02Z — rq_3680 leftover dual L'Échelle Mouscron YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **L'Échelle** → KBO 0448.610.152 had 0 prior entity rows.
+- KBO: Actief since 18 juni 1992; VZW; zetel Sint Jozefstraat 2 7700 Mouscron; 1 VE; 0 prior entity rows for 0448.610.152
+- Found: official NBB VKT-VZW native PDF **2026-00205844** (153524 B / 14p; AV 20-05-2026; neergelegd 25/06/2026; MD5 7270d491c2807b7ff9e85d215aafca1c). VKT-VZW 9900 **EUR616469** (-5.08%); 62 **EUR624293**; 9901 **EUR-14272** (was 65434); 9904 -10016; equity 180834; cash 287266; FTE 9,1 (was 8,1).
+- FOI address: info@echelleasbl.be — general mailbox verified on the official site https://echelleasbl.be/nous%20contacter.html (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_l_echelle_mouscron_vaph_matrix_9900_0_62m_9901_loss_14k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3681/; rq_3680=done; spawn **rq_3682**; ticks=3681.
+- Next: **rq_3682 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
