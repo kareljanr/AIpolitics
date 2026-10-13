@@ -39120,3 +39120,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@debateville.org — general mailbox verified on the official site https://debateville.org/contact/ (the site FAQ lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_debateville_brussel_vaph_matrix_9900_0_78m_9901_283k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3628/; rq_3628=done; spawn **rq_3629**; ticks=3628.
 - Next: **rq_3629 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3629 — 2026-10-13T15:56:38Z — rq_3629 leftover dual Maison wallonne de la Pêche Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Maison wallonne de la Pêche** → KBO 0474.966.636 had 0 prior entity rows.
+- KBO: Actief since 11 maart 2001; VZW; zetel Rue Lucien Namêche 10 5000 Namur; 2 VE; 0 prior entity rows for 0474.966.636
+- Found: official NBB VKT-VZW native PDF **2026-00113494** (2391430 B / 21p; AV 07-05-2026; neergelegd 12/05/2026; MD5 d5023476aebc29f1a73cbc184d16a7e6). VKT-VZW 9900 **EUR719892** (+5.01%); 62 **EUR697609**; 9901 **EUR-2891** (was 51607); 9904 -2511; equity 496875; cash 482274; FTE 9,5 (was 8,7).
+- FOI address: info@maisondelapeche.be — general mailbox verified on the official site https://www.maisondelapeche.be/fr/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_maison_wallonne_peche_namur_vaph_matrix_9900_0_72m_9901_loss_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3629/; rq_3629=done; spawn **rq_3630**; ticks=3629.
+- Next: **rq_3630 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
