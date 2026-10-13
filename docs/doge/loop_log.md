@@ -39260,3 +39260,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@ajile.org — role mailbox verified on the official site https://www.ajile.org/ (legal notice lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ajile_bruxelles_vaph_matrix_9900_0_56m_9901_29k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3642/; rq_3642=done; spawn **rq_3643**; ticks=3642.
 - Next: **rq_3643 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3643 — 2026-10-13T16:04:41Z — rq_3643 leftover dual Kind en Samenleving Mechelen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Kind en Samenleving** → KBO 0461.956.560 had 0 prior entity rows.
+- KBO: Actief since 8 oktober 1997; VZW; zetel Lange Ridderstraat 22 2800 Mechelen; 1 VE; 0 prior entity rows for 0461.956.560
+- Found: official NBB MIC-VZW native PDF **2026-00078346** (47148 B / 11p; AV 24-03-2026; neergelegd 13/04/2026; MD5 2f779fe0dcbf518c4731d9d74af5cced). MIC-VZW 9900 **EUR531256** (-15.72%); 62 **EUR511626**; 9901 **EUR1094** (was 51628); 9904 1953; equity 354571; cash 265582; FTE n/a.
+- FOI address: info@k-s.be — general mailbox verified on the official site https://www.k-s.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_kind_en_samenleving_mechelen_vaph_matrix_9900_0_53m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3643/; rq_3643=done; spawn **rq_3644**; ticks=3643.
+- Next: **rq_3644 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
