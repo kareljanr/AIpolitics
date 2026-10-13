@@ -40250,3 +40250,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@outside.be — general mailbox verified on the official site https://outsidejongerenvakanties.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_outside_jongerenvakantie_poperinge_vaph_matrix_9900_0_95m_9901_31k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3741/; rq_3740=done; spawn **rq_3742**; ticks=3741.
 - Next: **rq_3742 leftover dual** — Batch done (3739-3741); code 733 row first, then code 9900, from bounded KBO scan nscan13, largest first; many rows rejected (Gmail/ISP mailboxes, unreachable sites); candidates ran dry; Médiathèque Nouvelle still unreachable. Next: a new bounded scan..
+
+
+## Tick 3742 — 2026-10-13T19:17:27Z — rq_3742 leftover dual SoHab - Association de Solidarité pour l'Habitat Ixelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **SoHab - Association de Solidarité pour l'Habitat** → KBO 0443.559.917 had 0 prior entity rows.
+- KBO: Actief since 23 december 1988; VZW; zetel Elsense Steenweg 29 bus 9 1050 Elsene; 3 VE; 0 prior entity rows for 0443.559.917
+- Found: official NBB VKT-VZW native PDF **2026-00239497** (457425 B / 27p; AV 17-06-2026; neergelegd 02/07/2026; MD5 940dab707b30e436abe86342353aae50). VKT-VZW 9900 **EUR2750906** (-4.12%); 62 **EUR2565216**; 9901 **EUR41946** (was 128363); 9904 14385; equity 542548; cash 496205; FTE 37,5 (was 38,9).
+- FOI address: info@sohab.be — general mailbox verified on the official site https://sohab.be/fr/politique-de-confidentialite/ (site shows the same KBO number) (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_sohab_ixelles_vaph_matrix_9900_2_75m_9901_42k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3742/; rq_3742=done; spawn **rq_3743**; ticks=3742.
+- Next: **rq_3743 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
