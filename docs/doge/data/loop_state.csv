@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T10:12:35Z,rq_3440,3441,no,tick3441 leftover dual MOBILESEM Philippeville 0840.664.059 Strong PDF 2026-00387416 9900 1.05m / 9901 loss 100k; next rq_3442 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T10:12:47Z,rq_3442,3442,no,tick3442 leftover dual FOS Open Scouting Gent 0409.543.797 Strong PDF 2026-00237220 9900 0.81m / 9901 loss 6k; next rq_3443 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

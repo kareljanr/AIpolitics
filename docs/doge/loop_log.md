@@ -37250,3 +37250,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mobilesem.be — general mailbox verified on the official site https://www.mobilesem.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_mobilesem_philippeville_vaph_matrix_9900_1_05m_9901_loss_100k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3441/; rq_3440=done; spawn **rq_3442**; ticks=3441.
 - Next: **rq_3442 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3442 — 2026-10-13T10:12:47Z — rq_3442 leftover dual FOS Open Scouting Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **FOS Open Scouting** → KBO 0409.543.797 had 0 prior entity rows.
+- KBO: Actief since 2 juni 1966; VZW; zetel Zwijnaardsesteenweg 93 9000 Gent; 1 VE; 0 prior entity rows for 0409.543.797
+- Found: official NBB VKT-VZW native PDF **2026-00237220** (53358 B / 14p; AV 18-03-2026; neergelegd 29/06/2026; MD5 1fad27c6e1e6254f2e140bd0adb4f51c). VKT-VZW 9900 **EUR812761** (+9.75%); 62 **EUR772390**; 9901 **EUR-6216** (was -57452); 9904 2052; equity 286632; cash 735743; FTE 10,9 (was 10,5).
+- FOI address: info@fos.be — general mailbox verified on the official site https://fosopenscouting.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_fos_open_scouting_gent_vaph_matrix_9900_0_81m_9901_loss_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3442/; rq_3442=done; spawn **rq_3443**; ticks=3442.
+- Next: **rq_3443 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
