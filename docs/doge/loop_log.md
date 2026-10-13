@@ -34854,3 +34854,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@collegesaint-hubert.be — general/role mailbox of the school of the same name run by this organising body, listed on the SeGEC school directory page https://enseignement.catholique.be/etablissements/college-saint-hubert/ which names this ASBL as pouvoir organisateur (opened 13 Oct 2026).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_college_saint_hubert_boitsfort_vaph_matrix_733_9_35m_9901_75k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3201/; rq_3200=done; spawn **rq_3202**; ticks=3201.
 - Next: **rq_3202 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3202 — 2026-10-13T01:35:08Z — rq_3202 leftover dual Lire et Ecrire Bruxelles Molenbeek-Saint-Jean YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB free (catholic) school organising bodies and literacy ASBLs (ASBL) whose general/role mailbox is listed on the SeGEC school directory or an official site, matched to the KBO; largest code 733 first: **Lire et Ecrire Bruxelles** → KBO 0442.273.280 had 0 prior entity rows.
+- KBO: Actief since 23 november 1989; VZW; zetel Paalstraat 14 1080 Sint-Jans-Molenbeek Extra adresinfo: 4 de verdieping; 1 VE; 0 prior entity rows for 0442.273.280
+- Found: official NBB VOL-VZW native PDF **2026-00253787** (625195 B / 49p; AV 15-06-2026; neergelegd 01/07/2026; MD5 390208981cbe7a0435f8d5a07636a68c). VOL-VZW 733 **EUR7735406** (+5.25%); 62 **EUR8304067**; 9901 **EUR48985** (was 74154); 9904 33429; equity 357110; cash 61452; FTE 112,9 (was 113,1).
+- FOI address: bruxelles@lire-et-ecrire.be — regional office mailbox of Lire et Ecrire Bruxelles verified on the official network contact page https://lire-et-ecrire.be/Nous-contacter-1299.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_lee_bruxelles_vaph_matrix_733_7_74m_9901_49k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3202/; rq_3202=done; spawn **rq_3203**; ticks=3202.
+- Next: **rq_3203 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
