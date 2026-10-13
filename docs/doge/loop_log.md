@@ -40280,3 +40280,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariaat@foyer.be — role mailbox verified on the official site https://www.foyer.be/contact-3/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_foyer_molenbeek_vaph_matrix_9900_1_59m_9901_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3744/; rq_3744=done; spawn **rq_3745**; ticks=3744.
 - Next: **rq_3745 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3745 — 2026-10-13T19:17:59Z — rq_3745 leftover dual Centre de Guidance d'Ixelles Ixelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Centre de Guidance d'Ixelles** → KBO 0409.873.696 had 0 prior entity rows.
+- KBO: Actief since 12 januari 1970; VZW; zetel Napelsstraat 35 1050 Elsene; 2 VE; 0 prior entity rows for 0409.873.696
+- Found: official NBB MIC-VZW native PDF **2026-00248165** (45254 B / 11p; AV 24-06-2026; neergelegd 01/07/2026; MD5 7a6081d2470f225da70198585e575df4). MIC-VZW 9900 **EUR1576445** (+9.11%); 62 **EUR1475767**; 9901 **EUR98287** (was 17827); 9904 97831; equity 190929; cash 303009; FTE n/a.
+- FOI address: secretariat.adultes@cgxl.be — role mailbox verified on the official site https://www.cgxl.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_centre_de_guidance_ixelles_vaph_matrix_9900_1_58m_9901_98k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3745/; rq_3745=done; spawn **rq_3746**; ticks=3745.
+- Next: **rq_3746 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
