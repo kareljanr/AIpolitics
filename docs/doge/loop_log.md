@@ -38110,3 +38110,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@colorados.be — general mailbox verified on the official site https://colorados.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_amo_colorados_braine_vaph_matrix_9900_0_76m_9901_loss_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3527/; rq_3527=done; spawn **rq_3528**; ticks=3527.
 - Next: **rq_3528 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3528 — 2026-10-13T12:20:05Z — rq_3528 leftover dual Relais Enfants-Parents Saint-Josse-ten-Noode YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Relais Enfants-Parents** → KBO 0454.926.436 had 0 prior entity rows.
+- KBO: Actief since 17 januari 1995; VZW; zetel Liefdadigheidsstraat 17 1210 Sint-Joost-ten-Node; 1 VE; 0 prior entity rows for 0454.926.436
+- Found: official NBB VKT-VZW native PDF **2026-00172053** (49670 B / 13p; AV 08-06-2026; neergelegd 18/06/2026; MD5 4d9d15e5af9de2780ad91b71e38156de). VKT-VZW 9900 **EUR757828** (+0.57%); 62 **EUR838054**; 9901 **EUR16198** (was 9308); 9904 20038; equity 159328; cash 144189; FTE 10,8 (was 12,2).
+- FOI address: info@relaisenfantsparents.be — general mailbox verified on the official site https://www.relaisenfantsparents.be/mentions-legales-et-vie-privee (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_relais_enfants_parents_sjtn_vaph_matrix_9900_0_76m_9901_16k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3528/; rq_3528=done; spawn **rq_3529**; ticks=3528.
+- Next: **rq_3529 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
