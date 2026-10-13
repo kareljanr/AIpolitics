@@ -37850,3 +37850,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@cagnet.be — general mailbox verified on the official site https://cagnet.be/page/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_cag_leuven_vaph_matrix_9900_1_04m_9901_196k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3501/; rq_3500=done; spawn **rq_3502**; ticks=3501.
 - Next: **rq_3502 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3502 — 2026-10-13T11:56:17Z — rq_3502 leftover dual Pôle Formation Emploi - Industrie technologique (Technicity.brussels) Anderlecht YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Pôle Formation Emploi - Industrie technologique (Technicity.brussels)** → KBO 0560.886.068 had 0 prior entity rows.
+- KBO: Actief since 2 september 2014; VZW; zetel Researchdreef 26 1070 Anderlecht; 1 VE; 0 prior entity rows for 0560.886.068
+- Found: official NBB VKT-VZW native PDF **2026-00362016** (55144 B / 16p; AV 11-06-2026; neergelegd 28/07/2026; MD5 079978cc03282e732921828b46846a9e). VKT-VZW 9900 **EUR1037091** (+17.62%); 62 **EUR661318**; 9901 **EUR339742** (was 14330); 9904 338530; equity 1037541; cash 517635; FTE 7,6 (was 8,5).
+- FOI address: info@technicity.brussels — general mailbox verified on the official site https://www.technicity.brussels/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_technicity_anderlecht_vaph_matrix_9900_1_04m_9901_340k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3502/; rq_3502=done; spawn **rq_3503**; ticks=3502.
+- Next: **rq_3503 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
