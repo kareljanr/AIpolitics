@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3300** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3290; 3291-3299 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3291-3299 residual dual L5 (not near-complete of 348bn):** Présence et Action Culturelles · GSARA · LUSS · GAMS Belgique · Relie-F · Vétérinaires Sans Frontières · Veeweyde · VAi · Sans Collier (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2907** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **2962** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3291-3299** Présence et Action Culturelles · GSARA · LUSS · GAMS Belgique · Relie-F · Vétérinaires Sans Frontières · Veeweyde · VAi · Sans Collier.
+
+### Inventory (tick 3300)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 61950 |
+| commitments.csv | 6962 |
+| leaderboard.csv | 9080 |
+| entities.csv | 2980 |
+| sources.csv | 9819 |
+| FOI ready | 2907 |
+| FOI total rows | 2962 |
+| research_queue open | rq_3300 (carried; next: MS-Liga Vlaanderen, Bataljong, KSA Nationaal, GAFFI, Arc-en-Ciel (NACE 94.99x scan, code 9900); largest first) |
+
+### What improved since tick 3290
+
+- **New source (tick3291-3299):** Présence et Action Culturelles · GSARA · LUSS · GAMS Belgique · Relie-F · Vétérinaires Sans Frontières · Veeweyde · VAi · Sans Collier. 3291-3295 finished the NACE 94.991/94.992 picks (code 9900). 3296+ adds NACE 94.999 and 88.109 over Walloon, Brussels and Flemish postcodes (776 legal persons not yet in the repo); code 733 first (Vétérinaires Sans Frontières), then code 9900.
+- **FOI addresses:** general or role mailboxes verified on each body's own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3300 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3290** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

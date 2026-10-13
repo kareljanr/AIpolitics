@@ -35830,3 +35830,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sanscollier.be — general mailbox verified on the official site https://www.sanscollier.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_sans_collier_perwez_vaph_matrix_9900_1_94m_9901_388k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3299/; rq_3299=done; spawn **rq_3300**; ticks=3299.
 - Next: **rq_3300 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3300 — 2026-10-13T05:07:54Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2907** of 2962 rows; inventory budgets 61950 · commitments 6962 · leaderboard 9080 · entities 2980 · sources 9819.
+- Top10: **stable** (3271-3279 added 8 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3291-3299: Présence et Action Culturelles · GSARA · LUSS · GAMS Belgique · Relie-F · Vétérinaires Sans Frontières · Veeweyde · VAi · Sans Collier.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3300 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3300 run locally as fallback.
+- Next: **rq_3300** — NACE 94.99x scan (code 9900, NOT subsidy amounts): MS-Liga Vlaanderen (EUR1.74m), Bataljong (EUR1.68m), KSA Nationaal (EUR1.67m), GAFFI (EUR1.40m), Arc-en-Ciel (EUR1.32m); mailboxes verified on official sites, after the dedup check.
