@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3860** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3850; 3851-3859 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3851-3859 residual dual L5 (not near-complete of 348bn):** GLUON · Het Depot · Workspacebrussels · Wijkgezondheidscentrum ’t Spoor · VBJK · TOPunt Gent · Vokans · Free-Time · Motief (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3405** drafts ready | Human send only; answered **11**; partial **29**; total FOI rows **3466** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3851-3859** GLUON · Het Depot · Workspacebrussels · Wijkgezondheidscentrum ’t Spoor · VBJK · TOPunt Gent · Vokans · Free-Time · Motief.
+
+### Inventory (tick 3860)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 66019 |
+| commitments.csv | 7466 |
+| leaderboard.csv | 9584 |
+| entities.csv | 3484 |
+| sources.csv | 11331 |
+| FOI ready | 3405 |
+| FOI total rows | 3466 |
+| research_queue open | rq_3860 (carried; next: none queued (check remaining Flemish Subsidieregister candidates)) |
+
+### What improved since tick 3850
+
+- **New source (tick3851-3859):** GLUON · Het Depot · Workspacebrussels · Wijkgezondheidscentrum ’t Spoor · VBJK · TOPunt Gent · Vokans · Free-Time · Motief. All from the Flemish Subsidieregister 2025_V01 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets; file kept outside the repo, register amount and largest verstrekker cited per row), non-profit filers only. Amounts from NBB 2025 filings: code 9900 (NOT a subsidy amount). Mailboxes fetched directly from each body’s own site; KBO address checked with kb.py. Rejected: Extra City and Wotepa-type cases (mailbox domain differs from site), Toestand (site not verifiable), Familieplatform and Voem (member network / national body with local branches), Wervel and Workroom (registered seat differs from site), Actinetservices (service-voucher company), Andromeda Beheer (CLB support vzw, no site content), Neverland (no site), Not Standing (no mailbox on own site). Correction: TOPunt Gent (tick3856) FOI set to not_ready in tick3857 (joint vzw of the three Ghent CLBs, network/public-linked).
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3860 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked 2026-10-13: no new DOGE tick commits (radar only). Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3850** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
