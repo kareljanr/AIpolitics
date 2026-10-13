@@ -34772,3 +34772,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ichec.be — general mailbox of ICHEC (a component school of this haute école) verified on its official contact page https://www.ichec.be/fr/contact (the site names the haute école ICHEC-ECAM-ISFSC); not a mailbox of the ASBL board itself.
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_he_ichec_ecam_isfsc_vaph_matrix_733_27_94m_9901_1418k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3193/; rq_3193=done; spawn **rq_3194**; ticks=3193.
 - Next: **rq_3194 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3194 — 2026-10-13T01:23:00Z — rq_3194 leftover dual Enseignement secondaire diocésain de Chênée Liège (Chênée) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE FWB special-needs and secondary-school organising bodies (ASBL) whose school mailbox (@sec.cfwb.be) is listed on the SeGEC school directory (enseignement.catholique.be, crawled 13 Oct 2026, 1,789 school pages) and matched to the KBO by name; largest code 733 first: **Enseignement secondaire diocésain de Chênée** → KBO 0451.962.689 had 0 prior entity rows.
+- KBO: Actief since 21 december 1993; VZW; zetel Rue Soeur-Lutgardis 4 4032 Liège; 2 VE; 0 prior entity rows for 0451.962.689
+- Found: official NBB VOL-VZW native PDF **2026-00413249** (1147610 B / 38p; AV 26-05-2026; neergelegd 21/08/2026; MD5 cd11f6ede30123e37b40a77bb58af6d3). VOL-VZW 733 **EUR18426196** (+6.03%); 62 **EUR16412858**; 9901 **EUR203748** (was 128742); 9904 183285; equity 8883350; cash 5152295; FTE 12,3 (was 11,1).
+- FOI address: info@csj-chenee.be — general mailbox of Collège Saint-Joseph (Chênée), a school run by this organising body, verified on its official site https://csj-chenee.be/contact; the SeGEC directory https://enseignement.catholique.be/etablissements/college-saint-joseph/ names this ASBL as pouvoir organisateur and lists the same address.
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_esd_chenee_vaph_matrix_733_18_43m_9901_204k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3194/; rq_3194=done; spawn **rq_3195**; ticks=3194.
+- Next: **rq_3195 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
