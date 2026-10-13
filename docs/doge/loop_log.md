@@ -39550,3 +39550,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@formanim.be — general mailbox verified on the official site https://www.formanim.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_formanim_seraing_vaph_matrix_9900_1_18m_9901_loss_5k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3671/; rq_3670=done; spawn **rq_3672**; ticks=3671.
 - Next: **rq_3672 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3672 — 2026-10-13T16:34:48Z — rq_3672 leftover dual Dierenvrienden Sint-Truiden (Dierenasiel Sint-Truiden) Sint-Truiden YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Dierenvrienden Sint-Truiden (Dierenasiel Sint-Truiden)** → KBO 0882.383.264 had 0 prior entity rows.
+- KBO: Actief since 7 juli 2006; VZW; zetel Bedrijvenstraat 5797 3800 Sint-Truiden; 2 VE; 0 prior entity rows for 0882.383.264
+- Found: official NBB VKT-VZW native PDF **2026-00216624** (43951 B / 11p; AV 29-06-2026; neergelegd 29/06/2026; MD5 70eee28636f5c101e45b2a71f2cd371b). VKT-VZW 9900 **EUR1063298** (+149.52%); 62 **EUR670893**; 9901 **EUR317927** (was -132828); 9904 315988; equity 1075572; cash 423113; FTE 21 (was 15,5).
+- FOI address: info@dierenasielsinttruiden.be — general mailbox verified on the official site https://dierenasielsinttruiden.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_limburg); FOI **gap_dierenvrienden_sint_truiden_vaph_matrix_9900_1_06m_9901_318k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3672/; rq_3672=done; spawn **rq_3673**; ticks=3672.
+- Next: **rq_3673 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
