@@ -40230,3 +40230,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@marienhove.be — general mailbox verified on the official site https://www.marienhove.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_ouderenzorg_zcs_marienhove_malle_vaph_matrix_733_2_05m_9901_402k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3739/; rq_3739=done; spawn **rq_3740**; ticks=3739.
 - Next: **rq_3740 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3740 — 2026-10-13T19:05:14Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3303** of 3358 rows; inventory budgets 65152 · commitments 7358 · leaderboard 9476 · entities 3376 · sources 11007.
+- Top10: **stable** (3731-3739 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3731-3739: Crèche Princesse Astrid · Ferme du Parc Maximilien · Circomédie · Les Jacinthes · Intégration Sociale et Travail (Sésame) · A.V.J. Namur · CRILUX · Triangle Wallonie · Ouderenzorg Zusters der Christelijke Scholen (WZC Mariënhove).
+- Hunt this tick: none (EVERY-10 used the tick); rq_3740 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3740 run locally as fallback.
+- Next: **rq_3740** — code 9900 (NOT subsidy amounts): Outside Jongerenvakantie (EUR0.95m); mailbox verified on the official site, after the dedup check. Source: bounded KBO scan nscan13.

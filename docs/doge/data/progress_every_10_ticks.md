@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3740** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3730; 3731-3739 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3731-3739 residual dual L5 (not near-complete of 348bn):** Crèche Princesse Astrid · Ferme du Parc Maximilien · Circomédie · Les Jacinthes · Intégration Sociale et Travail (Sésame) · A.V.J. Namur · CRILUX · Triangle Wallonie · Ouderenzorg Zusters der Christelijke Scholen (WZC Mariënhove) (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3303** drafts ready | Human send only; answered **11**; partial **29**; total FOI rows **3358** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3731-3739** Crèche Princesse Astrid · Ferme du Parc Maximilien · Circomédie · Les Jacinthes · Intégration Sociale et Travail (Sésame) · A.V.J. Namur · CRILUX · Triangle Wallonie · Ouderenzorg Zusters der Christelijke Scholen (WZC Mariënhove).
+
+### Inventory (tick 3740)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 65152 |
+| commitments.csv | 7358 |
+| leaderboard.csv | 9476 |
+| entities.csv | 3376 |
+| sources.csv | 11007 |
+| FOI ready | 3303 |
+| FOI total rows | 3358 |
+| research_queue open | rq_3740 (carried; next: Outside Jongerenvakantie (code 9900 row from bounded KBO scan nscan13); largest first) |
+
+### What improved since tick 3730
+
+- **New source (tick3731-3739):** Crèche Princesse Astrid · Ferme du Parc Maximilien · Circomédie · Les Jacinthes · Intégration Sociale et Travail (Sésame) · A.V.J. Namur · CRILUX · Triangle Wallonie · Ouderenzorg Zusters der Christelijke Scholen (WZC Mariënhove). One code 733 row (Ouderenzorg Zusters der Christelijke Scholen, funder not verified) and code 9900 rows (NOT subsidy amounts) from bounded KBO scans nscan10-nscan13 (88101/88999/87101/85520/85510 and others on new postcodes, fresh cookie per code), largest first. Mailboxes on each body’s own site; rejected: Gmail, Hotmail, MSN or Skynet mailboxes, commune- or OCMW-linked bodies, unreachable sites and address mismatches. Médiathèque Nouvelle still unreachable (HTTP 000).
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3740 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked 2026-10-13: no new DOGE tick commits (radar only). Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3730** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

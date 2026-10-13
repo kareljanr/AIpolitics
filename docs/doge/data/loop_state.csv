@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T19:04:21Z,rq_3739,3739,no,tick3739 leftover dual Ouderenzorg Zusters der Christelijke Scholen (WZC Mariënhove) Westmalle 0438.432.278 Strong PDF 2026-00231854 733 2.05m / 9901 402k; next rq_3740 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T19:05:14Z,every10_3740,3740,no,"tick3740 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3700 carried open; next Outside Jongerenvakantie (code 9900, nscan13)"
