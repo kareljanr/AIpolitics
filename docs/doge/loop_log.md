@@ -35314,3 +35314,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@brabantia.brussels — general mailbox verified on the official site https://www.brabantia.brussels/fr/qui-sommes-nous/ (which lists the KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cap_brabantia_vaph_matrix_733_2_07m_9901_56k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3247/; rq_3247=done; spawn **rq_3248**; ticks=3247.
 - Next: **rq_3248 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3248 — 2026-10-13T02:44:22Z — rq_3248 leftover dual International Returns & Reintegration Assistance (IRARA) Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Large Brussels social-work non-profits from a KBO activity-code scan (NACE 88.999, all Brussels postcodes; 523 legal persons not yet in the repo), chosen after the City of Brussels 2025 register tail became small; code 733 rows first, then code 9900, largest first: **International Returns & Reintegration Assistance (IRARA)** → KBO 0672.630.563 had 0 prior entity rows.
+- KBO: Actief since 13 maart 2017; VZW; zetel Breydelstraat 36 1040 Brussel; 1 VE; 0 prior entity rows for 0672.630.563
+- Found: official NBB VKT-VZW native PDF **2026-00519375** (422026 B / 12p; AV 01-09-2026; neergelegd 14/09/2026; MD5 2979914eea846231dad84b4e6a814928). VKT-VZW 9900 **EUR5923343** (-25.61%); 62 **not in filing**; 9901 **EUR4009262** (was 5753349); 9904 3908151; equity 10748721; cash 10833515; FTE 0 (was 0).
+- FOI address: info@irara.org — general mailbox verified on the official site https://www.irara.org/contact/.
+- Wrote: sources +3; budgets +7; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_irara_vaph_matrix_9900_5_92m_9901_4009k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3248/; rq_3248=done; spawn **rq_3249**; ticks=3248.
+- Next: **rq_3249 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
