@@ -40210,3 +40210,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@crilux.be — general mailbox verified on the official site https://www.crilux.be/contacts/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_luxembourg); FOI **gap_crilux_libramont_vaph_matrix_9900_0_91m_9901_18k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3737/; rq_3737=done; spawn **rq_3738**; ticks=3737.
 - Next: **rq_3738 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3738 — 2026-10-13T18:43:11Z — rq_3738 leftover dual Triangle Wallonie Sombreffe YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Triangle Wallonie** → KBO 0455.657.795 had 0 prior entity rows.
+- KBO: Actief since 27 maart 1995; VZW; zetel Chaussée de Nivelles 93 bus A 5140 Sombreffe; 1 VE; 0 prior entity rows for 0455.657.795
+- Found: official NBB MIC-VZW native PDF **2026-00251355** (50018 B / 12p; AV 26-06-2026; neergelegd 02/07/2026; MD5 ec75f1402e9b2979ad4e3709172d092a). MIC-VZW 9900 **EUR839647** (-0.09%); 62 **EUR792030**; 9901 **EUR-64971** (was -24718); 9904 -64681; equity -63810; cash 114994; FTE n/a.
+- FOI address: services@trianglewallonie.be — general mailbox verified on the official site https://www.trianglewallonie.be/contact-4 (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_triangle_wallonie_sombreffe_vaph_matrix_9900_0_84m_9901_loss_65k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3738/; rq_3738=done; spawn **rq_3739**; ticks=3738.
+- Next: **rq_3739 leftover dual** — Batch done (3734-3738); code 9900 rows from bounded KBO scan nscan12 (88999/87101), largest first; code 733 filer Heuverveld rejected (OCMW/commune-linked); candidates ran dry; Médiathèque Nouvelle still unreachable. Next: a new bounded scan..
