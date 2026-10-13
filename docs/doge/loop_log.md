@@ -37480,3 +37480,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@bednet.be — general mailbox verified on the official site https://www.bednet.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_bednet_leuven_vaph_matrix_9900_1_81m_9901_loss_108k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3464/; rq_3464=done; spawn **rq_3465**; ticks=3464.
 - Next: **rq_3465 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3465 — 2026-10-13T11:10:28Z — rq_3465 leftover dual Ulysse (service de santé mentale) Ixelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Ulysse (service de santé mentale)** → KBO 0477.467.652 had 0 prior entity rows.
+- KBO: Actief since 26 november 2001; VZW; zetel Kluisstraat 52 1050 Elsene; 1 VE; 0 prior entity rows for 0477.467.652
+- Found: official NBB VKT-VZW native PDF **2026-00195502** (50252 B / 13p; AV 08-06-2026; neergelegd 22/06/2026; MD5 2eb5cbe87ff653cd3e6bf5602cf7dba9). VKT-VZW 9900 **EUR1745815** (+0.10%); 62 **EUR1730883**; 9901 **EUR36740** (was 36554); 9904 36625; equity 318797; cash 209350; FTE 20 (was 20,7).
+- FOI address: info@ulysse-ssm.be — general mailbox verified on the official site https://www.ulysse-ssm.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ulysse_ixelles_vaph_matrix_9900_1_75m_9901_37k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3465/; rq_3465=done; spawn **rq_3466**; ticks=3465.
+- Next: **rq_3466 leftover dual** — Batch done; code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: triage of the fresh 22-family scan for code 733 filers as pages finish, then further code 9900 leftovers from the cached NBB pool, largest first..
