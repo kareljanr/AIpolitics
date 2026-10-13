@@ -36590,3 +36590,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: communication@pourlasolidarite.eu — communication mailbox verified on the official site https://www.pourlasolidarite.eu/fr/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_pour_la_solidarite_vaph_matrix_9900_1_03m_9901_31k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3375/; rq_3375=done; spawn **rq_3376**; ticks=3375.
 - Next: **rq_3376 leftover dual** — Batch done; the 72/70/68/85/36-39 scans gave three code 733 rows (CRM, Ecole royale militaire, Terre); the rest are code 9900 fallbacks. Next: Médiathèque Nouvelle (code 733, site still unreachable), then remaining 9900 leftovers largest first..
+
+
+## Tick 3376 — 2026-10-13T08:03:20Z — rq_3376 leftover dual Herita Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Herita** → KBO 0454.452.225 had 0 prior entity rows.
+- KBO: Actief since 14 juli 1994; VZW; zetel Oude Beurs 27 2000 Antwerpen; 12 VE; 0 prior entity rows for 0454.452.225
+- Found: official NBB VOL-VZW native PDF **2026-00108101** (2726544 B / 39p; AV 27-04-2026; neergelegd 05/05/2026; MD5 efdf0b96e19ec66428487c0cec52e974). VOL-VZW 733 **EUR6191310** (-5.28%); 62 **EUR3291924**; 9901 **EUR197250** (was -45637); 9904 176237; equity 56558382; cash 3714715; FTE 38 (was 39,7).
+- FOI address: info@herita.be — general mailbox verified on the official site https://www.herita.be/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_herita_antwerpen_vaph_matrix_733_6_19m_9901_197k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3376/; rq_3376=done; spawn **rq_3377**; ticks=3376.
+- Next: **rq_3377 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
