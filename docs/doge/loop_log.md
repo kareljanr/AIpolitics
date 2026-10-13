@@ -37870,3 +37870,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@woodwize.be — general mailbox verified on the official site https://www.woodwize.be/nl/contact.asp (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_woodwize_anderlecht_vaph_matrix_9900_1_03m_9901_loss_394k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3503/; rq_3503=done; spawn **rq_3504**; ticks=3503.
 - Next: **rq_3504 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3504 — 2026-10-13T11:56:35Z — rq_3504 leftover dual Le Forum - Bruxelles contre les inégalités Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Le Forum - Bruxelles contre les inégalités** → KBO 0897.733.317 had 0 prior entity rows.
+- KBO: Actief since 6 mei 2008; VZW; zetel Fernand Bernierstraat 40 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0897.733.317
+- Found: official NBB VKT-VZW native PDF **2026-00278211** (45291 B / 12p; AV 09-06-2026; neergelegd 10/07/2026; MD5 900839e9822c1835234e4202707d05ea). VKT-VZW 9900 **EUR1011180** (+16.62%); 62 **EUR934886**; 9901 **EUR72031** (was 4280); 9904 63428; equity 92690; cash 85701; FTE 934.885,8 (was 766.181,8).
+- FOI address: info@le-forum.org — general mailbox verified on the official site https://www.le-forum.org/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_le_forum_saint_gilles_vaph_matrix_9900_1_01m_9901_72k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3504/; rq_3504=done; spawn **rq_3505**; ticks=3504.
+- Next: **rq_3505 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

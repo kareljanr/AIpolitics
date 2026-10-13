@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T11:56:26Z,rq_3503,3503,no,tick3503 leftover dual Woodwize Anderlecht 0438.431.981 Strong PDF 2026-00344157 9900 1.03m / 9901 loss 394k; next rq_3504 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T11:56:35Z,rq_3504,3504,no,tick3504 leftover dual Le Forum - Bruxelles contre les inégalités Saint-Gilles 0897.733.317 Strong PDF 2026-00278211 9900 1.01m / 9901 72k; next rq_3505 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
