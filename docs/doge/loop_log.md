@@ -35304,3 +35304,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@gsd-v.be — general mailbox verified on the official site https://www.gsd-v.be/contact (same Bischoffsheimlaan seat as the KBO record).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_gsd_lokale_besturen_vaph_matrix_733_83_56m_9901_750k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3246/; rq_3246=done; spawn **rq_3247**; ticks=3246.
 - Next: **rq_3247 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3247 — 2026-10-13T02:44:17Z — rq_3247 leftover dual Centre d'aide aux personnes - CAW Brabantia Saint-Josse-ten-Noode YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Large Brussels social-work non-profits from a KBO activity-code scan (NACE 88.999, all Brussels postcodes; 523 legal persons not yet in the repo), chosen after the City of Brussels 2025 register tail became small; code 733 rows first, then code 9900, largest first: **Centre d'aide aux personnes - CAW Brabantia** → KBO 0414.527.520 had 0 prior entity rows.
+- KBO: Actief since 12 augustus 1974; VZW; zetel Liefdadigheidsstraat 43 1210 Sint-Joost-ten-Node; 4 VE; 0 prior entity rows for 0414.527.520
+- Found: official NBB VOL-VZW native PDF **2026-00265322** (56203 B / 15p; AV 12-06-2026; neergelegd 02/07/2026; MD5 7f90d969be0b716fe01d2079c4b6a35a). VOL-VZW 733 **EUR2068986** (-11.22%); 62 **EUR2311737**; 9901 **EUR55528** (was -1869); 9904 55812; equity 149789; cash 253575; FTE 34,6 (was 34,3).
+- FOI address: info@brabantia.brussels — general mailbox verified on the official site https://www.brabantia.brussels/fr/qui-sommes-nous/ (which lists the KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cap_brabantia_vaph_matrix_733_2_07m_9901_56k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3247/; rq_3247=done; spawn **rq_3248**; ticks=3247.
+- Next: **rq_3248 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
