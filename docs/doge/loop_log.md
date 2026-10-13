@@ -38730,3 +38730,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@modave-castle.be — general mailbox verified on the official site https://www.modave-castle.be/infos_pratiques (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +7; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_chateau_de_modave_vaph_matrix_9900_0_37m_9901_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3589/; rq_3589=done; spawn **rq_3590**; ticks=3589.
 - Next: **rq_3590 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3590 — 2026-10-13T15:25:54Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3168** of 3223 rows; inventory budgets 64067 · commitments 7223 · leaderboard 9341 · entities 3241 · sources 10602.
+- Top10: **stable** (3581-3589 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3581-3589: Art Basics for Children · De Sluis Leerwerkplaats · La Ferme de la Hulotte · De Speelvogels · ArmenTeKort (Kanzo) · Roosendael · Hannibalvakanties · I Solisti del Vento · Château de Modave.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3590 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3590 run locally as fallback.
+- Next: **rq_3590** — code 9900 (NOT subsidy amounts): Thebe (EUR0.335m), Onthaalcentrum Foyer (EUR0.327m), Pony Paradise (EUR0.323m), Terre de Sens (EUR0.303m), Jeunes et Nature (EUR0.278m); mailboxes verified on official sites, after the dedup check. Scans: old codes and NACE-BEL 2025 codes complete (400/400 pages); all keys triaged.
