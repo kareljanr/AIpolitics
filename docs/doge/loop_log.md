@@ -40360,3 +40360,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lesvr.be — general mailbox verified on the official site https://lesvr.be/contact-1 (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_les_vraies_richesses_anderlecht_vaph_matrix_9900_0_83m_9901_35k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3752/; rq_3752=done; spawn **rq_3753**; ticks=3752.
 - Next: **rq_3753 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3753 — 2026-10-13T19:23:25Z — rq_3753 leftover dual Les Ateliers du Midi Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Les Ateliers du Midi** → KBO 0456.722.916 had 0 prior entity rows.
+- KBO: Actief since 15 mei 1995; VZW; zetel de Mérodestraat 54 1060 Sint-Gillis (bij-Brussel); 2 VE; 0 prior entity rows for 0456.722.916
+- Found: official NBB MIC-VZW native PDF **2026-00169315** (47721 B / 12p; AV 29-05-2026; neergelegd 17/06/2026; MD5 98974dae0f857beb8d9e81c96a18381e). MIC-VZW 9900 **EUR817065** (-3.61%); 62 **EUR634103**; 9901 **EUR57925** (was 185080); 9904 56061; equity 303252; cash 318584; FTE n/a.
+- FOI address: info@ateliersdumidi.be — general mailbox verified on the official site https://www.lesateliersdumidi.be/ (ateliersdumidi.be redirects to this site) (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_les_ateliers_du_midi_saint_gilles_vaph_matrix_9900_0_82m_9901_58k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3753/; rq_3753=done; spawn **rq_3754**; ticks=3753.
+- Next: **rq_3754 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
