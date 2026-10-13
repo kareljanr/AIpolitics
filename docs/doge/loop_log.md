@@ -40660,3 +40660,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ouderspunt.be — general mailbox verified on the official site https://www.ouderspunt.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_ouderspunt_berchem_vaph_matrix_9900_0_41m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3782/; rq_3782=done; spawn **rq_3783**; ticks=3782.
 - Next: **rq_3783 leftover dual** — Partial batch (3781-3782); code 9900 rows from nscan22 leftovers, largest first; no code 733 filer; AIMER à LLN and Vagevuur skipped (no mailbox fetched from own site). Next: new bounded scan..
+
+
+## Tick 3783 — 2026-10-13T21:55:23Z — rq_3783 leftover dual Cactus Muziekcentrum Brugge YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Cactus Muziekcentrum** → KBO 0419.964.369 had 0 prior entity rows.
+- KBO: Actief since 8 oktober 1979; VZW; zetel Bargeweg 10 8000 Brugge; 1 VE; 0 prior entity rows for 0419.964.369
+- Found: official NBB VKT-VZW native PDF **2026-00083442** (54872 B / 16p; AV 01-04-2026; neergelegd 21/04/2026; MD5 7c4be1ab670f2feb90dfe51f80199a80). VKT-VZW 9900 **EUR1216481** (-12.66%); 62 **EUR729176**; 9901 **EUR93801** (was 401471); 9904 76230; equity 5304966; cash 832954; FTE 12,2 (was 10,2).
+- FOI address: info@cactusmusic.be — general mailbox verified on the official contact page https://www.cactusmusic.be/contact (KBO number and the KBO seat address shown on the same page).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_cactus_muziekcentrum_brugge_vaph_matrix_9900_1_22m_9901_94k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3783/; rq_3783=done; spawn **rq_3784**; ticks=3783.
+- Next: **rq_3784 leftover dual** — Partial batch (3783); recipient found in the Brugge open-data subsidy list already in data/raw (brugge_subs_full.json), amount from the NBB 2025 filing (code 9900, NOT a subsidy amount); Kunstencentrum VIERNULVIER (code 733 filer) skipped: no mailbox fetched from its own site; De Korrelatie skipped: no general mailbox; De Overmolen still HTTP 500. Next: more recipients from the Gent and Brugge subsidy lists..
