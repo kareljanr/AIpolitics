@@ -35524,3 +35524,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cpen.be — general mailbox verified on the official site https://www.cpen.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_cpen_nivelles_vaph_matrix_9900_5_47m_9901_98k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3268/; rq_3268=done; spawn **rq_3269**; ticks=3268.
 - Next: **rq_3269 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3269 — 2026-10-13T04:04:31Z — rq_3269 leftover dual Les Trois Portes (Namur) Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used: NACE 88.911 / 88.991 (childcare and day-care without accommodation) over Walloon, Brussels and Flemish postcodes (912 legal persons not yet in the repo, 418 triaged), plus remaining NACE 88.999 / 88.101 / 85.599 rows; code 733 rows first, then code 9900, largest first: **Les Trois Portes (Namur)** → KBO 0860.763.944 had 0 prior entity rows.
+- KBO: Actief since 30 september 2003; VZW; zetel Rue de Bomel 154 5000 Namur; 7 VE; 0 prior entity rows for 0860.763.944
+- Found: official NBB VKT-VZW native PDF **2026-00190561** (51386 B / 13p; AV 28-05-2026; neergelegd 24/06/2026; MD5 cde5a3e2d62a8dfb6c92694e091edfce). VKT-VZW 9900 **EUR4848827** (-1.40%); 62 **EUR4642098**; 9901 **EUR106222** (was 4854); 9904 111796; equity 1082215; cash 909317; FTE 75,4 (was 78,1).
+- FOI address: info@troisportes.be — general mailbox verified on the official site https://www.troisportes.be/contact/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_namur); FOI **gap_les_trois_portes_namur_vaph_matrix_9900_4_85m_9901_106k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3269/; rq_3269=done; spawn **rq_3270**; ticks=3269.
+- Next: **rq_3270 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

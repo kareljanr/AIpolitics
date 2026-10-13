@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T04:04:26Z,rq_3268,3268,no,tick3268 leftover dual Centre de la Petite Enfance de Nivelles (CPEN) Nivelles 0471.323.394 Strong PDF 2026-00408170 9900 5.47m / 9901 98k; next rq_3269 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T04:04:31Z,rq_3269,3269,no,tick3269 leftover dual Les Trois Portes (Namur) Namur 0860.763.944 Strong PDF 2026-00190561 9900 4.85m / 9901 106k; next rq_3270 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
