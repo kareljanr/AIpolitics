@@ -36390,3 +36390,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: pha@uantwerpen.be — general mailbox verified on the official site https://pha.be/contact/ (which lists the KBO number; the mailbox is hosted on a university domain).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_antwerpen); FOI **gap_pha_antwerpen_vaph_matrix_9900_1_84m_9901_52k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3355/; rq_3355=done; spawn **rq_3356**; ticks=3355.
 - Next: **rq_3356 leftover dual** — Batch done; the 86/87/84.1xx scans gave one more code 733 row (ACIS); the rest are code 9900 fallbacks. Next: further code 733 scans (other NACE families), then remaining 9900 leftovers largest first. Skipped (5-min cap / mailbox rule): Point Virgule, Renouveau de Saint-Joseph, Foyers Sainte-Marie, Tamaris, Chanmurly, La Fermette, Résidence de Boiron (no general mailbox verifiable on own site), De Stek and Wit-Gele Kruis Brussel (group sites), Dreiland-Jugendhilfe (joint site with a German company), La Goudinière (site shows another number), Maison d’Accueil Prince Albert, Le Creuset, Sûr Abri (sites unreachable), Valisana and others (code 733 not filled)..
+
+
+## Tick 3356 — 2026-10-13T07:02:33Z — rq_3356 leftover dual Santhea Watermael-Boitsfort YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.120 / 94.110 / 91.xxx / 93.1xx / 49.390 / 81.300 / 01.610 / 02.400 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Santhea** → KBO 0807.643.081 had 0 prior entity rows.
+- KBO: Actief since 17 juni 2008; VZW; zetel Vinkstraat 36 1170 Watermaal-Bosvoorde; 2 VE; 0 prior entity rows for 0807.643.081
+- Found: official NBB VOL-VZW native PDF **2026-00159276** (830277 B / 46p; AV 04-06-2026; neergelegd 15/06/2026; MD5 b9de1ce000f80c33f3f3e2c3db6fe5dd). VOL-VZW 733 **EUR573581** (-23.45%); 62 **EUR2960584**; 9901 **EUR52297** (was -49108); 9904 -22833; equity 1660924; cash 219183; FTE 21,7 (was 19,9).
+- FOI address: contact@santhea.be — general mailbox verified on the official site https://www.santhea.be/contact/ (the site privacy page lists the KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_santhea_brussel_vaph_matrix_733_0_57m_9901_52k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3356/; rq_3356=done; spawn **rq_3357**; ticks=3356.
+- Next: **rq_3357 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
