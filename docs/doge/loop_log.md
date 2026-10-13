@@ -37320,3 +37320,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@asde.be — general mailbox verified on the official site https://www.asde.be/contact-aide-famille/ (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_asde_enghien_vaph_matrix_9900_3_15m_9901_50k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3448/; rq_3448=done; spawn **rq_3449**; ticks=3448.
 - Next: **rq_3449 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3449 — 2026-10-13T10:45:00Z — rq_3449 leftover dual GATAM Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **GATAM** → KBO 0478.069.349 had 0 prior entity rows.
+- KBO:  since ; VZW; zetel ;  VE; 0 prior entity rows for 0478.069.349
+- Found: official NBB VKT-VZW native PDF **2026-00276870** (289654 B / 27p; AV 30-06-2026; neergelegd 09/07/2026; MD5 733162c27fecf04c186fc407ae126726). VKT-VZW 9900 **EUR3118220** (+14.14%); 62 **EUR2968458**; 9901 **EUR17026** (was -75035); 9904 475; equity 2503473; cash 2700675; FTE 43,7 (was 42,8).
+- FOI address: info@gatam.org — general mailbox verified on the official site https://www.gatam.org/contact (which lists the KBO number; same address as the filed seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_gatam_antwerpen_vaph_matrix_9900_3_12m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3449/; rq_3449=done; spawn **rq_3450**; ticks=3449.
+- Next: **rq_3450 leftover dual** — Batch done; code 9900 leftovers (code 733 pool used up; Médiathèque Nouvelle still unreachable). Next: Centre culturel de Dinant, Crechendo, FMJ, Convivence, Atelier Graphoui (code 9900), and triage of the fresh 22-family scan for code 733 filers as pages finish..
