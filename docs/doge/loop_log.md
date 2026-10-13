@@ -39660,3 +39660,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@dekei.be — general mailbox verified on the official site https://www.dekei.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_de_kei_deurne_vaph_matrix_9900_0_61m_9901_120k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3682/; rq_3682=done; spawn **rq_3683**; ticks=3682.
 - Next: **rq_3683 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3683 — 2026-10-13T16:38:19Z — rq_3683 leftover dual Opvangcentrum voor Vogels en Wilde Dieren Oostende Oostende YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Opvangcentrum voor Vogels en Wilde Dieren Oostende** → KBO 0878.492.673 had 0 prior entity rows.
+- KBO: Actief since 21 december 2005; VZW; zetel Nieuwpoortsesteenweg 642 8400 Oostende; 1 VE; 0 prior entity rows for 0878.492.673
+- Found: official NBB MIC-VZW native PDF **2026-00457587** (43098 B / 10p; AV 15-06-2026; neergelegd 28/08/2026; MD5 554cb4f28db5270382ca02a4669b0cff). MIC-VZW 9900 **EUR585346** (+13.04%); 62 **EUR537076**; 9901 **EUR31137** (was -113042); 9904 28495; equity 660422; cash 396244; FTE n/a.
+- FOI address: info@vogelopvangcentrum.be — general mailbox verified on the official site https://vogelopvangcentrum.be/contact (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_vogelopvangcentrum_oostende_vaph_matrix_9900_0_59m_9901_31k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3683/; rq_3683=done; spawn **rq_3684**; ticks=3683.
+- Next: **rq_3684 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
