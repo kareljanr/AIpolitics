@@ -35404,3 +35404,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@frw.be — general mailbox verified on the official site https://www.frw.be/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_fondation_rurale_wallonie_vaph_matrix_733_7_96m_9901_loss_66k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3256/; rq_3256=done; spawn **rq_3257**; ticks=3256.
 - Next: **rq_3257 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3257 — 2026-10-13T03:27:58Z — rq_3257 leftover dual Accueil des Tout-Petits (Liège) Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used: NACE 88.999 over Walloon and Flemish postcodes (2,181 legal persons not yet in the repo, 773 with a 2025-12 filing), plus NACE 88.101 and 85.599 (partial); code 733 rows first, then code 9900, largest first: **Accueil des Tout-Petits (Liège)** → KBO 0416.540.170 had 0 prior entity rows.
+- KBO: Actief since 1 oktober 1976; VZW; zetel Quai des Vennes 10/12 4020 Liège; 4 VE; 0 prior entity rows for 0416.540.170
+- Found: official NBB VOL-VZW native PDF **2026-00252288** (75105 B / 26p; AV 24-06-2026; neergelegd 04/07/2026; MD5 8ec5a138f4650b3a35a872689f7e9e67). VOL-VZW 733 **EUR7004554** (+8.94%); 62 **EUR8304677**; 9901 **EUR-7106** (was -16678); 9904 2543; equity 343398; cash 1850549; FTE 156 (was 145,3).
+- FOI address: liege@adtp.be — general mailbox verified on the official site https://www.adtp.be/contact/ (mailbox of the registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_accueil_des_tout_petits_liege_vaph_matrix_733_7_00m_9901_loss_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3257/; rq_3257=done; spawn **rq_3258**; ticks=3257.
+- Next: **rq_3258 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
