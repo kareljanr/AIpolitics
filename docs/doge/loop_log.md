@@ -39010,3 +39010,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@apedaf.be — general mailbox verified on the official site https://apedaf.be/wordpress/nous-contacter/ (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_apedaf_saint_gilles_vaph_matrix_9900_1_38m_9901_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3617/; rq_3617=done; spawn **rq_3618**; ticks=3617.
 - Next: **rq_3618 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3618 — 2026-10-13T15:50:38Z — rq_3618 leftover dual Atout Projet Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Atout Projet** → KBO 0452.636.939 had 0 prior entity rows.
+- KBO: Actief since 12 mei 1994; VZW; zetel Henri Jasparlaan 92 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0452.636.939
+- Found: official NBB VKT-VZW native PDF **2026-00157302** (49126 B / 12p; AV 20-05-2026; neergelegd 12/06/2026; MD5 fbf8dab9e776336f5a1c77d031ee8f40). VKT-VZW 9900 **EUR1164123** (+6.33%); 62 **EUR1141032**; 9901 **EUR2703** (was -35798); 9904 2686; equity 200779; cash 129480; FTE 35,1 (was 29,9).
+- FOI address: atoutprojet@atoutprojet.be — general mailbox verified on the official site https://www.atoutprojet.be/blank-4 (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_atout_projet_saint_gilles_vaph_matrix_9900_1_16m_9901_3k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3618/; rq_3618=done; spawn **rq_3619**; ticks=3618.
+- Next: **rq_3619 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
