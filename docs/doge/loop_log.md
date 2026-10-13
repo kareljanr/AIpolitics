@@ -35980,3 +35980,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@famillesaccueil.be — secretariat mailbox verified on the official site https://www.famillesaccueil.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_verviers); FOI **gap_familles_accueil_verviers_vaph_matrix_9900_0_83m_9901_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3314/; rq_3314=done; spawn **rq_3315**; ticks=3314.
 - Next: **rq_3315 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3315 — 2026-10-13T05:20:02Z — rq_3315 leftover dual Opération Faim et Froid Charleroi (Gilly) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.991 / 94.992 / 94.999 / 88.109 (1,750 legal persons not yet in the repo) and NACE 88.992 / 88.994 (401) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first; EU-level bodies excluded: **Opération Faim et Froid** → KBO 0445.101.326 had 0 prior entity rows.
+- KBO: Actief since 22 mei 1991; VZW; zetel Rue du Coquelet 104 6060 Charleroi; 2 VE; 0 prior entity rows for 0445.101.326
+- Found: official NBB VKT-VZW native PDF **2026-00398177** (46911 B / 13p; AV 23-06-2026; neergelegd 14/08/2026; MD5 c9c1c696fa6da09a5b124025058f3ff0). VKT-VZW 9900 **EUR801791** (-4.14%); 62 **EUR764825**; 9901 **EUR-890** (was -5261); 9904 -3678; equity 195751; cash 10156; FTE 0.
+- FOI address: accueil@faimetfroid.be — general mailbox verified on the official site https://www.faimetfroid.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_charleroi); FOI **gap_operation_faim_et_froid_gilly_vaph_matrix_9900_0_80m_9901_loss_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3315/; rq_3315=done; spawn **rq_3316**; ticks=3315.
+- Next: **rq_3316 leftover dual** — Batch done; no code 733 row passed (Centrale de Services à Domicile du Centre: 733 not readable and related to an existing CSD group). Skipped (5-min cap / mailbox rule): Li Mohon (its site shows another KBO number), Casa Legal (address not confirmable), Bureau d'Accueil et de Défense des Jeunes (only the SDJ network mailbox), Un Pass dans l'Impasse, La Chaloupe, Alias, KAVKA, dynamix, Habitat et Participation, Animal sans toit (no mailbox found), Samenleven (site not tied to the KBO), De Warande (already in repo), EU-level bodies. Next: remaining 9900 rows, then other unscanned codes/regions.
