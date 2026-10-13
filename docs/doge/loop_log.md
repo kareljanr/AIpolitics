@@ -36120,3 +36120,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@lacitejoyeuse.be — secretariat mailbox verified on the official site https://www.lacitejoyeuse.be/services-supports/ (contact page gives the KBO registered seat address).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cite_joyeuse_molenbeek_vaph_matrix_733_11_57m_9901_loss_446k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3328/; rq_3328=done; spawn **rq_3329**; ticks=3328.
 - Next: **rq_3329 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3329 — 2026-10-13T06:07:28Z — rq_3329 leftover dual Jeugddorp Bonheiden YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **Jeugddorp** → KBO 0408.645.360 had 0 prior entity rows.
+- KBO: Actief since 24 december 1964; VZW; zetel De Bergen 38 2820 Bonheiden; 8 VE; 0 prior entity rows for 0408.645.360
+- Found: official NBB VOL-VZW native PDF **2026-00174799** (1582260 B / 43p; AV 19-05-2026; neergelegd 17/06/2026; MD5 cf782613f1f53bf553a991b0d25d3d69). VOL-VZW 733 **EUR5285643** (+3.10%); 62 **EUR4824211**; 9901 **EUR-161606** (was 76924); 9904 -15320; equity 8789565; cash 1001648; FTE 58,6 (was 55,6).
+- FOI address: info@jeugddorp.be — general mailbox verified on the official site https://www.jeugddorp.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_bonheiden); FOI **gap_jeugddorp_bonheiden_vaph_matrix_733_5_29m_9901_loss_162k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3329/; rq_3329=done; spawn **rq_3330**; ticks=3329.
+- Next: **rq_3330 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
