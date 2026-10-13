@@ -39990,3 +39990,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@canalj.be — general mailbox verified on the official site https://canalj.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_canal_j_tournai_vaph_matrix_9900_0_52m_9901_loss_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3715/; rq_3715=done; spawn **rq_3716**; ticks=3715.
 - Next: **rq_3716 leftover dual** — Batch done (3706-3715); code 9900 rows from bounded KBO scan nscan8, largest first; no qualifying code 733 filer (Médiathèque Nouvelle still unreachable). Next: remaining nscan8 rows or a new bounded scan..
+
+
+## Tick 3716 — 2026-10-13T17:27:42Z — rq_3716 leftover dual Bon Pied Bon Oeil Hannut YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Bon Pied Bon Oeil** → KBO 0447.266.703 had 0 prior entity rows.
+- KBO: Actief since 16 april 1992; VZW; zetel Rue du Luxembourg 1 4280 Hannut; 1 VE; 0 prior entity rows for 0447.266.703
+- Found: official NBB VKT-VZW native PDF **2026-00148506** (46501 B / 11p; AV 15-04-2026; neergelegd 03/06/2026; MD5 407099e227c7a296a6d4a59448bdd6d3). VKT-VZW 9900 **EUR927336** (-10.66%); 62 **EUR889522**; 9901 **EUR-56958** (was -34039); 9904 -25244; equity 1665333; cash 426659; FTE 21,3.
+- FOI address: info@bonpiedbonoeil.be — general mailbox verified on the official site https://www.bonpiedbonoeil.be/ (KBO registered seat Rue du Luxembourg 1, 4280 Hannut).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_bon_pied_bon_oeil_hannut_vaph_matrix_9900_0_93m_9901_loss_57k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3716/; rq_3716=done; spawn **rq_3717**; ticks=3716.
+- Next: **rq_3717 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
