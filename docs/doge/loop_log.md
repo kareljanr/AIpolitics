@@ -35204,3 +35204,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@espacemagh.be — general mailbox shown on the official Fédération Wallonie-Bruxelles page https://prof.cfwb.be/avantage/entree-gratuite-avec-un-groupe-scolaire (the body's own site needs JavaScript and could not be read); source disclosed.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_espace_magh_vaph_matrix_9900_0_78m_9901_208k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3236/; rq_3236=done; spawn **rq_3237**; ticks=3236.
 - Next: **rq_3237 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3237 — 2026-10-13T02:31:54Z — rq_3237 leftover dual Musée Juif de Belgique Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Largest recipients in the official City of Brussels 2025 subsidy inventory (opendata.brussels.be dataset subsides-ville-de-bruxelles-subsidies-stad-brussel-2025) not yet in the repo, cross-checked with the NBB filing: **Musée Juif de Belgique** → KBO 0437.722.594 had 0 prior entity rows.
+- KBO: Actief since 9 maart 1989; VZW; zetel Minimenstraat 21 bus TM 1000 Brussel; 1 VE; 0 prior entity rows for 0437.722.594
+- Found: official NBB VKT-VZW native PDF **2026-00294122** (57199 B / 16p; AV 21-04-2026; neergelegd 14/07/2026; MD5 611cb511fc7bcd824878b9cf8f947b2d). VKT-VZW 9900 **EUR780680** (+16.83%); 62 **EUR762625**; 9901 **EUR4189** (was -16218); 9904 19102; equity 14744522; cash 5965; FTE 12,8 (was 12,4).
+- FOI address: info@mjb-jmb.org — general mailbox verified on the official site https://www.mjb-jmb.org/fr/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_musee_juif_belgique_vaph_matrix_9900_0_78m_9901_4k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3237/; rq_3237=done; spawn **rq_3238**; ticks=3237.
+- Next: **rq_3238 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
