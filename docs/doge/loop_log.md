@@ -36430,3 +36430,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@traxio.be — general mailbox verified on the official site https://www.traxio.be/nl/contact (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_traxio_evere_vaph_matrix_9900_4_49m_9901_244k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3359/; rq_3359=done; spawn **rq_3360**; ticks=3359.
 - Next: **rq_3360 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3360 — 2026-10-13T07:04:07Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2961** of 3016 rows; inventory budgets 62400 · commitments 7016 · leaderboard 9134 · entities 3034 · sources 9981.
+- Top10: **stable** (3351-3359 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3351-3359: IMP Le Relais · La Maison de nos Enfants · La Pommeraie · Huize Vogelzang · PHA Antwerpen · Santhea · Fost Plus · OZOS (Apotheia) · TRAXIO.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3360 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3360 run locally as fallback.
+- Next: **rq_3360** — code 9900 (NOT subsidy amounts): KAVA (EUR3.56m), Febelauto (EUR2.55m), debelux chamber (EUR1.81m), CRéSaM (EUR1.43m), Réseau des médias de proximité (EUR1.30m); mailboxes verified on official sites, after the dedup check.

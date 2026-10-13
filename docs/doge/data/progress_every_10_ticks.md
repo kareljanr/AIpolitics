@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3360** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3350; 3351-3359 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3351-3359 residual dual L5 (not near-complete of 348bn):** IMP Le Relais · La Maison de nos Enfants · La Pommeraie · Huize Vogelzang · PHA Antwerpen · Santhea · Fost Plus · OZOS (Apotheia) · TRAXIO (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2961** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3016** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3351-3359** IMP Le Relais · La Maison de nos Enfants · La Pommeraie · Huize Vogelzang · PHA Antwerpen · Santhea · Fost Plus · OZOS (Apotheia) · TRAXIO.
+
+### Inventory (tick 3360)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 62400 |
+| commitments.csv | 7016 |
+| leaderboard.csv | 9134 |
+| entities.csv | 3034 |
+| sources.csv | 9981 |
+| FOI ready | 2961 |
+| FOI total rows | 3016 |
+| research_queue open | rq_3360 (carried; next: KAVA, Febelauto, debelux chamber, CRéSaM, Réseau des médias de proximité (NACE 94.xxx scan, code 9900); largest first) |
+
+### What improved since tick 3350
+
+- **New source (tick3351-3359):** IMP Le Relais · La Maison de nos Enfants · La Pommeraie · Huize Vogelzang · PHA Antwerpen · Santhea · Fost Plus · OZOS (Apotheia) · TRAXIO. 3351-3355 from the NACE 87.xxx / 86.xxx scans (code 9900); 3356-3359 from new scans of NACE 94.120 / 94.110 / 91.xxx / 93.1xx / 49.390 / 81.300 / 01.610 / 02.400: code 733 rows first (Santhea, Fost Plus), then code 9900, largest first. EU-level bodies excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3360 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3350** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
