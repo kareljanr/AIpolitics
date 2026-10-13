@@ -39000,3 +39000,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: ombudsman@ombudsfin.be — service (role) mailbox verified on the official site https://www.ombudsfin.be/fr/contact (which lists the KBO number; same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ombudsfin_bruxelles_vaph_matrix_9900_1_50m_9901_loss_10k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3616/; rq_3616=done; spawn **rq_3617**; ticks=3616.
 - Next: **rq_3617 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3617 — 2026-10-13T15:50:30Z — rq_3617 leftover dual APEDAF - Association des Parents d'Enfants Déficients Auditifs Francophones Saint-Gilles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **APEDAF - Association des Parents d'Enfants Déficients Auditifs Francophones** → KBO 0418.527.581 had 0 prior entity rows.
+- KBO: Actief since 15 april 1978; VZW; zetel Emile Feronstraat 153 1060 Sint-Gillis (bij-Brussel); 2 VE; 0 prior entity rows for 0418.527.581
+- Found: official NBB VKT-VZW native PDF **2026-00061075** (50864 B / 14p; AV 20-03-2026; neergelegd 23/03/2026; MD5 64906c8746f79194c210ef832c536f25). VKT-VZW 9900 **EUR1382373** (+6.76%); 62 **EUR1341139**; 9901 **EUR31724** (was -82126); 9904 33349; equity -30894; cash 163148; FTE 22,9 (was 24,1).
+- FOI address: info@apedaf.be — general mailbox verified on the official site https://apedaf.be/wordpress/nous-contacter/ (which lists the KBO number; same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_apedaf_saint_gilles_vaph_matrix_9900_1_38m_9901_32k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3617/; rq_3617=done; spawn **rq_3618**; ticks=3617.
+- Next: **rq_3618 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
