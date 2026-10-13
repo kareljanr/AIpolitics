@@ -36520,3 +36520,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: collecte.textile@terre.be — role mailbox verified on the official site https://www.terre.be/faq/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_herstal); FOI **gap_terre_herstal_vaph_matrix_733_3_18m_9901_loss_2697k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3368/; rq_3368=done; spawn **rq_3369**; ticks=3368.
 - Next: **rq_3369 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3369 — 2026-10-13T07:30:19Z — rq_3369 leftover dual Tracimat Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Tracimat** → KBO 0558.889.551 had 0 prior entity rows.
+- KBO: Actief since 7 augustus 2014; VZW; zetel Kunstlaan 20 1000 Brussel; 1 VE; 0 prior entity rows for 0558.889.551
+- Found: official NBB VKT-VZW native PDF **2026-00205348** (289389 B / 21p; AV 19-06-2026; neergelegd 19/06/2026; MD5 ca754f66005d790802c34528704ca2f6). VKT-VZW 9900 **EUR1826990** (+15.09%); 62 **EUR1150345**; 9901 **EUR396945** (was 474732); 9904 292092; equity 783207; cash 154549; FTE 13,2 (was 11,2).
+- FOI address: info@tracimat.be — general mailbox verified on the official site https://www.tracimat.be/contact.
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_tracimat_brussel_vaph_matrix_9900_1_83m_9901_397k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3369/; rq_3369=done; spawn **rq_3370**; ticks=3369.
+- Next: **rq_3370 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
