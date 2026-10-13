@@ -40640,3 +40640,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3780 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3780 run locally as fallback.
 - Next: **rq_3780** — no candidate queued: check the remaining nscan22 leftovers, verifying each mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
+
+
+## Tick 3781 — 2026-10-13T21:24:18Z — rq_3780 leftover dual das Kunst Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **das Kunst** → KBO 0469.492.668 had 0 prior entity rows.
+- KBO: Actief since 27 september 1999; VZW; zetel Kerkstraat 108 9050 Gent; 1 VE; 0 prior entity rows for 0469.492.668
+- Found: official NBB MIC-VZW native PDF **2026-00110422** (41411 B / 10p; AV 19-03-2026; neergelegd 13/05/2026; MD5 3e6238c30e0f0d5e7a23df5f70fac085). MIC-VZW 9900 **EUR515291** (-6.88%); 62 **EUR485173**; 9901 **EUR-5696** (was -24367); 9904 -5976; equity 124879; cash 117479; FTE n/a.
+- FOI address: info@daskunst.be — general mailbox verified on the official site https://www.daskunst.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_das_kunst_gent_vaph_matrix_9900_0_52m_9901_loss_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3781/; rq_3780=done; spawn **rq_3782**; ticks=3781.
+- Next: **rq_3782 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.

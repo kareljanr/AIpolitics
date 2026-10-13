@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T21:23:56Z,every10_3780,3780,no,tick3780 EVERY-10 progress + waste top10 (stable; #1 GIP 2.5bn pi 8.7); rq_3700 carried open; next: none queued (check remaining nscan22 leftovers)
+main,continuous,hole_fill,2026-10-13T21:24:18Z,rq_3780,3781,no,tick3781 leftover dual das Kunst Gent 0469.492.668 Strong PDF 2026-00110422 9900 0.52m / 9901 loss 6k; next rq_3782 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
