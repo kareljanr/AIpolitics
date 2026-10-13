@@ -39480,3 +39480,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@citadelle-asbl.org — general mailbox verified on the official site https://citadelle-asbl.org/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_citadelle_tournai_vaph_matrix_9900_0_54m_9901_53k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3664/; rq_3664=done; spawn **rq_3665**; ticks=3664.
 - Next: **rq_3665 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3665 — 2026-10-13T16:24:06Z — rq_3665 leftover dual VrijetijdsOndersteuningsCentrum Opstap Roeselare YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **VrijetijdsOndersteuningsCentrum Opstap** → KBO 0414.635.012 had 0 prior entity rows.
+- KBO: Actief since 14 oktober 1974; VZW; zetel Stationsplein 46 8800 Roeselare; 2 VE; 0 prior entity rows for 0414.635.012
+- Found: official NBB MIC-VZW native PDF **2026-00090214** (55672 B / 16p; AV 21-03-2026; neergelegd 27/04/2026; MD5 63e1b879cc4e1d633edd9fb41c5ca284). MIC-VZW 9900 **EUR478159** (+8.13%); 62 **EUR392374**; 9901 **EUR49115** (was 7684); 9904 43163; equity 385708; cash 237182; FTE n/a.
+- FOI address: info@vocopstap.be — general mailbox verified on the official site https://www.vocopstap.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_voc_opstap_roeselare_vaph_matrix_9900_0_48m_9901_49k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3665/; rq_3665=done; spawn **rq_3666**; ticks=3665.
+- Next: **rq_3666 leftover dual** — Batch done (3656-3665); code 9900 rows from the bounded KBO scan nscan4, largest first; no usable code 733 amount (Médiathèque Nouvelle still unreachable). Next: further code 9900 rows from nscan4, largest first..
