@@ -36140,3 +36140,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3330 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3330 run locally as fallback.
 - Next: **rq_3330** — NACE 87.xxx scan (code 733 subsidies): St. Franziskus Eupen (EUR2.87m), Les Jours Paisibles (EUR2.50m), Saint-Thomas de Villeneuve (EUR2.04m), OLV Ter Westroze (EUR0.92m), Maria Troost Veurne (EUR0.90m); mailboxes verified on official sites, after the dedup check.
+
+
+## Tick 3331 — 2026-10-13T06:08:27Z — rq_3330 leftover dual Seniorenzentrum St. Franziskus Eupen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **Seniorenzentrum St. Franziskus** → KBO 0450.731.977 had 0 prior entity rows.
+- KBO: Actief since 24 mei 1993; VZW; zetel Hufengasse 2 4700 Eupen; 1 VE; 0 prior entity rows for 0450.731.977
+- Found: official NBB VOL-VZW native PDF **2026-00272081** (102794 B / 41p; AV 02-06-2026; neergelegd 25/06/2026; MD5 82a4192b5327cf6ba6148ff2581a67fa). VOL-VZW 733 **EUR2872497** (-1.00%); 62 **EUR3635673**; 9901 **EUR-214697** (was -153219); 9904 -52531; equity 5070148; cash 505534; FTE 60 (was 60).
+- FOI address: info@stfranziskus.be — general mailbox verified on the official site https://seniorenzentrum.mystrikingly.com/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_st_franziskus_eupen_vaph_matrix_733_2_87m_9901_loss_215k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3331/; rq_3330=done; spawn **rq_3332**; ticks=3331.
+- Next: **rq_3332 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
