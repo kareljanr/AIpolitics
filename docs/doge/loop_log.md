@@ -35600,3 +35600,13 @@ Append-only. Each tick adds a short entry.
 
 - Change: FOI draft gap_regie_des_quartiers_liege_vaph_matrix_9900_2_09m_9901_20k_l5 (and its foi_queue / entities rows) now addressed to the KBO registered seat **Place du Marché 2, 4000 Liège**; the address on the official City of Liège page (Rue Hocheporte 2, 4000 Liège) is noted. Mailbox unchanged (info@rqliege.be). Draft still NOT sent.
 - Next: **rq_3276** carried open.
+
+
+## Tick 3277 — 2026-10-13T04:44:30Z — rq_3276 leftover dual Opéra Royal de Wallonie-Liège (Centre lyrique de la Communauté française) Liège YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans not yet used over Walloon, Brussels and Flemish postcodes: NACE 90.311 (arts venues) and 88.102 (635 legal persons not yet in the repo), NACE 90.111 and 91.210 (2,445), NACE 93.110 and 85.520 (4,272; mostly companies and small clubs, no code 733 row); code 733 rows first, then code 9900, largest first: **Opéra Royal de Wallonie-Liège (Centre lyrique de la Communauté française)** → KBO 0426.262.540 had 0 prior entity rows.
+- KBO: Actief since 6 maart 1984; VZW; zetel Rue des Dominicains 1 4000 Liège; 4 VE; 0 prior entity rows for 0426.262.540
+- Found: official NBB VOL-VZW native PDF **2026-00171412** (668160 B / 42p; AV 16-06-2026; neergelegd 18/06/2026; MD5 71bbe969b4beda21fd519b1bbcc871ac). VOL-VZW 733 **EUR20511287** (+4.26%); 62 **EUR20035707**; 9901 **EUR374680** (was 337407); 9904 -40191; equity 1142779; cash 1961879; FTE 259 (was 256).
+- FOI address: info@operaliege.be — general mailbox verified on the official site https://www.operaliege.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_opera_royal_de_wallonie_liege_vaph_matrix_733_20_51m_9901_375k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3277/; rq_3276=done; spawn **rq_3278**; ticks=3277.
+- Next: **rq_3278 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
