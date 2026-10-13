@@ -38150,3 +38150,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@cfip.be — role (secretariat) mailbox verified on the official site https://www.cfip.be/page/infos-pratiques-adresse-accueil-cfip/f1.html (which lists the KBO number).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_cfip_wsl_vaph_matrix_9900_0_72m_9901_96k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3531/; rq_3530=done; spawn **rq_3532**; ticks=3531.
 - Next: **rq_3532 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3532 — 2026-10-13T12:23:22Z — rq_3532 leftover dual Service d'Interprétation des Sourds de Wallonie (SISW) Namur YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Service d'Interprétation des Sourds de Wallonie (SISW)** → KBO 0456.658.875 had 0 prior entity rows.
+- KBO: Actief since 28 augustus 1995; VZW; zetel Rue de la Dodane 29 5000 Namur; 1 VE; 0 prior entity rows for 0456.658.875
+- Found: official NBB VKT-VZW native PDF **2026-00256906** (51300 B / 14p; AV 17-06-2026; neergelegd 06/07/2026; MD5 a8763a991dc35235831813a5256a6b9e). VKT-VZW 9900 **EUR706722** (+7.27%); 62 **EUR685819**; 9901 **EUR16555** (was 35474); 9904 16103; equity 226331; cash 275856; FTE 9,6 (was 8,8).
+- FOI address: info@sisw.be — general mailbox verified on the official site https://www.sisw.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_sisw_namur_vaph_matrix_9900_0_71m_9901_17k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3532/; rq_3532=done; spawn **rq_3533**; ticks=3532.
+- Next: **rq_3533 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
