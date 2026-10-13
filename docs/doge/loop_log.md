@@ -39160,3 +39160,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@tragewegen.be — general mailbox verified on the official site https://www.tragewegen.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_trage_wegen_gent_vaph_matrix_9900_0_66m_9901_0k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3632/; rq_3632=done; spawn **rq_3633**; ticks=3632.
 - Next: **rq_3633 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3633 — 2026-10-13T15:58:38Z — rq_3633 leftover dual Karavaan Mechelen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Karavaan** → KBO 0411.972.361 had 0 prior entity rows.
+- KBO: Actief since 23 december 1971; VZW; zetel Geerdegemvaart 96 2800 Mechelen; 1 VE; 0 prior entity rows for 0411.972.361
+- Found: official NBB MIC-VZW native PDF **2026-00070987** (42019 B / 10p; AV 14-03-2026; neergelegd 02/04/2026; MD5 096f50d300f27063baf7318367d8dad7). MIC-VZW 9900 **EUR660199** (+7.68%); 62 **EUR617622**; 9901 **EUR24091** (was -25396); 9904 29884; equity 460691; cash 346889; FTE n/a.
+- FOI address: info@karavaan.be — general mailbox verified on the official site https://www.karavaan.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_karavaan_mechelen_vaph_matrix_9900_0_66m_9901_24k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3633/; rq_3633=done; spawn **rq_3634**; ticks=3633.
+- Next: **rq_3634 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
