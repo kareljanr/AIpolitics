@@ -38490,3 +38490,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: coordination@addictionsasbl.be — role (coordination) mailbox verified on the official site https://www.addictionsasbl.be/contact-acces.html (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_addictions_etterbeek_vaph_matrix_9900_0_57m_9901_loss_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3565/; rq_3565=done; spawn **rq_3566**; ticks=3565.
 - Next: **rq_3566 leftover dual** — Batch done (3556-3565); one code 733 row (IATA Namur, from the NACE-BEL 2025 scan triage) then code 9900 leftovers (Médiathèque Nouvelle still unreachable). Next: triage of new NACE-BEL 2025 scan keys for code 733 filers (old-code scan complete; NACE-BEL 2025 scan still running), then further code 9900 leftovers from the rebuilt pool, largest first..
+
+
+## Tick 3566 — 2026-10-13T15:07:58Z — rq_3566 leftover dual Rode Kruishotel (Domein Polderwind) Zuienkerke YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Rode Kruishotel (Domein Polderwind)** → KBO 0844.641.653 had 0 prior entity rows.
+- KBO: Actief since 22 maart 2012; VZW; zetel Polderwind 4 8377 Zuienkerke; 1 VE; 0 prior entity rows for 0844.641.653
+- Found: official NBB VOL-VZW native PDF **2026-00410625** (238913 B / 37p; AV 13-06-2026; neergelegd 19/08/2026; MD5 c8f268eead78af10ec98f2ce54d4369e). VOL-VZW 733 **EUR522951** (-86.26%); 62 **EUR798203**; 9901 **EUR17517** (was 3253121); 9904 3242000; equity 11195459; cash 1331674; FTE 13,8 (was 15,6).
+- FOI address: info@domeinpolderwind.be — general mailbox verified on the official site https://www.domeinpolderwind.be/wettelijke-vermeldingen (which lists the KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_west_vlaanderen); FOI **gap_rode_kruishotel_zuienkerke_vaph_matrix_733_0_52m_9901_18k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3566/; rq_3566=done; spawn **rq_3567**; ticks=3566.
+- Next: **rq_3567 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
