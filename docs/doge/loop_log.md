@@ -39630,3 +39630,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: secretariat@sapse-lalternative.be — secretariat mailbox verified on the official site https://www.sapse-lalternative.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_l_alternative_chatelet_vaph_matrix_9900_0_66m_9901_8k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3679/; rq_3679=done; spawn **rq_3680**; ticks=3679.
 - Next: **rq_3680 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3680 — 2026-10-13T16:37:56Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3249** of 3304 rows; inventory budgets 64718 · commitments 7304 · leaderboard 9422 · entities 3322 · sources 10845.
+- Top10: **stable** (3671-3679 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3671-3679: Form’Anim · Dierenvrienden Sint-Truiden · Multijobs · Dynam’Autes · Interm’Aide · TRX (Trix) · CIAJ AMO · Transit (AMO) · L’Alternative.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3680 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3680 run locally as fallback.
+- Next: **rq_3680** — code 9900 (NOT subsidy amounts): L’Échelle (EUR0.62m), De Kei (EUR0.61m, micro), Opvangcentrum Vogels Oostende (EUR0.59m, micro), De Keerkring (EUR0.58m, micro), AMO de NOH (EUR0.52m, micro); mailboxes verified on official sites, after the dedup check. Source: bounded KBO scan nscan5.
