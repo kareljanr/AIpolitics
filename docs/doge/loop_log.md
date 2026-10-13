@@ -40790,3 +40790,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sportaround.be — general mailbox verified on the official site https://www.sportaround.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_sportaround_gent_vaph_matrix_9900_0_39m_9901_loss_37k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3795/; rq_3795=done; spawn **rq_3796**; ticks=3795.
 - Next: **rq_3796 leftover dual** — Partial batch (3783-3795); recipients found in the Gent and Brugge open-data subsidy lists already in data/raw (gent_subs_full.json, brugge_subs_full.json), amounts from the NBB 2025 filings (code 9900, NOT subsidy amounts); VIERNULVIER and De Korrelatie skipped (no general mailbox on own site), Stadmakers site unreachable, De Overmolen HTTP 500. Next: remaining Gent/Brugge list recipients..
+
+
+## Tick 3796 — 2026-10-13T22:11:10Z — rq_3796 leftover dual Brussels Philharmonic Brussel YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Brussels Philharmonic** → KBO 0463.455.508 had 0 prior entity rows.
+- KBO: Actief since 2 maart 1998; VZW; zetel Eugène Flageyplein 18 1050 Elsene; 1 VE; 0 prior entity rows for 0463.455.508
+- Found: official NBB VOL-VZW native PDF **2026-00081375** (941691 B / 58p; AV 30-03-2026; neergelegd 17/04/2026; MD5 062d43fdca7be07f66f8180099334163). VOL-VZW 733 **EUR10942933** (+2.19%); 62 **EUR9843280**; 9901 **EUR295225** (was 512653); 9904 -91456; equity 1674170; cash 2483928; FTE 125,1 (was 121,5).
+- FOI address: info@brusselsphilharmonic.be — general mailbox verified on the official site https://www.brusselsphilharmonic.be/nl/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_brussels_philharmonic_vaph_matrix_733_10_94m_9901_295k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3796/; rq_3796=done; spawn **rq_3797**; ticks=3796.
+- Next: **rq_3797 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
