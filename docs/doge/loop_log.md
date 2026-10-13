@@ -36790,3 +36790,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: Administratie@devlinderkens.be — administration mailbox verified on the official site https://devlinderkens.be/contact.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_de_vlinderkens_edegem_vaph_matrix_9900_1_57m_9901_19k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3395/; rq_3395=done; spawn **rq_3396**; ticks=3395.
 - Next: **rq_3396 leftover dual** — Batch done; the completed 68.204 / 70.100 triage gave no further code 733 rows; all nine are code 9900 care leftovers. Next: Médiathèque Nouvelle (code 733, site still unreachable), then new NACE families for code 733 filers..
+
+
+## Tick 3396 — 2026-10-13T08:48:29Z — rq_3396 leftover dual Crescendo Samen Groeien Dilbeek YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Crescendo Samen Groeien** → KBO 0408.575.777 had 0 prior entity rows.
+- KBO: Actief since 26 november 1955; VZW; zetel Rozenlaan 45 1700 Dilbeek; 11 VE; 0 prior entity rows for 0408.575.777
+- Found: official NBB VOL-VZW native PDF **2026-00229580** (1018127 B / 52p; AV 23-06-2026; neergelegd 29/06/2026; MD5 b0353c97b736ce89da86362fb06d61be). VOL-VZW 733 **EUR3960392** (+4.13%); 62 **EUR548005**; 9901 **EUR510323** (was 234218); 9904 487431; equity 22144134; cash 3158094; FTE 9,7 (was 10,8).
+- FOI address: voorzitter@crescendo-scholen.be — chair role mailbox verified on the official site https://crescendo-scholen.be/ (footer names the VZW at the KBO registered seat).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_crescendo_samen_groeien_dilbeek_vaph_matrix_733_3_96m_9901_510k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3396/; rq_3396=done; spawn **rq_3397**; ticks=3396.
+- Next: **rq_3397 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
