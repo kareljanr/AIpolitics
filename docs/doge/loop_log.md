@@ -36010,3 +36010,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@materianova.be — general mailbox verified on the official site https://www.materianova.be/fr/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_mons); FOI **gap_materia_nova_mons_vaph_matrix_733_8_12m_9901_382k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3317/; rq_3317=done; spawn **rq_3318**; ticks=3317.
 - Next: **rq_3318 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3318 — 2026-10-13T05:44:52Z — rq_3318 leftover dual Proefcentrum Fruitteelt (pcfruit) Sint-Truiden YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.101 / 72.109 (research) and 85.591 / 85.593 (education) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first; EU-level bodies excluded: **Proefcentrum Fruitteelt (pcfruit)** → KBO 0878.145.255 had 0 prior entity rows.
+- KBO: Actief since 23 december 2005; VZW; zetel Fruittuinweg 1 3800 Sint-Truiden; 2 VE; 0 prior entity rows for 0878.145.255
+- Found: official NBB VOL-VZW native PDF **2026-00221150** (92705 B / 34p; AV 24-06-2026; neergelegd 30/06/2026; MD5 29c0dfc3e4a8e8bbbc318e2afa021f3c). VOL-VZW 733 **EUR5880410** (+12.81%); 62 **EUR6376301**; 9901 **EUR20154** (was -69543); 9904 24269; equity 8341495; cash 2008926; FTE 92,4 (was 88,7).
+- FOI address: pcfruit@pcfruit.be — general mailbox verified on the official site https://www.pcfruit.be/nl/contact (which lists the KBO number).
+- Wrote: sources +3; budgets +9; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_sint_truiden); FOI **gap_pcfruit_sint_truiden_vaph_matrix_733_5_88m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3318/; rq_3318=done; spawn **rq_3319**; ticks=3318.
+- Next: **rq_3319 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
