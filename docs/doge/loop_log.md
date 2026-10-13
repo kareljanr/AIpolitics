@@ -36310,3 +36310,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: glycines.secretariat@hotmail.com — secretariat mailbox verified on the official site https://www.mrslesglycines.be/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_les_glycines_sambreville_vaph_matrix_9900_4_09m_9901_20k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3347/; rq_3347=done; spawn **rq_3348**; ticks=3347.
 - Next: **rq_3348 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3348 — 2026-10-13T06:34:38Z — rq_3348 leftover dual Chapelle de Bourgogne Uccle YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **Chapelle de Bourgogne** → KBO 0408.551.132 had 0 prior entity rows.
+- KBO: Actief since 1 januari 1950; VZW; zetel Dieweg 73 1180 Ukkel; 1 VE; 0 prior entity rows for 0408.551.132
+- Found: official NBB VKT-VZW native PDF **2026-00224573** (220078 B / 20p; AV 29-06-2026; neergelegd 30/06/2026; MD5 b85271fb92b671ba1faf92ddac035e86). VKT-VZW 9900 **EUR3692829** (+3.14%); 62 **EUR3527896**; 9901 **EUR55080** (was -21786); 9904 53237; equity 1128928; cash 120381; FTE 47,7 (was 47,7).
+- FOI address: secretariat@chapbg.be — secretariat mailbox verified on the official site https://www.chapelledebourgogne.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_chapelle_de_bourgogne_uccle_vaph_matrix_9900_3_69m_9901_55k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3348/; rq_3348=done; spawn **rq_3349**; ticks=3348.
+- Next: **rq_3349 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
