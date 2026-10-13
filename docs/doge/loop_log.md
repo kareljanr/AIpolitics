@@ -39360,3 +39360,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@mirev.be — general mailbox verified on the official site https://mirev.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_liege); FOI **gap_mirev_verviers_vaph_matrix_9900_1_15m_9901_2k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3652/; rq_3652=done; spawn **rq_3653**; ticks=3652.
 - Next: **rq_3653 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3653 — 2026-10-13T16:20:16Z — rq_3653 leftover dual Boulot Laeken YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Boulot** → KBO 0424.742.412 had 0 prior entity rows.
+- KBO: Actief since 22 september 1983; VZW; zetel Fransmanstraat 131 1020 Brussel; 1 VE; 0 prior entity rows for 0424.742.412
+- Found: official NBB VKT-VZW native PDF **2026-00504701** (147291 B / 18p; AV 30-06-2026; neergelegd 07/09/2026; MD5 7ad6f98ac9d4809540b0935f759082bd). VKT-VZW 9900 **EUR1111795** (-0.04%); 62 **EUR1021111**; 9901 **EUR39475** (was 40148); 9904 42064; equity 378786; cash 338696; FTE 16,8 (was 16,6).
+- FOI address: secretariat@boulotasbl.be — role mailbox verified on the official site https://boulotasbl.be/contact/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_boulot_laeken_vaph_matrix_9900_1_11m_9901_39k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3653/; rq_3653=done; spawn **rq_3654**; ticks=3653.
+- Next: **rq_3654 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
