@@ -40470,3 +40470,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@sasdemons.be — general mailbox verified on the official site https://www.sasdemons.be/fr/contactez-nous (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_sas_de_mons_vaph_matrix_9900_0_65m_9901_23k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3763/; rq_3763=done; spawn **rq_3764**; ticks=3763.
 - Next: **rq_3764 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3764 — 2026-10-13T19:49:30Z — rq_3764 leftover dual Atelier/M (maison de jeunes) Charleroi YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Atelier/M (maison de jeunes)** → KBO 0442.071.857 had 0 prior entity rows.
+- KBO: Actief since 31 oktober 1990; VZW; zetel Rue de Monceau Fontaine 35 6031 Charleroi; 1 VE; 0 prior entity rows for 0442.071.857
+- Found: official NBB MIC-VZW native PDF **2026-00113975** (44018 B / 10p; AV 27-04-2026; neergelegd 19/05/2026; MD5 1ef2b37ad6468a62dcb04ad537501892). MIC-VZW 9900 **EUR496133** (+8.23%); 62 **EUR469044**; 9901 **EUR1137** (was 10458); 9904 4121; equity 213819; cash 241214; FTE n/a.
+- FOI address: info@atelierm.be — general mailbox verified on the official site https://atelierm.be/ (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_atelier_m_monceau_vaph_matrix_9900_0_50m_9901_1k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3764/; rq_3764=done; spawn **rq_3765**; ticks=3764.
+- Next: **rq_3765 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
