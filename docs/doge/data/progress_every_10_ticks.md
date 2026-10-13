@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3350** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3340; 3341-3349 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3341-3349 residual dual L5 (not near-complete of 348bn):** Sainte Adeline · Notre Abri · Amarrage · Home Saint-François Baelen · PSC Elsene · ACIS · Les Glycines · Chapelle de Bourgogne · La Tramontane (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **2952** drafts ready | Human send only; answered **11**; partial **28**; total FOI rows **3007** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3341-3349** Sainte Adeline · Notre Abri · Amarrage · Home Saint-François Baelen · PSC Elsene · ACIS · Les Glycines · Chapelle de Bourgogne · La Tramontane.
+
+### Inventory (tick 3350)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 62326 |
+| commitments.csv | 7007 |
+| leaderboard.csv | 9125 |
+| entities.csv | 3025 |
+| sources.csv | 9954 |
+| FOI ready | 2952 |
+| FOI total rows | 3007 |
+| research_queue open | rq_3350 (carried; next: IMP Le Relais, La Maison de nos Enfants, La Pommeraie, Huize Vogelzang, PHA Antwerpen (NACE 87.xxx / 86.xxx scans, code 9900); largest first) |
+
+### What improved since tick 3340
+
+- **New source (tick3341-3349):** Sainte Adeline · Notre Abri · Amarrage · Home Saint-François Baelen · PSC Elsene · ACIS · Les Glycines · Chapelle de Bourgogne · La Tramontane. All from the NACE 87.xxx / 86.xxx / 84.1xx scans (re-run and extended to 87.109 / 87.202 / 87.203 / 87.302 / 87.999 / 86.991-86.997 and the unfinished 84.120 batch): code 733 rows first (ACIS), then code 9900, largest first. EU-level bodies excluded.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3350 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions status not re-checked. Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3340** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

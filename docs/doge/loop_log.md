@@ -36330,3 +36330,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: tramontane@latramontane.be — general mailbox verified on the official site https://www.latramontane.be/ (official site of this ASBL).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_ixelles); FOI **gap_la_tramontane_ixelles_vaph_matrix_9900_3_27m_9901_loss_127k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3349/; rq_3349=done; spawn **rq_3350**; ticks=3349.
 - Next: **rq_3350 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3350 — 2026-10-13T06:35:26Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **2952** of 3007 rows; inventory budgets 62326 · commitments 7007 · leaderboard 9125 · entities 3025 · sources 9954.
+- Top10: **stable** (3341-3349 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3341-3349: Sainte Adeline · Notre Abri · Amarrage · Home Saint-François Baelen · PSC Elsene · ACIS · Les Glycines · Chapelle de Bourgogne · La Tramontane.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3350 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3350 run locally as fallback.
+- Next: **rq_3350** — code 9900 (NOT subsidy amounts): IMP Le Relais (EUR2.98m), La Maison de nos Enfants (EUR2.80m), La Pommeraie (EUR2.67m), Huize Vogelzang (EUR2.54m), PHA Antwerpen (EUR1.84m); mailboxes verified on official sites, after the dedup check.
