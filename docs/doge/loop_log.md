@@ -40890,3 +40890,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@rebelle-vzw.be — general mailbox verified on the official site https://www.rebelle-vzw.be/rebelle-contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_rebelle_brussel_vaph_matrix_9900_3_53m_9901_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3805/; rq_3805=done; spawn **rq_3806**; ticks=3805.
 - Next: **rq_3806 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3806 — 2026-10-13T22:21:02Z — rq_3806 leftover dual Con Brio (Compaan) Gent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Con Brio (Compaan)** → KBO 0462.277.947 had 0 prior entity rows.
+- KBO: Actief since 14 november 1997; VZW; zetel Antwerpsesteenweg 573 9040 Gent; 3 VE; 0 prior entity rows for 0462.277.947
+- Found: official NBB VKT-VZW native PDF **2026-00461213** (741139 B / 32p; AV 01-06-2026; neergelegd 31/08/2026; MD5 1f9f409d2b39c15af5900a45afa6273c). VKT-VZW 9900 **EUR2787593** (+2.14%); 62 **EUR2873410**; 9901 **EUR-89797** (was -375166); 9904 -97837; equity 431100; cash 533460; FTE 69,7 (was 67,2).
+- FOI address: info@compaan.be — general mailbox verified on the official site https://www.compaan.be/privacy-en-cookiebeleid/cookiebeleid/, which names Con Brio vzw with this KBO number at the KBO registered seat (Compaan is its trade name).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_oost_vlaanderen); FOI **gap_con_brio_compaan_gent_vaph_matrix_9900_2_79m_9901_loss_90k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3806/; rq_3806=done; spawn **rq_3807**; ticks=3806.
+- Next: **rq_3807 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
