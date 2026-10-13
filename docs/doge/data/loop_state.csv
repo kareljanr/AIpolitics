@@ -1,2 +1,2 @@
 state_id,mode,current_sprint,last_tick_utc,last_unit_id,ticks_completed,paused,notes
-main,continuous,hole_fill,2026-10-13T02:26:50Z,rq_3232,3232,no,tick3232 leftover dual Les Riches-Claires (Centre culturel) Bruxelles 0460.971.021 Strong PDF 2026-00450809 9900 0.74m / 9901 34k; next rq_3233 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)
+main,continuous,hole_fill,2026-10-13T02:27:01Z,rq_3233,3233,no,tick3233 leftover dual Jeunesse à Bruxelles Bruxelles 0419.499.264 Strong PDF 2026-00170107 9900 0.85m / 9901 loss 34k; next rq_3234 Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch (local fallback runner; Actions cron unreliable)

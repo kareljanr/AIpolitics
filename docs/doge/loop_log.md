@@ -35164,3 +35164,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@lesrichesclaires.be — general mailbox verified on the official site https://www.lesrichesclaires.be/entree-des-artistes/.
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_les_riches_claires_vaph_matrix_9900_0_74m_9901_34k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3232/; rq_3232=done; spawn **rq_3233**; ticks=3232.
 - Next: **rq_3233 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3233 — 2026-10-13T02:27:01Z — rq_3233 leftover dual Jeunesse à Bruxelles Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE Largest recipients in the official City of Brussels 2025 subsidy inventory (opendata.brussels.be dataset subsides-ville-de-bruxelles-subsidies-stad-brussel-2025) not yet in the repo, cross-checked with the NBB filing: **Jeunesse à Bruxelles** → KBO 0419.499.264 had 0 prior entity rows.
+- KBO: Actief since 21 juni 1979; VZW; zetel Helihavenlaan 56 1000 Brussel; 1 VE; 0 prior entity rows for 0419.499.264
+- Found: official NBB VKT-VZW native PDF **2026-00170107** (52688 B / 15p; AV 28-05-2026; neergelegd 16/06/2026; MD5 6ecc79d61612b6010a9e2af0e29afd60). VKT-VZW 9900 **EUR853834** (-1.61%); 62 **EUR826246**; 9901 **EUR-34334** (was -28908); 9904 11033; equity 1084615; cash 68650; FTE 13,5 (was 12,1).
+- FOI address: jeunesse.asbl@brucity.be — general mailbox verified on the official site (contact page of jeunesseabruxelles.be, opened via fetch; ASBL mailbox).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_jeunesse_a_bruxelles_vaph_matrix_9900_0_85m_9901_loss_34k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3233/; rq_3233=done; spawn **rq_3234**; ticks=3233.
+- Next: **rq_3234 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
