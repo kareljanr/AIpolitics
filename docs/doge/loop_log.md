@@ -36260,3 +36260,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@notreabri.be — general mailbox verified on the official site https://notreabri.be/contact/ (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_notre_abri_uccle_vaph_matrix_9900_5_70m_9901_89k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3342/; rq_3342=done; spawn **rq_3343**; ticks=3342.
 - Next: **rq_3343 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3343 — 2026-10-13T06:18:12Z — rq_3343 leftover dual Amarrage Ottignies-Louvain-la-Neuve (Céroux-Mousty) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 87.301 / 87.101 / 87.991 / 86.104 / 86.995 / 86.940 / 84.130 / 84.120 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first; EU-level bodies excluded: **Amarrage** → KBO 0413.714.106 had 0 prior entity rows.
+- KBO: Actief since 27 juni 1973; VZW; zetel Avenue des Muguets 10 1341 Ottignies-Louvain-la-Neuve; 6 VE; 0 prior entity rows for 0413.714.106
+- Found: official NBB VKT-VZW native PDF **2026-00187914** (53973 B / 16p; AV 18-06-2026; neergelegd 23/06/2026; MD5 f9075c45503ff18d65155d87afbec82c). VKT-VZW 9900 **EUR5250271** (+6.60%); 62 **EUR5331403**; 9901 **EUR-110873** (was -67833); 9904 -112705; equity 167059; cash 1174692; FTE 70,9 (was 68,6).
+- FOI address: info@amarrage.be — general mailbox verified on the official site https://amarrage.be/contact/ (which lists the KBO number).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_amarrage_ottignies_vaph_matrix_9900_5_25m_9901_loss_111k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3343/; rq_3343=done; spawn **rq_3344**; ticks=3343.
+- Next: **rq_3344 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
