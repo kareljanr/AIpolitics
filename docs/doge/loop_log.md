@@ -35870,3 +35870,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@ksa.be — general mailbox verified on the official site https://www.ksa.be/contact (same address as the KBO registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_ksa_nationaal_vaph_matrix_9900_1_67m_9901_loss_54k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3303/; rq_3303=done; spawn **rq_3304**; ticks=3303.
 - Next: **rq_3304 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
+
+
+## Tick 3304 — 2026-10-13T05:08:17Z — rq_3304 leftover dual GAFFI - Groupe d'Animation et de Formation pour Femmes Immigrées Bruxelles YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 94.991 / 94.992 (974 legal persons not yet in the repo) and NACE 94.999 / 88.109 (776) over Walloon, Brussels and Flemish postcodes; code 733 rows first, then code 9900, largest first: **GAFFI - Groupe d'Animation et de Formation pour Femmes Immigrées** → KBO 0452.951.891 had 0 prior entity rows.
+- KBO: Actief since 5 mei 1994; VZW; zetel Broederschapstraat 7 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0452.951.891
+- Found: official NBB VKT-VZW native PDF **2026-00236012** (209001 B / 20p; AV 18-06-2026; neergelegd 26/06/2026; MD5 6ddeb34489a7e9a97af3eb8719054dac). VKT-VZW 9900 **EUR1398829** (-0.14%); 62 **EUR1355607**; 9901 **EUR-10909** (was -5860); 9904 -11171; equity 126707; cash 292663; FTE 20,7 (was 19,9).
+- FOI address: coordination@gaffi.be — coordination (role) mailbox verified on the official site https://www.gaffi.be/contact (same address as the KBO registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent city_brussel); FOI **gap_gaffi_schaerbeek_vaph_matrix_9900_1_40m_9901_loss_11k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3304/; rq_3304=done; spawn **rq_3305**; ticks=3304.
+- Next: **rq_3305 leftover dual** — Municipality-level Flemish multi-code batch in progress; next: remaining units of this batch.
