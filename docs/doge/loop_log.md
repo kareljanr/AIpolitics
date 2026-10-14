@@ -42040,3 +42040,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3920 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3920 run locally as fallback.
 - Next: **rq_3920** — no candidate queued: continue the remaining newly filed NBB 2025 candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
+
+
+## Tick 3921 — 2026-10-14T02:54:43Z — rq_3920 leftover dual ASBL Impulsion Braine-l'Alleud YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **ASBL Impulsion** → KBO 0419032872 had 0 prior entity rows.
+- KBO: Actief since 11 januari 1979; VZW; zetel Grand-Place Baudouin 1er 6 1420 Braine-l'Alleud; 1 VE; 0 prior entity rows for 0419032872
+- Found: official NBB MIC-VZW native PDF **2026-00194245** (40361 B / 10p; AV 27-05-2026; neergelegd 24/06/2026; MD5 81a179791645dd6e2008f5cb0a8eadba). MIC-VZW 9900 **EUR517179** (+0.74%); 62 **EUR496921**; 9901 **EUR13033** (was 29712); 9904 15320; equity 671507; cash 714911; FTE n/a.
+- FOI address: info@impulsion-asbl.be — own privacy policy https://impulsion-asbl.be/wp-content/uploads/2025/09/Politique-de-confidentialite-impulsion-asbl.pdf (shows KBO 0419.032.872, seat and info@ mailbox).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_asbl_impulsion_vaph_matrix_9900_0_52m_9901_13k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3921/; rq_3920=done; spawn **rq_3922**; ticks=3921.
+- Next: **rq_3922 leftover dual** — Partial batch (3921); recipients from the FWB Cadastre des subventions 2025 (https://www.odwb.be/explore/dataset/fwb-cadastre-des-subventions-2025/; CSV export 2026-10-14; file kept outside the repo), non-profit recipients EUR 50k-2m liquidated in 2025, education excluded (candsfwb); re-checked 2026-10-14 for newly arrived NBB 2025 filings, non-profit filers not yet in the data (dedup by KBO and name); amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest granting institution cited per row. Next: remaining FWB cadastre candidates..
