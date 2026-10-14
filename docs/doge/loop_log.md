@@ -42130,3 +42130,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@cirkusinbeweging.be — general mailbox verified on the official site https://www.cirkusinbeweging.be/contact (same address and KBO number as the registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_cirkus_in_beweging_leuven_vaph_matrix_9900_0_69m_9901_loss_13k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3929/; rq_3929=done; spawn **rq_3930**; ticks=3929.
 - Next: **rq_3930 leftover dual** — Partial batch (3929); recipients from the Flemish Subsidieregister 2025_V01 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets; dataset version 2025_V01; file kept outside the repo), not-yet-processed rows of cands/cands50/cands25 re-checked 2026-10-14 for newly arrived NBB 2025 filings, non-profit filers not yet in the data (dedup by KBO and name); amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest verstrekker cited per row. Next: remaining newly filed Flemish candidates..
+
+
+## Tick 3930 — 2026-10-14T03:18:23Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3467** of 3529 rows; inventory budgets 66522 · commitments 7529 · leaderboard 9647 · entities 3547 · sources 11520.
+- Top10: **stable** (3921-3929 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3921-3929: ASBL Impulsion · Repères · Access-i · CGé - ChanGements pour l’égalité · Atelier des Petits Pas · Créahm Bruxelles · BRONKS · Kopergietery · Cirkus in Beweging.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3930 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3930 run locally as fallback.
+- Next: **rq_3930** — no candidate queued: continue the remaining newly filed Flemish Subsidieregister candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
