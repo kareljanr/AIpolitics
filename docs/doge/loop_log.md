@@ -42140,3 +42140,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3930 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3930 run locally as fallback.
 - Next: **rq_3930** — no candidate queued: continue the remaining newly filed Flemish Subsidieregister candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
+
+
+## Tick 3931 — 2026-10-14T03:18:48Z — rq_3930 leftover dual Zonzo Compagnie Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Zonzo Compagnie** → KBO 0475680278 had 0 prior entity rows.
+- KBO: Actief since 4 oktober 2001; VZW; zetel Offerandestraat 1 bus a 2060 Antwerpen; 1 VE; 0 prior entity rows for 0475680278
+- Found: official NBB VKT-VZW native PDF **2026-00207051** (52937 B / 14p; AV 24-03-2026; neergelegd 19/06/2026; MD5 26bbbac151ff9015735e956d687abb9f). VKT-VZW 9900 **EUR599622** (+26.75%); 62 **EUR501890**; 9901 **EUR76294** (was -11749); 9904 78794; equity 474306; cash 287026; FTE 6,3 (was 6,2).
+- FOI address: info@zonzocompagnie.be — general mailbox verified on the official site https://www.zonzocompagnie.be/contact (same address and KBO number as the registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_zonzo_compagnie_antwerpen_vaph_matrix_9900_0_60m_9901_76k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3931/; rq_3930=done; spawn **rq_3932**; ticks=3931.
+- Next: **rq_3932 leftover dual** — Partial batch (3931); recipients from the Flemish Subsidieregister 2025_V01 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets; dataset version 2025_V01; file kept outside the repo), not-yet-processed rows of cands/cands50/cands25 re-checked 2026-10-14 for newly arrived NBB 2025 filings, non-profit filers not yet in the data (dedup by KBO and name); amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest verstrekker cited per row. Next: remaining newly filed Flemish candidates..
