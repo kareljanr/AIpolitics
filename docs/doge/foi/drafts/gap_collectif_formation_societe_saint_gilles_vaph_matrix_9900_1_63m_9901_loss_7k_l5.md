@@ -4,7 +4,7 @@
 **status:** ready (NOT sent)  
 **language:** FR (Brussels French-language body; template `docs/doge/foi-template-fr.md`)  
 **entity:** Collectif Formation Société ASBL — BCE/KBO **0432.950.590** (Actief; VZW; siège Overwinningsstraat 26 1060 Sint-Gillis (bij-Brussel); 1 UE)  
-**recipient:** Collectif Formation Société ASBL / Président(e) du conseil d'administration — rgpd@cfsasbl.be — Rue de la Victoire 26/1, 1060 Bruxelles (Saint-Gilles)  
+**recipient:** Collectif Formation Société ASBL / Président(e) du conseil d'administration — info@cfsasbl.be — Rue de la Victoire 26/1, 1060 Bruxelles (Saint-Gilles)  
 **recipient note:** role mailbox (data-protection contact) verified on the official site https://isp.cfsasbl.be/spip.php?article288 (same page shows the registered seat Rue de la Victoire 26/1, 1060 Saint-Gilles and enterprise number 0432.950.590; no general mailbox published; site found by web search on name and town)  
 **legal basis note:** voluntary request; no legal-basis claim made for this private-law ASBL; the subsidising authorities hold the decisions  
 **sources:** official NBB VKT-VZW native PDF deposit **2026-00276634** (257483 B / 18p; AG 06-07-2026; déposé 08/07/2026; MD5 5e3aebaf8d1fd4c322bdcf67d080bece) + KBO + KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first
