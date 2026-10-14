@@ -41740,3 +41740,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3890 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3890 run locally as fallback.
 - Next: **rq_3890** — no candidate queued: continue the Brussels Openbudgets candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
+
+
+## Tick 3891 — 2026-10-14T01:14:24Z — rq_3890 leftover dual Cannelle Bruxelles (Schaerbeek) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Cannelle** → KBO 0475.605.153 had 0 prior entity rows.
+- KBO: Actief since 3 juli 2001; VZW; zetel Philomènestraat 37 1030 Schaarbeek; 1 VE; 0 prior entity rows for 0475.605.153
+- Found: official NBB VKT-VZW native PDF **2026-00158407** (52197 B / 13p; AV 08-06-2026; neergelegd 11/06/2026; MD5 ad2d352586ecab8aa36400369d92e0c5). VKT-VZW 9900 **EUR483493** (+3.90%); 62 **EUR419224**; 9901 **EUR41233** (was -25076); 9904 31745; equity 73465; cash 25493; FTE 9,1 (was 10,6).
+- FOI address: traiteur@cannelle.be — role mailbox verified on the official site https://cannelle.be/ (same address and KBO number as the registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_cannelle_schaerbeek_vaph_matrix_9900_0_48m_9901_41k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3891/; rq_3890=done; spawn **rq_3892**; ticks=3891.
+- Next: **rq_3892 leftover dual** — Partial batch (3891); recipients from the Brussels-Capital Region Openbudgets subsidy register (https://openbudgets.be.brussels/en/data-table/table-2; export dated 08-04-2026; file kept outside the repo), non-profit recipients paid EUR 50k-1m in 2024-2025 (candsob), non-profit filers not yet in the data (dedup by KBO and name); amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest granting institution cited per row. Next: remaining Openbudgets candidates..
