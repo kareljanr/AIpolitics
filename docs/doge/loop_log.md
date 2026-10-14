@@ -41930,3 +41930,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: contact@sport2be.org — general mailbox verified on the official site https://sport2be.org/en/contact; the site legal notice https://sport2be.org/fr/mentions-legales shows the same registered seat Avenue du Port 86c BP 508, 1000 Bruxelles and enterprise number 0649.754.696 (site found by web search on name and town).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_sport2be_bruxelles_vaph_matrix_9900_0_34m_9901_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3909/; rq_3909=done; spawn **rq_3910**; ticks=3909.
 - Next: **rq_3910 leftover dual** — Partial batch (3909); recipients from the FWB Cadastre des subventions 2021 and 2023 (https://www.odwb.be/explore/dataset/fwb-cadastre-des-subventions-2023/; CSV exports 2026-10-14; files kept outside the repo), non-profit recipients EUR 50k-2m in the latest of those years, education excluded, not already in the 2024/2025 lists (candsfwb1923), non-profit filers not yet in the data (dedup by KBO and name); amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest granting institution cited per row. Next: remaining FWB 2021/2023 cadastre candidates..
+
+
+## Tick 3910 — 2026-10-14T02:35:30Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3449** of 3511 rows; inventory budgets 66378 · commitments 7511 · leaderboard 9629 · entities 3529 · sources 11466.
+- Top10: **stable** (3901-3909 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3901-3909: Bas les Masques · La Teignouse · Fondation pour les Générations Futures · Wallonie Design · Empreintes · Centre de Formation d’Animateurs · FrancoFaune · A.P.R.E.S. · Sport2Be.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3910 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3910 run locally as fallback.
+- Next: **rq_3910** — no candidate queued: continue the FWB Cadastre des subventions 2021/2023 (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.

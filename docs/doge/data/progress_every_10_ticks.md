@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3910** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3900; 3901-3909 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3901-3909 residual dual L5 (not near-complete of 348bn):** Bas les Masques · La Teignouse · Fondation pour les Générations Futures · Wallonie Design · Empreintes · Centre de Formation d’Animateurs · FrancoFaune · A.P.R.E.S. · Sport2Be (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3449** drafts ready | Human send only; answered **11**; partial **29**; total FOI rows **3511** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3901-3909** Bas les Masques · La Teignouse · Fondation pour les Générations Futures · Wallonie Design · Empreintes · Centre de Formation d’Animateurs · FrancoFaune · A.P.R.E.S. · Sport2Be.
+
+### Inventory (tick 3910)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 66378 |
+| commitments.csv | 7511 |
+| leaderboard.csv | 9629 |
+| entities.csv | 3529 |
+| sources.csv | 11466 |
+| FOI ready | 3449 |
+| FOI total rows | 3511 |
+| research_queue open | rq_3910 (carried; next: none queued (check remaining FWB Cadastre des subventions 2021/2023 candidates)) |
+
+### What improved since tick 3900
+
+- **New source (tick3901-3909):** Bas les Masques · La Teignouse · Fondation pour les Générations Futures · Wallonie Design · Empreintes · Centre de Formation d’Animateurs · FrancoFaune · A.P.R.E.S. · Sport2Be. Tick 3901-3902 from the FWB Cadastre des subventions 2025 (https://www.odwb.be/explore/dataset/fwb-cadastre-des-subventions-2025/); ticks 3903-3904 from the Walloon Region Cadastre des subventions facultatives (https://subventions.wallonie.be/home/les-subventions/2025.html, JSON table export 2026-10-14; no enterprise numbers, KBO matched by name+town web search); ticks 3905-3909 from the FWB Cadastre des subventions 2021/2023 (https://www.odwb.be/explore/dataset/fwb-cadastre-des-subventions-2023/, CSV exports 2026-10-14; files kept outside the repo). Each body accepted only when its own site shows the KBO number, the KBO seat and a general mailbox on its own domain; Wallonie Design (tick 3904) FOI row set not_ready (public-linked: AWEX board seat) and the FGF entity label corrected to FUP.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3910 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked 2026-10-13: no new DOGE tick commits (radar only). Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3900** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
