@@ -41840,3 +41840,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3900 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3900 run locally as fallback.
 - Next: **rq_3900** — no candidate queued: continue the FWB Cadastre des subventions 2025 candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
+
+
+## Tick 3901 — 2026-10-14T02:04:41Z — rq_3900 leftover dual Bas les Masques Wavre YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Bas les Masques** → KBO 0474.659.701 had 0 prior entity rows.
+- KBO: Actief since 22 februari 2001; VZW; zetel Rue des Fontaines 60 1300 Wavre; 6 VE; 0 prior entity rows for 0474.659.701
+- Found: official NBB MIC-VZW native PDF **2026-00455458** (37217 B / 10p; AV 30-06-2026; neergelegd 30/08/2026; MD5 d3340db45b64f7b4e29aaffcd0b45487). MIC-VZW 9900 **EUR356994** (+15.29%); 62 **EUR379307**; 9901 **EUR-48129** (was -63125); 9904 -61433; equity 3190; cash 30754; FTE n/a.
+- FOI address: info@baslesmasques.be — general mailbox verified on the official site https://www.baslesmasques.be/ (same address and KBO number as the registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_brabant_wallon); FOI **gap_bas_les_masques_wavre_vaph_matrix_9900_0_36m_9901_loss_48k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3901/; rq_3900=done; spawn **rq_3902**; ticks=3901.
+- Next: **rq_3902 leftover dual** — Partial batch (3901); recipients from the FWB Cadastre des subventions 2025 (https://www.odwb.be/explore/dataset/fwb-cadastre-des-subventions-2025/; CSV export 2026-10-14; file kept outside the repo), non-profit recipients EUR 50k-2m liquidated in 2025, education excluded (candsfwb), non-profit filers not yet in the data (dedup by KBO and name); amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest granting institution cited per row. Next: remaining FWB cadastre candidates..

@@ -1,0 +1,1 @@
+{"status": "Actief", "begin": "22 februari 2001", "rv": "Vereniging zonder winstoogmerk", "addr": "Rue des Fontaines 60 1300 Wavre", "ve": "6"}
