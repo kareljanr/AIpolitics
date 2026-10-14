@@ -41830,3 +41830,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: information@enerj.be — general mailbox verified on the official site https://enerj.be/ (same address and KBO number as the registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_centre_enerj_charleroi_vaph_matrix_9900_0_64m_9901_15k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3899/; rq_3899=done; spawn **rq_3900**; ticks=3899.
 - Next: **rq_3900 leftover dual** — Partial batch (3899); recipients from the FWB Cadastre des subventions 2025 (https://www.odwb.be/explore/dataset/fwb-cadastre-des-subventions-2025/; CSV export 2026-10-14; file kept outside the repo), non-profit recipients EUR 50k-2m liquidated in 2025, education excluded (candsfwb), non-profit filers not yet in the data (dedup by KBO and name); amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest granting institution cited per row. Next: remaining FWB cadastre candidates..
+
+
+## Tick 3900 — 2026-10-14T02:04:25Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3441** of 3502 rows; inventory budgets 66306 · commitments 7502 · leaderboard 9620 · entities 3520 · sources 11439.
+- Top10: **stable** (3891-3899 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3891-3899: Cannelle · ReFresh XL · Great · Bataclan · Les Ambassadeurs d’Expression Citoyenne · La Maison de Frasnes · Résilience · Maison de la Jeunesse de Soignies · Centre Ener’J.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3900 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3900 run locally as fallback.
+- Next: **rq_3900** — no candidate queued: continue the FWB Cadastre des subventions 2025 candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.

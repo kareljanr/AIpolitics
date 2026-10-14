@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3900** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3890; 3891-3899 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3891-3899 residual dual L5 (not near-complete of 348bn):** Cannelle · ReFresh XL · Great · Bataclan · Les Ambassadeurs d’Expression Citoyenne · La Maison de Frasnes · Résilience · Maison de la Jeunesse de Soignies · Centre Ener’J (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3441** drafts ready | Human send only; answered **11**; partial **29**; total FOI rows **3502** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3891-3899** Cannelle · ReFresh XL · Great · Bataclan · Les Ambassadeurs d’Expression Citoyenne · La Maison de Frasnes · Résilience · Maison de la Jeunesse de Soignies · Centre Ener’J.
+
+### Inventory (tick 3900)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 66306 |
+| commitments.csv | 7502 |
+| leaderboard.csv | 9620 |
+| entities.csv | 3520 |
+| sources.csv | 11439 |
+| FOI ready | 3441 |
+| FOI total rows | 3502 |
+| research_queue open | rq_3900 (carried; next: none queued (check remaining FWB cadastre candidates)) |
+
+### What improved since tick 3890
+
+- **New source (tick3891-3899):** Cannelle · ReFresh XL · Great · Bataclan · Les Ambassadeurs d’Expression Citoyenne · La Maison de Frasnes · Résilience · Maison de la Jeunesse de Soignies · Centre Ener’J. Ticks 3891-3895 from the Brussels-Capital Region Openbudgets subsidy register (https://openbudgets.be.brussels/en/data-table/table-2, export dated 08-04-2026; file kept outside the repo; 2024-2025 paid amount cited per row); tick 3893 (Great, Dutch-language) parented under sec_flanders, the other Brussels bodies under brussels_gov; ticks 3896-3899 from the FWB Cadastre des subventions 2025 (https://www.odwb.be/explore/dataset/fwb-cadastre-des-subventions-2025/, CSV export 2026-10-14; file kept outside the repo; 2025 liquidated amount and main competence cited per row), Walloon bodies parented under their province. Earlier ticks in this window's source chain used the Flemish Subsidieregister 2025_V01 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets). Funder named only where a register spells it out; otherwise funder not verified. Non-profit filers only. Amounts from NBB 2025 filings: code 9900 (NOT a subsidy amount). Mailbox, registered address and KBO number all verified on each body’s own site; KBO address checked with kb.py. Rejected: Amazone, C-paje and other networks/federations, AAFU (mailbox only in the KBO record), Commission Justice et Paix (religious-linked), Nansen and Solidarité-Logement (mailbox domain differs from site), municipal/public-linked ASBLs, international bodies, others without a general mailbox or KBO number on their own site.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3900 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked 2026-10-13: no new DOGE tick commits (radar only). Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3890** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
