@@ -42240,3 +42240,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3940 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3940 run locally as fallback.
 - Next: **rq_3940** — no candidate queued: continue the Flemish Subsidieregister 2024_V02 culture/youth/welfare candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
+
+
+## Tick 3941 — 2026-10-14T03:52:18Z — rq_3940 leftover dual Behoud de Begeerte Antwerpen YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Behoud de Begeerte** → KBO 0425405178 had 0 prior entity rows.
+- KBO: Actief since 29 december 1983; VZW; zetel De Coninckplein 25 2060 Antwerpen; 1 VE; 0 prior entity rows for 0425405178
+- Found: official NBB VKT-VZW native PDF **2026-00174967** (49597 B / 13p; AV 17-06-2026; neergelegd 19/06/2026; MD5 894b509b799441539288c11939fdff46). VKT-VZW 9900 **EUR270905** (-16.95%); 62 **EUR258783**; 9901 **EUR6955** (was 33599); 9904 5821; equity 42504; cash 6120; FTE 3,6 (was 4,3).
+- FOI address: behoud.de@begeerte.be — general mailbox verified on the official site URL (same address and KBO number as the registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_antwerpen); FOI **gap_behoud_de_begeerte_vaph_matrix_9900_0_27m_9901_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3941/; rq_3940=done; spawn **rq_3942**; ticks=3941.
+- Next: **rq_3942 leftover dual** — Partial batch (3941); recipients from the Flemish Subsidieregister 2024_V02 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets; dataset version 2024_V02; file kept outside the repo), culture/youth/media and welfare/care verstrekker rows of EUR 25k+ not in any earlier list, non-profit filers not yet in the data (dedup by KBO and name); amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest verstrekker cited per row. Next: remaining newly filed Flemish candidates..
