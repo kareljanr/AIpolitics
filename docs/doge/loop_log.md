@@ -41640,3 +41640,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3880 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3880 run locally as fallback.
 - Next: **rq_3880** — no candidate queued: continue the Flemish Subsidieregister candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
+
+
+## Tick 3881 — 2026-10-14T00:10:22Z — rq_3880 leftover dual WoodKid Herent YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **WoodKid** → KBO 0549.967.729 had 0 prior entity rows.
+- KBO: Actief since 20 maart 2014; VZW; zetel Klein Dalenstraat 45 bus c 3020 Herent; 1 VE; 0 prior entity rows for 0549.967.729
+- Found: official NBB MIC-VZW native PDF **2026-00082514** (38444 B / 8p; AV 15-04-2026; neergelegd 20/04/2026; MD5 2945fff8c523eb370cdc4e03a7bda113). MIC-VZW 9900 **EUR294655** (+60.67%); 62 **EUR230947**; 9901 **EUR40230** (was 30731); 9904 40047; equity 137096; cash 162068; FTE n/a.
+- FOI address: info@woodkid.be — general mailbox verified on the official site https://woodkid.be/ (same address and KBO number as the registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_vlaams_brabant); FOI **gap_woodkid_herent_vaph_matrix_9900_0_29m_9901_40k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3881/; rq_3880=done; spawn **rq_3882**; ticks=3881.
+- Next: **rq_3882 leftover dual** — Partial batch (3881); recipients from the Flemish Subsidieregister 2025_V01 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets; file kept outside the repo), non-profit filers not yet in the data (dedup by KBO and name), ranked by toegekend; amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest verstrekker cited per row. Correction in this commit: the tick3824 Kannet+ FOI row is set to not_ready (umbrella rule; Kannet+ is a Flanders-wide network with regional branches and duplicates entity vzw_kannet_antwerpen from tick2606); row kept. Skipped: AFS (international), Journalismfund Europe and ISF International Daycare (international), Verso (federation), DC-pwa (public), Compagnie Cecilia, Zomer van Antwerpen, Eastman and Cachet (no reachable own site or no general mailbox), Eos Wetenschap (no address on own site). Next: remaining Subsidieregister candidates (/workspace/subreg/cands.tsv)..
