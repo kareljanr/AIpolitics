@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3890** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3880; 3881-3889 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3881-3889 residual dual L5 (not near-complete of 348bn):** WoodKid · Voetgangersbeweging · Aksent · Opvangcentrum voor Vogels en Wilde Dieren Brasschaat-Kapellen · Centrum Kauwenberg · Vrijwillige Blankenbergse Zeereddingsdienst · Fameus · Rotor · Woman’do (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3432** drafts ready | Human send only; answered **11**; partial **29**; total FOI rows **3493** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3881-3889** WoodKid · Voetgangersbeweging · Aksent · Opvangcentrum voor Vogels en Wilde Dieren Brasschaat-Kapellen · Centrum Kauwenberg · Vrijwillige Blankenbergse Zeereddingsdienst · Fameus · Rotor · Woman’do.
+
+### Inventory (tick 3890)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 66234 |
+| commitments.csv | 7493 |
+| leaderboard.csv | 9611 |
+| entities.csv | 3511 |
+| sources.csv | 11412 |
+| FOI ready | 3432 |
+| FOI total rows | 3493 |
+| research_queue open | rq_3890 (carried; next: none queued (check remaining Brussels Openbudgets candidates)) |
+
+### What improved since tick 3880
+
+- **New source (tick3881-3889):** WoodKid · Voetgangersbeweging · Aksent · Opvangcentrum voor Vogels en Wilde Dieren Brasschaat-Kapellen · Centrum Kauwenberg · Vrijwillige Blankenbergse Zeereddingsdienst · Fameus · Rotor · Woman’do. Ticks 3881-3887 from the Flemish Subsidieregister 2025_V01 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets; file kept outside the repo; register amount and largest verstrekker cited per row); ticks 3888-3889 from the Brussels-Capital Region Openbudgets subsidy register (https://openbudgets.be.brussels/en/data-table/table-2, export dated 08-04-2026; file kept outside the repo; 2024-2025 paid amount cited per row, funder named only where the register spells it out). Non-profit filers only. Amounts from NBB 2025 filings: code 9900 (NOT a subsidy amount). Mailbox, registered address and KBO number all verified on each body’s own site; KBO address checked with kb.py. Rejected: Extra City (mailbox domain differs from site), Familieplatform and other networks/federations, City of Brussels and other public-linked bodies, international bodies, others without a general mailbox or KBO number on their own site. Correction: tick3888 FOI draft header fixed (Brussels, not Walloon, French-language body).
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3890 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked 2026-10-13: no new DOGE tick commits (radar only). Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3880** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

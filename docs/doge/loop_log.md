@@ -41730,3 +41730,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@womando.be — general mailbox verified on the official site https://womando.be/ (same address and KBO number as the registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_womando_ixelles_vaph_matrix_9900_0_49m_9901_125k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3889/; rq_3889=done; spawn **rq_3890**; ticks=3889.
 - Next: **rq_3890 leftover dual** — Partial batch (3889); recipients from the Brussels-Capital Region Openbudgets subsidy register (https://openbudgets.be.brussels/en/data-table/table-2; export dated 08-04-2026; file kept outside the repo), non-profit recipients paid EUR 50k-1m in 2024-2025 (candsob), non-profit filers not yet in the data (dedup by KBO and name); amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest granting institution cited per row. Next: remaining Openbudgets candidates..
+
+
+## Tick 3890 — 2026-10-14T01:13:48Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3432** of 3493 rows; inventory budgets 66234 · commitments 7493 · leaderboard 9611 · entities 3511 · sources 11412.
+- Top10: **stable** (3881-3889 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3881-3889: WoodKid · Voetgangersbeweging · Aksent · Opvangcentrum voor Vogels en Wilde Dieren Brasschaat-Kapellen · Centrum Kauwenberg · Vrijwillige Blankenbergse Zeereddingsdienst · Fameus · Rotor · Woman’do.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3890 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3890 run locally as fallback.
+- Next: **rq_3890** — no candidate queued: continue the Brussels Openbudgets candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
