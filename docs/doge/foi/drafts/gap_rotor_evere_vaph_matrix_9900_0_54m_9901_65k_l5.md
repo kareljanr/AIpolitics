@@ -2,7 +2,7 @@
 
 **gap_id:** `gap_rotor_evere_vaph_matrix_9900_0_54m_9901_65k_l5`  
 **status:** ready (NOT sent)  
-**language:** FR (Walloon French-language body; template `docs/doge/foi-template-fr.md`)  
+**language:** FR (Brussels French-language body; template `docs/doge/foi-template-fr.md`)  
 **entity:** Rotor ASBL — BCE/KBO **0885.331.173** (Actief; VZW; siège Bazellaan 3 1140 Evere; 1 UE)  
 **recipient:** Rotor ASBL / Président(e) du conseil d'administration — info@rotordb.org — Avenue de Bâle 3, 1140 Evere  
 **recipient note:** general mailbox verified on the official site https://rotordb.org/ (same address and KBO number as the registered seat)  
