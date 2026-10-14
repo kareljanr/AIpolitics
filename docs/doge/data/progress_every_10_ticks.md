@@ -6,7 +6,41 @@
 
 ---
 
-## Snapshot at **tick 3910** (2026-10-13; local fallback runner while GitHub Actions cron is unreliable)
+## Snapshot at **tick 3920** (2026-10-14; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3910; 3911-3919 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3911-3919 residual dual L5 (not near-complete of 348bn):** Collectif Formation Société · Interface 3 - Namur · STICS · CVFE · Espace Environnement · Théâtre de la Guimbarde · CJB L’Autre Voyage · Le Maître Mot · Z! (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3458** drafts ready | Human send only; answered **11**; partial **29**; total FOI rows **3520** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3911-3919** Collectif Formation Société · Interface 3 - Namur · STICS · CVFE · Espace Environnement · Théâtre de la Guimbarde · CJB L’Autre Voyage · Le Maître Mot · Z!.
+
+### Inventory (tick 3920)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 66450 |
+| commitments.csv | 7520 |
+| leaderboard.csv | 9638 |
+| entities.csv | 3538 |
+| sources.csv | 11493 |
+| FOI ready | 3458 |
+| FOI total rows | 3520 |
+| research_queue open | rq_3920 (carried; next: none queued (check remaining newly filed NBB 2025 candidates)) |
+
+### What improved since tick 3910
+
+- **New source (tick3911-3919):** Collectif Formation Société · Interface 3 - Namur · STICS · CVFE · Espace Environnement · Théâtre de la Guimbarde · CJB L’Autre Voyage · Le Maître Mot · Z!. Ticks 3911-3913 from the FWB Cadastre des subventions 2022 (https://www.odwb.be/explore/dataset/fwb-cadastre-des-subventions-2022/, CSV export 2026-10-14; file kept outside the repo); ticks 3914-3919 from a re-check on 2026-10-14 of earlier register candidates against newly arrived NBB 2025 filings, citing the FWB Cadastre des subventions 2025 (https://www.odwb.be/explore/dataset/fwb-cadastre-des-subventions-2025/) or the Brussels-Capital Region Openbudgets register (https://openbudgets.be.brussels/en/data-table/table-2, export dated 08-04-2026) per row. Each body accepted only when its own site shows the KBO number, the KBO seat and a general mailbox on its own domain; CFS (tick 3911) mailbox switched to its general info@ address; funder left not verified throughout.
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3920 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked 2026-10-13: no new DOGE tick commits (radar only). Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
+## Snapshot at **tick 3910** (2026-10-14; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
 |-------|---------------------------:|------------|

@@ -42030,3 +42030,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@asblz.be — contact page https://www.asblz.be/contact (shows TVA BE 0479 914 923 and seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_namur); FOI **gap_z_asbl_vaph_matrix_9900_0_47m_9901_loss_87k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3919/; rq_3919=done; spawn **rq_3920**; ticks=3919.
 - Next: **rq_3920 leftover dual** — Partial batch (3919); recipients from the FWB Cadastre des subventions 2025 (https://www.odwb.be/explore/dataset/fwb-cadastre-des-subventions-2025/; CSV export 2026-10-14; file kept outside the repo), non-profit recipients EUR 50k-2m liquidated in 2025, education excluded (candsfwb); re-checked 2026-10-14 for newly arrived NBB 2025 filings, non-profit filers not yet in the data (dedup by KBO and name); amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest granting institution cited per row. Next: remaining FWB cadastre candidates..
+
+
+## Tick 3920 — 2026-10-14T02:53:21Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3458** of 3520 rows; inventory budgets 66450 · commitments 7520 · leaderboard 9638 · entities 3538 · sources 11493.
+- Top10: **stable** (3911-3919 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3911-3919: Collectif Formation Société · Interface 3 - Namur · STICS · CVFE · Espace Environnement · Théâtre de la Guimbarde · CJB L’Autre Voyage · Le Maître Mot · Z!.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3920 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3920 run locally as fallback.
+- Next: **rq_3920** — no candidate queued: continue the remaining newly filed NBB 2025 candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
