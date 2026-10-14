@@ -41940,3 +41940,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3910 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3910 run locally as fallback.
 - Next: **rq_3910** — no candidate queued: continue the FWB Cadastre des subventions 2021/2023 (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
+
+
+## Tick 3911 — 2026-10-14T02:37:56Z — rq_3910 leftover dual Collectif Formation Société Bruxelles (Saint-Gilles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Collectif Formation Société** → KBO 0432.950.590 had 0 prior entity rows.
+- KBO: Actief since 15 december 1986; VZW; zetel Overwinningsstraat 26 1060 Sint-Gillis (bij-Brussel); 1 VE; 0 prior entity rows for 0432.950.590
+- Found: official NBB VKT-VZW native PDF **2026-00276634** (257483 B / 18p; AV 06-07-2026; neergelegd 08/07/2026; MD5 5e3aebaf8d1fd4c322bdcf67d080bece). VKT-VZW 9900 **EUR1625245** (+4.78%); 62 **EUR1597103**; 9901 **EUR-6519** (was -4452); 9904 -6287; equity 111416; cash 133996; FTE 22,1 (was 21).
+- FOI address: rgpd@cfsasbl.be — role mailbox (data-protection contact) verified on the official site https://isp.cfsasbl.be/spip.php?article288 (same page shows the registered seat Rue de la Victoire 26/1, 1060 Saint-Gilles and enterprise number 0432.950.590; no general mailbox published; site found by web search on name and town).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_collectif_formation_societe_saint_gilles_vaph_matrix_9900_1_63m_9901_loss_7k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3911/; rq_3910=done; spawn **rq_3912**; ticks=3911.
+- Next: **rq_3912 leftover dual** — Partial batch (3911); recipients from the FWB Cadastre des subventions 2022 (https://www.odwb.be/explore/dataset/fwb-cadastre-des-subventions-2022/; CSV export 2026-10-14; file kept outside the repo; no legal-form column, legal form taken from the KBO record), non-profit recipients EUR 50k-2m paid in 2022, education excluded, not already in earlier lists (candsfwb22), non-profit filers not yet in the data (dedup by KBO and name); amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest granting institution cited per row. Next: remaining FWB 2022 cadastre candidates..
