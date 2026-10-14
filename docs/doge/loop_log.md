@@ -42230,3 +42230,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@zorggezind.be — general mailbox verified on the official site URL (same address and KBO number as the registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent sec_flanders); FOI **gap_zorggezind_vaph_matrix_9900_0_42m_9901_loss_23k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3939/; rq_3939=done; spawn **rq_3940**; ticks=3939.
 - Next: **rq_3940 leftover dual** — Partial batch (3939); recipients from the Flemish Subsidieregister 2024_V02 CSV (https://subsidieregister.vlaanderen.be/ords/r/xxsr/subsidieregister/datasets; dataset version 2024_V02; file kept outside the repo), culture/youth/media and welfare/care verstrekker rows of EUR 25k+ not in any earlier list, non-profit filers not yet in the data (dedup by KBO and name); amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest verstrekker cited per row. Next: remaining newly filed Flemish candidates..
+
+
+## Tick 3940 — 2026-10-14T03:48:22Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3475** of 3538 rows; inventory budgets 66595 · commitments 7538 · leaderboard 9656 · entities 3556 · sources 11547.
+- Top10: **stable** (3931-3939 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3931-3939: Zonzo Compagnie · De Aanstokerij · Circusatelier Circolito · Filet Divers · Cultuurvuur · Vincenthof · Rataplan · Top Vakantie · Zorggezind.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3940 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3940 run locally as fallback.
+- Next: **rq_3940** — no candidate queued: continue the Flemish Subsidieregister 2024_V02 culture/youth/welfare candidates (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.

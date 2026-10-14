@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3940** (2026-10-14; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3930; 3931-3939 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3931-3939 residual dual L5 (not near-complete of 348bn):** Zonzo Compagnie · De Aanstokerij · Circusatelier Circolito · Filet Divers · Cultuurvuur · Vincenthof · Rataplan · Top Vakantie · Zorggezind (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3475** drafts ready | Human send only; answered **11**; partial **29**; total FOI rows **3538** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3931-3939** Zonzo Compagnie · De Aanstokerij · Circusatelier Circolito · Filet Divers · Cultuurvuur · Vincenthof · Rataplan · Top Vakantie · Zorggezind.
+
+### Inventory (tick 3940)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 66595 |
+| commitments.csv | 7538 |
+| leaderboard.csv | 9656 |
+| entities.csv | 3556 |
+| sources.csv | 11547 |
+| FOI ready | 3475 |
+| FOI total rows | 3538 |
+| research_queue open | rq_3940 (carried; next: none queued (check remaining Flemish Subsidieregister 2024_V02 culture/youth/welfare candidates)) |
+
+### What improved since tick 3930
+
+- **New source (tick3931-3939):** Zonzo Compagnie · De Aanstokerij · Circusatelier Circolito · Filet Divers · Cultuurvuur · Vincenthof · Rataplan · Top Vakantie · Zorggezind. Flemish Subsidieregister 2025_V01 (cands/cands50/cands25 newly filed rows, fl212) and 2024_V02 culture/youth/media and welfare/care rows
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3940 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked 2026-10-13: no new DOGE tick commits (radar only). Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3930** (2026-10-14; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
