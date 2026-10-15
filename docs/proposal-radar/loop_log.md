@@ -324,3 +324,8 @@ Scheduler 019fa3e112ab still daily.
 - Scores: clown 3.5, genius 5.4, policy_index +1.9, recommendation amend, score_confidence weak, publish_ok needs_human.
 - Pain: 2029 annual range €7m–€10m, midpoint −€8.5m saving; Belasting-FTE −438.1; recompute_pain.py run.
 - loop_state: mode=analyse, ticks_completed=10, proposals_scored=19, last_unit_id=prop_2026_vrt_extra_besparing, paused=no. No commit.
+## 2026-10-15T17:33:25Z — tick 11 — analyse prop_2026_gent_topevenement_1m
+- Scored ing_a90a04d543 as prop_2026_gent_topevenement_1m (Ghent one-off €1m flagship cultural event in 2029; Belgium; local).
+- Scores: clown 6.0, genius 3.0, policy_index -3.0, recommendation amend, score_confidence weak, publish_ok needs_human.
+- Pain basis is the stated €1,000,000 one-off, not the unlabelled MJP feasts-service spike; recompute_pain.py run.
+- loop_state: mode=analyse, ticks_completed=11, proposals_scored=20, last_unit_id=prop_2026_gent_topevenement_1m, paused=no. No commit.

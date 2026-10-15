@@ -1,2 +1,2 @@
 state_id,mode,last_tick_utc,last_unit_id,ticks_completed,proposals_scored,paused,notes
-main,analyse,2026-10-13T23:23:57Z,prop_2026_vrt_extra_besparing,10,19,no,tick 10 scored Van Achter VRT extra saving; press-only weak; pain on 7-10m midpoint; no commit
+main,analyse,2026-10-15T17:33:25Z,prop_2026_gent_topevenement_1m,11,20,no,tick 11 scored Gent 2029 flagship event; press-plus-MJP; score_confidence weak; pain on stated 1m; no commit
