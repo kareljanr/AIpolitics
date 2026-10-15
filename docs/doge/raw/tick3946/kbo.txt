@@ -1,0 +1,1 @@
+{"status": "Actif", "begin": "14 février 1973", "rv": "Association sans but lucratif", "abbr": "TELESAMBRE T.E.A.C.", "commercial": "TELESAMBRE", "addr": "Place de la Digue 8 6000 Charleroi", "addr_since": "5 décembre 2017", "ve": "1"}
