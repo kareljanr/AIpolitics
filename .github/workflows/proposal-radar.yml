@@ -71,7 +71,6 @@ jobs:
           key: grok-auth-${{ github.run_id }}
           restore-keys: |
             grok-auth-
-          save-always: true
 
       - name: Harvest and refresh the new-ratings note
         run: python docs/proposal-radar/scripts/run_pipeline.py

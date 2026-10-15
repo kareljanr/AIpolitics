@@ -8,8 +8,18 @@ export PATH="${HOME}/.grok/bin:${PATH}"
 
 AUTH="${HOME}/.grok/auth.json"
 
+# `grok models` exits 0 even when logged out. It prints "You are not authenticated".
+# A rejected auth.json can also be deleted by the CLI, so the exit code is not enough.
 grok_login_ok() {
-  grok models >/dev/null 2>&1
+  local err first
+  err="$(grok models 2>&1)" || true
+  first="${err%%$'\n'*}"
+  if [[ "$first" == *"logged in"* || "$first" == *"not authenticated"* || "$first" == *"Not signed in"* ]]; then
+    echo "Grok login check: ${first}"
+  else
+    echo "Grok login check: unrecognized response."
+  fi
+  [[ "$first" == *"logged in"* && "$first" != *"not authenticated"* && "$first" != *"Not signed in"* ]]
 }
 
 describe_auth() {
@@ -40,10 +50,15 @@ for key, val in data.items():
 PY
 }
 
+# Hide the secret from `grok models` so a value in the environment cannot mask a bad file.
+SECRET="${GROK_AUTH_JSON:-}"
+unset GROK_AUTH_JSON || true
+
 if [[ -s "${AUTH}" ]] && grok_login_ok; then
   echo "Using the saved Grok login."
-elif [[ -n "${GROK_AUTH_JSON:-}" ]]; then
-  printf '%s' "${GROK_AUTH_JSON}" > "${AUTH}"
+elif [[ -n "${SECRET}" ]]; then
+  printf '%s' "${SECRET}" > "${AUTH}"
+  unset SECRET
   chmod 600 "${AUTH}"
   echo "Wrote GROK_AUTH_JSON ($(wc -c < "${AUTH}" | tr -d ' ') bytes)."
   describe_auth
@@ -57,5 +72,8 @@ else
   echo "Missing GROK_AUTH_JSON." >&2
   exit 1
 fi
+if [[ ! -s "${AUTH}" ]]; then
+  echo "Grok did not leave a login at ~/.grok/auth.json." >&2
+  exit 1
+fi
 chmod 600 "${AUTH}"
-unset GROK_AUTH_JSON || true
