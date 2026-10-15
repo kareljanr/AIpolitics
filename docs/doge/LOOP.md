@@ -4,7 +4,7 @@ Recurring agent protocol. Goal: **each tick leaves the dataset richer** until **
 
 ## Cadence
 
-- **Always-on runner:** GitHub Actions workflow **DOGE loop** (`.github/workflows/doge-loop.yml`). One tick every 15 minutes. The next fire waits if the previous tick is still running. This is the runner that keeps going when the PC is off. It uses the Grok Build login in the `GROK_AUTH_JSON` secret, not API credits.
+- **Always-on runner:** GitHub Actions workflow **DOGE loop** (`.github/workflows/doge-loop.yml`). One tick every 15 minutes. The next fire waits if the previous tick is still running. This is the runner that keeps going when the PC is off. It uses the Grok Build login in the `GROK_AUTH_JSON` secret (the whole `~/.grok/auth.json`), not API credits. When a tick says that login was rejected, replace the secret from a machine where `grok models` succeeds.
 - **Checkout limit:** Actions does **not** download `docs/doge/data/raw/` (~3.8 GB). Re-fetch the public PDF URL when a stored file is required.
 - **Local watcher (optional):** a Grok durable task can still fire every **60 seconds**. Do not run it at the same time as Actions. Two writers on `main` produce git thrash. Pause the local watcher while Actions is the runner.
 - **Tick time budget:** still stop after **one primary unit** (don’t thrash 15 fronts in one fire). Actions kills the job at 18 minutes.

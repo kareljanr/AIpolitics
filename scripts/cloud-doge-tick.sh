@@ -5,28 +5,8 @@ set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$ROOT"
 
-mkdir -p "${HOME}/.grok"
-export PATH="${HOME}/.grok/bin:${PATH}"
-
-# Keep a cached login only when Grok still accepts it. A rejected cache is
-# replaced with GROK_AUTH_JSON so a dead Actions cache cannot burn a tick.
-AUTH="${HOME}/.grok/auth.json"
-login_rejected() {
-  local err
-  err="$(grok models 2>&1)" || true
-  [[ "$err" == *"Not signed in"* || "$err" == *"not authenticated"* ]]
-}
-if [[ -s "${AUTH}" ]] && ! login_rejected; then
-  echo "Using the saved Grok login."
-elif [[ -n "${GROK_AUTH_JSON:-}" ]]; then
-  printf '%s' "${GROK_AUTH_JSON}" > "${AUTH}"
-  echo "Using GROK_AUTH_JSON."
-else
-  echo "Missing GROK_AUTH_JSON." >&2
-  exit 1
-fi
-chmod 600 "${AUTH}"
-unset GROK_AUTH_JSON || true
+# shellcheck source=cloud-grok-auth.sh
+source "${ROOT}/scripts/cloud-grok-auth.sh"
 
 git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 git config user.name "github-actions[bot]"

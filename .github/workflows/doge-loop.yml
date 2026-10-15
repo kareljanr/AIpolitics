@@ -1,5 +1,6 @@
 # One DOGE research tick on GitHub, so the loop keeps going when the PC is off.
-# Secret: GROK_AUTH_JSON = full ~/.grok/auth.json (same Grok Build login as the portfolio runner).
+# Secret: GROK_AUTH_JSON = full ~/.grok/auth.json from a machine where `grok models` works.
+# Replace that secret when a tick logs "GROK_AUTH_JSON was rejected".
 # Does not check out docs/doge/data/raw (about 3.8 GB of stored PDFs).
 
 name: DOGE loop
@@ -57,7 +58,7 @@ jobs:
           path: |
             ~/.grok/bin
             ~/.grok/downloads
-          key: grok-cli-linux-v1
+          key: grok-cli-linux-v2
 
       - name: Install Grok CLI
         if: steps.gate.outputs.skip != 'true' && steps.grok-cli.outputs.cache-hit != 'true'
@@ -75,6 +76,7 @@ jobs:
           key: grok-auth-${{ github.run_id }}
           restore-keys: |
             grok-auth-
+          save-always: true
 
       - name: Tick
         if: steps.gate.outputs.skip != 'true'
