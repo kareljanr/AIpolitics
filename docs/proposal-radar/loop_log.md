@@ -329,3 +329,13 @@ Scheduler 019fa3e112ab still daily.
 - Scores: clown 6.0, genius 3.0, policy_index -3.0, recommendation amend, score_confidence weak, publish_ok needs_human.
 - Pain basis is the stated €1,000,000 one-off, not the unlabelled MJP feasts-service spike; recompute_pain.py run.
 - loop_state: mode=analyse, ticks_completed=11, proposals_scored=20, last_unit_id=prop_2026_gent_topevenement_1m, paused=no. No commit.
+## 2026-10-15T21:57:17Z — tick 12 — analyse prop_2026_vl_finocas_pause_317m
+- Scored ing_09ce734f50 as prop_2026_vl_finocas_pause_317m (Flanders pauses Finocas capital calls for ArcelorMittal Gent; Belgium; press plus parliamentary answer).
+- Scores: clown 3.5, genius 5.6, policy_index +2.1, recommendation amend, score_confidence weak, publish_ok needs_human.
+- Pain: paused envelope EUR 317.5m, fiscal_is_saving yes; Belasting-FTE -16366.0; recompute_pain.py run.
+- loop_state: mode=analyse, ticks_completed=12, proposals_scored=21, last_unit_id=prop_2026_vl_finocas_pause_317m, paused=no. No commit.
+## 2026-10-15T22:08:24Z — tick 13 — analyse prop_2026_acv_gesloten_centra_pakket
+- Scored ing_342913aad7 as prop_2026_acv_gesloten_centra_pakket (ACV closed-centre package: staff floor, profile cap, risk premiums; Belgium; federal).
+- Scores: clown 4.5, genius 4.1, policy_index -0.4, recommendation amend, score_confidence weak, publish_ok needs_human.
+- Pain left blank: no public euro amount; minister headcount claim is not a euro basis; recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=13, proposals_scored=22, last_unit_id=prop_2026_acv_gesloten_centra_pakket, paused=no. No commit.
