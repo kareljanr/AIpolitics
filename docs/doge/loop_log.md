@@ -42335,3 +42335,13 @@ Append-only. Each tick adds a short entry.
 - Hunt this tick: none (EVERY-10 used the tick); rq_3950 stays open (carried).
 - Runner: Actions last ticked 2575; 2576-3950 run locally as fallback.
 - Next: **rq_3950** — no candidate queued: continue the FWB Cadastre 2025 (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
+
+
+## Tick 3951 — 2026-10-16T06:46:37Z — rq_3950 leftover dual Les Festivals de Wallonie Charleroi YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **Les Festivals de Wallonie** → KBO 0408399395 had 0 prior entity rows.
+- KBO: Actief since 25 juni 1971; VZW; zetel Boulevard Audent 24 6000 Charleroi; 1 VE; 0 prior entity rows for 0408399395
+- Found: official NBB VKT-VZW native PDF **2026-00093660** (57032 B / 17p; AV 25-03-2026; neergelegd 29/04/2026; MD5 7d6bef3a23c9368ceaf485f63b355327). VKT-VZW 9900 **EUR436134** (-5.68%); 62 **EUR361044**; 9901 **EUR45498** (was 10835); 9904 43382; equity 207987; cash 354440; FTE 4,4 (was 4,9).
+- FOI address: info@lesfestivalsdewallonie.be — general mailbox verified on the official site URL (same address and KBO number as the registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent prov_hainaut); FOI **gap_festivals_de_wallonie_vaph_matrix_9900_0_44m_9901_45k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3951/; rq_3950=done; spawn **rq_3952**; ticks=3951.
+- Next: **rq_3952 leftover dual** — Partial batch (3951); recipients from the FWB Cadastre des subventions 2025 (https://www.odwb.be/explore/dataset/fwb-cadastre-des-subventions-2025/; CSV export 2026-10-14; file kept outside the repo), non-profit recipients EUR 50k-2m liquidated in 2025, education excluded (candsfwb); re-checked 2026-10-14 for newly arrived NBB 2025 filings, non-profit filers not yet in the data (dedup by KBO and name); amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest granting institution cited per row. Next: remaining FWB cadastre candidates..
