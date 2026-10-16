@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **68**.
+Scored in the last 21 days: **0**. Still open in the queue: **69**.
 
 ## New ratings
 
@@ -10,6 +10,7 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Europese leiders botsen hard over migratie: "Slecht debat, goede resultaten" (2026-10-16)
 - Congolese ministers mogen geen enkel contact meer hebben met Belgische ambassade na huiszoekingen in ons land (2026-10-16)
 - Europese boeren plannen nieuwe betoging in Brussel: Belgische Boerenbond niet op de hoogte (2026-10-16)
 - ‘Uitstel meerjarenbegroting is onbetwistbare nederlaag voor Bart De Wever’ (Alexis Carantonis, La DH) (2026-10-16)
@@ -24,7 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - Ruim 16.000 nieuwkomers namen deel aan Brussels inburgeringstraject (2026-10-16)
 - Nu ruim 1.200 jobs bedreigd zijn bij GSK: farmasector moet worden beschermd tegen VS en China, zegt De Wever (2026-10-16)
 - Gewelddadig protest tegen regering in Albanië: "Premier is belichaming van corruptie" (2026-10-16)
-- Het was de week van de hattricks: Tresoldi voor Club Brugge tegen Inter en Bouchez voor de MR tegen De Wever (2026-10-15)
 
 ## Method
 
