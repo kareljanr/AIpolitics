@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3950** (2026-10-16; local fallback runner while GitHub Actions cron is unreliable)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3940; 3941-3949 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3941-3949 residual dual L5 (not near-complete of 348bn):** Behoud de Begeerte · L’Enfant-Phare · Qu4tre Liège Média · Ligue des Familles · Groupe santé CHC · Télésambre · Culture et Vie en Marche · THOR · ReForm (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3484** drafts ready | Human send only; answered **11**; partial **29**; total FOI rows **3547** (~14 legacy malformed status rows still untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3941-3949** Behoud de Begeerte · L’Enfant-Phare · Qu4tre Liège Média · Ligue des Familles · Groupe santé CHC · Télésambre · Culture et Vie en Marche · THOR · ReForm.
+
+### Inventory (tick 3950)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 66667 |
+| commitments.csv | 7547 |
+| leaderboard.csv | 9665 |
+| entities.csv | 3565 |
+| sources.csv | 11574 |
+| FOI ready | 3484 |
+| FOI total rows | 3547 |
+| research_queue open | rq_3950 (carried; next: none queued (check remaining FWB Cadastre 2025 candidates)) |
+
+### What improved since tick 3940
+
+- **New source (tick3941-3949):** Behoud de Begeerte · L’Enfant-Phare · Qu4tre Liège Média · Ligue des Familles · Groupe santé CHC · Télésambre · Culture et Vie en Marche · THOR · ReForm. Flemish Subsidieregister 2024_V02 and FWB Cadastre 2025 candidates (ticks 3941-3949; 3943-3947 run by GitHub Actions)
+- **FOI addresses:** general or role mailboxes verified on each body’s own official site. Drafts are voluntary requests (no legal-basis claim).
+- **Runner note:** 2576-3950 ran on the local fallback runner (last github-actions DOGE tick: 2575); GitHub Actions checked 2026-10-13: no new DOGE tick commits (radar only). Do not run both at once.
+- **Top10:** stable; #1 GIP ~EUR2.5bn pi 8.7.
+
+---
+
 ## Snapshot at **tick 3940** (2026-10-14; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |

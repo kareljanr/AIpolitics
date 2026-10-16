@@ -42325,3 +42325,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@reform.be — general mailbox verified on the official site URL (same address and KBO number as the registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_reform_ixelles_vaph_matrix_9900_0_93m_9901_loss_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3949/; rq_3949=done; spawn **rq_3950**; ticks=3949.
 - Next: **rq_3950 leftover dual** — Partial batch (3949); recipients from the Brussels-Capital Region Openbudgets subsidy register (https://openbudgets.be.brussels/en/data-table/table-2; export dated 08-04-2026; file kept outside the repo), non-profit recipients paid EUR 50k-1m in 2024-2025 (candsob), non-profit filers not yet in the data (dedup by KBO and name); amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest granting institution cited per row. Next: remaining Openbudgets candidates..
+
+
+## Tick 3950 — 2026-10-16T06:44:33Z — EVERY-10 progress coverage % + waste top10 (local fallback runner)
+
+- Progress: layers A 100% / B 100% / C ~99% / D ~74-88% (band unchanged) / E FOI ready **3484** of 3547 rows; inventory budgets 66667 · commitments 7547 · leaderboard 9665 · entities 3565 · sources 11574.
+- Top10: **stable** (3941-3949 added 9 leaderboard rows, all pi 4.25 < cut-off 8.4); #1 GIP ~EUR2.5bn pi 8.7.
+- New-source units 3941-3949: Behoud de Begeerte · L’Enfant-Phare · Qu4tre Liège Média · Ligue des Familles · Groupe santé CHC · Télésambre · Culture et Vie en Marche · THOR · ReForm.
+- Hunt this tick: none (EVERY-10 used the tick); rq_3950 stays open (carried).
+- Runner: Actions last ticked 2575; 2576-3950 run locally as fallback.
+- Next: **rq_3950** — no candidate queued: continue the FWB Cadastre 2025 (non-profit filers only), verifying the NBB amount, the mailbox on the body’s own page and the KBO address with kb.py, after the dedup check.
