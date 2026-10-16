@@ -42315,3 +42315,13 @@ Append-only. Each tick adds a short entry.
 - FOI address: info@thor.be — general mailbox verified on the official site URL (same address and KBO number as the registered seat).
 - Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_thor_bruxelles_vaph_matrix_9900_0_23m_9901_13k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3948/; rq_3948=done; spawn **rq_3949**; ticks=3948.
 - Next: **rq_3949 leftover dual** — Partial batch (3948); recipients from the Brussels-Capital Region Openbudgets subsidy register (https://openbudgets.be.brussels/en/data-table/table-2; export dated 08-04-2026; file kept outside the repo), non-profit recipients paid EUR 50k-1m in 2024-2025 (candsob), non-profit filers not yet in the data (dedup by KBO and name); amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest granting institution cited per row. Next: remaining Openbudgets candidates..
+
+
+## Tick 3949 — 2026-10-16T06:43:44Z — rq_3949 leftover dual ReForm Bruxelles (Ixelles) YE2025 (local fallback runner)
+
+- Hunt: CANDIDATE SOURCE KBO activity-code scans NACE 72.1xx / 72.200 / 70.100 / 68.204 / 85.330 / 36.000-39.000 over Walloon, Brussels, Flemish and German-speaking postcodes; code 733 rows first, largest first: **ReForm** → KBO 0413940075 had 0 prior entity rows.
+- KBO: Actief since 23 januari 1974; VZW; zetel Londenstraat 17 1050 Elsene; 5 VE; 0 prior entity rows for 0413940075
+- Found: official NBB VKT-VZW native PDF **2026-00155957** (45217 B / 12p; AV 09-06-2026; neergelegd 12/06/2026; MD5 722dd51d90414cc843ef775970874375). VKT-VZW 9900 **EUR930871** (+0.71%); 62 **EUR922788**; 9901 **EUR-6032** (was -76154); 9904 -11137; equity 395640; cash 47143; FTE 11,5 (was 11,8).
+- FOI address: info@reform.be — general mailbox verified on the official site URL (same address and KBO number as the registered seat).
+- Wrote: sources +3; budgets +8; commitments +1; leaderboard +1 pi 4.25; entities +1 (parent brussels_gov); FOI **gap_reform_ixelles_vaph_matrix_9900_0_93m_9901_loss_6k_l5** prio5 ready (NOT sent) + draft; raw docs/doge/raw/tick3949/; rq_3949=done; spawn **rq_3950**; ticks=3949.
+- Next: **rq_3950 leftover dual** — Partial batch (3949); recipients from the Brussels-Capital Region Openbudgets subsidy register (https://openbudgets.be.brussels/en/data-table/table-2; export dated 08-04-2026; file kept outside the repo), non-profit recipients paid EUR 50k-1m in 2024-2025 (candsob), non-profit filers not yet in the data (dedup by KBO and name); amounts from the NBB 2025 filings (code 9900, NOT a subsidy amount), register figure and largest granting institution cited per row. Next: remaining Openbudgets candidates..
