@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **69**.
+Scored in the last 21 days: **0**. Still open in the queue: **73**.
 
 ## New ratings
 
@@ -10,6 +10,10 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Betoging in Brussel ontaardt in rellen: politie zet traangas en waterkanon in - Franse politie gebruikt traangas in Lyon (2026-10-17)
+- Nieuw begrotingsoverleg van De Wever, VTM NIEUWS-journalist Karel Lattrez: “Wat lukt er nog met deze regering?” (2026-10-17)
+- Open vloer, rode mazout en geen documenten: vrachtwagenchauffeur krijgt zware boete in Puurs-Sint-Amands (2026-10-17)
+- Gloednieuw bushokje pronkt in Wuustwezel, maar buslijn is intussen geschrapt (2026-10-17)
 - Europese leiders botsen hard over migratie: "Slecht debat, goede resultaten" (2026-10-16)
 - Congolese ministers mogen geen enkel contact meer hebben met Belgische ambassade na huiszoekingen in ons land (2026-10-16)
 - Europese boeren plannen nieuwe betoging in Brussel: Belgische Boerenbond niet op de hoogte (2026-10-16)
@@ -21,10 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - Asielaanvragen in België blijven dalen: succesvol beleid of toeval? (2026-10-16)
 - Duitsland gaat jongeren maandelijks 10 euro toestoppen voor pensioenopbouw (2026-10-16)
 - ‘Onze fiscus subsidieert technologische werkloosheid’ (2026-10-16)
-- Dochteronderneming van Belgische luierfabrikant Ontex onteigend door Russische overheid (2026-10-16)
-- Ruim 16.000 nieuwkomers namen deel aan Brussels inburgeringstraject (2026-10-16)
-- Nu ruim 1.200 jobs bedreigd zijn bij GSK: farmasector moet worden beschermd tegen VS en China, zegt De Wever (2026-10-16)
-- Gewelddadig protest tegen regering in Albanië: "Premier is belichaming van corruptie" (2026-10-16)
 
 ## Method
 
