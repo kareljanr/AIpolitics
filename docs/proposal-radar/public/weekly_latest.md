@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **78**.
+Scored in the last 21 days: **0**. Still open in the queue: **80**.
 
 ## New ratings
 
@@ -10,6 +10,8 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Wat als De Wever en co geen akkoord bereiken over de begroting? Economen waarschuwen: “Eerst reageren de financiële markten, pas daarna Europa” (2026-10-18)
+- ‘De obese overheid moet aan de Ozempic’ (2026-10-18)
 - De Wever gaat toch op zoek naar 10 miljard euro aan besparingen: “Premier wil werken aan wat vorig jaar mislukt is” (2026-10-17)
 - “Wanneer het nodig is, staat hij er”: Rode Duivel Mike Penders oogst lof na onverwacht Premier League-debuut in 0-2-zege tegen Everton (2026-10-17)
 - Stel hier uw vraag aan minister Rob Beenders (Vooruit) (2026-10-17)
@@ -23,8 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - Congolese ministers mogen geen enkel contact meer hebben met Belgische ambassade na huiszoekingen in ons land (2026-10-16)
 - Europese boeren plannen nieuwe betoging in Brussel: Belgische Boerenbond niet op de hoogte (2026-10-16)
 - ‘Uitstel meerjarenbegroting is onbetwistbare nederlaag voor Bart De Wever’ (Alexis Carantonis, La DH) (2026-10-16)
-- Is dit het begin van het einde van de regering-De Wever? Beluister de podcast Tussen Wetstraat en Wall Street (2026-10-16)
-- ‘De Vlaamse regering bestelt chronische ziekten op afbetaling’ (2026-10-16)
 
 ## Method
 
