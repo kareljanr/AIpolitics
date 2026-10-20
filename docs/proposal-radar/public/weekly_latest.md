@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **98**.
+Scored in the last 21 days: **0**. Still open in the queue: **102**.
 
 ## New ratings
 
@@ -10,6 +10,10 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Na aankondiging van premier Jetten in Nederland: waarom is er nog geen wetgeving over draagmoederschap? (2026-10-20)
+- Waar komt ACAB vandaan, de slogan tegen de politie die overal opduikt tijdens protesten? (2026-10-20)
+- KU Leuven renoveert rottende toegangspoort van Premonstreitcollege in Leuven (2026-10-20)
+- Gent stelt eerste drugsgebruikersruimte van Vlaanderen uit: "Onderzoek loopt, maar voorlopig geen budget" (2026-10-20)
 - Australisch parlementslid nog steeds kritiek nadat man “met mes” haar aanrijdt, premier spreekt van “aanval” (2026-10-19)
 - Theo Francken over ‘rijkswacht 2.0’: “Bij extreme agressie moet je die harde hand durven bovenhalen” (2026-10-19)
 - Bart (43) vindt prachtige tekening op servet in zijn restaurant in Poperinge en speurt kunstenaar op: “Het werkje was te mooi om er niets mee te doen” (2026-10-19)
@@ -21,10 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - Australisch parlementslid in kritieke toestand nadat man "met mes" haar aanrijdt, premier spreekt van "aanval" (2026-10-19)
 - Nationale Bank: “België heeft bindend nationaal begrotingskader nodig” (2026-10-19)
 - Transparantie bij legeraankopen? Dit mag u van de overheid niet weten (2026-10-19)
-- ‘De ruimte om mijn leven zelf te organiseren wordt op verschillende manieren kleiner gemaakt’ (2026-10-19)
-- Jeugdraden Vlaamse Ardennen vragen minister De Ridder busbesparingen te herbekijken: "Studiekeuze mag niet afhangen van bereikbaarheid campus" (2026-10-19)
-- Hoofddoekverbod in Azerbeidzjan veroorzaakt protest onder scholieren, maar ook spanningen met bondgenoot Turkije (2026-10-19)
-- "Wegenonderhoud is basistaak van Vlaanderen": Burgemeester Sint-Truiden hekelt krappe budgetten AWV na dodelijk ongeval (2026-10-19)
 
 ## Method
 
