@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **105**.
+Scored in the last 21 days: **0**. Still open in the queue: **110**.
 
 ## New ratings
 
@@ -10,6 +10,11 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Parlement in Polen keurt versoepeling van abortuswet goed, president kan nog veto uitspreken (2026-10-20)
+- Begrotingsoverleg gaat de nacht in: “Signalen dat De Wever zou willen doordrukken om akkoord te bereiken” (2026-10-20)
+- Parlement in Polen keurt wet goed die abortusregels versoepelt, maar president kan nog veto stellen (2026-10-20)
+- Parlement van Roemenië keurt minderheidsregering goed na 5 maanden politieke impasse (2026-10-20)
+- Sint-Laureins mag van Vlaanderen minder sociale huurwoningen bouwen dan het oorspronkelijk moest: "Te weinig ruimte" (2026-10-20)
 - Voormalig militair Jurgen Vanlerberghe (57) wordt de nieuwe gouverneur van West-Vlaanderen: “Noodplanning wordt mijn eerste prioriteit” (2026-10-20)
 - Franstalige herfstvakantie zet extra druk op begrotingsgesprekken: ‘Alles kan zeker nog mislukken’ (2026-10-20)
 - ‘Belgische geestelijke gezondheidszorg 2027: klaar om het abces open te breken?’ (2026-10-20)
@@ -20,11 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - Australisch parlementslid nog steeds kritiek nadat man “met mes” haar aanrijdt, premier spreekt van “aanval” (2026-10-19)
 - Theo Francken over ‘rijkswacht 2.0’: “Bij extreme agressie moet je die harde hand durven bovenhalen” (2026-10-19)
 - Bart (43) vindt prachtige tekening op servet in zijn restaurant in Poperinge en speurt kunstenaar op: “Het werkje was te mooi om er niets mee te doen” (2026-10-19)
-- “In de verste verte geen basis om te onderhandelen.” Vier miljard besparen op gezondheidszorg stuit op verzet binnen regering-De Wever (2026-10-19)
-- Parlementslid in Australië in kritieke toestand na aanrijding door auto, "bewuste aanval" volgens premier (2026-10-19)
-- Ziekenhuizen AZORG vaccineren personeel voortaan ook op diensten zelf: vorig jaar zette 'slechts' 38 procent griepvaccin (2026-10-19)
-- 17-jarige uit Kortrijk mag 9 maanden Brussel niet in na rellen met politie aan de Beurs (2026-10-19)
-- Okkernoot koopt Kesterberg in Leerbeek: 44 extra opvangplaatsen voor mensen met beperking (2026-10-19)
 
 ## Method
 
