@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **102**.
+Scored in the last 21 days: **0**. Still open in the queue: **105**.
 
 ## New ratings
 
@@ -10,6 +10,9 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Voormalig militair Jurgen Vanlerberghe (57) wordt de nieuwe gouverneur van West-Vlaanderen: “Noodplanning wordt mijn eerste prioriteit” (2026-10-20)
+- Franstalige herfstvakantie zet extra druk op begrotingsgesprekken: ‘Alles kan zeker nog mislukken’ (2026-10-20)
+- ‘Belgische geestelijke gezondheidszorg 2027: klaar om het abces open te breken?’ (2026-10-20)
 - Na aankondiging van premier Jetten in Nederland: waarom is er nog geen wetgeving over draagmoederschap? (2026-10-20)
 - Waar komt ACAB vandaan, de slogan tegen de politie die overal opduikt tijdens protesten? (2026-10-20)
 - KU Leuven renoveert rottende toegangspoort van Premonstreitcollege in Leuven (2026-10-20)
@@ -22,9 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - Ziekenhuizen AZORG vaccineren personeel voortaan ook op diensten zelf: vorig jaar zette 'slechts' 38 procent griepvaccin (2026-10-19)
 - 17-jarige uit Kortrijk mag 9 maanden Brussel niet in na rellen met politie aan de Beurs (2026-10-19)
 - Okkernoot koopt Kesterberg in Leerbeek: 44 extra opvangplaatsen voor mensen met beperking (2026-10-19)
-- Australisch parlementslid in kritieke toestand nadat man "met mes" haar aanrijdt, premier spreekt van "aanval" (2026-10-19)
-- Nationale Bank: “België heeft bindend nationaal begrotingskader nodig” (2026-10-19)
-- Transparantie bij legeraankopen? Dit mag u van de overheid niet weten (2026-10-19)
 
 ## Method
 
