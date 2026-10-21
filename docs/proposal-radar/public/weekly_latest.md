@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **115**.
+Scored in the last 21 days: **0**. Still open in the queue: **119**.
 
 ## New ratings
 
@@ -10,6 +10,10 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Hugo mist Nicole nog elke dag en Miss België bezoekt Bill White op de ambassade (2026-10-21)
+- Wie alleen op zijn wettelijk pensioen rekent, komt mogelijk tekort voor een rusthuis: zo vul je het slim aan. “Vanaf 12 euro per maand kan je ermee beginnen” (2026-10-21)
+- 100 miljoen euro, maar niet voor Limburg: hoger onderwijs wijst Vlaamse oproep voor bouw studentenkoten af (2026-10-21)
+- Nieuwe nationale betoging op 23 november, melden 3 grote vakbonden samen (2026-10-21)
 - De Wever “zeker” dat Europese Commissie debat over Russische activa niet zal heropenen (2026-10-21)
 - Brusselse politie stuit op illegaal sigarettenatelier tijdens huiszoeking (2026-10-21)
 - Britse regering zet licht op groen voor omstreden ontginning van Jackdaw-gasveld in Noordzee (2026-10-21)
@@ -21,10 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - Parlement van Roemenië keurt minderheidsregering goed na 5 maanden politieke impasse (2026-10-20)
 - Sint-Laureins mag van Vlaanderen minder sociale huurwoningen bouwen dan het oorspronkelijk moest: "Te weinig ruimte" (2026-10-20)
 - Voormalig militair Jurgen Vanlerberghe (57) wordt de nieuwe gouverneur van West-Vlaanderen: “Noodplanning wordt mijn eerste prioriteit” (2026-10-20)
-- Franstalige herfstvakantie zet extra druk op begrotingsgesprekken: ‘Alles kan zeker nog mislukken’ (2026-10-20)
-- ‘Belgische geestelijke gezondheidszorg 2027: klaar om het abces open te breken?’ (2026-10-20)
-- Na aankondiging van premier Jetten in Nederland: waarom is er nog geen wetgeving over draagmoederschap? (2026-10-20)
-- Waar komt ACAB vandaan, de slogan tegen de politie die overal opduikt tijdens protesten? (2026-10-20)
 
 ## Method
 
