@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **140**.
+Scored in the last 21 days: **0**. Still open in the queue: **144**.
 
 ## New ratings
 
@@ -10,6 +10,10 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Premier, spiegel u aan Hans Vanaken, uw evenbeeld. Ook u kunt nog scoren, diep in blessuretijd. Zo niet, wacht u met Allerzielen een pot chrysanten (2026-10-22)
+- De Wever weer met lege handen omdat Vooruit op de rem trapt: “Als ze denken dat Frank zomaar een deal zal sluiten, dan hebben ze het mis” (2026-10-22)
+- Militaire carrière voor prins Gabriël? Niet-gedoteerde royals mogen binnenkort in het leger (2026-10-22)
+- Op site van oude centrale Langerlo in Genk staan 106 Tesla-batterijen klaar: "Genoeg stroom voor 40.000 gezinnen" (2026-10-22)
 - Nog 217 mensen in de cel na rellen in Frankrijk: “Ongekend strenge aanpak” - Ook in Wenen komen studenten op straat tegen besparingen (2026-10-22)
 - Verbod op e-steps in Brusselse hotspots voor drugshandel: ‘Versterkt voedingsbodem voor drugsbendes’ (2026-10-22)
 - Regering-De Wever overweegt uitkering voor langdurig zieken met burn-out te beperken in de tijd (2026-10-22)
@@ -21,10 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - Gemiddeld 18 pesticiden ontdekt in Vlaamse scholen: “Weten niet wat de gevolgen zijn op lange termijn” (2026-10-22)
 - Oostende neemt maatregelen voor storm Austen, Brusselse brandweer waarschuwt om zoveel mogelijk binnen te blijven (2026-10-22)
 - ‘Beweegvoorschrift’ wordt afgeschaft: ‘We zullen de rekening later dubbel en dik betalen’ (2026-10-22)
-- Maanden onderhandelen zonder resultaat: federale regering krijgt begrotingsoverleg (nog) niet rond (2026-10-22)
-- Eerste spadesteek voor groene trappenpartij en dijkverbreding aan De Wissen in Stokkem (2026-10-22)
-- Gent mikt op 150 miljoen nieuwe besparingen en 400 miljoen minder investeringen: "We moeten keuzes kunnen maken" (2026-10-22)
-- Samenscholings- en plaatsverbod voor 5 jongeren na aanhoudende overlast in Deinze: "Over veiligheid valt niet te onderhandelen" (2026-10-22)
 
 ## Method
 
