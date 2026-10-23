@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **144**.
+Scored in the last 21 days: **0**. Still open in the queue: **148**.
 
 ## New ratings
 
@@ -10,6 +10,10 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Stel hier uw vragen aan Conner Rousseau (Vooruit) (2026-10-23)
+- Belgisch leger mag volgend jaar groeien tot maximaal 33.900 militairen, hoogste aantal in 16 jaar (2026-10-23)
+- ‘750 miljoen halen bij verhoogde tegemoetkoming? Regering-De Wever mag niet blind  besparen’ (2026-10-23)
+- Tientallen sociale organisaties klagen bij Vlaams minister Annick De Ridder (N-VA) de besparingen bij De Lijn aan (2026-10-23)
 - Premier, spiegel u aan Hans Vanaken, uw evenbeeld. Ook u kunt nog scoren, diep in blessuretijd. Zo niet, wacht u met Allerzielen een pot chrysanten (2026-10-22)
 - De Wever weer met lege handen omdat Vooruit op de rem trapt: “Als ze denken dat Frank zomaar een deal zal sluiten, dan hebben ze het mis” (2026-10-22)
 - Militaire carrière voor prins Gabriël? Niet-gedoteerde royals mogen binnenkort in het leger (2026-10-22)
@@ -21,10 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - Deelsteps en -fietsen vrijdag en zaterdag verboden in Brusselse Vijfhoek, musea in Parijs zaterdag gesloten (2026-10-22)
 - Geen nieuw permanent zwembad, wel groot buurtpark: Mechelen toont plannen voor Geerdegemvaart (2026-10-22)
 - Stad vraagt fietsers om trager te rijden op begraafplaats in Leuven: "Niet bedoeling om rouwstoeten te storen" (2026-10-22)
-- Dendermonde voert samenscholingsverbod en gerichte identiteitscontroles in tot 3 januari (2026-10-22)
-- Gemiddeld 18 pesticiden ontdekt in Vlaamse scholen: “Weten niet wat de gevolgen zijn op lange termijn” (2026-10-22)
-- Oostende neemt maatregelen voor storm Austen, Brusselse brandweer waarschuwt om zoveel mogelijk binnen te blijven (2026-10-22)
-- ‘Beweegvoorschrift’ wordt afgeschaft: ‘We zullen de rekening later dubbel en dik betalen’ (2026-10-22)
 
 ## Method
 
