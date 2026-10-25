@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **166**.
+Scored in the last 21 days: **0**. Still open in the queue: **167**.
 
 ## New ratings
 
@@ -10,6 +10,7 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Politie verdedigt inbeslagname van zwembrillen tijdens Brusselse betoging (2026-10-25)
 - De taarten van Tatyana gaan de wereld rond: een wachtlijst van minstens 9 maanden en een prijskaartje van 80 tot 1.000 euro (2026-10-25)
 - Vooruit ergert zich aan ‘big smile’ van Theo Francken (N-VA) naast Bill White (2026-10-24)
 - Gespannen sfeer in Lyon waar protestac­tie toch doorgaat ondanks verbod - Brussel blijft voorlopig kalm (2026-10-24)
@@ -24,7 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - “Veel, heel veel”: Xabi Alonso somt gelijkenissen op tussen Thibaut Coutois en Mike Penders, nu die laatste voor basisdebuut in Premier League staat (2026-10-23)
 - Depraetere (Vooruit) wil één attest voor energieprestatie bij renovatie en nieuwbouw (2026-10-23)
 - De rebel versus de keikop: komt Bouchez met meer weg dan Vandenbroucke? (2026-10-23)
-- Het halfzachte protest van Vooruit tegen Bart De Wever: beluister de podcast Tussen Wetstraat en Wall Street (2026-10-23)
 
 ## Method
 
