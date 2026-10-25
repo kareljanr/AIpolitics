@@ -1,2 +1,2 @@
 state_id,mode,last_tick_utc,last_unit_id,ticks_completed,proposals_scored,paused,notes
-main,analyse,2026-10-15T22:08:24Z,prop_2026_acv_gesloten_centra_pakket,13,22,no,tick 13 scored ACV closed-centre staff floor and profile-cap package; union text plus press; score_confidence weak; no euro so pain blank; no commit
+main,analyse,2026-10-25T21:27:57Z,ing_0a18647698,16,24,no,"tick 16 rejected_noise ing_0a18647698 Knack/L'Echo Van Overbeke opinion column, not a BE policy instrument; proposals_scored unchanged; no commit"

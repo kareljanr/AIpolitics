@@ -339,3 +339,18 @@ Scheduler 019fa3e112ab still daily.
 - Scores: clown 4.5, genius 4.1, policy_index -0.4, recommendation amend, score_confidence weak, publish_ok needs_human.
 - Pain left blank: no public euro amount; minister headcount claim is not a euro basis; recompute_pain.py not run.
 - loop_state: mode=analyse, ticks_completed=13, proposals_scored=22, last_unit_id=prop_2026_acv_gesloten_centra_pakket, paused=no. No commit.
+## 2026-10-25T21:13:36Z — tick 14 — analyse prop_2026_gent_opex_150m
+- Scored ing_a43e945d16 as prop_2026_gent_opex_150m (Ghent operating-search ceiling and investment haircut; Belgium; local).
+- Scores: clown 4.0, genius 5.6, policy_index +1.6, recommendation amend, score_confidence weak, publish_ok needs_human.
+- Pain: annual ceiling EUR 150m, fiscal_is_saving yes; EUR 400m 2027-2038 envelope excluded from the pain basis; recompute_pain.py run.
+- loop_state: mode=analyse, ticks_completed=14, proposals_scored=23, last_unit_id=prop_2026_gent_opex_150m, paused=no. No commit.
+## 2026-10-25T21:24:13Z — tick 15 — analyse prop_2026_de_lijn_uitbreiding_half
+- Scored ing_fe0a1ae991 as prop_2026_de_lijn_uitbreiding_half (Flanders De Lijn 2027 expansion euro halved to EUR 25m for the operating gap; Belgium).
+- Scores: clown 4.5, genius 4.0, policy_index -0.5, recommendation amend, score_confidence medium, publish_ok yes.
+- Pain: 2027 foregone EUR 25m versus the coalition expansion line, fiscal_is_saving yes; Belasting-FTE -1288.7; residual EUR 25m gap-fill excluded; recompute_pain.py run.
+- loop_state: mode=analyse, ticks_completed=15, proposals_scored=24, last_unit_id=prop_2026_de_lijn_uitbreiding_half, paused=no. No commit.
+## 2026-10-25T21:27:57Z — tick 16 — reject ing_0a18647698
+- Unit ing_0a18647698 is a Knack/L'Echo opinion column by Toon Van Overbeke (Vrijdaggroep), not a Belgian policy proposal.
+- Public text diagnoses fiscally favoured robotics investment and says reform the tax system, with a glance at South Korea; no bill, rate, envelope or euro. Paywalled body not used. Not scored.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=16, proposals_scored=24 unchanged, last_unit_id=ing_0a18647698, paused=no. No commit.
