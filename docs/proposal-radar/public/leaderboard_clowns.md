@@ -3,7 +3,7 @@
 Highest **clownpoints** among scored proposals (medium/strong confidence).
 Rubric: [docs/09-proposal-radar.md](../../09-proposal-radar.md)
 
-Last refresh: 2026-10-24 21:07 UTC
+Last refresh: 2026-10-25 11:56 UTC
 
 | Rank | Clown | Genius | Index | Belasting-FTE | Nettoloon-jaren | Werkminuten | Title | Memo |
 |------|------:|-------:|------:|--------------:|----------------:|------------:|-------|------|

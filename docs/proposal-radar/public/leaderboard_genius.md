@@ -4,7 +4,7 @@ Highest **genius_score** among scored proposals (medium/strong confidence).
 Genius is rare — solid reforms often land mid-high, not 9–10.
 Rubric: [docs/09-proposal-radar.md](../../09-proposal-radar.md)
 
-Last refresh: 2026-10-24 21:07 UTC
+Last refresh: 2026-10-25 11:56 UTC
 
 | Rank | Genius | Clown | Index | Belasting-FTE | Nettoloon-jaren | Werkminuten | Title | Memo |
 |------|-------:|------:|------:|--------------:|----------------:|------------:|-------|------|
