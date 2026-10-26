@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **170**.
+Scored in the last 21 days: **1**. Still open in the queue: **172**.
 
 ## New ratings
 
@@ -10,6 +10,8 @@ Scored in the last 21 days: **1**. Still open in the queue: **170**.
 
 ## In the queue, not scored yet
 
+- ‘Conner is niet boos, Conner is lichtjes ontgoocheld’ (2026-10-26)
+- "Inkomende regering heeft geen concreet plan": waarom Servië niet automatisch nieuwe koers vaart na overwinning Studentenlijst (2026-10-26)
 - Bij 3 op 10 private uitbaters van woonzorgcentra is het onduidelijk waar subsidies en bewonersgeld naartoe gaan (2026-10-26)
 - Meer dan een jaar geleden aangekondigd, maar rookverbod op terrassen zal dan toch niet ingaan op 1 januari 2027 (2026-10-26)
 - N-VA wil impact van migratie op zorg, wonen en onderwijs laten onderzoeken (2026-10-26)
@@ -23,8 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **170**.
 - Straks meer belasting op uw tweede (en derde en vierde) verblijf? ‘Verhuurders zullen dat doorrekenen’ (2026-10-24)
 - Borgerhout restaureert districtshuis voor meer dan 3 miljoen euro: "Een icoon dat deel moet blijven uitmaken van de skyline" (2026-10-24)
 - Denemarken stopt met nertsen fokken voor bont: "Volstaat niet dat een industrie al oud is, om ze te houden" (2026-10-24)
-- Rousseau over begroting: "Als 'iedereen het zal voelen', moet je ook zeggen hoe miljonairs het zullen voelen" (2026-10-24)
-- Onttrekkingsverbod in Oost-Vlaanderen op 3 plaatsen opgeheven, droogte blijft zorgwekkend (2026-10-24)
 
 ## Method
 
