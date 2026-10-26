@@ -3,7 +3,7 @@
 Highest **clownpoints** among scored proposals (medium/strong confidence).
 Rubric: [docs/09-proposal-radar.md](../../09-proposal-radar.md)
 
-Last refresh: 2026-10-25 21:07 UTC
+Last refresh: 2026-10-26 13:28 UTC
 
 | Rank | Clown | Genius | Index | Belasting-FTE | Nettoloon-jaren | Werkminuten | Title | Memo |
 |------|------:|-------:|------:|--------------:|----------------:|------------:|-------|------|
@@ -16,9 +16,9 @@ Last refresh: 2026-10-25 21:07 UTC
 | 7 | 6.0 | 4.0 | -2.0 |  |  |  | Federal antifraud revenue path EUR 300m (2026) / 1.2bn legislature + 300 investigators | [memo](../analyses/prop_2026_jambon_antifraud_300m.md) |
 | 8 | 5.5 | 3.5 | -2.0 | 3067.0 | 2016.9 | 25.16 | Volvo Car Gent support package up to EUR 119m (Flanders + federal MoU) | [memo](../analyses/prop_2026_volvo_gent_119m.md) |
 | 9 | 4.5 | 4.0 | -0.5 |  |  |  | Introduce capital gains tax (Arizona) | [memo](../analyses/prop_2025_cgt_capital_gains.md) |
-| 10 | 4.5 | 5.5 | 1.0 |  |  |  | Flanders Bestuursdecreet amendment — whistleblower (klokkenluiders) regime reform | [memo](../analyses/prop_2026_vl_klokkenluiders_bestuursdecreet.md) |
-| 11 | 4.0 | 4.5 | 0.5 | 2561.9 | 1684.7 | 21.02 | Flanders Syntrum/Syntra funding €49.7m (2026-27 transition year) | [memo](../analyses/prop_2026_vl_syntra_49m.md) |
-| 12 | 3.5 | 3.5 | 0.0 | 128.9 | 84.7 | 1.06 | Ban keeping cetaceans in captivity by end-2036 (Flanders) | [memo](../analyses/prop_2026_dolphin_ban_2036.md) |
-| 13 | 3.5 | 5.0 | 1.5 | -13144.3 | -8644.1 | -107.84 | FWB 2026 budget: ~€255m savings package | [memo](../analyses/prop_2026_fwb_budget_cuts_255m.md) |
-| 14 | 3.0 | 6.0 | 3.0 |  |  |  | Centenindex: temporary limit on automatic wage/pension indexation | [memo](../analyses/prop_2026_centenindex.md) |
-| 15 | 3.0 | 6.5 | 3.5 |  |  |  | Degressive voluntary-return reintegration support (Syria priority; cut visa-free misuse) | [memo](../analyses/prop_2026_vanbossuyt_return_reintegration.md) |
+| 10 | 4.5 | 4.0 | -0.5 | -1288.7 | -847.5 | -10.57 | 2027 De Lijn expansion euro halved: EUR 25 million extra, spent on the operating gap, with no extra offer | [memo](../analyses/prop_2026_de_lijn_uitbreiding_half.md) |
+| 11 | 4.5 | 5.5 | 1.0 |  |  |  | Flanders Bestuursdecreet amendment — whistleblower (klokkenluiders) regime reform | [memo](../analyses/prop_2026_vl_klokkenluiders_bestuursdecreet.md) |
+| 12 | 4.0 | 4.5 | 0.5 | 2561.9 | 1684.7 | 21.02 | Flanders Syntrum/Syntra funding €49.7m (2026-27 transition year) | [memo](../analyses/prop_2026_vl_syntra_49m.md) |
+| 13 | 3.5 | 3.5 | 0.0 | 128.9 | 84.7 | 1.06 | Ban keeping cetaceans in captivity by end-2036 (Flanders) | [memo](../analyses/prop_2026_dolphin_ban_2036.md) |
+| 14 | 3.5 | 5.0 | 1.5 | -13144.3 | -8644.1 | -107.84 | FWB 2026 budget: ~€255m savings package | [memo](../analyses/prop_2026_fwb_budget_cuts_255m.md) |
+| 15 | 3.0 | 6.0 | 3.0 |  |  |  | Centenindex: temporary limit on automatic wage/pension indexation | [memo](../analyses/prop_2026_centenindex.md) |

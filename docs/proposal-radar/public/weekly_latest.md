@@ -2,14 +2,20 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **167**.
+Scored in the last 21 days: **1**. Still open in the queue: **170**.
 
 ## New ratings
 
-No proposal was scored or re-scored in the last 21 days.
+- **2027 De Lijn expansion euro halved: EUR 25 million extra, spent on the operating gap, with no extra offer** — clown 4.5 / genius 4.0 (index -0.5, medium) — Annick De Ridder · announced · flanders · [memo](../analyses/prop_2026_de_lijn_uitbreiding_half.md)
 
 ## In the queue, not scored yet
 
+- Bij 3 op 10 private uitbaters van woonzorgcentra is het onduidelijk waar subsidies en bewonersgeld naartoe gaan (2026-10-26)
+- Meer dan een jaar geleden aangekondigd, maar rookverbod op terrassen zal dan toch niet ingaan op 1 januari 2027 (2026-10-26)
+- N-VA wil impact van migratie op zorg, wonen en onderwijs laten onderzoeken (2026-10-26)
+- Rookverbod op terrassen gaat nog niet in op 1 januari 2027: uitstel na opmerkingen Raad van State (2026-10-26)
+- Vijf mensen uit Ganshoren met CO-vergiftiging naar ziekenhuis, slachtoffer bewusteloos tijdens douchen (2026-10-26)
+- De Watergroep investeert 5 miljoen euro in extra PFAS-zuivering in Leut: "Belangrijk voor zuiver en veilig drinkwater" (2026-10-26)
 - Politie verdedigt inbeslagname van zwembrillen tijdens Brusselse betoging (2026-10-25)
 - De taarten van Tatyana gaan de wereld rond: een wachtlijst van minstens 9 maanden en een prijskaartje van 80 tot 1.000 euro (2026-10-25)
 - Vooruit ergert zich aan ‘big smile’ van Theo Francken (N-VA) naast Bill White (2026-10-24)
@@ -19,12 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - Denemarken stopt met nertsen fokken voor bont: "Volstaat niet dat een industrie al oud is, om ze te houden" (2026-10-24)
 - Rousseau over begroting: "Als 'iedereen het zal voelen', moet je ook zeggen hoe miljonairs het zullen voelen" (2026-10-24)
 - Onttrekkingsverbod in Oost-Vlaanderen op 3 plaatsen opgeheven, droogte blijft zorgwekkend (2026-10-24)
-- Waarom komt Bart De Wever pas woensdag weer samen met zijn vicepremiers? (2026-10-23)
-- Federale begroting : Rousseau wil grotere inspanning van superrijken voor begroting (2026-10-23)
-- “Iedereen zal het voelen, zei De Wever. Ik vraag me af hoe de miljonair het zal voelen”: Conner Rousseau (Vooruit) bijt van zich af over de begroting (2026-10-23)
-- “Veel, heel veel”: Xabi Alonso somt gelijkenissen op tussen Thibaut Coutois en Mike Penders, nu die laatste voor basisdebuut in Premier League staat (2026-10-23)
-- Depraetere (Vooruit) wil één attest voor energieprestatie bij renovatie en nieuwbouw (2026-10-23)
-- De rebel versus de keikop: komt Bouchez met meer weg dan Vandenbroucke? (2026-10-23)
 
 ## Method
 
