@@ -1,0 +1,1 @@
+{"status": "Actief", "begin": "14 december 1992", "rv": "Vereniging zonder winstoogmerk", "addr": "Rue du Houssu(CAR) 99 7141 Morlanwelz", "ve": "5", "functions": "14", "email": "none in KBO", "web": "none in KBO"}
