@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **172**.
+Scored in the last 21 days: **1**. Still open in the queue: **179**.
 
 ## New ratings
 
@@ -10,6 +10,13 @@ Scored in the last 21 days: **1**. Still open in the queue: **172**.
 
 ## In the queue, not scored yet
 
+- Oppositiepartij Anders vraagt dringend uitleg over “nationalisering” Belgische kerncentrales (2026-10-27)
+- “Noodgeval!”: Netanyahu roept aanhangers op naar de stembus door hoge opkomst linkse kiezers (2026-10-27)
+- Parlementsverkiezingen Israël: Netanyahu schakelt over op paniekmodus (2026-10-27)
+- De koning die Bart De Wever nodig had: het politieke meesterplan van Filip (2026-10-27)
+- Vakantie in eigen land? Aantal overnachtingen in Vlaamse Ardennen stijgt fors (2026-10-27)
+- Invasie van dunsnavelnotenkrakers in Vlaanderen: "Zeldzame vogels uit Siberië" (2026-10-27)
+- Antwerpse politie pakte al 432 bekende overlastplegers op sinds verstrengde aanpak rond "claimers" (2026-10-27)
 - ‘Conner is niet boos, Conner is lichtjes ontgoocheld’ (2026-10-26)
 - "Inkomende regering heeft geen concreet plan": waarom Servië niet automatisch nieuwe koers vaart na overwinning Studentenlijst (2026-10-26)
 - Bij 3 op 10 private uitbaters van woonzorgcentra is het onduidelijk waar subsidies en bewonersgeld naartoe gaan (2026-10-26)
@@ -18,13 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **172**.
 - Rookverbod op terrassen gaat nog niet in op 1 januari 2027: uitstel na opmerkingen Raad van State (2026-10-26)
 - Vijf mensen uit Ganshoren met CO-vergiftiging naar ziekenhuis, slachtoffer bewusteloos tijdens douchen (2026-10-26)
 - De Watergroep investeert 5 miljoen euro in extra PFAS-zuivering in Leut: "Belangrijk voor zuiver en veilig drinkwater" (2026-10-26)
-- Politie verdedigt inbeslagname van zwembrillen tijdens Brusselse betoging (2026-10-25)
-- De taarten van Tatyana gaan de wereld rond: een wachtlijst van minstens 9 maanden en een prijskaartje van 80 tot 1.000 euro (2026-10-25)
-- Vooruit ergert zich aan ‘big smile’ van Theo Francken (N-VA) naast Bill White (2026-10-24)
-- Gespannen sfeer in Lyon waar protestac­tie toch doorgaat ondanks verbod - Brussel blijft voorlopig kalm (2026-10-24)
-- Straks meer belasting op uw tweede (en derde en vierde) verblijf? ‘Verhuurders zullen dat doorrekenen’ (2026-10-24)
-- Borgerhout restaureert districtshuis voor meer dan 3 miljoen euro: "Een icoon dat deel moet blijven uitmaken van de skyline" (2026-10-24)
-- Denemarken stopt met nertsen fokken voor bont: "Volstaat niet dat een industrie al oud is, om ze te houden" (2026-10-24)
 
 ## Method
 
