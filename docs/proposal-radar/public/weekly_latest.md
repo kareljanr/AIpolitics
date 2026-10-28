@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **182**.
+Scored in the last 21 days: **1**. Still open in the queue: **192**.
 
 ## New ratings
 
@@ -10,21 +10,21 @@ Scored in the last 21 days: **1**. Still open in the queue: **182**.
 
 ## In the queue, not scored yet
 
+- Pakjestaks doet aantal aangiftes voor goedkope pakjes met 65 procent dalen en brengt al 364 miljoen euro op (2026-10-28)
+- Weyts dringt opnieuw aan op federaal vuurwerkverbod: “Gesmos met levens moet stoppen” (2026-10-28)
+- “Zonder veel moeite tot 10 euro op een volle tank besparen”: dankzij deze 5 tips kan je toch nog wat goedkoper diesel tanken (2026-10-28)
+- Raad van State ziet geen fundamentele bezwaren bij decreet om Jinnih Beels uit Antwerpse provincieraad te zetten (2026-10-28)
+- Arabische partijen kunnen doorslaggevende rol spelen nu Netanyahu en Eisenkot meerderheid lijken mis te lopen (2026-10-28)
+- Israël kiest: Netanyahu lijkt meerderheid kwijt, maar ook oppositie zit klem (2026-10-28)
+- Herentals creëert 175 extra sociale huurwoningen tegen 2042, meer dan opgelegd door Vlaanderen (2026-10-28)
+- "Ongezien": bijna 3 op de 10 machines in Belgische fabrieken staan stil (2026-10-28)
+- Extra besparingsronde van 13 miljoen voor Aalst "hoeft niet te leiden tot ontslagen", zegt burgemeester Christoph D'Haese (2026-10-28)
+- Waarom het vaak lang duurt voor Israël daadwerkelijk een nieuwe premier en regering heeft (2026-10-28)
 - Geen duidelijke winnaar in Israël: partij van Netanyahu blijft grootste, maar oppositieblok haalt meer zetels (2026-10-27)
 - Nieuwe parkeerregeling op komst voor zwembad Kapermolen in Hasselt: "Studenten en bezoekers van de binnenstad maken misbruik van de parking" (2026-10-27)
 - Westhoekburgemeesters vrezen verlies van Franse klanten door wegenvignet: "Het is ontgoochelend" (2026-10-27)
 - Oppositiepartij Anders vraagt dringend uitleg over “nationalisering” Belgische kerncentrales (2026-10-27)
 - “Noodgeval!”: Netanyahu roept aanhangers op naar de stembus door hoge opkomst linkse kiezers (2026-10-27)
-- Parlementsverkiezingen Israël: Netanyahu schakelt over op paniekmodus (2026-10-27)
-- De koning die Bart De Wever nodig had: het politieke meesterplan van Filip (2026-10-27)
-- Vakantie in eigen land? Aantal overnachtingen in Vlaamse Ardennen stijgt fors (2026-10-27)
-- Invasie van dunsnavelnotenkrakers in Vlaanderen: "Zeldzame vogels uit Siberië" (2026-10-27)
-- Antwerpse politie pakte al 432 bekende overlastplegers op sinds verstrengde aanpak rond "claimers" (2026-10-27)
-- ‘Conner is niet boos, Conner is lichtjes ontgoocheld’ (2026-10-26)
-- "Inkomende regering heeft geen concreet plan": waarom Servië niet automatisch nieuwe koers vaart na overwinning Studentenlijst (2026-10-26)
-- Bij 3 op 10 private uitbaters van woonzorgcentra is het onduidelijk waar subsidies en bewonersgeld naartoe gaan (2026-10-26)
-- Meer dan een jaar geleden aangekondigd, maar rookverbod op terrassen zal dan toch niet ingaan op 1 januari 2027 (2026-10-26)
-- N-VA wil impact van migratie op zorg, wonen en onderwijs laten onderzoeken (2026-10-26)
 
 ## Method
 
