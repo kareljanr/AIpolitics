@@ -1,6 +1,7 @@
 # Proposal Radar three times a day. Each run scores up to three open proposals, then Telegram posts new ratings.
 # Secrets (repo → Settings → Secrets → Actions):
-#   GROK_AUTH_JSON           full ~/.grok/auth.json from a machine where `grok models` works
+#   GROK_AUTH_JSON           full ~/.grok/auth.json from a machine where `grok models` works.
+#                            An expired access token is refreshed by scripts/cloud-grok-auth.sh.
 #   TELEGRAM_BOT_TOKEN       same bot as the portfolio runner
 #   RADAR_TELEGRAM_CHAT_ID   DOGE Radar group
 #   RADAR_TELEGRAM_THREAD_ID optional topic id

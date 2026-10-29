@@ -1,6 +1,7 @@
 # One DOGE research tick on GitHub, so the loop keeps going when the PC is off.
 # Secret: GROK_AUTH_JSON = full ~/.grok/auth.json from a machine where `grok models` works.
-# Replace that secret when a tick logs "GROK_AUTH_JSON was rejected".
+# scripts/cloud-grok-auth.sh refreshes an expired access token. Replace the secret
+# when a tick logs "the refresh token was not accepted".
 # Does not check out docs/doge/data/raw (about 3.8 GB of stored PDFs).
 
 name: DOGE loop
