@@ -1,2 +1,2 @@
 state_id,mode,last_tick_utc,last_unit_id,ticks_completed,proposals_scored,paused,notes
-main,analyse,2026-10-25T21:27:57Z,ing_0a18647698,16,24,no,"tick 16 rejected_noise ing_0a18647698 Knack/L'Echo Van Overbeke opinion column, not a BE policy instrument; proposals_scored unchanged; no commit"
+main,analyse,2026-10-29T23:13:50Z,ing_f1be4352f9,19,25,no,tick 19 rejected ing_f1be4352f9 as noise (HLN clarification that existing PVB uses survive the already-decided handicap reform); proposals_scored unchanged; no commit

@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **202**.
+Scored in the last 21 days: **1**. Still open in the queue: **205**.
 
 ## New ratings
 
@@ -10,6 +10,9 @@ Scored in the last 21 days: **1**. Still open in the queue: **202**.
 
 ## In the queue, not scored yet
 
+- Belgische Staat gaat in beroep tegen vonnis over overbevolking in Gentse gevangenis: dwangsom tot wel 45 miljoen euro dreigt (2026-10-29)
+- Voedingsbedrijf Solae Belgium in Ieper blijft dan toch open: Vlaamse regering investeert 1 miljoen euro in waterzuiveringssysteem (2026-10-29)
+- "Lastig parket, maar vooral insinuaties": hoe positie Annelies Verlinden (voorlopig) niet in gevaar komt in i-Police-debacle (2026-10-29)
 - Op pad in Turnhout, dat het laagst scoort op mobiliteit: “Het centrum is een labyrint geworden” (2026-10-29)
 - ‘Wie kwaliteitsvolle zorg verwacht, moet ook garanderen dat de middelen daarvoor daadwerkelijk worden ingezet’ (2026-10-29)
 - Is nieuwe verkeersbelasting voordelig voor jou of blijf je beter bij de oude regeling? Check het hier (2026-10-29)
@@ -22,9 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **202**.
 - Genkse jeugd dient 471 ideeën in voor jongerenbudget: 271 projecten gaan door naar volgende ronde (2026-10-28)
 - Pakjestaks doet aantal aangiftes voor goedkope pakjes met 65 procent dalen en brengt al 364 miljoen euro op (2026-10-28)
 - Weyts dringt opnieuw aan op federaal vuurwerkverbod: “Gesmos met levens moet stoppen” (2026-10-28)
-- “Zonder veel moeite tot 10 euro op een volle tank besparen”: dankzij deze 5 tips kan je toch nog wat goedkoper diesel tanken (2026-10-28)
-- Raad van State ziet geen fundamentele bezwaren bij decreet om Jinnih Beels uit Antwerpse provincieraad te zetten (2026-10-28)
-- Arabische partijen kunnen doorslaggevende rol spelen nu Netanyahu en Eisenkot meerderheid lijken mis te lopen (2026-10-28)
 
 ## Method
 

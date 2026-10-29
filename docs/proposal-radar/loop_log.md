@@ -354,3 +354,18 @@ Scheduler 019fa3e112ab still daily.
 - Public text diagnoses fiscally favoured robotics investment and says reform the tax system, with a glance at South Korea; no bill, rate, envelope or euro. Paywalled body not used. Not scored.
 - ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
 - loop_state: mode=analyse, ticks_completed=16, proposals_scored=24 unchanged, last_unit_id=ing_0a18647698, paused=no. No commit.
+## 2026-10-29T23:06:20Z — tick 17 — analyse prop_2026_bru_hotspot_politiebesluit
+- Scored ing_9c3812b222 as prop_2026_bru_hotspot_politiebesluit (Brussels one-year police order: e-scooter ban in 19 drug hotspots; Belgium; press-only).
+- Scores: clown 5.5, genius 3.85, policy_index -1.65, recommendation amend, score_confidence weak, publish_ok needs_human.
+- Pain left blank: no public euro amount on this order; a same-week commissioner figure is a different instrument; recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=17, proposals_scored=25, last_unit_id=ing_9c3812b222, paused=no. No commit.
+## 2026-10-29T23:09:39Z — tick 18 — reject ing_c7bdc81abd
+- Unit ing_c7bdc81abd is a Knack reaction piece on the Brussels hotspot e-scooter ban, not a new Belgian policy proposal.
+- Public excerpt: Dilliès (MR) bans e-steps in 19 drug hotspots; criminologist Mattias De Backer calls that order incredibly disproportionate and says it widens the gap between police and young people. Headline quote is criticism, not an instrument. Paywalled body not used. Same order already scored as prop_2026_bru_hotspot_politiebesluit.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=18, proposals_scored=25 unchanged, last_unit_id=ing_c7bdc81abd, paused=no. No commit.
+## 2026-10-29T23:13:50Z — tick 19 — reject ing_f1be4352f9
+- Unit ing_f1be4352f9 is an HLN clarification by Caroline Gennez (Vooruit), not a new Belgian policy proposal.
+- RSS text: after the disability-sector reform, people can still use their persoonsvolgend budget for personal transport, service vouchers, family care and home care. That restates surviving uses of an already decided instrument. Paywalled HLN body not used. No new bill, envelope or euro.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=19, proposals_scored=25 unchanged, last_unit_id=ing_f1be4352f9, paused=no. No commit.
