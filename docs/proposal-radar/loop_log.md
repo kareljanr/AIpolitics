@@ -369,3 +369,18 @@ Scheduler 019fa3e112ab still daily.
 - RSS text: after the disability-sector reform, people can still use their persoonsvolgend budget for personal transport, service vouchers, family care and home care. That restates surviving uses of an already decided instrument. Paywalled HLN body not used. No new bill, envelope or euro.
 - ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
 - loop_state: mode=analyse, ticks_completed=19, proposals_scored=25 unchanged, last_unit_id=ing_f1be4352f9, paused=no. No commit.
+## 2026-10-30T22:44:39Z — tick 20 — analyse prop_2026_de_lovie_469m
+- Scored ing_4f57158b8e as prop_2026_de_lovie_469m (Flemish €4.69 million heritage premium for Kasteel De Lovie in Poperinge; Belgium).
+- Scores: clown 4.5, genius 4.35, policy_index -0.15, recommendation amend, score_confidence weak, publish_ok needs_human.
+- Pain: multi-year envelope €4,690,000, fiscal_is_saving no; Belasting-FTE 241.8; Werkminuten 1.98; recompute_pain.py run.
+- loop_state: mode=analyse, ticks_completed=20, proposals_scored=26, last_unit_id=ing_4f57158b8e, paused=no. No commit.
+## 2026-10-30T22:49:10Z — tick 21 — reject ing_12b73c476a
+- Unit ing_12b73c476a is a Knack news item on the closed-centre strike, not a new Belgian policy proposal.
+- Public excerpt (De Krantenkoppen, 13 Oct 2026): ACV says the minister offers solutions but nothing short-term; staff strike over aggression; Kelly De Wilde says the action continues Wednesday. Headline quote is a removal diagnosis, not an instrument. Paywalled Knack body not used. Same strike package already scored as prop_2026_acv_gesloten_centra_pakket.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=21, proposals_scored=26 unchanged, last_unit_id=ing_12b73c476a, paused=no. No commit.
+## 2026-10-30T22:51:28Z — tick 22 — reject ing_17eb650774
+- Unit ing_17eb650774 is an HLN opinion column (/opinie/) written as a State of the Union by premier Bart De Wever's cat Maximus, not a Belgian policy proposal.
+- Public headline: the prime minister was not in the Chamber and "sent his cat"; "Tot u spreekt de kater van de eerste minister". RSS hit on begroting|premie. DPG consent wall; body not used. No bill, rate, envelope or euro.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=22, proposals_scored=26 unchanged, last_unit_id=ing_17eb650774, paused=no. No commit.
