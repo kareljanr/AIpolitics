@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **205**.
+Scored in the last 21 days: **1**. Still open in the queue: **206**.
 
 ## New ratings
 
@@ -10,6 +10,10 @@ Scored in the last 21 days: **1**. Still open in the queue: **205**.
 
 ## In the queue, not scored yet
 
+- ‘Winterstop die acht maand kan duren? Dit is nefast voor het vertrouwen op de Brusselse huurmarkt’ (2026-10-30)
+- ‘Veel aankondiging voor weinig resultaat: akkoord over begroting verdient een betere controle’ (2026-10-30)
+- Belfort in Brugge, Citadel in Diest of Rubenshuis in Antwerpen: in deze 5 'erfgoedparels' pompt Vlaanderen 24 miljoen euro (2026-10-30)
+- Raad van State wijst Vlaamse regering op mogelijk probleem met beperking geboortepremie tot eerste kind (2026-10-30)
 - Belgische Staat gaat in beroep tegen vonnis over overbevolking in Gentse gevangenis: dwangsom tot wel 45 miljoen euro dreigt (2026-10-29)
 - Voedingsbedrijf Solae Belgium in Ieper blijft dan toch open: Vlaamse regering investeert 1 miljoen euro in waterzuiveringssysteem (2026-10-29)
 - "Lastig parket, maar vooral insinuaties": hoe positie Annelies Verlinden (voorlopig) niet in gevaar komt in i-Police-debacle (2026-10-29)
@@ -21,10 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **205**.
 - Conner Rousseau (Vooruit) ziet geen deadline voor begrotingsgesprekken: ‘Voorlopige twaalfden? Niet het einde van de wereld’ (2026-10-28)
 - Oppompverbod volledig opgeheven in West-Vlaanderen (2026-10-28)
 - Vlaamse regering zet ambtswoning van West-Vlaamse gouverneur in Brugge te koop: "Besparingsmaatregel" (2026-10-28)
-- Besparing kindergeld beetje bijgevijld: lagere leeftijdsgrens gaat later in, uitzondering voor kwetsbare studenten (2026-10-28)
-- Genkse jeugd dient 471 ideeën in voor jongerenbudget: 271 projecten gaan door naar volgende ronde (2026-10-28)
-- Pakjestaks doet aantal aangiftes voor goedkope pakjes met 65 procent dalen en brengt al 364 miljoen euro op (2026-10-28)
-- Weyts dringt opnieuw aan op federaal vuurwerkverbod: “Gesmos met levens moet stoppen” (2026-10-28)
 
 ## Method
 
