@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **215**.
+Scored in the last 21 days: **1**. Still open in the queue: **218**.
 
 ## New ratings
 
@@ -10,6 +10,9 @@ Scored in the last 21 days: **1**. Still open in the queue: **215**.
 
 ## In the queue, not scored yet
 
+- Geen voltallig kernkabinet meer zaterdagavond. Stevenen we af op een crash of niet? “Vooruit trekt zich geen hol aan van deadline van premier” (2026-10-31)
+- Poolse premier Tusk verdedigt ingreep bij Grondwettelijk Hof: "Democratische staat moet sterk zijn" (2026-10-31)
+- Premier De Wever voert individuele gesprekken met zijn vicepremiers: nu de beurt aan Maxime Prévot (2026-10-31)
 - “Lego is hier 30 euro goedkoper”: deze gigantische speelgoedketen sluipt België binnen, maar is hij echt beter voor je portefeuille? (2026-10-31)
 - Greenpeace kritisch voor van VN-biodiversiteitstop: “Wereld loopt achter op schema” (2026-10-31)
 - Boot met 38 migranten voor Nederlandse kust was motor verloren op zee (2026-10-31)
@@ -22,9 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **215**.
 - Brugge juicht Vlaamse investeringen in Belfort toe: "Monument bepaalt mee uitzicht van onze stad" (2026-10-30)
 - 21.000 euro voor dienstreizen van Annelies Verlinden van Brussel over New York naar Abu Dhabi: waar gaat dit over? (2026-10-30)
 - ‘Winterstop die acht maand kan duren? Dit is nefast voor het vertrouwen op de Brusselse huurmarkt’ (2026-10-30)
-- ‘Veel aankondiging voor weinig resultaat: akkoord over begroting verdient een betere controle’ (2026-10-30)
-- Belfort in Brugge, Citadel in Diest of Rubenshuis in Antwerpen: in deze 5 'erfgoedparels' pompt Vlaanderen 24 miljoen euro (2026-10-30)
-- Raad van State wijst Vlaamse regering op mogelijk probleem met beperking geboortepremie tot eerste kind (2026-10-30)
 
 ## Method
 

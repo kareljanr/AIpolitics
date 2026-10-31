@@ -384,3 +384,18 @@ Scheduler 019fa3e112ab still daily.
 - Public headline: the prime minister was not in the Chamber and "sent his cat"; "Tot u spreekt de kater van de eerste minister". RSS hit on begroting|premie. DPG consent wall; body not used. No bill, rate, envelope or euro.
 - ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
 - loop_state: mode=analyse, ticks_completed=22, proposals_scored=26 unchanged, last_unit_id=ing_17eb650774, paused=no. No commit.
+## 2026-10-31T21:51:25Z — tick 23 — reject ing_79e7348d6e
+- Unit ing_79e7348d6e is a VRT/Belga report on one teacher's appeal against dismissal, not a Belgian policy proposal.
+- Public text: Hadija Amajoud of Assenede appeals her dismissal by the province of East Flanders for wearing a headscarf; the religious-sign ban in provincial schools is already in force this school year; her lawyer asks the appeal chamber to annul the disciplinary measure. Individual procedure, no new bill, rate, envelope or euro.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=23, proposals_scored=26 unchanged, last_unit_id=ing_79e7348d6e, paused=no. No commit.
+## 2026-10-31T21:53:09Z — tick 24 — reject ing_1e3391b8c5
+- Unit ing_1e3391b8c5 is an HLN report on one teacher's appeal against dismissal, not a Belgian policy proposal.
+- Public text (VRT NWS, De Standaard, GVA, 14 Oct 2026): Hadija Amajoud of Assenede appeals her dismissal by the province of East Flanders for wearing a headscarf; religious signs are already banned in provincial schools this school year; lawyer Timo Lehaen asks the Kamer van Beroep to annul the disciplinary measure. HLN body behind a DPG consent wall. Same story already rejected as ing_79e7348d6e. No new bill, rate, envelope or euro.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=24, proposals_scored=26 unchanged, last_unit_id=ing_1e3391b8c5, paused=no. No commit.
+## 2026-10-31T22:04:41Z — tick 25 — analyse prop_2026_leuven_busstation_quickwins
+- Scored ing_69ba9b95c7 as prop_2026_leuven_busstation_quickwins (Leuven and De Lijn autumn 2026 bus-station safety package: blue strip, rails, route shift off platform 1).
+- Scores: clown 4.0, genius 5.15, policy_index +1.15, recommendation amend, score_confidence weak, publish_ok needs_human.
+- No public euro amount. Pain columns blank. recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=25, proposals_scored=27, last_unit_id=ing_69ba9b95c7, paused=no. No commit.

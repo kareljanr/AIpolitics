@@ -1,2 +1,2 @@
 state_id,mode,last_tick_utc,last_unit_id,ticks_completed,proposals_scored,paused,notes
-main,analyse,2026-10-30T22:51:28Z,ing_17eb650774,22,26,no,tick 22 rejected ing_17eb650774 as noise (HLN opinion satire: State of the Union of cat Maximus; no instrument); proposals_scored unchanged; no commit
+main,analyse,2026-10-31T22:04:41Z,ing_69ba9b95c7,25,27,no,tick 25 scored ing_69ba9b95c7 as prop_2026_leuven_busstation_quickwins (Leuven/De Lijn bus-station quick wins); clown 4.0 genius 5.15 index +1.15; weak; needs_human; no euro; no commit
