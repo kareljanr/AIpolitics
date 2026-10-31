@@ -6,6 +6,40 @@
 
 ---
 
+## Snapshot at **tick 3960** (2026-10-31; GitHub Actions runner)
+
+| Layer | Coverage of EUR 347.956 bn TE | Assessment |
+|-------|---------------------------:|------------|
+| **A. L0 total** | **100%** | Strong (NBB/ESA 2025 TE EUR 347.956bn) |
+| **B. L1 subsectors** | **100%** of unconsol. map | Strong; fed/C&R/local/SS |
+| **C. L2 entity totals** | **~99%** (order of magnitude) | unchanged vs 3950; 3951-3960 residual dual is L5 depth, not new L2 mass |
+| **D. L5 named / measure end-lines** | **~74-88%** of TE (generous; unchanged band) | **Gain 3951-3960 residual dual L5 (not near-complete of 348bn):** Les Festivals de Wallonie · Eden\|Centre culturel de Charleroi · ALISES · Domaine de Seneffe · Les Équipes Populaires · La Bastide blanche · P.A.S.S.A.J.E. · Association Wallonie-Bruxelles de Basket-Ball · La Sauvegarde Familiale · Ligue belge francophone d'Athlétisme (all Strong official NBB YE2025 PDFs) |
+| **E. FOI-ready gaps** | **3494** drafts ready | Human send only; answered **11**; partial **29**; total FOI rows **3557** (12 legacy rows whose status field is outside the schema, left untouched) |
+
+**Off-TE (do not mix into 348 bn):** VAPH/maatwerk/CAR dual shells and SISP/SLSP/intercommunale code-740 and home-help and FWB school-PO code-733 shells incl. **NEW 3951-3960** Les Festivals de Wallonie · Eden\|Centre culturel de Charleroi · ALISES · Domaine de Seneffe · Les Équipes Populaires · La Bastide blanche · P.A.S.S.A.J.E. · Association Wallonie-Bruxelles de Basket-Ball · La Sauvegarde Familiale · Ligue belge francophone d'Athlétisme.
+
+### Inventory (tick 3960)
+
+| File | Rows (class) |
+|------|-------------:|
+| budgets.csv | 66747 |
+| commitments.csv | 7557 |
+| leaderboard.csv | 9675 |
+| entities.csv | 3575 |
+| sources.csv | 11604 |
+| FOI ready | 3494 |
+| FOI total rows | 3557 |
+| research_queue open | rq_3961 (carried; next: remaining FWB Cadastre 2025 candidates) |
+
+### What improved since tick 3950
+
+- **New source (tick3951-3960):** Les Festivals de Wallonie · Eden\|Centre culturel de Charleroi · ALISES · Domaine de Seneffe · Les Équipes Populaires · La Bastide blanche · P.A.S.S.A.J.E. · Association Wallonie-Bruxelles de Basket-Ball · La Sauvegarde Familiale · Ligue belge francophone d'Athlétisme. FWB Cadastre des subventions 2025 (https://www.odwb.be/explore/dataset/fwb-cadastre-des-subventions-2025/), non-profit recipients EUR 50k-2m liquidated in 2025, education competences excluded; NBB code 9900 is not the cadastre amount.
+- **FOI addresses:** general or role mailboxes verified on each body's own official site. Drafts are voluntary requests (no legal-basis claim). This tick's draft was not sent.
+- **Runner note:** tick 3960 ran on GitHub Actions. Leaderboard priority order was not recomputed.
+- **Skipped this window and left skipped:** larger unused cadastre rows already recorded in ticks 3952-3957, plus FED DES CENTRES MEDICAUX LIBRES BW 0408696335 (YE2025 micro model, not abbreviated).
+
+---
+
 ## Snapshot at **tick 3950** (2026-10-16; local fallback runner while GitHub Actions cron is unreliable)
 
 | Layer | Coverage of EUR 347.956 bn TE | Assessment |
