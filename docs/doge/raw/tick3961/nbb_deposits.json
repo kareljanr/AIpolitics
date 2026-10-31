@@ -1,0 +1,33 @@
+{
+  "content": [
+    {
+      "periodEndDateYear": 2025,
+      "creationDate": "2026-07-01T11:40:50.947Z",
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "legacy": false
+      },
+      "depositDate": "2026-07-01T11:28:48.190Z",
+      "enterpriseNumber": "0435050344",
+      "id": "c6801c93-753f-11f1-a347-cffaf029279d",
+      "language": "FR",
+      "modelId": "m04-f",
+      "modelName": "Modèle abrégé association",
+      "modificationDate": "2026-07-01T11:40:50.947Z",
+      "periodEndDate": "2025-12-31T00:00:00Z",
+      "periodStartDate": "2025-01-01T00:00:00Z",
+      "status": "PUBLISHED",
+      "taxonomyName": "Modèles 2021 (25.0.13)",
+      "type": "Initial",
+      "subType": null,
+      "reference": "2026-00231931",
+      "importFileType": "ZIP",
+      "generalAssemblyApprovalDate": "2026-03-19T00:00:00Z",
+      "enterpriseName": "Service laïque d'Aide aux Justiciables ET AUX VICTIMES DE L'ARRONDISSEMENT JUDICIAIRE DE BRUXELLES ASBL",
+      "migration": false,
+      "csrdFileType": null,
+      "cbcrFileType": null
+    }
+  ]
+}
