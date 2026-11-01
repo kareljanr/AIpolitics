@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **221**.
+Scored in the last 21 days: **1**. Still open in the queue: **222**.
 
 ## New ratings
 
@@ -10,6 +10,10 @@ Scored in the last 21 days: **1**. Still open in the queue: **221**.
 
 ## In the queue, not scored yet
 
+- Muk (5) heeft zeldzame kinderdementie, ouders vragen Vlaanderen om hulp voor levensreddend medicijn van 3,5 miljoen: “Elke gift, zelfs de kleinste, is belangrijk” (2026-11-01)
+- Twee dagen voor begrotingsdeadline breekt paniek uit over ‘horrorlijst’ van Les Engagés (2026-11-01)
+- Bilaterale begrotingsgesprekken afgelopen, waarschijnlijk voltallige kern straks weer bijeen (2026-11-01)
+- 41 kunstenaars stellen werken tentoon in 8 voormalige mijnwerkerswoningen in Heusden-Zolder (2026-11-01)
 - De begroting uitgedrukt in 100 euro: dit doet de federale overheid met uw belastinggeld (2026-11-01)
 - Vooruit lijkt steun te krijgen van Les Engagés voor hogere belastingen voor sterkste schouders (2026-11-01)
 - Wordt dit de Vespa voor het elektrische tijdperk? Motormerk Zero pakt uit met eerste scooter en onze mobiliteitsexpert kon er al mee rijden (2026-11-01)
@@ -21,10 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **221**.
 - Premier De Wever voert individuele gesprekken met zijn vicepremiers: nu de beurt aan Maxime Prévot (2026-10-31)
 - “Lego is hier 30 euro goedkoper”: deze gigantische speelgoedketen sluipt België binnen, maar is hij echt beter voor je portefeuille? (2026-10-31)
 - Greenpeace kritisch voor van VN-biodiversiteitstop: “Wereld loopt achter op schema” (2026-10-31)
-- Boot met 38 migranten voor Nederlandse kust was motor verloren op zee (2026-10-31)
-- Wie theoretisch rijexamen in Brussel aflegt, zal praktijk niet meer in Vlaanderen kunnen doen (2026-10-31)
-- Premier en president in Polen lijnrecht tegenover elkaar na crisis over schorsing voorzitter Grondwettelijk hof (2026-10-31)
-- Duidelijke tarieven en 48 uur om begrafenisondernemer te kiezen: Vlaamse regering keurt nieuwe uitvaartregels goed (2026-10-31)
 
 ## Method
 

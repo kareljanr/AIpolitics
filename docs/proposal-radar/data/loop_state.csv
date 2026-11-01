@@ -1,2 +1,2 @@
 state_id,mode,last_tick_utc,last_unit_id,ticks_completed,proposals_scored,paused,notes
-main,analyse,2026-11-01T13:59:40Z,ing_1c54de0e7a,28,28,no,tick 28 rejected ing_1c54de0e7a as noise: VRT 15 Oct schuldenrem explainer is the same 2027 fallback already scored as prop_2026_de_wever_2027_pakket_3_4mrd; proposals_scored unchanged; no commit
+main,analyse,2026-11-01T22:34:50Z,ing_747c33da98,31,29,no,tick 31 reject ing_747c33da98; VRT Boekentoren symbolic auction is a protest not a Belgian proposal; proposals_scored unchanged; no commit

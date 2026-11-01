@@ -414,3 +414,18 @@ Scheduler 019fa3e112ab still daily.
 - The same URL is already source src_1c54de0e7a for prop_2026_de_wever_2027_pakket_3_4mrd (2027 fallback freeze of €3–4bn). No second score.
 - ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
 - loop_state: mode=analyse, ticks_completed=28, proposals_scored=28 unchanged, last_unit_id=ing_1c54de0e7a, paused=no. No commit.
+## 2026-11-01T22:27:57Z — tick 29 — analyse prop_2026_les_engages_kapitaalmenu
+- Scored ing_ec6fc98a68 as prop_2026_les_engages_kapitaalmenu (Les Engagés November 2026 capital-tax menu in the federal budget talks; Belgium; press-only).
+- Scores: clown 6.0, genius 2.60, policy_index -3.40, recommendation reject, score_confidence weak, publish_ok needs_human.
+- Press states a political revenue floor of at least or more than €1bn. Periodicity and base are unstated, so no CSV static and no pain. recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=29, proposals_scored=29, last_unit_id=ing_ec6fc98a68, paused=no. No commit.
+## 2026-11-01T22:31:47Z — tick 30 — reject ing_d9f22db1f1
+- Unit ing_d9f22db1f1 is an HLN foreign-desk report that EU member states are still far from agreement on the multiannual budget, not a Belgian policy proposal.
+- URL is /buitenland/, jurisdiction_guess=multi, queued 2026-10-15. Same-week coverage is the EU MFF 2028–2034 deadlock. DPG consent wall; body not used. No Belgian bill, rate, envelope or instrument.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=30, proposals_scored=29 unchanged, last_unit_id=ing_d9f22db1f1, paused=no. No commit.
+## 2026-11-01T22:34:50Z — tick 31 — reject ing_747c33da98
+- Unit ing_747c33da98 is a VRT NWS report on a symbolic heritage auction in the Ghent Boekentoren, not a Belgian policy proposal.
+- Public text (15 Oct 2026): staff staged a playful sale of collection pieces that do not change owner, to protest Flemish culture cuts. A sector spokesperson says Ghent must save about €3.5 million a year. That figure paraphrases cuts already announced; this item has no new bill, rate or envelope.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=31, proposals_scored=29 unchanged, last_unit_id=ing_747c33da98, paused=no. No commit.
