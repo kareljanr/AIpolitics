@@ -399,3 +399,18 @@ Scheduler 019fa3e112ab still daily.
 - Scores: clown 4.0, genius 5.15, policy_index +1.15, recommendation amend, score_confidence weak, publish_ok needs_human.
 - No public euro amount. Pain columns blank. recompute_pain.py not run.
 - loop_state: mode=analyse, ticks_completed=25, proposals_scored=27, last_unit_id=ing_69ba9b95c7, paused=no. No commit.
+## 2026-11-01T13:53:28Z — tick 26 — analyse prop_2026_de_wever_2027_pakket_3_4mrd
+- Scored ing_4680f63da5 as prop_2026_de_wever_2027_pakket_3_4mrd (federal 2027 fallback freeze of €3–4bn, labelled schuldenrem; Belgium; press-only).
+- Scores: clown 5.0, genius 3.55, policy_index -1.45, recommendation reject, score_confidence weak, publish_ok needs_human.
+- Pain: 2027 package range €3bn–€4bn, midpoint −€3.5bn, fiscal_is_saving yes; Belasting-FTE -180412.4; recompute_pain.py run.
+- loop_state: mode=analyse, ticks_completed=26, proposals_scored=28, last_unit_id=ing_4680f63da5, paused=no. No commit.
+## 2026-11-01T13:55:31Z — tick 27 — reject ing_dc1ed6f3f5
+- Unit ing_dc1ed6f3f5 is a Knack live-blog headline, “Federale begroting: premier De Wever komt met nieuw voorstel”, not a new Belgian policy instrument.
+- Same-day press (VRT 14 Oct 19:03, Nieuwsblad and De Standaard that evening) is the 2027-only pivot already scored as prop_2026_de_wever_2027_pakket_3_4mrd. Knack body not read (human verification). VAT withdrawal is not rescored.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=27, proposals_scored=28 unchanged, last_unit_id=ing_dc1ed6f3f5, paused=no. No commit.
+## 2026-11-01T13:59:40Z — tick 28 — reject ing_1c54de0e7a
+- Unit ing_1c54de0e7a is the VRT NWS piece “Waarom De Wevers voorstel voor een 'schuldenrem' nu al de wenkbrauwen doet fronsen” (15 Oct 2026), not a new Belgian policy instrument.
+- The same URL is already source src_1c54de0e7a for prop_2026_de_wever_2027_pakket_3_4mrd (2027 fallback freeze of €3–4bn). No second score.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=28, proposals_scored=28 unchanged, last_unit_id=ing_1c54de0e7a, paused=no. No commit.

@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **218**.
+Scored in the last 21 days: **1**. Still open in the queue: **221**.
 
 ## New ratings
 
@@ -10,6 +10,12 @@ Scored in the last 21 days: **1**. Still open in the queue: **218**.
 
 ## In the queue, not scored yet
 
+- De begroting uitgedrukt in 100 euro: dit doet de federale overheid met uw belastinggeld (2026-11-01)
+- Vooruit lijkt steun te krijgen van Les Engagés voor hogere belastingen voor sterkste schouders (2026-11-01)
+- Wordt dit de Vespa voor het elektrische tijdperk? Motormerk Zero pakt uit met eerste scooter en onze mobiliteitsexpert kon er al mee rijden (2026-11-01)
+- Belastingplan zet Nederlandse regering onder druk: deal met oppositie lijkt buiten bereik (2026-11-01)
+- Premier De Wever zet zondag bilaterale begrotingsonderhandelingen met de vicepremiers voort (2026-11-01)
+- Raakt begroting nog op tijd rond of gaan we naar voorlopige twaalfden? "Money time voor premier De Wever" (2026-11-01)
 - Geen voltallig kernkabinet meer zaterdagavond. Stevenen we af op een crash of niet? “Vooruit trekt zich geen hol aan van deadline van premier” (2026-10-31)
 - Poolse premier Tusk verdedigt ingreep bij Grondwettelijk Hof: "Democratische staat moet sterk zijn" (2026-10-31)
 - Premier De Wever voert individuele gesprekken met zijn vicepremiers: nu de beurt aan Maxime Prévot (2026-10-31)
@@ -19,12 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **218**.
 - Wie theoretisch rijexamen in Brussel aflegt, zal praktijk niet meer in Vlaanderen kunnen doen (2026-10-31)
 - Premier en president in Polen lijnrecht tegenover elkaar na crisis over schorsing voorzitter Grondwettelijk hof (2026-10-31)
 - Duidelijke tarieven en 48 uur om begrafenisondernemer te kiezen: Vlaamse regering keurt nieuwe uitvaartregels goed (2026-10-31)
-- Vlaanderen investeert 24 miljoen euro in restauratie van vijf iconische monumenten (2026-10-30)
-- Conner Rousseau zoekt miljarden bij de rijken, Binance is miljarden kwijt: beluister de podcast Tussen Wetstraat en Wall Street (2026-10-30)
-- "Troefkaart die niemand heeft": minister Francken kondigt samenwerking aan tussen Defensie en Imec (2026-10-30)
-- Brugge juicht Vlaamse investeringen in Belfort toe: "Monument bepaalt mee uitzicht van onze stad" (2026-10-30)
-- 21.000 euro voor dienstreizen van Annelies Verlinden van Brussel over New York naar Abu Dhabi: waar gaat dit over? (2026-10-30)
-- ‘Winterstop die acht maand kan duren? Dit is nefast voor het vertrouwen op de Brusselse huurmarkt’ (2026-10-30)
 
 ## Method
 

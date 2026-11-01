@@ -1,2 +1,2 @@
 state_id,mode,last_tick_utc,last_unit_id,ticks_completed,proposals_scored,paused,notes
-main,analyse,2026-10-31T22:04:41Z,ing_69ba9b95c7,25,27,no,tick 25 scored ing_69ba9b95c7 as prop_2026_leuven_busstation_quickwins (Leuven/De Lijn bus-station quick wins); clown 4.0 genius 5.15 index +1.15; weak; needs_human; no euro; no commit
+main,analyse,2026-11-01T13:59:40Z,ing_1c54de0e7a,28,28,no,tick 28 rejected ing_1c54de0e7a as noise: VRT 15 Oct schuldenrem explainer is the same 2027 fallback already scored as prop_2026_de_wever_2027_pakket_3_4mrd; proposals_scored unchanged; no commit
