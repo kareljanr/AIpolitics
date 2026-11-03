@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **229**.
+Scored in the last 21 days: **1**. Still open in the queue: **232**.
 
 ## New ratings
 
@@ -10,6 +10,9 @@ Scored in the last 21 days: **1**. Still open in the queue: **229**.
 
 ## In the queue, not scored yet
 
+- Is dit een stukje politiek theater? En hoe groot is de kans op nieuwe verkiezingen? “De Wever duwt partijen tot het uiterste” (2026-11-03)
+- “Wij waren verbaasd dat niemand deze deal pakte”: de fatale nacht die De Wever naar de koning deed gaan (2026-11-03)
+- Ezelshoeve in Baarle-Nassau zet beschermingshonden Capone en Diva in tegen wolven in Noorderkempen (2026-11-03)
 - Koning Filip ontvangt komende dagen de voorzitters van de regeringspartijen: zo ziet zijn agenda eruit (2026-11-02)
 - Proces ‘Dubai Papers’ gestart in Parijs: Belgische prins verdacht van organiseren grootschalige belastingfraude (2026-11-02)
 - Herman Brusselmans 69) over zijn relatie met Lena (34) en zoontje Roman (3,5): “Hij heeft mijn leven als schrijver helemaal veranderd” (2026-11-02)
@@ -22,9 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **229**.
 - Vlaamse regering geeft 1 miljoen euro aan Limburgse vzw APOPO voor honden die mijnen opsporen in Oekraïne (2026-11-02)
 - Muk (5) heeft zeldzame kinderdementie, ouders vragen Vlaanderen om hulp voor levensreddend medicijn van 3,5 miljoen: “Elke gift, zelfs de kleinste, is belangrijk” (2026-11-01)
 - Bilaterale begrotingsgesprekken afgelopen, waarschijnlijk voltallige kern straks weer bijeen (2026-11-01)
-- 41 kunstenaars stellen werken tentoon in 8 voormalige mijnwerkerswoningen in Heusden-Zolder (2026-11-01)
-- De begroting uitgedrukt in 100 euro: dit doet de federale overheid met uw belastinggeld (2026-11-01)
-- Vooruit lijkt steun te krijgen van Les Engagés voor hogere belastingen voor sterkste schouders (2026-11-01)
 
 ## Method
 
