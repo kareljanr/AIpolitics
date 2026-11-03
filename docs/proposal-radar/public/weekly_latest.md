@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **241**.
+Scored in the last 21 days: **1**. Still open in the queue: **245**.
 
 ## New ratings
 
@@ -10,6 +10,10 @@ Scored in the last 21 days: **1**. Still open in the queue: **241**.
 
 ## In the queue, not scored yet
 
+- Niemand wil verkiezingen, maar ze komen er misschien toch: welke partijen winnen erbij? (2026-11-03)
+- ‘Waarom een blinde besparingslogica onze begrotingsproblematiek niet zal oplossen’ (2026-11-03)
+- Haacht, Holsbeek en Rotselaar vragen samen schrapping van vliegroute boven hun daken: "Spreid het vliegverkeer beter" (2026-11-03)
+- Schaarbeek in beroep tegen bouwvergunning voor 39 woningen en kap van 50 bomen (2026-11-03)
 - Diesel krijgt rake klappen, elektrische auto veert op: zo waardevast is je wagen na 5 jaar (2026-11-03)
 - OESO maant België opnieuw aan om begroting op orde te brengen: tegen 2035 nog eens 3,5 procent extra besparen (2026-11-03)
 - “Zonder De Wever is het geen regering meer.” Hoe moet het nu verder met Arizona? Dit zijn 4 mogelijke scenario’s (2026-11-03)
@@ -21,10 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **241**.
 - Sluizen op Boven-Schelde worden drooggezet voor renovatie van 38 miljoen euro: "Grote impact op schepen en bedrijven" (2026-11-03)
 - Is dit een stukje politiek theater? En hoe groot is de kans op nieuwe verkiezingen? “De Wever duwt partijen tot het uiterste” (2026-11-03)
 - “Wij waren verbaasd dat niemand deze deal pakte”: de fatale nacht die De Wever naar de koning deed gaan (2026-11-03)
-- Ezelshoeve in Baarle-Nassau zet beschermingshonden Capone en Diva in tegen wolven in Noorderkempen (2026-11-03)
-- Koning Filip ontvangt komende dagen de voorzitters van de regeringspartijen: zo ziet zijn agenda eruit (2026-11-02)
-- Proces ‘Dubai Papers’ gestart in Parijs: Belgische prins verdacht van organiseren grootschalige belastingfraude (2026-11-02)
-- Herman Brusselmans 69) over zijn relatie met Lena (34) en zoontje Roman (3,5): “Hij heeft mijn leven als schrijver helemaal veranderd” (2026-11-02)
 
 ## Method
 
