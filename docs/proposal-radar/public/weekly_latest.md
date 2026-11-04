@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **245**.
+Scored in the last 21 days: **1**. Still open in the queue: **249**.
 
 ## New ratings
 
@@ -10,6 +10,10 @@ Scored in the last 21 days: **1**. Still open in the queue: **245**.
 
 ## In the queue, not scored yet
 
+- De laatste stunt van speelgoedkoning Dirk (61)? 600 palletten aan -50%: “Oude voorraden verkopen, niemand had dat al geprobeerd” (2026-11-04)
+- Hackers vallen bank aan: mogelijk 118 miljoen euro gestolen bij moedergroep Keytrade Bank (2026-11-04)
+- Astrid Coppens over paniek tijdens bevalling van oudste dochter: “Ik dacht dat ze aan het doodgaan was” (2026-11-04)
+- Gemeentebestuur Mol weigert nieuwe verkaveling met 34 woningen in groen gebied (2026-11-04)
 - Niemand wil verkiezingen, maar ze komen er misschien toch: welke partijen winnen erbij? (2026-11-03)
 - ‘Waarom een blinde besparingslogica onze begrotingsproblematiek niet zal oplossen’ (2026-11-03)
 - Haacht, Holsbeek en Rotselaar vragen samen schrapping van vliegroute boven hun daken: "Spreid het vliegverkeer beter" (2026-11-03)
@@ -21,10 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **245**.
 - De cowboys van Arizona: hoe Georges-Louis Bouchez en co. erop los schieten (2026-11-03)
 - ‘Wegenvignet? De automobilist moet zelf zijn belastingvoordeel maar zoeken’ (2026-11-03)
 - OESO maant België andermaal aan om begroting op orde te brengen (2026-11-03)
-- Waarom kon de regering geen akkoord vinden? En hoe kan je dat als burger voelen? Jouw vragen over politieke crisis beantwoord (2026-11-03)
-- Sluizen op Boven-Schelde worden drooggezet voor renovatie van 38 miljoen euro: "Grote impact op schepen en bedrijven" (2026-11-03)
-- Is dit een stukje politiek theater? En hoe groot is de kans op nieuwe verkiezingen? “De Wever duwt partijen tot het uiterste” (2026-11-03)
-- “Wij waren verbaasd dat niemand deze deal pakte”: de fatale nacht die De Wever naar de koning deed gaan (2026-11-03)
 
 ## Method
 
