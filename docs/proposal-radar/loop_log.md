@@ -429,3 +429,18 @@ Scheduler 019fa3e112ab still daily.
 - Public text (15 Oct 2026): staff staged a playful sale of collection pieces that do not change owner, to protest Flemish culture cuts. A sector spokesperson says Ghent must save about €3.5 million a year. That figure paraphrases cuts already announced; this item has no new bill, rate or envelope.
 - ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
 - loop_state: mode=analyse, ticks_completed=31, proposals_scored=29 unchanged, last_unit_id=ing_747c33da98, paused=no. No commit.
+## 2026-11-04T23:55:48Z — tick 32 — reject ing_453ea045b7
+- Unit ing_453ea045b7 is a Knack process story on the Arizona budget deadlock, not a Belgian policy proposal.
+- Public RSS text (3 Nov 2026): by offering his resignation to the king, Bart De Wever confirms the pistols are drawn; after Sunday evening's last meeting the vice-premiers still had no budget agreement. Cowboy headline is coalition infighting. Body behind human verification, not used. No bill, rate, envelope or new instrument.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=32, proposals_scored=29 unchanged, last_unit_id=ing_453ea045b7, paused=no. No commit.
+## 2026-11-04T23:58:33Z — tick 33 — reject ing_0dd9767052
+- Unit ing_0dd9767052 is an HLN opinion column on De Wever’s plan B, not a new Belgian policy proposal.
+- Public headline (queued 15 Oct 2026, /opinie/): Timmie van Diepen says a schuldenrem is de facto a large index jump and asks how De Wever will convince Vooruit and CD&V. DPG consent wall; body not used. Same 2027 fallback of €3–4bn already scored as prop_2026_de_wever_2027_pakket_3_4mrd.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=33, proposals_scored=29 unchanged, last_unit_id=ing_0dd9767052, paused=no. No commit.
+## 2026-11-05T00:00:28Z — tick 34 — reject ing_86f820c138
+- Unit ing_86f820c138 is a VRT NWS foreign-desk report on violent protests in Albania, not a Belgian policy proposal.
+- Public text (Kathleen Heylen, 16 Oct 2026): students and the flamingo movement demand the resignation of Albanian prime minister Edi Rama and education reforms; clashes in Tirana and other cities. Keyword hit was hervorming. No Belgian bill, rate, envelope or euro.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=34, proposals_scored=29 unchanged, last_unit_id=ing_86f820c138, paused=no. No commit.

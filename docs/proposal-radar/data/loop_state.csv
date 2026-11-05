@@ -1,2 +1,2 @@
 state_id,mode,last_tick_utc,last_unit_id,ticks_completed,proposals_scored,paused,notes
-main,analyse,2026-11-01T22:34:50Z,ing_747c33da98,31,29,no,tick 31 reject ing_747c33da98; VRT Boekentoren symbolic auction is a protest not a Belgian proposal; proposals_scored unchanged; no commit
+main,analyse,2026-11-05T00:00:28Z,ing_86f820c138,34,29,no,tick 34 reject ing_86f820c138; VRT NWS Albania protest report is not a Belgian policy instrument; proposals_scored unchanged; no commit
