@@ -10,6 +10,9 @@ Scored in the last 21 days: **1**. Still open in the queue: **258**.
 
 ## In the queue, not scored yet
 
+- De Wever bevestigt komst noodbegroting en spreekt van “afschuwelijk falen”: “Daarom heb ik mijn ontslag ingediend” (2026-11-05)
+- Duitse politicus Hubert Aiwanger (55) dood aangetroffen in hotelkamer (2026-11-05)
+- GAS-boetes bij straatintimidatie, hulp van taxichauffeurs en aandacht voor 'manosfeer': zo pakt Gent seksueel geweld aan (2026-11-05)
 - Econoom Gert Peersman spreekt begrotingsminister Van Peteghem tegen: “Als regering vandaag valt, staat IMF morgen niet meteen aan de deur” (2026-11-04)
 - Benjamin Netanyahu heeft “ernstige vermoedens” van buitenlandse inmenging bij parlementsverkiezingen in Israël (2026-11-04)
 - Europees Parlement wil uitstootdoel voor nieuwe auto’s verder versoepelen: verbrandingsmotor blijft langer mogelijk (2026-11-04)
@@ -22,9 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **258**.
 - De laatste stunt van speelgoedkoning Dirk (61)? 600 palletten aan -50%: “Oude voorraden verkopen, niemand had dat al geprobeerd” (2026-11-04)
 - Hackers vallen bank aan: mogelijk 118 miljoen euro gestolen bij moedergroep Keytrade Bank (2026-11-04)
 - Astrid Coppens over paniek tijdens bevalling van oudste dochter: “Ik dacht dat ze aan het doodgaan was” (2026-11-04)
-- Gemeentebestuur Mol weigert nieuwe verkaveling met 34 woningen in groen gebied (2026-11-04)
-- Niemand wil verkiezingen, maar ze komen er misschien toch: welke partijen winnen erbij? (2026-11-03)
-- ‘Waarom een blinde besparingslogica onze begrotingsproblematiek niet zal oplossen’ (2026-11-03)
 
 ## Method
 
