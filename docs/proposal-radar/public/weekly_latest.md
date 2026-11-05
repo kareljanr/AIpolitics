@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **258**.
+Scored in the last 21 days: **1**. Still open in the queue: **261**.
 
 ## New ratings
 
@@ -10,6 +10,9 @@ Scored in the last 21 days: **1**. Still open in the queue: **258**.
 
 ## In the queue, not scored yet
 
+- Belfius verkopen, Engie uitkopen: de onopgeloste miljardenproblemen van Bart De Wever (2026-11-05)
+- Eindelijk nieuwe luchtballon voor para's in Schaffen, Francken investeert 5,5 miljoen euro (2026-11-05)
+- Zonnepanelen met veel hogere opbrengst? Vlaamse start-up haalt 5 miljoen op voor variant met perovskiet (2026-11-05)
 - De Wever bevestigt komst noodbegroting en spreekt van “afschuwelijk falen”: “Daarom heb ik mijn ontslag ingediend” (2026-11-05)
 - Duitse politicus Hubert Aiwanger (55) dood aangetroffen in hotelkamer (2026-11-05)
 - GAS-boetes bij straatintimidatie, hulp van taxichauffeurs en aandacht voor 'manosfeer': zo pakt Gent seksueel geweld aan (2026-11-05)
@@ -22,9 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **258**.
 - Arrest in Harelbeke over belangenvermenging treft ook andere steden en gemeenten: vertraging voor bouw van 200 sociale woningen in Brugge (2026-11-04)
 - In Steenokkerzeel wordt 16e eeuwse Sint-Rumolduskerk hersteld: "Werken nodig om aftakeling te voorkomen" (2026-11-04)
 - Bekende Vlamingen koken met asielzoekers in Overijse: "Goed dat jongeren in opvangcentrum ook eens zelf in de keuken staan" (2026-11-04)
-- De laatste stunt van speelgoedkoning Dirk (61)? 600 palletten aan -50%: “Oude voorraden verkopen, niemand had dat al geprobeerd” (2026-11-04)
-- Hackers vallen bank aan: mogelijk 118 miljoen euro gestolen bij moedergroep Keytrade Bank (2026-11-04)
-- Astrid Coppens over paniek tijdens bevalling van oudste dochter: “Ik dacht dat ze aan het doodgaan was” (2026-11-04)
 
 ## Method
 
