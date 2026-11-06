@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **261**.
+Scored in the last 21 days: **1**. Still open in the queue: **264**.
 
 ## New ratings
 
@@ -10,6 +10,9 @@ Scored in the last 21 days: **1**. Still open in the queue: **261**.
 
 ## In the queue, not scored yet
 
+- Omstreden wet gestemd: krijgen we nu ook ICE-praktijken in België? “Dit is verontrustend” (2026-11-06)
+- De Wever moet begrotingsgesprekken “onmiddellijk hervatten”, nieuwe afspraak op 16/11 (2026-11-06)
+- Sire, geef me 10 dagen: koning verwacht 16 november update van De Wever, maar wat kan nu dat vorige week niet kon? (2026-11-06)
 - Belfius verkopen, Engie uitkopen: de onopgeloste miljardenproblemen van Bart De Wever (2026-11-05)
 - Eindelijk nieuwe luchtballon voor para's in Schaffen, Francken investeert 5,5 miljoen euro (2026-11-05)
 - Zonnepanelen met veel hogere opbrengst? Vlaamse start-up haalt 5 miljoen op voor variant met perovskiet (2026-11-05)
@@ -22,9 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **261**.
 - Duizenden demonstranten vormen menselijke ketting rond Justitiepaleis tegen wet op woonstbetreding, ook acties in andere steden (2026-11-04)
 - Frans moederbedrijf van Keytrade Bank verliest ruim 100 miljoen euro bij cyberaanval: "Geen financiële gevolgen voor klanten" (2026-11-04)
 - Akkoord over overname van kerncentrales alweer uitgesteld (2026-11-04)
-- Arrest in Harelbeke over belangenvermenging treft ook andere steden en gemeenten: vertraging voor bouw van 200 sociale woningen in Brugge (2026-11-04)
-- In Steenokkerzeel wordt 16e eeuwse Sint-Rumolduskerk hersteld: "Werken nodig om aftakeling te voorkomen" (2026-11-04)
-- Bekende Vlamingen koken met asielzoekers in Overijse: "Goed dat jongeren in opvangcentrum ook eens zelf in de keuken staan" (2026-11-04)
 
 ## Method
 
