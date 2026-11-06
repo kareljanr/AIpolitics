@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **264**.
+Scored in the last 21 days: **1**. Still open in the queue: **270**.
 
 ## New ratings
 
@@ -10,6 +10,12 @@ Scored in the last 21 days: **1**. Still open in the queue: **264**.
 
 ## In the queue, not scored yet
 
+- Nieuw-Zeelanders trekken naar de stembus (2026-11-06)
+- N-VA-voorzitter Valerie Van Peel over nieuwe begrotingsonderhandelingen: “Als we nu niets doen, zijn we als land binnen negen jaar failliet” (2026-11-06)
+- Vicepremiers vanaf maandag afzonderlijk bij De Wever, maar wel met een “+1” (2026-11-06)
+- Midterms: reden tot euforie? En krijgt De Wever zijn begroting rond? Beluister de podcast Tussen Wetstraat en Wall Street (2026-11-06)
+- De Wever krijgt 10 dagen extra: waarom zou het nu wél lukken? (2026-11-06)
+- "Degoutant" en "compleet gaga": Mahdi en Rousseau niet te spreken over uitspraken van Roland Duchâtelet over besparing ouderenzorg (2026-11-06)
 - Omstreden wet gestemd: krijgen we nu ook ICE-praktijken in België? “Dit is verontrustend” (2026-11-06)
 - De Wever moet begrotingsgesprekken “onmiddellijk hervatten”, nieuwe afspraak op 16/11 (2026-11-06)
 - Sire, geef me 10 dagen: koning verwacht 16 november update van De Wever, maar wat kan nu dat vorige week niet kon? (2026-11-06)
@@ -19,12 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **264**.
 - De Wever bevestigt komst noodbegroting en spreekt van “afschuwelijk falen”: “Daarom heb ik mijn ontslag ingediend” (2026-11-05)
 - Duitse politicus Hubert Aiwanger (55) dood aangetroffen in hotelkamer (2026-11-05)
 - GAS-boetes bij straatintimidatie, hulp van taxichauffeurs en aandacht voor 'manosfeer': zo pakt Gent seksueel geweld aan (2026-11-05)
-- Econoom Gert Peersman spreekt begrotingsminister Van Peteghem tegen: “Als regering vandaag valt, staat IMF morgen niet meteen aan de deur” (2026-11-04)
-- Benjamin Netanyahu heeft “ernstige vermoedens” van buitenlandse inmenging bij parlementsverkiezingen in Israël (2026-11-04)
-- Europees Parlement wil uitstootdoel voor nieuwe auto’s verder versoepelen: verbrandingsmotor blijft langer mogelijk (2026-11-04)
-- Duizenden demonstranten vormen menselijke ketting rond Justitiepaleis tegen wet op woonstbetreding, ook acties in andere steden (2026-11-04)
-- Frans moederbedrijf van Keytrade Bank verliest ruim 100 miljoen euro bij cyberaanval: "Geen financiële gevolgen voor klanten" (2026-11-04)
-- Akkoord over overname van kerncentrales alweer uitgesteld (2026-11-04)
 
 ## Method
 
