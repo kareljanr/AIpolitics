@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **279**.
+Scored in the last 21 days: **1**. Still open in the queue: **282**.
 
 ## New ratings
 
@@ -10,6 +10,9 @@ Scored in the last 21 days: **1**. Still open in the queue: **279**.
 
 ## In the queue, not scored yet
 
+- Zuhal Demir en Bill White bekvechten openlijk: “Ik verwerp deze gemene racistische opmerking van deze lokale boerenkinkel!” (2026-11-08)
+- De Wever trekt begrotingsonderhandelingen maandag opnieuw op gang (2026-11-08)
+- ‘De betogingen van de vakbonden verzwakken het linkse protest’ (2026-11-08)
 - Tom Van Grieken haalt uit naar De Wever over Oekraïnesteun: “Geen 10 miljard voor Vlamingen, wel 4 miljard voor oorlog” (2026-11-08)
 - Bestuurder plakt herfstblaadjes op nummerplaat om boetes te ontlopen in Hoboken (2026-11-08)
 - Eisenkot krijgt eerste kans om Israëlische regering te vormen, Netanyahu waarschuwt voor coalitie met Arabische partijen (2026-11-07)
@@ -22,9 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **279**.
 - Nieuw-Zeelanders trekken naar de stembus (2026-11-06)
 - N-VA-voorzitter Valerie Van Peel over nieuwe begrotingsonderhandelingen: “Als we nu niets doen, zijn we als land binnen negen jaar failliet” (2026-11-06)
 - Vicepremiers vanaf maandag afzonderlijk bij De Wever, maar wel met een “+1” (2026-11-06)
-- Midterms: reden tot euforie? En krijgt De Wever zijn begroting rond? Beluister de podcast Tussen Wetstraat en Wall Street (2026-11-06)
-- De Wever krijgt 10 dagen extra: waarom zou het nu wél lukken? (2026-11-06)
-- "Degoutant" en "compleet gaga": Mahdi en Rousseau niet te spreken over uitspraken van Roland Duchâtelet over besparing ouderenzorg (2026-11-06)
 
 ## Method
 
