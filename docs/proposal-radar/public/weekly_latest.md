@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **292**.
+Scored in the last 21 days: **1**. Still open in the queue: **294**.
 
 ## New ratings
 
@@ -10,6 +10,8 @@ Scored in the last 21 days: **1**. Still open in the queue: **292**.
 
 ## In the queue, not scored yet
 
+- Postbode Peter (54) wil ambtenarenstatuut inruilen voor minder fileleed: wat betekent een nieuwe job voor zijn loon en pensioen? (2026-11-10)
+- Als Iran achter de cyberaanvallen zit, waarom viseert het dan Europese landen? (2026-11-10)
 - Beloning van 2 miljoen zorgt voor meerdere tips over drugsbaron Bolle Jos (2026-11-10)
 - True crime van De Volksjury, een portie geschiedenis of een vleugje romantiek? Een waaier aan (voordelig) leesvoer voor een knus najaar (2026-11-10)
 - Bouchez komt als enige partijvoorzitter mee naar De Wever: “Hij degradeert zichzelf vrijwillig tot kabinetschef” (2026-11-10)
@@ -23,8 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **292**.
 - Zuhal Demir en Bill White bekvechten openlijk: “Ik verwerp deze gemene racistische opmerking van deze lokale boerenkinkel!” (2026-11-08)
 - De Wever trekt begrotingsonderhandelingen maandag opnieuw op gang (2026-11-08)
 - ‘De betogingen van de vakbonden verzwakken het linkse protest’ (2026-11-08)
-- Tom Van Grieken haalt uit naar De Wever over Oekraïnesteun: “Geen 10 miljard voor Vlamingen, wel 4 miljard voor oorlog” (2026-11-08)
-- Bestuurder plakt herfstblaadjes op nummerplaat om boetes te ontlopen in Hoboken (2026-11-08)
 
 ## Method
 
