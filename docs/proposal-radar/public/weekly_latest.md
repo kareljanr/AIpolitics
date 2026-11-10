@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **288**.
+Scored in the last 21 days: **1**. Still open in the queue: **292**.
 
 ## New ratings
 
@@ -10,6 +10,10 @@ Scored in the last 21 days: **1**. Still open in the queue: **288**.
 
 ## In the queue, not scored yet
 
+- Beloning van 2 miljoen zorgt voor meerdere tips over drugsbaron Bolle Jos (2026-11-10)
+- True crime van De Volksjury, een portie geschiedenis of een vleugje romantiek? Een waaier aan (voordelig) leesvoer voor een knus najaar (2026-11-10)
+- Bouchez komt als enige partijvoorzitter mee naar De Wever: “Hij degradeert zichzelf vrijwillig tot kabinetschef” (2026-11-10)
+- Vandenbroucke aangekomen voor bilaterale ontmoeting met premier De Wever (2026-11-10)
 - Bouchez en Clarinval (MR) bij de premier, Van Peel (N-VA) en Mahdi (CD&V) gaan niet mee onderhandelen (2026-11-09)
 - ‘Wat zou het IMF ervan denken dat onze regering nog altijd voor miljarden euro’s aan belastingen wil verlagen?’ (2026-11-09)
 - Duitse pers: ‘België wordt het Griekenland van het Noorden’ (2026-11-09)
@@ -21,10 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **288**.
 - ‘De betogingen van de vakbonden verzwakken het linkse protest’ (2026-11-08)
 - Tom Van Grieken haalt uit naar De Wever over Oekraïnesteun: “Geen 10 miljard voor Vlamingen, wel 4 miljard voor oorlog” (2026-11-08)
 - Bestuurder plakt herfstblaadjes op nummerplaat om boetes te ontlopen in Hoboken (2026-11-08)
-- Eisenkot krijgt eerste kans om Israëlische regering te vormen, Netanyahu waarschuwt voor coalitie met Arabische partijen (2026-11-07)
-- Ambassadeur Bill White eist betere beveiliging voor Brusselse synagoge en belooft volgende week “grote aankondiging” (2026-11-07)
-- Stephen Miller, Trumps nieuwe stafchef, is al jaren architect van streng immigratiebeleid (2026-11-07)
-- Aftredende premier Nieuw-Zeeland ziet ruimte voor nieuwe regering ondanks nipte uitslag (2026-11-07)
 
 ## Method
 
