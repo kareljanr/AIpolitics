@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **294**.
+Scored in the last 21 days: **1**. Still open in the queue: **299**.
 
 ## New ratings
 
@@ -10,6 +10,11 @@ Scored in the last 21 days: **1**. Still open in the queue: **294**.
 
 ## In the queue, not scored yet
 
+- “Beschamend en door haat doordrenkt”: toespraak Netanyahu schiet in verkeerd keelgat bij concurrent Eisenkot (2026-11-10)
+- Conner Rousseau beloofde het niet te doen, toch ligt de belasting op aandelen op naam op tafel (2026-11-10)
+- Begroting: Clarinval “overtuigd” dat onderhandelaars best mogelijk evenwicht zullen vinden (2026-11-10)
+- 1.479 extra studentenkoten in Gent, Leuven, Brussel en Kortrijk dankzij 100 miljoen euro aan renteloze leningen (2026-11-10)
+- Mechelen stelt plannen voor woonzorgcentrum op oude ziekenhuissite bij: plaats voor 160 kamers (2026-11-10)
 - Postbode Peter (54) wil ambtenarenstatuut inruilen voor minder fileleed: wat betekent een nieuwe job voor zijn loon en pensioen? (2026-11-10)
 - Als Iran achter de cyberaanvallen zit, waarom viseert het dan Europese landen? (2026-11-10)
 - Beloning van 2 miljoen zorgt voor meerdere tips over drugsbaron Bolle Jos (2026-11-10)
@@ -20,11 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **294**.
 - ‘Wat zou het IMF ervan denken dat onze regering nog altijd voor miljarden euro’s aan belastingen wil verlagen?’ (2026-11-09)
 - Duitse pers: ‘België wordt het Griekenland van het Noorden’ (2026-11-09)
 - ‘Zonder plan of visie is een sanering van de publieke financiën doelloos’ (2026-11-09)
-- Barometer Internationale Solidariteit: ‘Onder kiezers van N-VA en MR is er best veel steun om grote vermogens zwaarder te belasten’ (2026-11-09)
-- Meer dan 800 gezinnen uit Lille krijgen brief over PFAS in grondwater: "Tijdelijke voorzorgsmaatregelen" (2026-11-09)
-- Zuhal Demir en Bill White bekvechten openlijk: “Ik verwerp deze gemene racistische opmerking van deze lokale boerenkinkel!” (2026-11-08)
-- De Wever trekt begrotingsonderhandelingen maandag opnieuw op gang (2026-11-08)
-- ‘De betogingen van de vakbonden verzwakken het linkse protest’ (2026-11-08)
 
 ## Method
 
