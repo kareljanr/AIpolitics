@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **299**.
+Scored in the last 21 days: **1**. Still open in the queue: **302**.
 
 ## New ratings
 
@@ -10,6 +10,9 @@ Scored in the last 21 days: **1**. Still open in the queue: **299**.
 
 ## In the queue, not scored yet
 
+- “Ik begrijp zijn frustraties, maar...”: Diego Moreira over ploegmaat Koni De Winter, enorm prijskaartje en status bij de Rode Duivels (2026-11-11)
+- ‘Dood door duizend sneden: hoe het Vlaamse omgevingsrecht Europese natuur blijft aantasten’ (2026-11-11)
+- Ook Maldegem trekt naar Raad van State tegen verplichte bouw van sociale woningen (2026-11-11)
 - “Beschamend en door haat doordrenkt”: toespraak Netanyahu schiet in verkeerd keelgat bij concurrent Eisenkot (2026-11-10)
 - Conner Rousseau beloofde het niet te doen, toch ligt de belasting op aandelen op naam op tafel (2026-11-10)
 - Begroting: Clarinval “overtuigd” dat onderhandelaars best mogelijk evenwicht zullen vinden (2026-11-10)
@@ -22,9 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **299**.
 - Bouchez komt als enige partijvoorzitter mee naar De Wever: “Hij degradeert zichzelf vrijwillig tot kabinetschef” (2026-11-10)
 - Vandenbroucke aangekomen voor bilaterale ontmoeting met premier De Wever (2026-11-10)
 - Bouchez en Clarinval (MR) bij de premier, Van Peel (N-VA) en Mahdi (CD&V) gaan niet mee onderhandelen (2026-11-09)
-- ‘Wat zou het IMF ervan denken dat onze regering nog altijd voor miljarden euro’s aan belastingen wil verlagen?’ (2026-11-09)
-- Duitse pers: ‘België wordt het Griekenland van het Noorden’ (2026-11-09)
-- ‘Zonder plan of visie is een sanering van de publieke financiën doelloos’ (2026-11-09)
 
 ## Method
 

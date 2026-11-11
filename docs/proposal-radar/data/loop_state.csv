@@ -1,2 +1,2 @@
 state_id,mode,last_tick_utc,last_unit_id,ticks_completed,proposals_scored,paused,notes
-main,analyse,2026-11-05T00:00:28Z,ing_86f820c138,34,29,no,tick 34 reject ing_86f820c138; VRT NWS Albania protest report is not a Belgian policy instrument; proposals_scored unchanged; no commit
+main,analyse,2026-11-11T14:57:46Z,ing_3ceb74f61d,37,30,no,tick 37 scored ing_3ceb74f61d as prop_2026_vl_bov_lov_stop; weak confidence; pain recomputed; no commit

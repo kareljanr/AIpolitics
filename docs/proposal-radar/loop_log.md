@@ -444,3 +444,18 @@ Scheduler 019fa3e112ab still daily.
 - Public text (Kathleen Heylen, 16 Oct 2026): students and the flamingo movement demand the resignation of Albanian prime minister Edi Rama and education reforms; clashes in Tirana and other cities. Keyword hit was hervorming. No Belgian bill, rate, envelope or euro.
 - ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
 - loop_state: mode=analyse, ticks_completed=34, proposals_scored=29 unchanged, last_unit_id=ing_86f820c138, paused=no. No commit.
+## 2026-11-11T14:42:25Z — tick 35 — reject ing_fd664fba1e
+- Unit ing_fd664fba1e is a Knack/Trends podcast promo (Tussen Wetstraat en Wall Street), not a Belgian policy proposal.
+- Public show notes (Apple Podcasts, episode 77, published 6 Nov 2026): hosts Bert Bultinck and Jan De Meulemeester ask whether US midterm euphoria is justified and whether premier Bart De Wever can bridge the gap between new taxes and savings in the federal budget talks. Knack page hit a human-verification wall. No bill, rate, envelope or new instrument.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=35, proposals_scored=29 unchanged, last_unit_id=ing_fd664fba1e, paused=no. No commit.
+## 2026-11-11T14:44:35Z — tick 36 — reject ing_5ed37af33b
+- Unit ing_5ed37af33b is a VRT NWS foreign-desk report on a German child-pension deposit, not a Belgian policy proposal.
+- Public text (Stefan Grommen, 16 Oct 2026, rubriek Buitenland/Duitsland): the Bundestag approved Friedrich Merz's Frühstart-Rente; the German state pays 10 euro a month from age 6 to 18 into a pension account for children living in Germany with a German tax ID. Costs cited are German (about 198 million euro in 2027). No Belgian bill, rate, envelope or actor.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=36, proposals_scored=29 unchanged, last_unit_id=ing_5ed37af33b, paused=no. No commit.
+## 2026-11-11T14:57:46Z — tick 37 — analyse prop_2026_vl_bov_lov_stop
+- Scored ing_3ceb74f61d as prop_2026_vl_bov_lov_stop: Gennez lets Bewegen op Verwijzing expire on 31 Dec 2026 and does not start Leefstijl op Verwijzing (Flanders). Knack body unread; instrument matched from the headline, the budget keyword and the 8 Oct 2026 decision.
+- Scores: clown 4.5, genius 4.58, policy_index +0.08, recommendation amend, score_confidence weak, publish_ok needs_human.
+- Pain: annual saving €1,109,070–€1,620,000 (ministerial 2026 BOV budget to LOV call ceiling), midpoint −€1,364,535, fiscal_is_saving yes; recompute_pain.py run. Beneficiary €2.1m claim excluded.
+- loop_state: mode=analyse, ticks_completed=37, proposals_scored=30, last_unit_id=ing_3ceb74f61d, paused=no. No commit.
