@@ -459,3 +459,18 @@ Scheduler 019fa3e112ab still daily.
 - Scores: clown 4.5, genius 4.58, policy_index +0.08, recommendation amend, score_confidence weak, publish_ok needs_human.
 - Pain: annual saving €1,109,070–€1,620,000 (ministerial 2026 BOV budget to LOV call ceiling), midpoint −€1,364,535, fiscal_is_saving yes; recompute_pain.py run. Beneficiary €2.1m claim excluded.
 - loop_state: mode=analyse, ticks_completed=37, proposals_scored=30, last_unit_id=ing_3ceb74f61d, paused=no. No commit.
+## 2026-11-12T00:59:07Z — tick 38 — reject ing_852bf6f643
+- Unit ing_852bf6f643 is a VRT NWS foreign-desk report on a Dutch budget fight, not a Belgian policy proposal.
+- Public text (Jens Van Reet, 11 Nov 2026, rubriek Buitenland/Nederland): D66 and CDA agreed a tax package with PRO and Volt without VVD (higher rate on large investment income, worker-tax cut, exit levy). Belgium appears only as a comparison. No Belgian bill, rate, envelope or actor.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=38, proposals_scored=30 unchanged, last_unit_id=ing_852bf6f643, paused=no. No commit.
+## 2026-11-12T01:08:05Z — tick 39 — analyse prop_2026_de_wever_10mrd_2029
+- Scored ing_1e5815f534 as prop_2026_de_wever_10mrd_2029 (federal multi-year envelope of €10 billion by 2029; Belgium; press-only).
+- Scores: clown 4.5, genius 3.70, policy_index -0.80, recommendation amend, score_confidence weak, publish_ok needs_human.
+- Pain: path-to-2029 envelope €10 billion once, fiscal_is_saving yes; Belasting-FTE -515463.9; recompute_pain.py run.
+- loop_state: mode=analyse, ticks_completed=39, proposals_scored=31, last_unit_id=ing_1e5815f534, paused=no. No commit.
+## 2026-11-12T01:13:06Z — tick 40 — reject ing_013373a105
+- Unit ing_013373a105 is a Knack opinion column by Jean-Marie Dedecker (LDD), not a Belgian policy proposal with an instrument.
+- Public text (Wayback 20 Oct 2026 of the 18 Oct 2026 column): the state has “belastingsboulimie”; the obese government should take Ozempic; “scheiding van tafel en bed.” No bill, rate, or envelope he tables. The €10bn path is the government’s exercise, already scored as prop_2026_de_wever_10mrd_2029.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=40, proposals_scored=31 unchanged, last_unit_id=ing_013373a105, paused=no. No commit.
