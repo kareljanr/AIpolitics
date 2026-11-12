@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **299**.
+Scored in the last 21 days: **1**. Still open in the queue: **304**.
 
 ## New ratings
 
@@ -10,6 +10,11 @@ Scored in the last 21 days: **1**. Still open in the queue: **299**.
 
 ## In the queue, not scored yet
 
+- Omstreden miljonairstaks in Nederland goedgekeurd dankzij steun van linkse oppositie: wat nu met regering-Jetten? (2026-11-12)
+- Nu topministers morgen weer samenkomen: hoe groot is de kans dat het deze keer wél lukt? (2026-11-12)
+- Begrotingsgesprekken regering-De Wever: alle alarmsignalen op rood (2026-11-12)
+- Regering wankelt in Nederland: kleinste meerderheid keurt belastingplan goed, zónder coalitiepartner VVD (2026-11-12)
+- Tot 60 jobs bedreigd bij inburgeringscentrum Atlas in Antwerpen en Amal in Gent: "Terwijl eisen voor nieuwkomers toenemen" (2026-11-12)
 - Premier De Wever: “Ik hoop maandag positief nieuws te kunnen melden aan de koning” (2026-11-12)
 - ‘Groeiende ontevredenheid is veelzeggend: begroting moet zowel financieel als maatschappelijk in evenwicht zijn’ (2026-11-12)
 - ‘Dood door duizend sneden: hoe het Vlaamse omgevingsrecht Europese natuur blijft aantasten’ (2026-11-12)
@@ -20,11 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **299**.
 - 1.479 extra studentenkoten in Gent, Leuven, Brussel en Kortrijk dankzij 100 miljoen euro aan renteloze leningen (2026-11-10)
 - Mechelen stelt plannen voor woonzorgcentrum op oude ziekenhuissite bij: plaats voor 160 kamers (2026-11-10)
 - Postbode Peter (54) wil ambtenarenstatuut inruilen voor minder fileleed: wat betekent een nieuwe job voor zijn loon en pensioen? (2026-11-10)
-- Als Iran achter de cyberaanvallen zit, waarom viseert het dan Europese landen? (2026-11-10)
-- Beloning van 2 miljoen zorgt voor meerdere tips over drugsbaron Bolle Jos (2026-11-10)
-- True crime van De Volksjury, een portie geschiedenis of een vleugje romantiek? Een waaier aan (voordelig) leesvoer voor een knus najaar (2026-11-10)
-- Bouchez komt als enige partijvoorzitter mee naar De Wever: “Hij degradeert zichzelf vrijwillig tot kabinetschef” (2026-11-10)
-- Vandenbroucke aangekomen voor bilaterale ontmoeting met premier De Wever (2026-11-10)
 
 ## Method
 
