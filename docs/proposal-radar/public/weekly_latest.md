@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **300**.
+Scored in the last 21 days: **1**. Still open in the queue: **299**.
 
 ## New ratings
 
@@ -10,10 +10,10 @@ Scored in the last 21 days: **1**. Still open in the queue: **300**.
 
 ## In the queue, not scored yet
 
-- Nederlandse regeringspartijen sluiten belastingakkoord met oppositie, tegen coalitiepartner VVD in – VVD dreigt met ‘gevolgen’ voor regering (2026-11-12)
+- Premier De Wever: “Ik hoop maandag positief nieuws te kunnen melden aan de koning” (2026-11-12)
+- ‘Groeiende ontevredenheid is veelzeggend: begroting moet zowel financieel als maatschappelijk in evenwicht zijn’ (2026-11-12)
 - ‘Dood door duizend sneden: hoe het Vlaamse omgevingsrecht Europese natuur blijft aantasten’ (2026-11-12)
-- Ook in Nederland politieke crisis over begroting: D66 en CDA zoeken steun bij linkse oppositie, tegen de zin van VVD (2026-11-12)
-- Themawandeling rond eetstoornissen geopend in Haacht: Veerle Hegge opent 'Femke for Life'-route (2026-11-12)
+- "Naar school kan je elke dag, naar de jaarmarkt maar 1 keer": burgemeester Sint-Lievens-Houtem sluit scholen (2026-11-12)
 - “Beschamend en door haat doordrenkt”: toespraak Netanyahu schiet in verkeerd keelgat bij concurrent Eisenkot (2026-11-10)
 - Conner Rousseau beloofde het niet te doen, toch ligt de belasting op aandelen op naam op tafel (2026-11-10)
 - Begroting: Clarinval “overtuigd” dat onderhandelaars best mogelijk evenwicht zullen vinden (2026-11-10)
