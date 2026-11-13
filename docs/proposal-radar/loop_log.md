@@ -474,3 +474,18 @@ Scheduler 019fa3e112ab still daily.
 - Public text (Wayback 20 Oct 2026 of the 18 Oct 2026 column): the state has “belastingsboulimie”; the obese government should take Ozempic; “scheiding van tafel en bed.” No bill, rate, or envelope he tables. The €10bn path is the government’s exercise, already scored as prop_2026_de_wever_10mrd_2029.
 - ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
 - loop_state: mode=analyse, ticks_completed=40, proposals_scored=31 unchanged, last_unit_id=ing_013373a105, paused=no. No commit.
+## 2026-11-13T14:55:02Z — tick 41 — close ing_1e5815f534
+- Unit ing_1e5815f534 is the HLN 17 Oct 2026 discovery row for the federal €10 billion path to 2029. Tick 39 already scored that instrument as prop_2026_de_wever_10mrd_2029. Belgium. Press-only.
+- Ingest status was still open and proposal_id was empty. Set status=scored and proposal_id=prop_2026_de_wever_10mrd_2029. No second memo. No second proposals.csv row.
+- Scores unchanged: clown 4.5, genius 3.70, policy_index -0.80, amend, score_confidence weak, publish_ok needs_human. Pain already on the €10 billion path. recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=41, proposals_scored=31 unchanged, last_unit_id=ing_1e5815f534, paused=no. No commit.
+## 2026-11-13T14:57:31Z — tick 42 — reject ing_179fdebae6
+- Unit ing_179fdebae6 is a VRT NWS De Zevende Dag interview with former prime minister Yves Leterme (18 Oct 2026), not a Belgian policy proposal with an instrument.
+- Public text: he urges the federal government to close a multi-year budget and warns that speculators could target Belgium if the deficit keeps rising; the long-term rate is cited as above 4 percent. Vande Lanotte criticises the already-scored schuldenrem flip. No bill, rate, or envelope Leterme tables.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=42, proposals_scored=31 unchanged, last_unit_id=ing_179fdebae6, paused=no. No commit.
+## 2026-11-13T15:10:08Z — tick 43 — analyse prop_2026_va_jeugdraden_busbrief
+- Scored ing_6edc750dda as prop_2026_va_jeugdraden_busbrief (Flemish Ardennes youth councils ask De Ridder to review the 1 July 2026 bus cuts and reinvest in rural access; Belgium; Flanders).
+- Scores: clown 5.0, genius 3.85, policy_index -1.15, recommendation amend, score_confidence weak, publish_ok needs_human.
+- Pain left blank: the letter states no euro. Press figures for the parent De Lijn saving are not this row's basis. recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=43, proposals_scored=32, last_unit_id=ing_6edc750dda, paused=no. No commit.

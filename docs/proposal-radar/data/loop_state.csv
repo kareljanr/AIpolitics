@@ -1,2 +1,2 @@
 state_id,mode,last_tick_utc,last_unit_id,ticks_completed,proposals_scored,paused,notes
-main,analyse,2026-11-12T01:13:06Z,ing_013373a105,40,31,no,tick 40 rejected ing_013373a105 as noise (Dedecker Knack op-ed; no bill rate or envelope); no commit
+main,analyse,2026-11-13T15:10:08Z,ing_6edc750dda,43,32,no,tick 43 scored ing_6edc750dda as prop_2026_va_jeugdraden_busbrief; no euro on the letter; recompute_pain not run; no commit
