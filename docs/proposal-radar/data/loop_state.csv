@@ -1,2 +1,2 @@
 state_id,mode,last_tick_utc,last_unit_id,ticks_completed,proposals_scored,paused,notes
-main,analyse,2026-11-13T15:10:08Z,ing_6edc750dda,43,32,no,tick 43 scored ing_6edc750dda as prop_2026_va_jeugdraden_busbrief; no euro on the letter; recompute_pain not run; no commit
+main,analyse,2026-11-14T00:09:51Z,ing_aca6b31e14,46,34,no,tick 46 rejected ing_aca6b31e14 as noise; Knack process story on French-speaking autumn holiday vs budget talks; no instrument; no commit

@@ -489,3 +489,18 @@ Scheduler 019fa3e112ab still daily.
 - Scores: clown 5.0, genius 3.85, policy_index -1.15, recommendation amend, score_confidence weak, publish_ok needs_human.
 - Pain left blank: the letter states no euro. Press figures for the parent De Lijn saving are not this row's basis. recompute_pain.py not run.
 - loop_state: mode=analyse, ticks_completed=43, proposals_scored=32, last_unit_id=ing_6edc750dda, paused=no. No commit.
+## 2026-11-13T23:58:49Z — tick 44 — analyse prop_2026_vlabinvest_kesterberg_1_2m
+- Scored ing_259e46969b as prop_2026_vlabinvest_kesterberg_1_2m (Vlabinvest purchase subsidy for Kesterberg / De Okkernoot, 44 places; province of Flemish Brabant; Belgium).
+- Scores: clown 2.5, genius 5.55, policy_index +3.05, recommendation amend, score_confidence weak, publish_ok needs_human.
+- Pain: one-off public subsidy €1,232,536.76, fiscal_is_saving no; about €13m project cost and any future renovation subsidy excluded. recompute_pain.py run.
+- loop_state: mode=analyse, ticks_completed=44, proposals_scored=33, last_unit_id=ing_259e46969b, paused=no. No commit.
+## 2026-11-14T00:08:14Z — tick 45 — analyse prop_2026_de_wever_gezondheid_4mrd
+- Scored ing_f66b444128 as prop_2026_de_wever_gezondheid_4mrd (Sunday 18 Oct 2026 health-savings line inside the €10bn path; federal Belgium; press-only).
+- Scores: clown 5.0, genius 3.30, policy_index -1.70, recommendation amend, score_confidence weak, publish_ok needs_human.
+- Pain: headline envelope €4 billion, fiscal_is_saving yes, multi-year slice of prop_2026_de_wever_10mrd_2029 (do not add); recompute_pain.py run.
+- loop_state: mode=analyse, ticks_completed=45, proposals_scored=34, last_unit_id=ing_f66b444128, paused=no. No commit.
+## 2026-11-14T00:09:51Z — tick 46 — reject ing_aca6b31e14
+- Unit ing_aca6b31e14 is a Knack process story on the French-speaking autumn holiday and the federal budget talks, not a Belgian policy proposal.
+- Public headline (queued 20 Oct 2026, keyword begroting|premie): the French-speaking autumn break puts extra pressure on the talks and “everything can still fail.” Knack body hit a human-verification wall and was not used. No bill, rate, envelope or new instrument.
+- ingest_queue status set to rejected_noise. No analysis memo, no proposals.csv row, recompute_pain.py not run.
+- loop_state: mode=analyse, ticks_completed=46, proposals_scored=34 unchanged, last_unit_id=ing_aca6b31e14, paused=no. No commit.
