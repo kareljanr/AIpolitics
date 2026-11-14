@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **318**.
+Scored in the last 21 days: **1**. Still open in the queue: **320**.
 
 ## New ratings
 
@@ -10,6 +10,8 @@ Scored in the last 21 days: **1**. Still open in the queue: **318**.
 
 ## In the queue, not scored yet
 
+- Eisenkot hekelt politieke "spelletjes" van Netanyahu (2026-11-14)
+- PVDA-jongeren voeren actie in luxueuze woonwijk in Hasselt: "Hier hadden ook betaalbare woningen kunnen komen" (2026-11-14)
 - Bijna 18 miljoen euro cash gevonden in bossen en boerderijen bij onderzoek naar oud-minister van Orbán (2026-11-14)
 - EXCLUSIEF. Johan Vande Lanotte overschouwt het slagveld in de Wetstraat: “Ik werd niet vrolijk van een btw-verhoging, maar het leek me geen onverdedigbare oplossing” (2026-11-14)
 - Begraven in bos of verstopt in boerderijen: Hongaarse speurders vinden voor miljoenen euro's aan smeergeld (2026-11-14)
@@ -23,8 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **318**.
 - Zelfde discussie, totaal andere aanpak: Nederland hervormt de rijkentaks, België blijft koterijen bijbouwen (2026-11-13)
 - "Dit kabinet is mislukt experiment": regering valt (nog) niet in Nederland, maar VVD blijft kritisch (2026-11-13)
 - Eerste steen gelegd voor circulaire Bouwcampus in Diepenbeek: gebouw krijgt Belgische primeur voor klimaatsysteem (2026-11-13)
-- Luxemburgse premier spreekt voor Bart De Wever en Rob Jetten in Dublin: "We hebben een WhatsApp-groep" (2026-11-13)
-- Wie kiest voor herstelling krijgt voortaan een jaar langer garantie: dit is jouw 'recht op reparatie' (2026-11-13)
 
 ## Method
 
