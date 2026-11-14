@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **316**.
+Scored in the last 21 days: **1**. Still open in the queue: **318**.
 
 ## New ratings
 
@@ -10,6 +10,11 @@ Scored in the last 21 days: **1**. Still open in the queue: **316**.
 
 ## In the queue, not scored yet
 
+- Bijna 18 miljoen euro cash gevonden in bossen en boerderijen bij onderzoek naar oud-minister van Orbán (2026-11-14)
+- EXCLUSIEF. Johan Vande Lanotte overschouwt het slagveld in de Wetstraat: “Ik werd niet vrolijk van een btw-verhoging, maar het leek me geen onverdedigbare oplossing” (2026-11-14)
+- Begraven in bos of verstopt in boerderijen: Hongaarse speurders vinden voor miljoenen euro's aan smeergeld (2026-11-14)
+- Nieuwe Bossenaarmolen in Maarkedal krijgt grondige restauratie: "Opnieuw laten draaien en malen" (2026-11-14)
+- Balthazar (30) vangt mensen op in kraakpanden: "Soms staan hier gezinnen met jonge kinderen aan de deur" (2026-11-14)
 - Regering maakt komaf met “asielshoppen” (2026-11-13)
 - VVD-partijleider waarschuwt na urenlang crisisoverleg: “Minderheidskabinet is mislukt experiment, zo kunnen we niet doorgaan” (2026-11-13)
 - KIJK. Magda (67), die met 68 familieleden naar Djerba reisde, mag ook naar Durbuy... Met dank aan ‘Happy Hour’ en “suikernonkel Marc” (2026-11-13)
@@ -20,11 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **316**.
 - Eerste steen gelegd voor circulaire Bouwcampus in Diepenbeek: gebouw krijgt Belgische primeur voor klimaatsysteem (2026-11-13)
 - Luxemburgse premier spreekt voor Bart De Wever en Rob Jetten in Dublin: "We hebben een WhatsApp-groep" (2026-11-13)
 - Wie kiest voor herstelling krijgt voortaan een jaar langer garantie: dit is jouw 'recht op reparatie' (2026-11-13)
-- ‘Weerbaarheid in tijden van besparingen? Geestelijke gezondheid is meer dan de afwezigheid van klachten’ (2026-11-13)
-- Belastingplan goedgekeurd in Nederland: VVD volledig geïsoleerd in coalitie (2026-11-13)
-- ‘Een budgettaire puinhoop’: financiële markten verliezen hun geduld met België (2026-11-13)
-- Vicepremier Frank Vandenbroucke (Vooruit) komt aan bij premier De Wever - kernkabinet zit bijeen om 19u (2026-11-13)
-- Geen droomhuis, wel een droomprijs. Lucs woning van 37.500 euro is nu 10 keer zoveel waard: “Zo’n kans willen kopers niet laten passeren” (2026-11-13)
 
 ## Method
 
