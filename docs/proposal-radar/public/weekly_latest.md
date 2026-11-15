@@ -2,14 +2,18 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **323**.
+Scored in the last 21 days: **0**. Still open in the queue: **327**.
 
 ## New ratings
 
-- **2027 De Lijn expansion euro halved: EUR 25 million extra, spent on the operating gap, with no extra offer** — clown 4.5 / genius 4.0 (index -0.5, medium) — Annick De Ridder · announced · flanders · [memo](../analyses/prop_2026_de_lijn_uitbreiding_half.md)
+No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Vooruit blokkeert begrotingsakkoord, maar Rousseau wil verder onderhandelen: “We blijven aan tafel zolang nodig” (2026-11-15)
+- Hoe moet het nu verder? Politicoloog Dave Sinardet beantwoordt vier snelle vragen (2026-11-15)
+- Crisissfeer bij Nederlandse regering: coalitietop alweer uren in beraad (2026-11-15)
+- Kernkabinet zoekt opnieuw compromis over begroting (2026-11-15)
 - PVDA-voorzitter Raoul Hedebouw over lijdensweg naar begroting: “Onderhandelaars luisteren niet naar het volk” (2026-11-15)
 - ‘In tijden van besparingen moet ook de financiering van erediensten tegen het licht gehouden worden’ (2026-11-15)
 - ‘Hervormingen doorvoeren? Er zit nog vet op de soep’ (2026-11-15)
@@ -21,10 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **323**.
 - Nieuwe Bossenaarmolen in Maarkedal krijgt grondige restauratie: "Opnieuw laten draaien en malen" (2026-11-14)
 - Balthazar (30) vangt mensen op in kraakpanden: "Soms staan hier gezinnen met jonge kinderen aan de deur" (2026-11-14)
 - Regering maakt komaf met “asielshoppen” (2026-11-13)
-- VVD-partijleider waarschuwt na urenlang crisisoverleg: “Minderheidskabinet is mislukt experiment, zo kunnen we niet doorgaan” (2026-11-13)
-- KIJK. Magda (67), die met 68 familieleden naar Djerba reisde, mag ook naar Durbuy... Met dank aan ‘Happy Hour’ en “suikernonkel Marc” (2026-11-13)
-- Federale begroting: Premier last opnieuw bilaterales in (2026-11-13)
-- Premier De Wever heeft last van partycrashers en Jensen Huang laat een puinhoop achter: beluister de podcast Tussen Wetstraat en Wall Street (2026-11-13)
 
 ## Method
 
