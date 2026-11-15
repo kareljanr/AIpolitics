@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **1**. Still open in the queue: **320**.
+Scored in the last 21 days: **1**. Still open in the queue: **323**.
 
 ## New ratings
 
@@ -10,6 +10,9 @@ Scored in the last 21 days: **1**. Still open in the queue: **320**.
 
 ## In the queue, not scored yet
 
+- PVDA-voorzitter Raoul Hedebouw over lijdensweg naar begroting: “Onderhandelaars luisteren niet naar het volk” (2026-11-15)
+- ‘In tijden van besparingen moet ook de financiering van erediensten tegen het licht gehouden worden’ (2026-11-15)
+- ‘Hervormingen doorvoeren? Er zit nog vet op de soep’ (2026-11-15)
 - Eisenkot hekelt politieke "spelletjes" van Netanyahu (2026-11-14)
 - PVDA-jongeren voeren actie in luxueuze woonwijk in Hasselt: "Hier hadden ook betaalbare woningen kunnen komen" (2026-11-14)
 - Bijna 18 miljoen euro cash gevonden in bossen en boerderijen bij onderzoek naar oud-minister van Orbán (2026-11-14)
@@ -22,9 +25,6 @@ Scored in the last 21 days: **1**. Still open in the queue: **320**.
 - KIJK. Magda (67), die met 68 familieleden naar Djerba reisde, mag ook naar Durbuy... Met dank aan ‘Happy Hour’ en “suikernonkel Marc” (2026-11-13)
 - Federale begroting: Premier last opnieuw bilaterales in (2026-11-13)
 - Premier De Wever heeft last van partycrashers en Jensen Huang laat een puinhoop achter: beluister de podcast Tussen Wetstraat en Wall Street (2026-11-13)
-- Zelfde discussie, totaal andere aanpak: Nederland hervormt de rijkentaks, België blijft koterijen bijbouwen (2026-11-13)
-- "Dit kabinet is mislukt experiment": regering valt (nog) niet in Nederland, maar VVD blijft kritisch (2026-11-13)
-- Eerste steen gelegd voor circulaire Bouwcampus in Diepenbeek: gebouw krijgt Belgische primeur voor klimaatsysteem (2026-11-13)
 
 ## Method
 
