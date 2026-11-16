@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **327**.
+Scored in the last 21 days: **0**. Still open in the queue: **334**.
 
 ## New ratings
 
@@ -10,6 +10,13 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Regering wil besparen op de index: wij hebben uitgerekend hoeveel deze 5 pistes jou zouden kosten (2026-11-16)
+- EU-ambtenaren krijgen opleiding tegen spionage: waarschuwing voor ‘honeypot’-scenario’s zoals bij Nvidia (2026-11-16)
+- Regeringscrisis: koning vraagt premier De Wever om onderhandelingen voort te zetten (2026-11-16)
+- Warmtenetten: een alternatief voor verwarming op gas? ‘Kopenhagen is er in twintig jaar tijd mee vol gelegd’ (2026-11-16)
+- Schepen in rolstoel toont minister hoe Keerbergen winkels en horeca toegankelijker maakt (2026-11-16)
+- Extra noodbedden, hotelkamers en vorstpatrouilles: Gent start winteropvang voor dak- en thuislozen (2026-11-16)
+- Hasselt wil tegen 2042 meer dan 700 extra sociale woningen bouwen: "Geen nieuwe grote sociale wijken" (2026-11-16)
 - Vooruit blokkeert begrotingsakkoord, maar Rousseau wil verder onderhandelen: “We blijven aan tafel zolang nodig” (2026-11-15)
 - Hoe moet het nu verder? Politicoloog Dave Sinardet beantwoordt vier snelle vragen (2026-11-15)
 - Crisissfeer bij Nederlandse regering: coalitietop alweer uren in beraad (2026-11-15)
@@ -18,13 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - ‘In tijden van besparingen moet ook de financiering van erediensten tegen het licht gehouden worden’ (2026-11-15)
 - ‘Hervormingen doorvoeren? Er zit nog vet op de soep’ (2026-11-15)
 - Eisenkot hekelt politieke "spelletjes" van Netanyahu (2026-11-14)
-- PVDA-jongeren voeren actie in luxueuze woonwijk in Hasselt: "Hier hadden ook betaalbare woningen kunnen komen" (2026-11-14)
-- Bijna 18 miljoen euro cash gevonden in bossen en boerderijen bij onderzoek naar oud-minister van Orbán (2026-11-14)
-- EXCLUSIEF. Johan Vande Lanotte overschouwt het slagveld in de Wetstraat: “Ik werd niet vrolijk van een btw-verhoging, maar het leek me geen onverdedigbare oplossing” (2026-11-14)
-- Begraven in bos of verstopt in boerderijen: Hongaarse speurders vinden voor miljoenen euro's aan smeergeld (2026-11-14)
-- Nieuwe Bossenaarmolen in Maarkedal krijgt grondige restauratie: "Opnieuw laten draaien en malen" (2026-11-14)
-- Balthazar (30) vangt mensen op in kraakpanden: "Soms staan hier gezinnen met jonge kinderen aan de deur" (2026-11-14)
-- Regering maakt komaf met “asielshoppen” (2026-11-13)
 
 ## Method
 
