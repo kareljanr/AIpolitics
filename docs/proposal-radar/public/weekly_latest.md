@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **380**.
+Scored in the last 21 days: **0**. Still open in the queue: **382**.
 
 ## New ratings
 
@@ -10,6 +10,8 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Ratingbureau Fitch behoudt Belgische kredietwaardigheid: “Maar hervormingstrein mag niet stilvallen”, waarschuwt De Wever (2026-11-21)
+- Regering keurt eerste schijf voorlopige twaalfden goed (2026-11-21)
 - Huisarts geeft vanaf september aan wat patiënt nog kan doen tijdens ziekte: zogeheten ‘Fit Note’ roept gemengde reacties op (2026-11-20)
 - Vlaams Belang wil rechtszaken van burgers tegen terugkeercentrum betalen, maar professor Devos waarschuwt: “Ongezond precedent” (2026-11-20)
 - Historicus Bruno De Wever over de kaalslag van de erfgoedsector: ‘N-VA, is dit nu echt de bedoeling?’ (2026-11-20)
@@ -23,8 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - Sociale partners willen dat Vlaamse regering hervorming dienstencheques herbekijkt (2026-11-20)
 - Vakbonden en werkgevers willen dat Vlaamse regering hervorming dienstencheques herbekijkt: “Enorme impact” (2026-11-19)
 - Waarom Hotel La Réserve van Marc Coucke ondanks recordomzet van 15,9 miljoen euro verlieslatend blijft: “Luxe van dit kaliber heeft een prijs” (2026-11-19)
-- Politicoloog Bart Maddens over de dreigende val van de regering-De Wever: “Laat die crisisverkiezingen maar komen” (2026-11-19)
-- Eerst kritiek op cultuurbesparing, dan toch groen licht voor begroting van minister Gennez: oppositie haalt stevig uit naar N-VA en CD&V (2026-11-19)
 
 ## Method
 
