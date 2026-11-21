@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **382**.
+Scored in the last 21 days: **0**. Still open in the queue: **385**.
 
 ## New ratings
 
@@ -10,6 +10,9 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Minister Matz (Les Engagés) wil cyberpesten en het ongevraagd sturen van seksuele beelden strenger bestraffen (2026-11-21)
+- Honderden fietsers voeren actie in Brussel tegen fietsverbod in voetgangerszone: "Geef ons een veilig alternatief" (2026-11-21)
+- Politiezone Rode kampt met zwaar personeelstekort: 20 inspecteurs te weinig (2026-11-21)
 - Ratingbureau Fitch behoudt Belgische kredietwaardigheid: “Maar hervormingstrein mag niet stilvallen”, waarschuwt De Wever (2026-11-21)
 - Regering keurt eerste schijf voorlopige twaalfden goed (2026-11-21)
 - Huisarts geeft vanaf september aan wat patiënt nog kan doen tijdens ziekte: zogeheten ‘Fit Note’ roept gemengde reacties op (2026-11-20)
@@ -22,9 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - Na nieuwe besparingen in de kinderopvang: ‘Als het zo doorgaat, zijn er tegen 2035 geen onthaalouders meer’ (2026-11-20)
 - Vlaanderen start grondige hertekening mobiliteit in zuidrand Gent: "Je kan niet innoveren als je in de file staat" (2026-11-20)
 - Vlaams Belang stapt naar rechter om opening terugkeercentrum in Nazareth tegen te houden: “Luxueus asielhotel is, zoals het nu wordt gepland, onwettig” (2026-11-20)
-- Sociale partners willen dat Vlaamse regering hervorming dienstencheques herbekijkt (2026-11-20)
-- Vakbonden en werkgevers willen dat Vlaamse regering hervorming dienstencheques herbekijkt: “Enorme impact” (2026-11-19)
-- Waarom Hotel La Réserve van Marc Coucke ondanks recordomzet van 15,9 miljoen euro verlieslatend blijft: “Luxe van dit kaliber heeft een prijs” (2026-11-19)
 
 ## Method
 
