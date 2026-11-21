@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **385**.
+Scored in the last 21 days: **0**. Still open in the queue: **386**.
 
 ## New ratings
 
@@ -10,6 +10,7 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Lagere importheffingen op auto's en betere toegang tot kobalt en nikkel: EU en Indonesië ondertekenen handelsakkoord (2026-11-21)
 - Minister Matz (Les Engagés) wil cyberpesten en het ongevraagd sturen van seksuele beelden strenger bestraffen (2026-11-21)
 - Honderden fietsers voeren actie in Brussel tegen fietsverbod in voetgangerszone: "Geef ons een veilig alternatief" (2026-11-21)
 - Politiezone Rode kampt met zwaar personeelstekort: 20 inspecteurs te weinig (2026-11-21)
@@ -24,7 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - Factcheck: nee, de Vlaamse overheid wil geen verbod op frieten op school (2026-11-20)
 - Na nieuwe besparingen in de kinderopvang: ‘Als het zo doorgaat, zijn er tegen 2035 geen onthaalouders meer’ (2026-11-20)
 - Vlaanderen start grondige hertekening mobiliteit in zuidrand Gent: "Je kan niet innoveren als je in de file staat" (2026-11-20)
-- Vlaams Belang stapt naar rechter om opening terugkeercentrum in Nazareth tegen te houden: “Luxueus asielhotel is, zoals het nu wordt gepland, onwettig” (2026-11-20)
 
 ## Method
 
