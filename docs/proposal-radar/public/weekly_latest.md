@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **386**.
+Scored in the last 21 days: **0**. Still open in the queue: **391**.
 
 ## New ratings
 
@@ -10,6 +10,11 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Valse webshops veroorzaakten vorig jaar 9,5 miljoen euro schade: beheerder van internetadressen waarschuwt voor oplichting met AI (2026-11-22)
+- Minister Crucke komt met wetsontwerp om minimale dienstverlening bij stakingen te garanderen (2026-11-22)
+- Staking verkeersleiders: minister Crucke komt met wetsontwerp voor minimale dienstverlening (2026-11-22)
+- Antibioticagebruik daalt, maar dat is niet per se goed nieuws (2026-11-22)
+- ‘Onderhandelen over begroting? Defensie-uitgaven blijven buiten schot’ (2026-11-22)
 - Lagere importheffingen op auto's en betere toegang tot kobalt en nikkel: EU en Indonesië ondertekenen handelsakkoord (2026-11-21)
 - Minister Matz (Les Engagés) wil cyberpesten en het ongevraagd sturen van seksuele beelden strenger bestraffen (2026-11-21)
 - Honderden fietsers voeren actie in Brussel tegen fietsverbod in voetgangerszone: "Geef ons een veilig alternatief" (2026-11-21)
@@ -20,11 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - Vlaams Belang wil rechtszaken van burgers tegen terugkeercentrum betalen, maar professor Devos waarschuwt: “Ongezond precedent” (2026-11-20)
 - Historicus Bruno De Wever over de kaalslag van de erfgoedsector: ‘N-VA, is dit nu echt de bedoeling?’ (2026-11-20)
 - Ouderen van wie de zorgnood toeneemt, kunnen zorgbudget laten herberekenen (2026-11-20)
-- Wil Vooruit écht nieuwe verkiezingen? Beluister de podcast Tussen Wetstraat en Wall Street (2026-11-20)
-- Hoe de ‘oubollige belgicist’ Bouchez won: ‘De MR heeft het spel meesterlijk gespeeld’ (2026-11-20)
-- Factcheck: nee, de Vlaamse overheid wil geen verbod op frieten op school (2026-11-20)
-- Na nieuwe besparingen in de kinderopvang: ‘Als het zo doorgaat, zijn er tegen 2035 geen onthaalouders meer’ (2026-11-20)
-- Vlaanderen start grondige hertekening mobiliteit in zuidrand Gent: "Je kan niet innoveren als je in de file staat" (2026-11-20)
 
 ## Method
 
