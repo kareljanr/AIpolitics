@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **407**.
+Scored in the last 21 days: **0**. Still open in the queue: **409**.
 
 ## New ratings
 
@@ -10,6 +10,8 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Conner Rousseau: “Heb ik een witte baard? Draag ik een mijter en een staf?  Waarom denkt ge dan dat ik Sinterklaas ga spelen in de onderhandelingen?” (2026-11-25)
+- VS steunt Belgisch-Chileense kandidatuur voor Vollezeeverdrag (2026-11-25)
 - Partijvoorzitters opnieuw buiten na begrotingsoverleg van drie uur - Sammy Mahdi: “Ik denk niet dat dit het einde van de regering hoeft te zijn” (2026-11-24)
 - Vicepremier Prévot benoemt in onze podcast voor het eerst dat ook hij rekening houdt met verkiezingen: “Het is een reële mogelijkheid” (2026-11-24)
 - Ongelijkheidseconoom Arthur Apostel: ‘In België verzekeren mensen zich tegen het risico dat ze erfenisbelastingen moeten betalen’ (2026-11-24)
@@ -23,8 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - Diependaele en Prévot clashen opnieuw over diplomatie: wie saboteert wie? (2026-11-23)
 - Vijftig Gentse dokters en zorgverleners betogen uitzonderlijk mee tegen besparingen: "De besparingen maken onze patiënten ziek" (2026-11-23)
 - “Dames en heren van de pers, u bent voor niks gekomen”: waarom premier De Wever liefst zo snel mogelijk van het podium ging (2026-11-22)
-- ‘Onderhandelen over begroting? Defensie-uitgaven blijven buiten schot’ (2026-11-22)
-- Theresa May "verbijsterd" over toenadering tussen VK en EU: "Brexit gewoon aanvaarden en doorgaan" (2026-11-22)
 
 ## Method
 
