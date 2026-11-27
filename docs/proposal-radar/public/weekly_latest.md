@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **430**.
+Scored in the last 21 days: **0**. Still open in the queue: **436**.
 
 ## New ratings
 
@@ -10,6 +10,12 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Merz verwacht dat Europese meerjarenbegroting nog verder zal krimpen: “Het zal niet stoppen bij 204 miljard euro” (2026-11-27)
+- Kamer keurt legercontingent voor 2027 goed: “We zijn geen ‘Dad’s Army’ meer” (2026-11-27)
+- "Onhoudbaar": huisjesmelkers in Nederland dumpen arbeidsmigranten in ondermaatse panden over grens met België (2026-11-27)
+- Europese Unie begaat "strategische vergissing" als ze bespaart op begroting, waarschuwt Macron (2026-11-27)
+- Met verkoop Godelieveschool en lening wil Tielt Vlaamse besparing opvangen: "Geen projecten schrappen" (2026-11-27)
+- Militaire junta in Guinee-Bissau stelt verkiezingen voor president en parlement 2 jaar uit (2026-11-27)
 - Antonio Costa start gesprekken over Europese meerjarenbegroting: Premier De Wever schuift twee keer aan (2026-11-26)
 - Premier roept partijvoorzitters maandagmiddag weer bijeen (2026-11-26)
 - Sammy Mahdi vs. Conner Rousseau: de bitse strijd tussen ‘Peppi en Kokki’ (2026-11-26)
@@ -19,12 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - Primeur in Oostduinkerke: geelbruine helmharpoenzwam voor het eerst in België gespot (2026-11-26)
 - "Tragedie voor de sector": felle kritiek op verdwijnen van muziekmuseum in Antwerps Vleeshuis (2026-11-26)
 - 300 huiszoekingen in 12 landen in grote Europese witwaszaak, ook 2 arrestaties in België (2026-11-26)
-- Nieuwe stelplaats van De Lijn in Gent kost al bijna 30 miljoen extra door jarenlange vertraging (2026-11-26)
-- Volstaat een Black Friday-korting niet voor de aankoop van je nieuwe laptop? Dit moet je weten over refurbished toestellen (2026-11-26)
-- Waarom Conner Rousseau met zijn persconferentie het begrotingsoverleg nóg moeilijker heeft gemaakt (2026-11-26)
-- De Gucht hekelt “pingpongspel” na uitspraken Rousseau: “Mijn zoontje van 6 heeft serieuzere discussies” (2026-11-25)
-- Lager collegegeld voor Europese studenten aan Britse universiteiten ligt niet op tafel (2026-11-25)
-- Demir erkent fout bij besparing op onthaalouders en belooft oplossing (2026-11-25)
 
 ## Method
 
