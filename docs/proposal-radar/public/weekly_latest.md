@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **454**.
+Scored in the last 21 days: **0**. Still open in the queue: **456**.
 
 ## New ratings
 
@@ -10,6 +10,8 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Ook kredietbeoordelaar S&P waarschuwt Frankrijk: vooruitzichten negatief (2026-11-28)
+- Kredietbeoordelaar S&P zet licht op oranje voor Frankrijk (2026-11-28)
 - Bart De Wever over imitatie Theo Francken in ‘Onder de Sterren’: “Ik denk niet dat het zo moeilijk is om van Theo een karikatuur te maken” (2026-11-27)
 - Na onrust in kinderopvang: Vlaamse regering draait besparing van 8,4 miljoen euro op onthaalouders terug (2026-11-27)
 - Noodregering met bijzondere machten als uitweg uit regeringscrisis? Carl Devos: “Het is er misschien het moment voor” (2026-11-27)
@@ -23,8 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - Factcheck: hoe hoog ligt de belastingdruk in België? (2026-11-27)
 - Ganshoren neemt maatregelen na brandstichtingen: samenscholingsverbod in 'Villawijk' (2026-11-27)
 - Vlaanderen belooft Nationaal Park Hoge Kempen jaarlijks 600.000 euro subsidies (2026-11-27)
-- Primeur in België: ZOL in Genk vervangt lekkende aortaklep via de lies in plaats van via openhartoperatie (2026-11-27)
-- Brusselse syndicus (71) verduistert ruim 2 miljoen euro, honderden gedupeerden (2026-11-27)
 
 ## Method
 
