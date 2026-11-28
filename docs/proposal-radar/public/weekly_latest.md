@@ -2,7 +2,7 @@
 
 New and recently re-scored proposals. The all-time lists stay in [leaderboard_clowns.md](leaderboard_clowns.md) and [leaderboard_genius.md](leaderboard_genius.md).
 
-Scored in the last 21 days: **0**. Still open in the queue: **456**.
+Scored in the last 21 days: **0**. Still open in the queue: **459**.
 
 ## New ratings
 
@@ -10,6 +10,9 @@ No proposal was scored or re-scored in the last 21 days.
 
 ## In the queue, not scored yet
 
+- Hij werd steenrijk met bitcoin en noemt Zelensky “een idioot”: dit is Olivier Janssens, de Vlaming die een akkoord heeft over ministaat zonder belastingen (2026-11-28)
+- Zo kan u de besparingen bij zeker 60 gemeenten voelen: “Zwembeurt of verblijf in woonzorgcentrum wordt mogelijk duurder” (2026-11-28)
+- Geen belastingen en eigen rechtbank: Belgische miljardair dichter dan ooit bij ministaatje op Caraïben (2026-11-28)
 - Ook kredietbeoordelaar S&P waarschuwt Frankrijk: vooruitzichten negatief (2026-11-28)
 - Kredietbeoordelaar S&P zet licht op oranje voor Frankrijk (2026-11-28)
 - Bart De Wever over imitatie Theo Francken in ‘Onder de Sterren’: “Ik denk niet dat het zo moeilijk is om van Theo een karikatuur te maken” (2026-11-27)
@@ -22,9 +25,6 @@ No proposal was scored or re-scored in the last 21 days.
 - Nieuwe topman Wereldvoedselprogramma: ‘Over één doel moeten we het toch eens kunnen worden: nooit meer hongersnood’ (2026-11-27)
 - Duizendtal mensen uit cultuur- en welzijnssector manifesteren tegen Vlaamse besparingen (2026-11-27)
 - ‘Als de regering-De Wever nu valt, dan is dat over peanuts’ (2026-11-27)
-- Factcheck: hoe hoog ligt de belastingdruk in België? (2026-11-27)
-- Ganshoren neemt maatregelen na brandstichtingen: samenscholingsverbod in 'Villawijk' (2026-11-27)
-- Vlaanderen belooft Nationaal Park Hoge Kempen jaarlijks 600.000 euro subsidies (2026-11-27)
 
 ## Method
 
